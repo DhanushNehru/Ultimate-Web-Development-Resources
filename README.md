@@ -108,3 +108,13 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 
 ## Website Copier
 - [Httrack](https://www.httrack.com/)
+
+Hey, I am Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Xen)
+
+Searching for a job ? This may help you
+[Ultimate Tech Job List](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs)
+
+Want to start learning Node Js ? Dont miss to check this out
+[Ultimate NodeJs Resources](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources)
+
+If you liked this repository support it by starring ⭐ 
