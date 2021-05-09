@@ -7,8 +7,6 @@ A collection of Web Developement Resources at one place
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Development-Resources/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DHANUSHXENO/Ultimate-Web-Development-Resources/blob/main/CODE-OF-CONDUCT.md) for details before you contribute.
 
-## [NodeJs Official Documentation](https://nodejs.org/en/docs/)
-
 ## Table of Contents
 [Ultimate-Web-Development-Resources](#Ultimate-Web-Development-Resources)'
 - [Web design softwares](#Web-design-softwares)
