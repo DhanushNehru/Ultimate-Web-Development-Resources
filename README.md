@@ -34,7 +34,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Sketch](https://www.sketch.com/)
 - [Webflow](https://webflow.com/)
 
-## Free Hoisting
+## Free Hosting
 - [Vercel](https://vercel.com)
 - [Heroku](https://www.heroku.com)
 - [Amazon](https://aws.amazon.com)
