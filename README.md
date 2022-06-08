@@ -93,6 +93,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Icons8.com](https://icons8.com/)
 - [Blush.design](https://blush.design/)
 - [Interfacer.xyz](https://interfacer.xyz/)
+- [Illustrations-figma](https://www.artify.co/illustrations-figma)
 
 ## Web fonts
 - [Google fonts](https://fonts.google.com/)
