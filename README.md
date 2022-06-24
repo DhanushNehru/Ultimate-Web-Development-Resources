@@ -68,6 +68,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Exercism](http://exercism.io)
 - [Leet Code](http://leetcode.com)
 - [Sphere Online Judge](http://spoj.com)
+- [BFE.dev](https://bigfrontend.dev/)
 
 ## Web Images or Photos
 - [Flickr](https://www.flickr.com/)
