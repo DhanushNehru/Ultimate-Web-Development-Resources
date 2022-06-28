@@ -95,6 +95,9 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Blush.design](https://blush.design/)
 - [Interfacer.xyz](https://interfacer.xyz/)
 - [Illustrations-figma](https://www.artify.co/illustrations-figma)
+- [Vector-illustrations](https://www.artify.co/vector-illustrations)
+- [3dicons](https://www.3dicons.com/)
+- [Iconshock](https://www.iconshock.com/)
 
 ## Web fonts
 - [Google fonts](https://fonts.google.com/)
@@ -107,6 +110,8 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [GTmetrix](https://gtmetrix.com/)
 - [Webpagetest](https://www.webpagetest.org/)
 - [Yslow](http://yslow.org/)
+- [Optimizeimages](https://www.optimizeimages.com)
+
 
 ## Website Copier
 - [Httrack](https://www.httrack.com/)
