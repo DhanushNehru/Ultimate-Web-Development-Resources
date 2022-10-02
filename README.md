@@ -76,6 +76,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Pixaby](http://pixabay.com)
 - [Pexels](http://pexels.com)
 - [Burst.shopify](https://burst.shopify.com/)
+- [Freepik](https://www.freepik.com/)
 
 ## Web Color Palettes
 - [Coolors](http://coolors.co)
