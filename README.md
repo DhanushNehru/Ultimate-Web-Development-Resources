@@ -8,7 +8,7 @@ A collection of Web Developement Resources at one place
 Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Development-Resources/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DHANUSHXENO/Ultimate-Web-Development-Resources/blob/main/CODE-OF-CONDUCT.md) for details before you contribute.
 
 ## Table of Contents
-[Ultimate-Web-Development-Resources](#Ultimate-Web-Development-Resources)'
+[Ultimate-Web-Development-Resources](#Ultimate-Web-Development-Resources)
 - [Web design softwares](#Web-design-softwares)
 - [Prototyping tools for UI/UX](#Prototyping-tools-for-UI/UX)
 - [Free Hoisting](#Free-Hoisting)
