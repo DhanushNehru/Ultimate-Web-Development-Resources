@@ -91,13 +91,19 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Three.js](https://threejs.org/)
 
 ## Web Illustrations
+- [Bulbman.art](https://bulbman.art/)
 - [Drawkit.io](https://www.drawkit.io/)
 - [Icons8.com](https://icons8.com/)
 - [Blush.design](https://blush.design/)
 - [Interfacer.xyz](https://interfacer.xyz/)
+- [Fffuel](https://fffuel.co/)
 - [Illustrations-figma](https://www.artify.co/illustrations-figma)
+- [Storyset](https://storyset.com/)
+- [Sketch Valley](https://sketchvalley.com/)
+- [SVG Repo](https://www.svgrepo.com/)
 - [Vector-illustrations](https://www.artify.co/vector-illustrations)
 - [3dicons](https://www.3dicons.com/)
+- [Noun Project](https://thenounproject.com/)
 - [Iconshock](https://www.iconshock.com/)
 
 ## Web fonts
