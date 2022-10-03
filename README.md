@@ -11,7 +11,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 [Ultimate-Web-Development-Resources](#Ultimate-Web-Development-Resources)
 - [Web design softwares](#Web-design-softwares)
 - [Prototyping tools for UI/UX](#Prototyping-tools-for-UIUX)
-- [Free Hoisting](#Free-Hosting)
+- [Free Hosting](#Free-Hosting)
 - [Websites to learn](#Websites-to-learn)
 - [Websites for code challenges](#Websites-for-code-challenges)
 - [Web Images or Photos](#Web-Images-or-Photos)
