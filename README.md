@@ -36,7 +36,6 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 
 ## Free Hosting
 - [Vercel](https://vercel.com)
-- [Heroku](https://www.heroku.com)
 - [Amazon](https://aws.amazon.com)
 - [Netlify](https://www.netlify.com)
 - [Firebase](https://firebase.google.com)
