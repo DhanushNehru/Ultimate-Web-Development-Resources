@@ -56,6 +56,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Khanacademy](http://khanacademy.org)
 - [Sololearn](http://sololearn.com)
 - [Treehouse](https://teamtreehouse.com/)
+- [javatpoint](https://www.javatpoint.com/)
 
 ## Websites for code challenges
 - [Code Wars](http://codewars.com)
@@ -111,6 +112,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Font Squirrel](https://www.fontsquirrel.com/)
 - [Fontspace](https://www.fontspace.com/)
 - [1001fonts](http://1001fonts.com/)
+- [fontawesome](https://fontawesome.com/)
 
 ## Website Optimization Tools
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
