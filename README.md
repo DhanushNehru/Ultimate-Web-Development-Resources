@@ -5,10 +5,13 @@ A collection of Web Developement Resources at one place
 ![Ultimate-Web-Development-Resources by Dhanush N](https://github.com/DHANUSHXENO/Ultimate-Web-Development-Resources/blob/main/cover.png)
 
 ## Contributing
+
 Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Development-Resources/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DHANUSHXENO/Ultimate-Web-Development-Resources/blob/main/CODE-OF-CONDUCT.md) for details before you contribute.
 
 ## Table of Contents
+
 [Ultimate-Web-Development-Resources](#Ultimate-Web-Development-Resources)
+
 - [Web design softwares](#Web-design-softwares)
 - [Prototyping tools for UI/UX](#Prototyping-tools-for-UI/UX)
 - [Free Hoisting](#Free-Hoisting)
@@ -22,12 +25,14 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Website Optimization Tools](#Website-Optimization-Tools)
 
 ## Web design softwares
+
 - [Adobe Dreamweaver](https://www.adobe.com/in/products/dreamweaver.html)
 - [Rapidweaver](https://www.realmacsoftware.com/rapidweaver/)
 - [Coffeecup HTML Editor](https://www.coffeecup.com/html-editor/)
 - [VsCode](https://code.visualstudio.com/)
 
 ## Prototyping tools for UI/UX
+
 - [Figma](https://www.figma.com/)
 - [Invision](https://www.invisionapp.com/studio)
 - [AdobeXD](https://www.adobe.com)
@@ -35,6 +40,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Webflow](https://webflow.com/)
 
 ## Free Hosting
+
 - [Vercel](https://vercel.com)
 - [Heroku](https://www.heroku.com)
 - [Amazon](https://aws.amazon.com)
@@ -46,7 +52,9 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Wix](https://www.wix.com/html5en/hiker-hosting)
 
 ## Websites to learn
+
 - [Freecodecamp](http://freecodecamp.org)
+- [Odin Project](https://www.theodinproject.com/)
 - [Codeacademy](http://codecademy.com)
 - [w3schools](https://www.w3schools.com/)
 - [Javascript30](http://javascript30.com)
@@ -58,6 +66,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Treehouse](https://teamtreehouse.com/)
 
 ## Websites for code challenges
+
 - [Code Wars](http://codewars.com)
 - [Top Coder](http://topcoder.com)
 - [Codingame](http://codingame.com)
@@ -71,6 +80,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [BFE.dev](https://bigfrontend.dev/)
 
 ## Web Images or Photos
+
 - [Flickr](https://www.flickr.com/)
 - [Unsplash](http://unsplash.com)
 - [Pixaby](http://pixabay.com)
@@ -79,6 +89,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Freepik](https://www.freepik.com/)
 
 ## Web Color Palettes
+
 - [Coolors](http://coolors.co)
 - [Colorhunt](http://colorhunt.co)
 - [Paletton](http://paletton.com)
@@ -86,11 +97,13 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [MyColor](http://mycolor.space)
 
 ## Chart Visualizations
+
 - [Chart.js](https://www.chartjs.org/)
 - [D3.js](https://d3js.org/)
 - [Three.js](https://threejs.org/)
 
 ## Web Illustrations
+
 - [Bulbman.art](https://bulbman.art/)
 - [Drawkit.io](https://www.drawkit.io/)
 - [Icons8.com](https://icons8.com/)
@@ -107,20 +120,22 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Iconshock](https://www.iconshock.com/)
 
 ## Web fonts
+
 - [Google fonts](https://fonts.google.com/)
 - [Font Squirrel](https://www.fontsquirrel.com/)
 - [Fontspace](https://www.fontspace.com/)
 - [1001fonts](http://1001fonts.com/)
 
 ## Website Optimization Tools
+
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [GTmetrix](https://gtmetrix.com/)
 - [Webpagetest](https://www.webpagetest.org/)
 - [Yslow](http://yslow.org/)
 - [Optimizeimages](https://www.optimizeimages.com)
 
-
 ## Website Copier
+
 - [Httrack](https://www.httrack.com/)
 
 Hey, I am Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Nehru)
@@ -131,4 +146,4 @@ Searching for a job ? This may help you
 Want to start learning Node Js ? Dont miss to check this out
 [Ultimate NodeJs Resources](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources)
 
-If you liked this repository support it by starring ⭐ 
+If you liked this repository support it by starring ⭐
