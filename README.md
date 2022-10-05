@@ -140,3 +140,9 @@ Want to start learning Node Js ? Dont miss to check this out
 [Ultimate NodeJs Resources](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources)
 
 If you liked this repository support it by starring ⭐ 
+
+
+## Interview Preparation 
+- [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/)
+- [Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
+- [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
