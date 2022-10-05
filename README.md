@@ -56,6 +56,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Sololearn](http://sololearn.com)
 - [Treehouse](https://teamtreehouse.com/)
 - [javatpoint](https://www.javatpoint.com/)
+- [Odin Project](https://www.theodinproject.com/)
 
 ## Websites for code challenges
 - [Code Wars](http://codewars.com)
