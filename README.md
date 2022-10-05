@@ -106,6 +106,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [3dicons](https://www.3dicons.com/)
 - [Noun Project](https://thenounproject.com/)
 - [Iconshock](https://www.iconshock.com/)
+- [Handz][https://www.handz.design/]
 
 ## Web fonts
 - [Google fonts](https://fonts.google.com/)
