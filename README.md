@@ -9,17 +9,21 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 
 ## Table of Contents
 [Ultimate-Web-Development-Resources](#Ultimate-Web-Development-Resources)
-- [Web design softwares](#Web-design-softwares)
-- [Prototyping tools for UI/UX](#Prototyping-tools-for-UIUX)
-- [Free Hosting](#Free-Hosting)
-- [Websites to learn](#Websites-to-learn)
-- [Websites for code challenges](#Websites-for-code-challenges)
-- [Web Images or Photos](#Web-Images-or-Photos)
-- [Web Color Palettes](#Web-Color-Palettes)
-- [Chart Visualizations](#Chart-Visualizations)
-- [Web Illustrations](#Web-Illustrations)
-- [Web fonts](#Web-fonts)
-- [Website Optimization Tools](#Website-Optimization-Tools)
+- [Ultimate-Web-Development-Resources](#ultimate-web-development-resources)
+  - [Contributing](#contributing)
+  - [Table of Contents](#table-of-contents)
+  - [Web design softwares](#web-design-softwares)
+  - [Prototyping tools for UI/UX](#prototyping-tools-for-uiux)
+  - [Free Hosting](#free-hosting)
+  - [Websites to learn](#websites-to-learn)
+  - [Websites for code challenges](#websites-for-code-challenges)
+  - [Web Images or Photos](#web-images-or-photos)
+  - [Web Color Palettes](#web-color-palettes)
+  - [Chart Visualizations](#chart-visualizations)
+  - [Web Illustrations](#web-illustrations)
+  - [Web fonts](#web-fonts)
+  - [Website Optimization Tools](#website-optimization-tools)
+  - [Website Copier](#website-copier)
 
 ## Web design softwares
 - [Adobe Dreamweaver](https://www.adobe.com/in/products/dreamweaver.html)
@@ -107,7 +111,8 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [3dicons](https://www.3dicons.com/)
 - [Noun Project](https://thenounproject.com/)
 - [Iconshock](https://www.iconshock.com/)
-- [Handz][https://www.handz.design/]
+- [Handz](https://www.handz.design/)
+- [HeroIcons](https://heroicons.com/)
 
 ## Web fonts
 - [Google fonts](https://fonts.google.com/)
