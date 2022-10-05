@@ -59,6 +59,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Treehouse](https://teamtreehouse.com/)
 - [javatpoint](https://www.javatpoint.com/)
 - [Odin Project](https://www.theodinproject.com/)
+- [Select Star SQL](https://selectstarsql.com/)
 
 ## Websites for code challenges
 - [Code Wars](http://codewars.com)
