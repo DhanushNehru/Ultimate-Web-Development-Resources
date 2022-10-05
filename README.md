@@ -91,6 +91,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Chart.js](https://www.chartjs.org/)
 - [D3.js](https://d3js.org/)
 - [Three.js](https://threejs.org/)
+- [FusionCharts](https://www.fusioncharts.com/)
 
 ## Web Illustrations
 - [Bulbman.art](https://bulbman.art/)
@@ -109,6 +110,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Iconshock](https://www.iconshock.com/)
 - [Handz][https://www.handz.design/]
 - [HeroIcons](https://heroicons.com/)
+- [FreeIllustrations](https://freeillustrations.xyz/)
 
 ## Web fonts
 - [Google fonts](https://fonts.google.com/)
