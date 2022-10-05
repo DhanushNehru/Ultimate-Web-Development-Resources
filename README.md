@@ -91,6 +91,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Chart.js](https://www.chartjs.org/)
 - [D3.js](https://d3js.org/)
 - [Three.js](https://threejs.org/)
+- [FusionCharts](https://www.fusioncharts.com/)
 
 ## Web Illustrations
 - [Bulbman.art](https://bulbman.art/)
