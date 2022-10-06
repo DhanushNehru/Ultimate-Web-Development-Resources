@@ -20,6 +20,9 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Web Illustrations](#Web-Illustrations)
 - [Web fonts](#Web-fonts)
 - [Website Optimization Tools](#Website-Optimization-Tools)
+- [Interview Preparation](#Interview-Preparation)
+- [Free Website Templates For Inspiration](#Free-Website-Templates-For-Inspiration)
+- [Website Copier](#Website-Copier)
 
 ## Web design softwares
 - [Adobe Dreamweaver](https://www.adobe.com/in/products/dreamweaver.html)
@@ -129,22 +132,6 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Yslow](http://yslow.org/)
 - [Optimizeimages](https://www.optimizeimages.com)
 
-
-## Website Copier
-- [Httrack](https://www.httrack.com/)
-- [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy)
-
-Hey, I am Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Nehru)
-
-Searching for a job ? This may help you
-[Ultimate Tech Job List](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs)
-
-Want to start learning Node Js ? Dont miss to check this out
-[Ultimate NodeJs Resources](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources)
-
-If you liked this repository support it by starring ⭐ 
-
-
 ## Interview Preparation 
 - [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
@@ -161,3 +148,18 @@ If you liked this repository support it by starring ⭐
 - [HTML5up](https://html5up.net/)
 - [StyleShout](https://www.styleshout.com/free-templates/)
 - [Themes For App](https://themesfor.app/)
+
+## Website Copier
+- [Httrack](https://www.httrack.com/)
+- [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy)
+
+Hey, I am Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Nehru)
+
+Searching for a job ? This may help you
+[Ultimate Tech Job List](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs)
+
+Want to start learning Node Js ? Dont miss to check this out
+[Ultimate NodeJs Resources](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources)
+
+If you liked this repository support it by starring ⭐ 
+
