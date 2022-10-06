@@ -149,3 +149,15 @@ If you liked this repository support it by starring ⭐
 - [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 - [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
+
+## Free Website Templates For Inspiration
+- [One Page Love](https://onepagelove.com/)
+- [UIdeck](https://uideck.com/)
+- [Tooplate](https://www.tooplate.com/)
+- [Colorlib](https://colorlib.com/wp/templates/)
+- [Cruip](https://cruip.com/free-templates/)
+- [Startbootstrap](https://startbootstrap.com/)
+- [templatemo](https://templatemo.com/)
+- [HTML5up](https://html5up.net/)
+- [StyleShout](https://www.styleshout.com/free-templates/)
+- [Themes For App](https://themesfor.app/)
