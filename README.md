@@ -120,6 +120,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [FreeIllustrations](https://freeillustrations.xyz/)
 - [HeroIcons](https://heroicons.com/)
 - [UnDraw](https://undraw.co/)
+- [ShapeFest](https://www.shapefest.com/)
 - [Graphic Burger](https://graphicburger.com/)
 
 ## Web fonts
