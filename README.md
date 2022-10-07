@@ -36,6 +36,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [AdobeXD](https://www.adobe.com)
 - [Sketch](https://www.sketch.com/)
 - [Webflow](https://webflow.com/)
+- [Penpot](https://penpot.app/)
 
 ## Free Hosting
 - [Vercel](https://vercel.com)
@@ -77,7 +78,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Leet Code](http://leetcode.com)
 - [Sphere Online Judge](http://spoj.com)
 - [BFE.dev](https://bigfrontend.dev/)
-- [CodeForces](https://codeforces.com/)
+- [Codeforces](https://codeforces.com/)
 
 ## Web Images or Photos
 - [Flickr](https://www.flickr.com/)
@@ -119,7 +120,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [FreeIllustrations](https://freeillustrations.xyz/)
 - [HeroIcons](https://heroicons.com/)
 - [UnDraw](https://undraw.co/)
-- [ShapeFest](https://www.shapefest.com/)
+- [Graphic Burger](https://graphicburger.com/)
 
 ## Web fonts
 - [Google fonts](https://fonts.google.com/)
