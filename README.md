@@ -35,6 +35,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Rapidweaver](https://www.realmacsoftware.com/rapidweaver/)
 - [Coffeecup HTML Editor](https://www.coffeecup.com/html-editor/)
 - [VsCode](https://code.visualstudio.com/)
+- [Wix](https://www.wix.com/)
 
 ## Prototyping tools for UI/UX
 - [Figma](https://www.figma.com/)
@@ -72,6 +73,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Select Star SQL](https://selectstarsql.com/)
 - [MDN Webdocs](https://developer.mozilla.org/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [Quizlet](https://quizlet.com/)
 
 ## Websites for code challenges
 - [AtCoder](https://atcoder.jp)
