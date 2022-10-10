@@ -5,10 +5,13 @@ A collection of Web Developement Resources at one place
 ![Ultimate-Web-Development-Resources by Dhanush N](https://github.com/DHANUSHXENO/Ultimate-Web-Development-Resources/blob/main/cover.png)
 
 ## Contributing
+
 Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Development-Resources/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DHANUSHXENO/Ultimate-Web-Development-Resources/blob/main/CODE-OF-CONDUCT.md) for details before you contribute.
 
 ## Table of Contents
+
 [Ultimate-Web-Development-Resources](#Ultimate-Web-Development-Resources)
+
 - [Web-Development-Roadmap](#Web-Dev-Roadmap)
 - [Web design softwares](#Web-design-softwares)
 - [Prototyping tools for UI/UX](#Prototyping-tools-for-UIUX)
@@ -26,11 +29,13 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Website Copier](#Website-Copier)
 
 ## Web Development Roadmaps
+
 - [Frontend Development](https://roadmap.sh/frontend)
 - [Backend Development](https://roadmap.sh/backend)
 - [FullStack Development](https://www.theinsaneapp.com/2020/11/web-developer-roadmap-by-kamran-ahmed.html)
 
 ## Web design softwares
+
 - [Adobe Dreamweaver](https://www.adobe.com/in/products/dreamweaver.html)
 - [Rapidweaver](https://www.realmacsoftware.com/rapidweaver/)
 - [Coffeecup HTML Editor](https://www.coffeecup.com/html-editor/)
@@ -38,6 +43,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Wix](https://www.wix.com/)
 
 ## Prototyping tools for UI/UX
+
 - [Figma](https://www.figma.com/)
 - [Invision](https://www.invisionapp.com/studio)
 - [AdobeXD](https://www.adobe.com)
@@ -46,6 +52,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Penpot](https://penpot.app/)
 
 ## Free Hosting
+
 - [Vercel](https://vercel.com)
 - [Amazon](https://aws.amazon.com)
 - [Netlify](https://www.netlify.com)
@@ -56,8 +63,10 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Surge](https://surge.sh)
 - [Wix](https://www.wix.com/html5en/hiker-hosting)
 - [cyclic](https://app.cyclic.sh/#/)
+- [pythonanywhere](https://www.pythonanywhere.com/)
 
 ## Websites to learn
+
 - [Freecodecamp](http://freecodecamp.org)
 - [Codeacademy](http://codecademy.com)
 - [w3schools](https://www.w3schools.com/)
@@ -76,6 +85,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Quizlet](https://quizlet.com/)
 
 ## Websites for code challenges
+
 - [AtCoder](https://atcoder.jp)
 - [Code Wars](http://codewars.com)
 - [Top Coder](http://topcoder.com)
@@ -93,6 +103,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [InterviewBit](https://www.interviewbit.com/practice/)
 
 ## Web Images or Photos
+
 - [Flickr](https://www.flickr.com/)
 - [Unsplash](http://unsplash.com)
 - [Pixaby](http://pixabay.com)
@@ -101,6 +112,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Freepik](https://www.freepik.com/)
 
 ## Web Color Palettes
+
 - [Coolors](http://coolors.co)
 - [Colorhunt](http://colorhunt.co)
 - [Paletton](http://paletton.com)
@@ -108,12 +120,14 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [MyColor](http://mycolor.space)
 
 ## Chart Visualizations
+
 - [Chart.js](https://www.chartjs.org/)
 - [D3.js](https://d3js.org/)
 - [Three.js](https://threejs.org/)
 - [FusionCharts](https://www.fusioncharts.com/)
 
 ## Web Illustrations
+
 - [Bulbman.art](https://bulbman.art/)
 - [Drawkit.io](https://www.drawkit.io/)
 - [Icons8.com](https://icons8.com/)
@@ -136,6 +150,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Graphic Burger](https://graphicburger.com/)
 
 ## Web fonts
+
 - [Google fonts](https://fonts.google.com/)
 - [Font Squirrel](https://www.fontsquirrel.com/)
 - [Fontspace](https://www.fontspace.com/)
@@ -143,18 +158,21 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [fontawesome](https://fontawesome.com/)
 
 ## Website Optimization Tools
+
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [GTmetrix](https://gtmetrix.com/)
 - [Webpagetest](https://www.webpagetest.org/)
 - [Yslow](http://yslow.org/)
 - [Optimizeimages](https://www.optimizeimages.com)
 
-## Interview Preparation 
+## Interview Preparation
+
 - [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 - [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
 
 ## Free Website Templates For Inspiration
+
 - [One Page Love](https://onepagelove.com/)
 - [UIdeck](https://uideck.com/)
 - [Tooplate](https://www.tooplate.com/)
@@ -167,6 +185,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Themes For App](https://themesfor.app/)
 
 ## Website Copier
+
 - [Httrack](https://www.httrack.com/)
 - [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy)
 
@@ -178,5 +197,4 @@ Searching for a job ? This may help you
 Want to start learning Node Js ? Dont miss to check this out
 [Ultimate NodeJs Resources](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources)
 
-If you liked this repository support it by starring ⭐ 
-
+If you liked this repository support it by starring ⭐
