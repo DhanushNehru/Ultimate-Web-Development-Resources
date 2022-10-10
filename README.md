@@ -114,6 +114,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [D3.js](https://d3js.org/)
 - [Three.js](https://threejs.org/)
 - [FusionCharts](https://www.fusioncharts.com/)
+- [Google Data Studio](https://datastudio.google.com/visualization)
 
 ## Web Illustrations
 - [Bulbman.art](https://bulbman.art/)
