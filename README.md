@@ -74,6 +74,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [MDN Webdocs](https://developer.mozilla.org/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [Quizlet](https://quizlet.com/)
+- [Web.dev](https://web.dev/learn/)
 
 ## Websites for code challenges
 - [AtCoder](https://atcoder.jp)
@@ -91,6 +92,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Codeforces](https://codeforces.com/)
 - [HackerEarth](https://www.hackerearth.com/)
 - [InterviewBit](https://www.interviewbit.com/practice/)
+- [Frontend Mento](https://www.frontendmentor.io/challenges)
 
 ## Web Images or Photos
 - [Flickr](https://www.flickr.com/)
