@@ -150,7 +150,6 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Webpagetest](https://www.webpagetest.org/)
 - [Yslow](http://yslow.org/)
 - [Optimizeimages](https://www.optimizeimages.com)
-- [ImageKit](https://imagekit.io)
 
 ## Interview Preparation 
 - [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/)
