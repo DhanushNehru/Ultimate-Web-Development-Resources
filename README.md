@@ -25,6 +25,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Free Website Templates For Inspiration](#Free-Website-Templates-For-Inspiration)
 - [Website Copier](#Website-Copier)
 - [Website for Project Management and Notes](#website-for-project-management-and-notes)
+- [User Authentication](#user-authentication)
 
 ## Web Development Roadmaps
 - [Frontend Development](https://roadmap.sh/frontend)
@@ -177,6 +178,12 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 
 ## Website for Project Management and Notes
 - [Notion](https://www.notion.so/)
+
+## User Authentication
+- [Auth0](https://auth0.com/)
+- [Firebase](https://firebase.google.com/)
+- [Clerk](https://clerk.dev/)
+- [Next Auth](https://next-auth.js.org)
 
 Hey, I am Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Nehru)
 
