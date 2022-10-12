@@ -24,6 +24,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Interview Preparation](#Interview-Preparation)
 - [Free Website Templates For Inspiration](#Free-Website-Templates-For-Inspiration)
 - [Website Copier](#Website-Copier)
+- [Website for Project Management and Notes](#website-for-project-management-and-notes)
 
 ## Web Development Roadmaps
 - [Frontend Development](https://roadmap.sh/frontend)
@@ -171,6 +172,9 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 ## Website Copier
 - [Httrack](https://www.httrack.com/)
 - [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy)
+
+## Website for Project Management and Notes
+- [Notion](https://www.notion.so/)
 
 Hey, I am Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Nehru)
 
