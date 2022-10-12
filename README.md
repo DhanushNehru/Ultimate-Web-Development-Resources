@@ -76,6 +76,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
 - [Quizlet](https://quizlet.com/)
 - [Web.dev](https://web.dev/learn/)
+- [Udemy](https://www.udemy.com/)
 
 ## Websites for code challenges
 - [AtCoder](https://atcoder.jp)
