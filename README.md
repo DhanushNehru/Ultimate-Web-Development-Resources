@@ -156,6 +156,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 - [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
+- [Interview Cake](https://www.interviewcake.com)
 
 ## Free Website Templates For Inspiration
 - [One Page Love](https://onepagelove.com/)
