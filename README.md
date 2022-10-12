@@ -171,6 +171,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [HTML5up](https://html5up.net/)
 - [StyleShout](https://www.styleshout.com/free-templates/)
 - [Themes For App](https://themesfor.app/)
+- [Tailwind Awesome](https://www.tailwindawesome.com/?type=template)
 
 ## Website Copier
 - [Httrack](https://www.httrack.com/)
