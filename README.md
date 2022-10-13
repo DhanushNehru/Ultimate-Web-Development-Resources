@@ -185,7 +185,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Clerk](https://clerk.dev/)
 - [Next Auth](https://next-auth.js.org)
 
-## Awesome CSS genretors
+## Awesome CSS generators
 - [Buttons CSS generator](https://markodenic.com/tools/buttons-generator/)
 - [Neumorphism/Soft UI generator](https://neumorphism.io/#e0e0e0)
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
