@@ -9,7 +9,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 
 ## Table of Contents
 [Ultimate-Web-Development-Resources](#Ultimate-Web-Development-Resources)
-- [Web-Development-Roadmap](#Web-Dev-Roadmap)
+- [Web-Development-Roadmap](#Web-Development-Roadmaps)
 - [Web design softwares](#Web-design-softwares)
 - [Prototyping tools for UI/UX](#Prototyping-tools-for-UIUX)
 - [Free Hosting](#Free-Hosting)
