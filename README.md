@@ -96,6 +96,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [HackerEarth](https://www.hackerearth.com/)
 - [InterviewBit](https://www.interviewbit.com/practice/)
 - [Frontend Mento](https://www.frontendmentor.io/challenges)
+- [GeeksforGeeks](https://www.geeksforgeeks.org)
 
 ## Web Images or Photos
 - [Flickr](https://www.flickr.com/)
