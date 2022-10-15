@@ -78,7 +78,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Quizlet](https://quizlet.com/)
 - [Web.dev](https://web.dev/learn/)
 - [Udemy](https://www.udemy.com/)
-- [Youtube Channel](https://www.youtube.com/watch?v=EceJQ05KTf4&list=PLwoh6bBAszPrES-EOajos_E9gvRbL27wz)
+- [OpenClassrooms](https://openclassrooms.com/en/)
 
 ## Websites for code challenges
 - [AtCoder](https://atcoder.jp)
