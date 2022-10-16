@@ -26,6 +26,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Website Copier](#Website-Copier)
 - [Website for Project Management and Notes](#website-for-project-management-and-notes)
 - [User Authentication](#user-authentication)
+- [Animations and Graphics](#animations-and-graphics)
 
 ## Web Development Roadmaps
 - [Frontend Development](https://roadmap.sh/frontend)
@@ -184,6 +185,9 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Firebase](https://firebase.google.com/)
 - [Clerk](https://clerk.dev/)
 - [Next Auth](https://next-auth.js.org)
+## Animations and Graphics
+- [Lottie Animations](https://lottiefiles.com/featured)
+- [Rive Animations](https://rive.app/)
 
 Hey, I am Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Nehru)
 
