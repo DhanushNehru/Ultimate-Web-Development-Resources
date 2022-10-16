@@ -9,7 +9,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 
 ## Table of Contents
 [Ultimate-Web-Development-Resources](#Ultimate-Web-Development-Resources)
-- [Web-Development-Roadmap](#Web-Dev-Roadmap)
+- [Web-Development-Roadmap](#Web-Development-Roadmaps)
 - [Web design softwares](#Web-design-softwares)
 - [Prototyping tools for UI/UX](#Prototyping-tools-for-UIUX)
 - [Free Hosting](#Free-Hosting)
@@ -26,6 +26,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Website Copier](#Website-Copier)
 - [Website for Project Management and Notes](#website-for-project-management-and-notes)
 - [User Authentication](#user-authentication)
+- [Animations and Graphics](#animations-and-graphics)
 
 ## Web Development Roadmaps
 - [Frontend Development](https://roadmap.sh/frontend)
@@ -80,6 +81,8 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Udemy](https://www.udemy.com/)
 - [OpenClassrooms](https://openclassrooms.com/en/)
 
+
+
 ## Websites for code challenges
 - [AtCoder](https://atcoder.jp)
 - [Code Wars](http://codewars.com)
@@ -97,6 +100,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [HackerEarth](https://www.hackerearth.com/)
 - [InterviewBit](https://www.interviewbit.com/practice/)
 - [Frontend Mento](https://www.frontendmentor.io/challenges)
+- [GeeksforGeeks](https://www.geeksforgeeks.org)
 
 ## Web Images or Photos
 - [Flickr](https://www.flickr.com/)
@@ -113,11 +117,20 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Color Hex](http://color-hex.com)
 - [MyColor](http://mycolor.space)
 
+## Chrome Extensions For Web Developers
+- [CSS3 GENERATOR](https://chrome.google.com/webstore/detail/css3-generator/dmlgmehijaodgkkooghkknjjkddahmej?hl=en-GB)
+- [Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en)
+- [PERFECTPIXEL](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
+- [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
+- [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi)
+- [JSON Viewer Pro](https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc)
+
 ## Chart Visualizations
 - [Chart.js](https://www.chartjs.org/)
 - [D3.js](https://d3js.org/)
 - [Three.js](https://threejs.org/)
 - [FusionCharts](https://www.fusioncharts.com/)
+- [Google Data Studio](https://datastudio.google.com/visualization)
 
 ## Web Illustrations
 - [Bulbman.art](https://bulbman.art/)
@@ -172,6 +185,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [HTML5up](https://html5up.net/)
 - [StyleShout](https://www.styleshout.com/free-templates/)
 - [Themes For App](https://themesfor.app/)
+- [Tailwind Awesome](https://www.tailwindawesome.com/?type=template)
 
 ## Website Copier
 - [Httrack](https://www.httrack.com/)
@@ -185,6 +199,19 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Firebase](https://firebase.google.com/)
 - [Clerk](https://clerk.dev/)
 - [Next Auth](https://next-auth.js.org)
+## Animations and Graphics
+- [Lottie Animations](https://lottiefiles.com/featured)
+- [Rive Animations](https://rive.app/)
+
+## Awesome CSS generators
+- [Buttons CSS generator](https://markodenic.com/tools/buttons-generator/)
+- [Neumorphism/Soft UI generator](https://neumorphism.io/#e0e0e0)
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
+- [Get Waves](https://getwaves.io/)
+- [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/)
+- [Glassmorphism CSS Generator](https://markodenic.com/tools/glassmorphism-css-generator/)
+- [Ready-made CSS animations](https://animista.net/)
+- [Keyframes Generators](https://keyframes.app/)
 
 Hey, I am Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Nehru)
 
