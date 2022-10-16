@@ -9,7 +9,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 
 ## Table of Contents
 [Ultimate-Web-Development-Resources](#Ultimate-Web-Development-Resources)
-- [Web-Development-Roadmap](#Web-Dev-Roadmap)
+- [Web-Development-Roadmap](#Web-Development-Roadmaps)
 - [Web design softwares](#Web-design-softwares)
 - [Prototyping tools for UI/UX](#Prototyping-tools-for-UIUX)
 - [Free Hosting](#Free-Hosting)
@@ -118,6 +118,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [D3.js](https://d3js.org/)
 - [Three.js](https://threejs.org/)
 - [FusionCharts](https://www.fusioncharts.com/)
+- [Google Data Studio](https://datastudio.google.com/visualization)
 
 ## Web Illustrations
 - [Bulbman.art](https://bulbman.art/)
