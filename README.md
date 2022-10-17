@@ -65,6 +65,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Odin Project](https://www.theodinproject.com/)
 - [Select Star SQL](https://selectstarsql.com/)
 - [MDN Webdocs](https://developer.mozilla.org/)
+- [Exercism](https://exercism.org/)
 
 ## Websites for code challenges
 - [Code Wars](http://codewars.com)
@@ -154,6 +155,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [HTML5up](https://html5up.net/)
 - [StyleShout](https://www.styleshout.com/free-templates/)
 - [Themes For App](https://themesfor.app/)
+- [Awwwards](https://www.awwwards.com/)
 
 ## Website Copier
 - [Httrack](https://www.httrack.com/)
