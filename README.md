@@ -79,6 +79,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Quizlet](https://quizlet.com/)
 - [Web.dev](https://web.dev/learn/)
 - [Udemy](https://www.udemy.com/)
+- [CS50W](https://cs50.harvard.edu/web/2020/)
 - [OpenClassrooms](https://openclassrooms.com/en/)
 
 
