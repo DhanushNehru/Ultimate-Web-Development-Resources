@@ -102,6 +102,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [InterviewBit](https://www.interviewbit.com/practice/)
 - [Frontend Mento](https://www.frontendmentor.io/challenges)
 - [GeeksforGeeks](https://www.geeksforgeeks.org)
+- [KodeKloud](https://kodekloud.com/kodekloud-engineer/)
 
 ## Web Images or Photos
 - [Flickr](https://www.flickr.com/)
@@ -110,6 +111,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Pexels](http://pexels.com)
 - [Burst.shopify](https://burst.shopify.com/)
 - [Freepik](https://www.freepik.com/)
+- [MorgueFile](https://morguefile.com/)
 
 ## Web Color Palettes
 - [Coolors](http://coolors.co)
@@ -214,8 +216,22 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Ready-made CSS animations](https://animista.net/)
 - [Keyframes Generators](https://keyframes.app/)
 
-## Free YouTube Resources
+
+## Free YouTube resources
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [LearnCode.academy](https://www.youtube.com/c/learncodeacademy/featured)
+- [Wes Bos](https://www.youtube.com/user/wesbos)
+- [CSS-Tricks](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA)
+- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
+- [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)
+- [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
+- [The New Boston](https://www.youtube.com/user/thenewboston/featured)
+- [codeSTACKr](https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw)
+- [James Q Quick](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw)
 - [Apna College](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n)
+
 
 Hey, I am Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Nehru)
 
