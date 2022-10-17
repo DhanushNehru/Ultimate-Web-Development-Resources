@@ -8,8 +8,8 @@ A collection of Web Developement Resources at one place
 Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Development-Resources/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DHANUSHXENO/Ultimate-Web-Development-Resources/blob/main/CODE-OF-CONDUCT.md) for details before you contribute.
 
 ## Table of Contents
-[Ultimate-Web-Development-Resources](#Ultimate-Web-Development-Resources)
-- [Web-Development-Roadmap](#Web-Development-Roadmaps)
+[Ultimate Web Development Resources](#Ultimate-Web-Development-Resources)
+- [Web Development Roadmap](#Web-Development-Roadmaps)
 - [Web design softwares](#Web-design-softwares)
 - [Prototyping tools for UI/UX](#Prototyping-tools-for-UIUX)
 - [Free Hosting](#Free-Hosting)
@@ -17,6 +17,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Websites for code challenges](#Websites-for-code-challenges)
 - [Web Images or Photos](#Web-Images-or-Photos)
 - [Web Color Palettes](#Web-Color-Palettes)
+- [Chrome Extensions For Web Developers](#Chrome-Extensions-For-Web-Developers)
 - [Chart Visualizations](#Chart-Visualizations)
 - [Web Illustrations](#Web-Illustrations)
 - [Web fonts](#Web-fonts)
@@ -27,6 +28,8 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Website for Project Management and Notes](#website-for-project-management-and-notes)
 - [User Authentication](#user-authentication)
 - [Animations and Graphics](#animations-and-graphics)
+- [Awesome CSS generators](#Awesome-CSS-generators)
+- [Free YouTube resources](#Free-YouTube-resources)
 
 ## Web Development Roadmaps
 - [Frontend Development](https://roadmap.sh/frontend)
@@ -199,6 +202,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Firebase](https://firebase.google.com/)
 - [Clerk](https://clerk.dev/)
 - [Next Auth](https://next-auth.js.org)
+
 ## Animations and Graphics
 - [Lottie Animations](https://lottiefiles.com/featured)
 - [Rive Animations](https://rive.app/)
@@ -213,7 +217,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Ready-made CSS animations](https://animista.net/)
 - [Keyframes Generators](https://keyframes.app/)
 
-## Free YouTube resources :)
+## Free YouTube resources
 - [Codewithharry](https://www.youtube.com/c/CodeWithHarry/featured)
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
