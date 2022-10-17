@@ -80,9 +80,6 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Web.dev](https://web.dev/learn/)
 - [Udemy](https://www.udemy.com/)
 - [CS50W](https://cs50.harvard.edu/web/2020/)
-- [OpenClassrooms](https://openclassrooms.com/en/)
-
-
 
 ## Websites for code challenges
 - [AtCoder](https://atcoder.jp)
@@ -216,8 +213,8 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Ready-made CSS animations](https://animista.net/)
 - [Keyframes Generators](https://keyframes.app/)
 
-
-## Free YouTube resources
+## Free YouTube resources :)
+- [Codewithharry](https://www.youtube.com/c/CodeWithHarry/featured)
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 - [LearnCode.academy](https://www.youtube.com/c/learncodeacademy/featured)
@@ -230,10 +227,10 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [The New Boston](https://www.youtube.com/user/thenewboston/featured)
 - [codeSTACKr](https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw)
 - [James Q Quick](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw)
-- [Apna College](https://www.youtube.com/playlist?list=PLfqMhTWNBTe3H6c9OGXb5_6wcc1Mca52n)
 
 
-Hey, I am Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Nehru)
+
+Hey, I'm Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Nehru)
 
 Searching for a job ? This may help you
 [Ultimate Tech Job List](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs)
@@ -243,3 +240,4 @@ Want to start learning Node Js ? Dont miss to check this out
 
 If you liked this repository support it by starring ⭐ 
 
+Thank You for being here :)
