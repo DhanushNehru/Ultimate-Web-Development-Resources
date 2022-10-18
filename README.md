@@ -78,11 +78,8 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Odin Project](https://www.theodinproject.com/)
 - [Select Star SQL](https://selectstarsql.com/)
 - [MDN Webdocs](https://developer.mozilla.org/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- [Quizlet](https://quizlet.com/)
-- [Web.dev](https://web.dev/learn/)
-- [Udemy](https://www.udemy.com/)
-- [CS50W](https://cs50.harvard.edu/web/2020/)
+<<<<<<
+- [Exercism](https://exercism.org/)
 
 ## Websites for code challenges
 - [AtCoder](https://atcoder.jp)
@@ -188,7 +185,6 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [HTML5up](https://html5up.net/)
 - [StyleShout](https://www.styleshout.com/free-templates/)
 - [Themes For App](https://themesfor.app/)
-- [Tailwind Awesome](https://www.tailwindawesome.com/?type=template)
 
 ## Website Copier
 - [Httrack](https://www.httrack.com/)
