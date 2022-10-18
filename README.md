@@ -33,6 +33,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
   - [Animations and Graphics](#animations-and-graphics)
   - [Awesome CSS generators](#awesome-css-generators)
   - [Free YouTube resources](#free-youtube-resources)
+  - [Code Playgrounds](#code-playgrounds)
 
 ## Web Development Roadmaps
 - [Frontend Development](https://roadmap.sh/frontend)
@@ -81,7 +82,6 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Odin Project](https://www.theodinproject.com/)
 - [Select Star SQL](https://selectstarsql.com/)
 - [MDN Webdocs](https://developer.mozilla.org/)
-<<<<<<
 - [Exercism](https://exercism.org/)
 
 ## Websites for code challenges
@@ -231,6 +231,16 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [codeSTACKr](https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw)
 - [James Q Quick](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw)
 - [Wed dev Simplified](https://www.youtube.com/c/WebDevSimplified/featured)
+
+## Code Playgrounds
+- [CodePen](https://codepen.io/)
+- [JSFiddle](https://jsfiddle.net/)
+- [JS Bin](http://jsbin.com/)
+- [CSS Deck](http://cssdeck.com/)
+- [CodeSandbox](https://codesandbox.io/)
+- [PLAYCODE](https://playcode.io/)
+- [Plunker](https://plnkr.co/)
+- [StackBlitz](https://stackblitz.com/)
 
 
 
