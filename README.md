@@ -46,6 +46,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Coffeecup HTML Editor](https://www.coffeecup.com/html-editor/)
 - [VsCode](https://code.visualstudio.com/)
 - [Wix](https://www.wix.com/)
+- [Zeplin](https://zeplin.io/)
 
 ## Prototyping tools for UI/UX
 - [Figma](https://www.figma.com/)
