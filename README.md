@@ -66,6 +66,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Surge](https://surge.sh)
 - [Wix](https://www.wix.com/html5en/hiker-hosting)
 - [cyclic](https://app.cyclic.sh/#/)
+- [InfinityFree](https://www.infinityfree.net/)
 
 ## Websites to learn
 - [Freecodecamp](http://freecodecamp.org)
