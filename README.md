@@ -186,6 +186,13 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Resources 5](https://join.codecademy.com/learn/introduction-to-javascript/)
 - [Resources 6](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 
+## Let's pick a framework/library for you
+- [React-Tutorial](https://www.youtube.com/watch?v=bMknfKXIFA8)
+- [React-Docs](https://reactjs.org/)
+- [Vue JS-Tutorial](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
+- [Vue JS-Docs](https://vuejs.org/tutorial/#step-1)
+- [Angular-Tutorial](https://www.youtube.com/watch?v=k5E2AVpwsko) 
+- [Angular-Docs](https://angular.io/docs) 
 
 
 
