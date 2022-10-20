@@ -75,6 +75,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Frontendmentor](http://frontendmentor.io)
 - [Test automation](http://testautomationu.applitools.com)
 - [Coursera](http://coursera.org)
+- [Udemy] (https://www.udemy.com/)
 - [Khanacademy](http://khanacademy.org)
 - [Sololearn](http://sololearn.com)
 - [Treehouse](https://teamtreehouse.com/)
