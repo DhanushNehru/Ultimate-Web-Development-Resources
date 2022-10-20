@@ -200,6 +200,13 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Httrack](https://www.httrack.com/)
 - [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy)
 
+## Github Student Developer Pack Resources
+More information about the pack can be found here [Github Student Developer Pack](https://www.geeksforgeeks.org/what-is-github-student-developer-pack-and-how-to-get-it/)
+- [FrontendMaster](https://frontendmasters.com/)
+- [OneMonth](https://onemonth.com/github/students)
+- [Datacamp](https://www.datacamp.com/)
+- [Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
+
 <<<<
 ## HTML Learning Resources
 - [Resources 1](https://www.youtube.com/watch?v=kUMe1FH4CHE)
