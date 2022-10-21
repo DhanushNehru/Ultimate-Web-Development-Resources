@@ -298,6 +298,9 @@ Hey, I am Dhanush N, a Full Stack Developer who likes to contribute to Open Sour
 - [Chakra UI](https://chakra-ui.com/)
 - [ThemeUI](https://theme-ui.com/)
 
+## Tutorial in Other Languages
+- [Indonesian](./lang/indonesian.md)
+
 
 Hey, I'm Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Nehru)
 
