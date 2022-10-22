@@ -28,6 +28,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
   - [Interview Preparation](#interview-preparation)
   - [Free Website Templates For Inspiration](#free-website-templates-for-inspiration)
   - [Website Copier](#website-copier)
+  - [Bio Links](#Bio-Links)
   - [Website for Project Management and Notes](#website-for-project-management-and-notes)
   - [User Authentication](#user-authentication)
   - [Animations and Graphics](#animations-and-graphics)
@@ -55,6 +56,8 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Sketch](https://www.sketch.com/)
 - [Webflow](https://webflow.com/)
 - [Penpot](https://penpot.app/)
+- [Balsamiq Wireframing](https://balsamiq.com/)
+
 
 ## Free Hosting
 - [Vercel](https://vercel.com)
@@ -77,7 +80,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Frontendmentor](http://frontendmentor.io)
 - [Test automation](http://testautomationu.applitools.com)
 - [Coursera](http://coursera.org)
-- [Udemy] (https://www.udemy.com/)
+- [Udemy](https://www.udemy.com/)
 - [Khanacademy](http://khanacademy.org)
 - [Sololearn](http://sololearn.com)
 - [Treehouse](https://teamtreehouse.com/)
@@ -160,6 +163,9 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [UnDraw](https://undraw.co/)
 - [ShapeFest](https://www.shapefest.com/)
 - [Graphic Burger](https://graphicburger.com/)
+- [Illustrations Kit](https://illustrationkit.com/)
+
+
 
 ## Web fonts
 - [Google fonts](https://fonts.google.com/)
@@ -199,6 +205,11 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 ## Website Copier
 - [Httrack](https://www.httrack.com/)
 - [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy)
+
+## Bio Links
+- [Linktree](https://linktr.ee/)
+- [HeyLink](https://heylink.me/)
+- [BioLink](https://bio.link/)
 
 ## Github Student Developer Pack Resources
 More information about the pack can be found here [Github Student Developer Pack](https://www.geeksforgeeks.org/what-is-github-student-developer-pack-and-how-to-get-it/)
@@ -254,6 +265,9 @@ Hey, I am Dhanush N, a Full Stack Developer who likes to contribute to Open Sour
 
 ## Awesome CSS generators
 - [Buttons CSS generator](https://markodenic.com/tools/buttons-generator/)
+- [Fancy Buttons generator](https://getcssscan.com/css-buttons-examples?ref=beautifulboxshadow-bottom)
+- [Shapes CSS generator](https://getcssscan.com/css-shapes?ref=beautifulbuttons-bottom/)
+
 - [Neumorphism/Soft UI generator](https://neumorphism.io/#e0e0e0)
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
 - [Get Waves](https://getwaves.io/)
@@ -261,6 +275,7 @@ Hey, I am Dhanush N, a Full Stack Developer who likes to contribute to Open Sour
 - [Glassmorphism CSS Generator](https://markodenic.com/tools/glassmorphism-css-generator/)
 - [Ready-made CSS animations](https://animista.net/)
 - [Keyframes Generators](https://keyframes.app/)
+
 
 ## Free YouTube resources
 - [Codewithharry](https://www.youtube.com/c/CodeWithHarry/featured)
