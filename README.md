@@ -197,9 +197,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [templatemo](https://templatemo.com/)
 - [HTML5up](https://html5up.net/)
 - [StyleShout](https://www.styleshout.com/free-templates/)
-<<<<
 - [Awwwards](https://www.awwwards.com/)
-=======
 - [Themes For App](https://themesfor.app/)
 
 ## Website Copier
@@ -218,7 +216,6 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Datacamp](https://www.datacamp.com/)
 - [Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-<<<<
 ## HTML Learning Resources
 - [Resources 1](https://www.youtube.com/watch?v=kUMe1FH4CHE)
 - [Resources 2](https://join.codecademy.com/learn/learn-html/)
@@ -244,12 +241,6 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Resources 5](https://join.codecademy.com/learn/introduction-to-javascript/)
 - [Resources 6](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 
-
-
-
-
-Hey, I am Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Nehru)
-=======
 ## Website for Project Management and Notes
 - [Notion](https://www.notion.so/)
 
