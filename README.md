@@ -8,10 +8,6 @@ A collection of Web Developement Resources at one place
 Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Development-Resources/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DHANUSHXENO/Ultimate-Web-Development-Resources/blob/main/CODE-OF-CONDUCT.md) for details before you contribute.
 
 ## Table of Contents
-[Ultimate Web Development Resources](#Ultimate-Web-Development-Resources)
-- [Ultimate-Web-Development-Resources](#ultimate-web-development-resources)
-  - [Contributing](#contributing)
-  - [Table of Contents](#table-of-contents)
   - [Web Development Roadmaps](#web-development-roadmaps)
   - [Web design softwares](#web-design-softwares)
   - [Prototyping tools for UI/UX](#prototyping-tools-for-uiux)
@@ -29,12 +25,14 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
   - [Free Website Templates For Inspiration](#free-website-templates-for-inspiration)
   - [Website Copier](#website-copier)
   - [Bio Links](#Bio-Links)
+  - [Github Student Developer Pack Resources](#Github-Student-Developer-Pack-Resources)
   - [Website for Project Management and Notes](#website-for-project-management-and-notes)
   - [User Authentication](#user-authentication)
   - [Animations and Graphics](#animations-and-graphics)
   - [Awesome CSS generators](#awesome-css-generators)
   - [Free YouTube resources](#free-youtube-resources)
   - [Code Playgrounds](#code-playgrounds)
+  - [Top React Component Libraries](#Top-React-Component-Libraries)
 
 ## Web Development Roadmaps
 - [Frontend Development](https://roadmap.sh/frontend)
@@ -57,7 +55,6 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Webflow](https://webflow.com/)
 - [Penpot](https://penpot.app/)
 - [Balsamiq Wireframing](https://balsamiq.com/)
-
 
 ## Free Hosting
 - [Vercel](https://vercel.com)
@@ -165,8 +162,6 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Graphic Burger](https://graphicburger.com/)
 - [Illustrations Kit](https://illustrationkit.com/)
 
-
-
 ## Web fonts
 - [Google fonts](https://fonts.google.com/)
 - [Font Squirrel](https://www.fontsquirrel.com/)
@@ -216,31 +211,6 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Datacamp](https://www.datacamp.com/)
 - [Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
 
-## HTML Learning Resources
-- [Resources 1](https://www.youtube.com/watch?v=kUMe1FH4CHE)
-- [Resources 2](https://join.codecademy.com/learn/learn-html/)
-- [Resources 3](https://www.w3schools.com/html/)
-- [Resources 4](https://www.tutorialspoint.com/html/index.htm)
-- [Resources 5](https://www.youtube.com/watch?v=pQN-pnXPaVg)
-- [Resources 6](https://www.youtube.com/watch?v=UB1O30fR-EE)
-- [Resources 7](https://www.youtube.com/watch?v=PlxWf493en4)
-
-## CSS Learning Resources
-- [Resources 1](https://web.dev/learn/css/)
-- [Resources 2](https://www.codecademy.com/learn/learn-css)
-- [Resources 3](https://www.w3schools.com/css/)
-- [Resources 4](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
-- [Resources 5](https://www.youtube.com/kepowob)
-- [Resources 6](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
-
-## JS Learning Resources
-- [Resources 1](https://www.youtube.com/watch?v=PkZNo7MFNFg)
-- [Resources 2](https://www.youtube.com/watch?v=W6NZfCO5SIk)
-- [Resources 3](https://www.youtube.com/watch?v=jS4aFq5-91M)
-- [Resources 4](https://www.w3schools.com/js/)
-- [Resources 5](https://join.codecademy.com/learn/introduction-to-javascript/)
-- [Resources 6](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
-
 ## Website for Project Management and Notes
 - [Notion](https://www.notion.so/)
 
@@ -283,6 +253,32 @@ More information about the pack can be found here [Github Student Developer Pack
 - [codeSTACKr](https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw)
 - [James Q Quick](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw)
 - [Wed dev Simplified](https://www.youtube.com/c/WebDevSimplified/featured)
+
+
+### HTML Learning Resources
+- [Resources 1](https://www.youtube.com/watch?v=kUMe1FH4CHE)
+- [Resources 2](https://join.codecademy.com/learn/learn-html/)
+- [Resources 3](https://www.w3schools.com/html/)
+- [Resources 4](https://www.tutorialspoint.com/html/index.htm)
+- [Resources 5](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+- [Resources 6](https://www.youtube.com/watch?v=UB1O30fR-EE)
+- [Resources 7](https://www.youtube.com/watch?v=PlxWf493en4)
+
+### CSS Learning Resources
+- [Resources 1](https://web.dev/learn/css/)
+- [Resources 2](https://www.codecademy.com/learn/learn-css)
+- [Resources 3](https://www.w3schools.com/css/)
+- [Resources 4](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+- [Resources 5](https://www.youtube.com/kepowob)
+- [Resources 6](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+
+### JS Learning Resources
+- [Resources 1](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- [Resources 2](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+- [Resources 3](https://www.youtube.com/watch?v=jS4aFq5-91M)
+- [Resources 4](https://www.w3schools.com/js/)
+- [Resources 5](https://join.codecademy.com/learn/introduction-to-javascript/)
+- [Resources 6](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 
 ## Code Playgrounds
 - [CodePen](https://codepen.io/)
