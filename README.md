@@ -178,6 +178,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Webpagetest](https://www.webpagetest.org/)
 - [Yslow](http://yslow.org/)
 - [Optimizeimages](https://www.optimizeimages.com)
+- [JSON validator and formatter](https://jsonlint.com)
 
 ## Interview Preparation 
 - [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/)
@@ -239,7 +240,6 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Glassmorphism CSS Generator](https://markodenic.com/tools/glassmorphism-css-generator/)
 - [Ready-made CSS animations](https://animista.net/)
 - [Keyframes Generators](https://keyframes.app/)
-
 
 ## Free YouTube resources
 - [Codewithharry](https://www.youtube.com/c/CodeWithHarry/featured)
