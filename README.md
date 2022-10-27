@@ -256,6 +256,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [codeSTACKr](https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw)
 - [James Q Quick](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw)
 - [Wed dev Simplified](https://www.youtube.com/c/WebDevSimplified/featured)
+- [Thapa Technical](https://www.youtube.com/c/ThapaTechnical)
 
 
 ### HTML Learning Resources
