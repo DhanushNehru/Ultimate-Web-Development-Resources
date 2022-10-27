@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en-IE">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Disney Star Wars Characters</title>
+		<!-- https://www.iconspedia.com/icon/millenium-falcon-star-wars-17400.html -->
+		<link
+			rel="shortcut icon"
+			href="./images/favicon.ico"
+			type="image/x-icon"
+		/>
+		<link rel="stylesheet" href="./styles.css" />
+	</head>
+	<body>
+		<header>
+			<div class="container header-container">
+				<h1>Disney Star Wars Characters</h1>
+				<nav>
+					<button id="nav-links">Links</button>
+					<div id="expanding-menu" class="hide opacity">
+						<a href="https://www.disney.com/" target="_blank">
+							Disney.com
+						</a>
+						<a href="https://www.disneyplus.com" target="_blank">
+							Disney+
+						</a>
+						<a href="https://www.lucasfilm.com/" target="_blank">
+							Lucasfilm
+						</a>
+						<a href="https://www.starwars.com/" target="_blank">
+							Star Wars
+						</a>
+					</div>
+				</nav>
+			</div>
+		</header>
+
+		<main>
+			<div class="container main-container">
+				<!-- Float -->
+				<div class="columns">
+					<div class="column left">
+						<div class="rating">
+							<label for="range-input"
+								>How much do you like Disney?
+							</label>
+							<input
+								type="range"
+								id="range-input"
+								min="0"
+								max="10"
+							/>
+							<!-- Default values -->
+							<span id="rate">5</span>
+							<div id="range-output">I somewhat like Disney.</div>
+						</div>
+
+						<div class="logo">
+							<!-- Images sources:
+                                Disney+ - https://www.pngitem.com/middle/hiJJwi_disney-plus-logo-png-transparent-png/
+                                Lucasfilm - https://www.pngkit.com/bigpic/u2w7u2q8q8t4t4t4/
+                            -->
+							<img
+								src="./images/disney_plus.png"
+								id="logo"
+								alt="Logo"
+							/>
+						</div>
+					</div>
+
+					<div class="column right">
+						<h2>Who is your favourite Star Wars character?</h2>
+
+						<form id="fav-char">
+							<label for="character">
+								Enter your favourite character here:
+							</label>
+							<input
+								type="text"
+								id="character"
+								autocomplete="off"
+							/>
+							<div id="form-result">
+								<div id="char-select"></div>
+								<div id="game-instruct"></div>
+							</div>
+						</form>
+
+						<div id="characters">
+							<h3>Characters to choose from:</h3>
+							<div class="chars">
+								<div class="char char-1" id="char-1">
+									Din Djarin
+								</div>
+								<div class="char char-2" id="char-2">
+									Han Solo
+								</div>
+								<div class="char char-3" id="char-3">
+									Luke Skywalker
+								</div>
+								<div class="char char-4" id="char-4">Rey</div>
+							</div>
+						</div>
+
+						<div id="random">
+							<button id="random-btn">
+								What Star Wars Character will you get?
+							</button>
+							<div id="random-result">
+								<div class="char-image">
+									<img
+										src="./images/disney_plus.png"
+										id="char-img"
+										alt="Character image"
+									/>
+								</div>
+								<div class="char-details">
+									<div id="char-name"></div>
+									<div id="char-movie"></div>
+									<div id="char-friend"></div>
+									<div id="char-nemesis"></div>
+									<div id="char-quote"></div>
+								</div>
+							</div>
+							<button id="compare-btn">Compare</button>
+							<div id="compare-result"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</main>
+
+		<footer>
+			<div class="container footer-container">
+				<div>
+					<small>
+						made by
+						<a href="mailto:ekbotepratiksha@gmai.com">
+							pratiksha ekbote
+						</a>
+					</small>
+				</div>
+				<div>
+					<small>for web development fundamentals project</small>
+				</div>
+				<div>
+					<small>
+						all rights belong to &copy; &amp; &trade; Lucasfilm Ltd.
+						Star Wars&trade; is a copyright and registered trademark
+						of Lucasfilm Ltd. - a Walt Disney company. &copy; Disney
+						2022
+					</small>
+				</div>
+			</div>
+		</footer>
+
+		<script src="./index.js"></script>
+	</body>
+</html>

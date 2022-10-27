@@ -8,22 +8,31 @@ A collection of Web Developement Resources at one place
 Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Development-Resources/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DHANUSHXENO/Ultimate-Web-Development-Resources/blob/main/CODE-OF-CONDUCT.md) for details before you contribute.
 
 ## Table of Contents
-[Ultimate-Web-Development-Resources](#Ultimate-Web-Development-Resources)
-- [Web-Development-Roadmap](#Web-Dev-Roadmap)
-- [Web design softwares](#Web-design-softwares)
-- [Prototyping tools for UI/UX](#Prototyping-tools-for-UIUX)
-- [Free Hosting](#Free-Hosting)
-- [Websites to learn](#Websites-to-learn)
-- [Websites for code challenges](#Websites-for-code-challenges)
-- [Web Images or Photos](#Web-Images-or-Photos)
-- [Web Color Palettes](#Web-Color-Palettes)
-- [Chart Visualizations](#Chart-Visualizations)
-- [Web Illustrations](#Web-Illustrations)
-- [Web fonts](#Web-fonts)
-- [Website Optimization Tools](#Website-Optimization-Tools)
-- [Interview Preparation](#Interview-Preparation)
-- [Free Website Templates For Inspiration](#Free-Website-Templates-For-Inspiration)
-- [Website Copier](#Website-Copier)
+  - [Web Development Roadmaps](#web-development-roadmaps)
+  - [Web design softwares](#web-design-softwares)
+  - [Prototyping tools for UI/UX](#prototyping-tools-for-uiux)
+  - [Free Hosting](#free-hosting)
+  - [Websites to learn](#websites-to-learn)
+  - [Websites for code challenges](#websites-for-code-challenges)
+  - [Web Images or Photos](#web-images-or-photos)
+  - [Web Color Palettes](#web-color-palettes)
+  - [Chrome Extensions For Web Developers](#chrome-extensions-for-web-developers)
+  - [Chart Visualizations](#chart-visualizations)
+  - [Web Illustrations](#web-illustrations)
+  - [Web fonts](#web-fonts)
+  - [Website Optimization Tools](#website-optimization-tools)
+  - [Interview Preparation](#interview-preparation)
+  - [Free Website Templates For Inspiration](#free-website-templates-for-inspiration)
+  - [Website Copier](#website-copier)
+  - [Bio Links](#Bio-Links)
+  - [Github Student Developer Pack Resources](#Github-Student-Developer-Pack-Resources)
+  - [Website for Project Management and Notes](#website-for-project-management-and-notes)
+  - [User Authentication](#user-authentication)
+  - [Animations and Graphics](#animations-and-graphics)
+  - [Awesome CSS generators](#awesome-css-generators)
+  - [Free YouTube resources](#free-youtube-resources)
+  - [Code Playgrounds](#code-playgrounds)
+  - [Top React Component Libraries](#Top-React-Component-Libraries)
 
 ## Web Development Roadmaps
 - [Frontend Development](https://roadmap.sh/frontend)
@@ -36,6 +45,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Coffeecup HTML Editor](https://www.coffeecup.com/html-editor/)
 - [VsCode](https://code.visualstudio.com/)
 - [Wix](https://www.wix.com/)
+- [Zeplin](https://zeplin.io/)
 
 ## Prototyping tools for UI/UX
 - [Figma](https://www.figma.com/)
@@ -44,6 +54,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Sketch](https://www.sketch.com/)
 - [Webflow](https://webflow.com/)
 - [Penpot](https://penpot.app/)
+- [Balsamiq Wireframing](https://balsamiq.com/)
 
 ## Free Hosting
 - [Vercel](https://vercel.com)
@@ -56,6 +67,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Surge](https://surge.sh)
 - [Wix](https://www.wix.com/html5en/hiker-hosting)
 - [cyclic](https://app.cyclic.sh/#/)
+- [InfinityFree](https://www.infinityfree.net/)
 
 ## Websites to learn
 - [Freecodecamp](http://freecodecamp.org)
@@ -65,6 +77,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Frontendmentor](http://frontendmentor.io)
 - [Test automation](http://testautomationu.applitools.com)
 - [Coursera](http://coursera.org)
+- [Udemy](https://www.udemy.com/)
 - [Khanacademy](http://khanacademy.org)
 - [Sololearn](http://sololearn.com)
 - [Treehouse](https://teamtreehouse.com/)
@@ -72,9 +85,8 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Odin Project](https://www.theodinproject.com/)
 - [Select Star SQL](https://selectstarsql.com/)
 - [MDN Webdocs](https://developer.mozilla.org/)
-- [GeeksforGeeks](https://www.geeksforgeeks.org/)
-- [Quizlet](https://quizlet.com/)
-- [Web.dev](https://web.dev/learn/)
+- [Exercism](https://exercism.org/)
+- [InternetingIsHard](https://www.internetingishard.com/)
 
 ## Websites for code challenges
 - [AtCoder](https://atcoder.jp)
@@ -93,6 +105,8 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [HackerEarth](https://www.hackerearth.com/)
 - [InterviewBit](https://www.interviewbit.com/practice/)
 - [Frontend Mento](https://www.frontendmentor.io/challenges)
+- [GeeksforGeeks](https://www.geeksforgeeks.org)
+- [KodeKloud](https://kodekloud.com/kodekloud-engineer/)
 
 ## Web Images or Photos
 - [Flickr](https://www.flickr.com/)
@@ -101,6 +115,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Pexels](http://pexels.com)
 - [Burst.shopify](https://burst.shopify.com/)
 - [Freepik](https://www.freepik.com/)
+- [MorgueFile](https://morguefile.com/)
 - [Undraw](https://undraw.co/)
 
 ## Web Color Palettes
@@ -110,11 +125,21 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Color Hex](http://color-hex.com)
 - [MyColor](http://mycolor.space)
 
+## Chrome Extensions For Web Developers
+- [CSS3 GENERATOR](https://chrome.google.com/webstore/detail/css3-generator/dmlgmehijaodgkkooghkknjjkddahmej?hl=en-GB)
+- [Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en)
+- [PERFECTPIXEL](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
+- [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
+- [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi)
+- [JSON Viewer Pro](https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc)
+- [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf)
+
 ## Chart Visualizations
 - [Chart.js](https://www.chartjs.org/)
 - [D3.js](https://d3js.org/)
 - [Three.js](https://threejs.org/)
 - [FusionCharts](https://www.fusioncharts.com/)
+- [Google Data Studio](https://datastudio.google.com/visualization)
 
 ## Web Illustrations
 - [Bulbman.art](https://bulbman.art/)
@@ -137,8 +162,9 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [UnDraw](https://undraw.co/)
 - [ShapeFest](https://www.shapefest.com/)
 - [Graphic Burger](https://graphicburger.com/)
+- [Illustrations Kit](https://illustrationkit.com/)
 
-## Web fonts
+## Web fontshttps://github.com/DhanushNehru/Ultimate-Web-Development-Resources/pull/92/conflict?name=README.md&ancestor_oid=704259ee81bef07d99c23a9b5a3e85b48d60df2d&base_oid=2b258e97c88439f0add98a40039166c4d14e0fcf&head_oid=ad68bef0ddc4e2e0eefec460a16f4541506f1770
 - [Google fonts](https://fonts.google.com/)
 - [Font Squirrel](https://www.fontsquirrel.com/)
 - [Fontspace](https://www.fontspace.com/)
@@ -156,6 +182,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 - [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
+- [Interview Cake](https://www.interviewcake.com)
 
 ## Free Website Templates For Inspiration
 - [One Page Love](https://onepagelove.com/)
@@ -167,13 +194,116 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [templatemo](https://templatemo.com/)
 - [HTML5up](https://html5up.net/)
 - [StyleShout](https://www.styleshout.com/free-templates/)
+- [Awwwards](https://www.awwwards.com/)
 - [Themes For App](https://themesfor.app/)
 
 ## Website Copier
 - [Httrack](https://www.httrack.com/)
 - [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy)
 
-Hey, I am Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Nehru)
+## Bio Links
+- [Linktree](https://linktr.ee/)
+- [HeyLink](https://heylink.me/)
+- [BioLink](https://bio.link/)
+
+## Github Student Developer Pack Resources
+More information about the pack can be found here [Github Student Developer Pack](https://www.geeksforgeeks.org/what-is-github-student-developer-pack-and-how-to-get-it/)
+- [FrontendMaster](https://frontendmasters.com/)
+- [OneMonth](https://onemonth.com/github/students)
+- [Datacamp](https://www.datacamp.com/)
+- [Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
+
+## Website for Project Management and Notes
+- [Notion](https://www.notion.so/)
+
+## User Authentication
+- [Auth0](https://auth0.com/)
+- [Firebase](https://firebase.google.com/)
+- [Clerk](https://clerk.dev/)
+- [Next Auth](https://next-auth.js.org)
+
+## Animations and Graphics
+- [Lottie Animations](https://lottiefiles.com/featured)
+- [Rive Animations](https://rive.app/)
+
+## Awesome CSS generators
+- [Buttons CSS generator](https://markodenic.com/tools/buttons-generator/)
+- [Fancy Buttons generator](https://getcssscan.com/css-buttons-examples?ref=beautifulboxshadow-bottom)
+- [Shapes CSS generator](https://getcssscan.com/css-shapes?ref=beautifulbuttons-bottom/)
+
+- [Neumorphism/Soft UI generator](https://neumorphism.io/#e0e0e0)
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app/)
+- [Get Waves](https://getwaves.io/)
+- [Fancy Border Radius Generator](https://9elements.github.io/fancy-border-radius/)
+- [Glassmorphism CSS Generator](https://markodenic.com/tools/glassmorphism-css-generator/)
+- [Ready-made CSS animations](https://animista.net/)
+- [Keyframes Generators](https://keyframes.app/)
+
+
+## Free YouTube resources
+- [Codewithharry](https://www.youtube.com/c/CodeWithHarry/featured)
+- [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+- [LearnCode.academy](https://www.youtube.com/c/learncodeacademy/featured)
+- [Wes Bos](https://www.youtube.com/user/wesbos)
+- [CSS-Tricks](https://www.youtube.com/channel/UCADyUOnhyEoQqrw_RrsGleA)
+- [freeCodeCamp](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+- [DevTips](https://www.youtube.com/user/DevTipsForDesigners)
+- [LevelUpTuts](https://www.youtube.com/user/LevelUpTuts)
+- [Florin Pop](https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA)
+- [The New Boston](https://www.youtube.com/user/thenewboston/featured)
+- [codeSTACKr](https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw)
+- [James Q Quick](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw)
+- [Wed dev Simplified](https://www.youtube.com/c/WebDevSimplified/featured)
+
+
+### HTML Learning Resources
+- [Resources 1](https://www.youtube.com/watch?v=kUMe1FH4CHE)
+- [Resources 2](https://join.codecademy.com/learn/learn-html/)
+- [Resources 3](https://www.w3schools.com/html/)
+- [Resources 4](https://www.tutorialspoint.com/html/index.htm)
+- [Resources 5](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+- [Resources 6](https://www.youtube.com/watch?v=UB1O30fR-EE)
+- [Resources 7](https://www.youtube.com/watch?v=PlxWf493en4)
+
+### CSS Learning Resources
+- [Resources 1](https://web.dev/learn/css/)
+- [Resources 2](https://www.codecademy.com/learn/learn-css)
+- [Resources 3](https://www.w3schools.com/css/)
+- [Resources 4](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+- [Resources 5](https://www.youtube.com/kepowob)
+- [Resources 6](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+
+### JS Learning Resources
+- [Resources 1](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- [Resources 2](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+- [Resources 3](https://www.youtube.com/watch?v=jS4aFq5-91M)
+- [Resources 4](https://www.w3schools.com/js/)
+- [Resources 5](https://join.codecademy.com/learn/introduction-to-javascript/)
+- [Resources 6](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
+
+## Code Playgrounds
+- [CodePen](https://codepen.io/)
+- [JSFiddle](https://jsfiddle.net/)
+- [JS Bin](http://jsbin.com/)
+- [CSS Deck](http://cssdeck.com/)
+- [CodeSandbox](https://codesandbox.io/)
+- [PLAYCODE](https://playcode.io/)
+- [Plunker](https://plnkr.co/)
+- [StackBlitz](https://stackblitz.com/)
+
+## Top React Component Libraries
+- [Material UI](https://mui.com/core/)
+- [Ant Design](https://ant.design/)
+- [React-Bootstrap](https://react-bootstrap.github.io/)
+- [React Router](https://reactrouter.com/en/main)
+- [React Motion](https://github.com/chenglou/react-motion)
+- [Redux](https://redux.js.org/)
+- [Chakra UI](https://chakra-ui.com/)
+- [ThemeUI](https://theme-ui.com/)
+
+
+Hey, I'm Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Nehru)
 
 Searching for a job ? This may help you
 [Ultimate Tech Job List](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs)
@@ -183,3 +313,4 @@ Want to start learning Node Js ? Dont miss to check this out
 
 If you liked this repository support it by starring ⭐ 
 
+Thank You for being here :)

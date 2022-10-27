@@ -1,0 +1,244 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+* {
+	box-sizing: border-box;
+	font-family: "Poppins", Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background: rgb(59, 43, 131);
+}
+
+a {
+	text-decoration: none;
+	color: rgb(250, 250, 250);
+}
+
+main {
+	background: rgb(58, 13, 130);
+}
+
+header,
+footer {
+	background: rgb(23, 5, 55);
+}
+
+header,
+main,
+footer {
+	color: rgb(250, 250, 250);
+	padding: 20px 0;
+}
+
+nav {
+	display: flex;
+	align-items: center;
+	margin-top: 10px;
+}
+
+nav button {
+	background: transparent;
+	border: transparent;
+	color: rgb(250, 250, 250);
+	cursor: pointer;
+	font-size: 1rem;
+	outline: none;
+	text-align: left;
+	width: 60px;
+}
+
+nav a {
+	margin-left: 28px;
+	padding: 5px;
+}
+
+nav a:hover {
+	border-radius: 3px;
+	background: rgb(35, 69, 130);
+}
+
+footer a:hover {
+	color: rgb(211, 195, 255);
+}
+
+.hide {
+	display: none;
+}
+
+/* Containers */
+.container {
+	margin: auto;
+	width: 80%;
+}
+
+.main-container h2 {
+	text-align: center;
+}
+
+/* Float */
+.main-container .columns {
+	width: 100%;
+	height: 1100px;
+}
+
+.columns .left {
+	float: left;
+	width: 30%;
+	max-width: 280px;
+}
+
+.columns .right {
+	float: left;
+	width: 70%;
+}
+
+.columns::after {
+	content: "";
+	clear: both;
+}
+
+.left .rating {
+	margin-top: 40px;
+}
+
+.left .rating input {
+	width: 80%;
+}
+
+.left img {
+	margin-top: 40px;
+	width: 100%;
+}
+
+/* Form */
+form {
+	text-align: center;
+	padding: 20px;
+}
+
+form input {
+	border: 1px solid rgb(55, 15, 100);
+	border-radius: 3px;
+	display: block;
+	margin: auto;
+	font-size: 1.2rem;
+	font-weight: bold;
+	padding: 5px;
+	text-align: center;
+	width: 280px;
+}
+
+form input:focus {
+	outline: none;
+}
+
+form #form-result {
+	background: rgb(35, 130, 60);
+	font-size: 0.9rem;
+	margin: 20px auto 0;
+	padding: 5px;
+	min-width: 280px;
+	max-width: 50%;
+}
+
+form #form-result div {
+	margin: 5px;
+}
+
+#characters {
+	margin: 20px 0;
+	text-align: center;
+}
+
+#characters .chars {
+	display: flex;
+	flex-wrap: nowrap;
+	justify-content: space-evenly;
+	align-items: center;
+	margin: 20px 0;
+	min-height: 120px;
+}
+
+#characters .chars .char {
+	background: rgb(35, 130, 37);
+	cursor: pointer;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-weight: bold;
+	width: 120px;
+	height: 120px;
+	border-radius: 20%;
+}
+
+#characters .chars .char:hover {
+	transform: scale(1.1);
+}
+
+#characters .chars .char-1 {
+	background-image: url("./images/din_djarin.png");
+	background-size: cover;
+}
+
+#characters .chars .char-2 {
+	background-image: url("./images/han_solo.png");
+	background-size: cover;
+}
+
+#characters .chars .char-3 {
+	background-image: url("./images/luke_skywalker.png");
+	background-size: cover;
+}
+
+#characters .chars .char-4 {
+	background-image: url("./images/rey.png");
+	background-size: cover;
+}
+
+#random {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+#random button {
+	background-color: rgb(5, 20, 55);
+	border: 2px solid rgb(250, 250, 250);
+	border-radius: 3px;
+	color: rgb(250, 250, 250);
+	cursor: pointer;
+	margin: 10px;
+	padding: 5px;
+	outline: none;
+	width: 200px;
+}
+
+#random button:hover {
+	background-color: rgb(35, 69, 130);
+}
+
+#random #random-result {
+	background: rgb(35, 69, 130);
+	display: flex;
+	justify-content: start;
+	align-items: center;
+	margin: 20px auto;
+	padding: 20px;
+	width: 80%;
+}
+
+#random .char-image {
+	width: 30%;
+	text-align: center;
+}
+
+#random .char-image #char-img {
+	max-width: 200px;
+	max-height: 200px;
+}
+
+#random .char-details {
+	width: 70%;
+}
