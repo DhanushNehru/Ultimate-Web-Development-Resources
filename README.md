@@ -118,6 +118,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Burst.shopify](https://burst.shopify.com/)
 - [Freepik](https://www.freepik.com/)
 - [MorgueFile](https://morguefile.com/)
+- [Undraw](https://undraw.co/)
 
 ## Web Color Palettes
 - [Coolors](http://coolors.co)
@@ -165,7 +166,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Graphic Burger](https://graphicburger.com/)
 - [Illustrations Kit](https://illustrationkit.com/)
 
-## Web fonts
+## Web fontshttps://github.com/DhanushNehru/Ultimate-Web-Development-Resources/pull/92/conflict?name=README.md&ancestor_oid=704259ee81bef07d99c23a9b5a3e85b48d60df2d&base_oid=2b258e97c88439f0add98a40039166c4d14e0fcf&head_oid=ad68bef0ddc4e2e0eefec460a16f4541506f1770
 - [Google fonts](https://fonts.google.com/)
 - [Font Squirrel](https://www.fontsquirrel.com/)
 - [Fontspace](https://www.fontspace.com/)
