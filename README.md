@@ -31,6 +31,9 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
   - [Animations and Graphics](#animations-and-graphics)
   - [Awesome CSS generators](#awesome-css-generators)
   - [Free YouTube resources](#free-youtube-resources)
+  - [HTML Learning Resources](#HTML-Learning-Resources)
+  - [CSS Learning Resources](#CSS-Learning-Resources)
+  - [JS Learning Resources](#JS-Learning-Resources)
   - [Code Playgrounds](#code-playgrounds)
   - [Top React Component Libraries](#Top-React-Component-Libraries)
 
@@ -166,7 +169,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Graphic Burger](https://graphicburger.com/)
 - [Illustrations Kit](https://illustrationkit.com/)
 
-## Web fontshttps://github.com/DhanushNehru/Ultimate-Web-Development-Resources/pull/92/conflict?name=README.md&ancestor_oid=704259ee81bef07d99c23a9b5a3e85b48d60df2d&base_oid=2b258e97c88439f0add98a40039166c4d14e0fcf&head_oid=ad68bef0ddc4e2e0eefec460a16f4541506f1770
+## Web fonts
 - [Google fonts](https://fonts.google.com/)
 - [Font Squirrel](https://www.fontsquirrel.com/)
 - [Fontspace](https://www.fontspace.com/)
@@ -260,7 +263,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Thapa Technical](https://www.youtube.com/c/ThapaTechnical)
 
 
-### HTML Learning Resources
+## HTML Learning Resources
 - [Resources 1](https://www.youtube.com/watch?v=kUMe1FH4CHE)
 - [Resources 2](https://join.codecademy.com/learn/learn-html/)
 - [Resources 3](https://www.w3schools.com/html/)
@@ -269,7 +272,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Resources 6](https://www.youtube.com/watch?v=UB1O30fR-EE)
 - [Resources 7](https://www.youtube.com/watch?v=PlxWf493en4)
 
-### CSS Learning Resources
+## CSS Learning Resources
 - [Resources 1](https://web.dev/learn/css/)
 - [Resources 2](https://www.codecademy.com/learn/learn-css)
 - [Resources 3](https://www.w3schools.com/css/)
@@ -277,7 +280,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Resources 5](https://www.youtube.com/kepowob)
 - [Resources 6](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
 
-### JS Learning Resources
+## JS Learning Resources
 - [Resources 1](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [Resources 2](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 - [Resources 3](https://www.youtube.com/watch?v=jS4aFq5-91M)
