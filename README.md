@@ -5,44 +5,48 @@ A collection of Web Developement Resources at one place
 ![Ultimate-Web-Development-Resources by Dhanush N](https://github.com/DHANUSHXENO/Ultimate-Web-Development-Resources/blob/main/cover.png)
 
 ## Contributing
+
 Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Development-Resources/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DHANUSHXENO/Ultimate-Web-Development-Resources/blob/main/CODE-OF-CONDUCT.md) for details before you contribute.
 
 ## Table of Contents
-  - [Web Development Roadmaps](#web-development-roadmaps)
-  - [Web design softwares](#web-design-softwares)
-  - [Prototyping tools for UI/UX](#prototyping-tools-for-uiux)
-  - [Free Hosting](#free-hosting)
-  - [Websites to learn](#websites-to-learn)
-  - [Websites for code challenges](#websites-for-code-challenges)
-  - [Web Images or Photos](#web-images-or-photos)
-  - [Web Color Palettes](#web-color-palettes)
-  - [Chrome Extensions For Web Developers](#chrome-extensions-for-web-developers)
-  - [Chart Visualizations](#chart-visualizations)
-  - [Web Illustrations](#web-illustrations)
-  - [Web fonts](#web-fonts)
-  - [Website Optimization Tools](#website-optimization-tools)
-  - [Interview Preparation](#interview-preparation)
-  - [Free Website Templates For Inspiration](#free-website-templates-for-inspiration)
-  - [Website Copier](#website-copier)
-  - [Bio Links](#Bio-Links)
-  - [Github Student Developer Pack Resources](#Github-Student-Developer-Pack-Resources)
-  - [Website for Project Management and Notes](#website-for-project-management-and-notes)
-  - [User Authentication](#user-authentication)
-  - [Animations and Graphics](#animations-and-graphics)
-  - [Awesome CSS generators](#awesome-css-generators)
-  - [Free YouTube resources](#free-youtube-resources)
-  - [HTML Learning Resources](#HTML-Learning-Resources)
-  - [CSS Learning Resources](#CSS-Learning-Resources)
-  - [JS Learning Resources](#JS-Learning-Resources)
-  - [Code Playgrounds](#code-playgrounds)
-  - [Top React Component Libraries](#Top-React-Component-Libraries)
+
+- [Web Development Roadmaps](#web-development-roadmaps)
+- [Web design softwares](#web-design-softwares)
+- [Prototyping tools for UI/UX](#prototyping-tools-for-uiux)
+- [Free Hosting](#free-hosting)
+- [Websites to learn](#websites-to-learn)
+- [Websites for code challenges](#websites-for-code-challenges)
+- [Web Images or Photos](#web-images-or-photos)
+- [Web Color Palettes](#web-color-palettes)
+- [Chrome Extensions For Web Developers](#chrome-extensions-for-web-developers)
+- [Chart Visualizations](#chart-visualizations)
+- [Web Illustrations](#web-illustrations)
+- [Web fonts](#web-fonts)
+- [Website Optimization Tools](#website-optimization-tools)
+- [Interview Preparation](#interview-preparation)
+- [Free Website Templates For Inspiration](#free-website-templates-for-inspiration)
+- [Website Copier](#website-copier)
+- [Bio Links](#Bio-Links)
+- [Github Student Developer Pack Resources](#Github-Student-Developer-Pack-Resources)
+- [Website for Project Management and Notes](#website-for-project-management-and-notes)
+- [User Authentication](#user-authentication)
+- [Animations and Graphics](#animations-and-graphics)
+- [Awesome CSS generators](#awesome-css-generators)
+- [Free YouTube resources](#free-youtube-resources)
+- [HTML Learning Resources](#HTML-Learning-Resources)
+- [CSS Learning Resources](#CSS-Learning-Resources)
+- [JS Learning Resources](#JS-Learning-Resources)
+- [Code Playgrounds](#code-playgrounds)
+- [Top React Component Libraries](#Top-React-Component-Libraries)
 
 ## Web Development Roadmaps
+
 - [Frontend Development](https://roadmap.sh/frontend)
 - [Backend Development](https://roadmap.sh/backend)
 - [FullStack Development](https://www.theinsaneapp.com/2020/11/web-developer-roadmap-by-kamran-ahmed.html)
 
 ## Web design softwares
+
 - [Adobe Dreamweaver](https://www.adobe.com/in/products/dreamweaver.html)
 - [Rapidweaver](https://www.realmacsoftware.com/rapidweaver/)
 - [Coffeecup HTML Editor](https://www.coffeecup.com/html-editor/)
@@ -52,6 +56,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Figma](https://www.figma.com/design/?utm_source=google&utm_medium=cpc&utm_campaign=17873985255&utm_term=design%20software&utm_content=613237509572&gclid=Cj0KCQjwkt6aBhDKARIsAAyeLJ2tS_qfB9w63_uwByAElTGIXk3qtPAajqy-1XXZRc_sjn-xXjlw4WYaArnaEALw_wcB)
 
 ## Prototyping tools for UI/UX
+
 - [Figma](https://www.figma.com/)
 - [Invision](https://www.invisionapp.com/studio)
 - [AdobeXD](https://www.adobe.com)
@@ -61,6 +66,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Balsamiq Wireframing](https://balsamiq.com/)
 
 ## Free Hosting
+
 - [Vercel](https://vercel.com)
 - [Amazon](https://aws.amazon.com)
 - [Netlify](https://www.netlify.com)
@@ -74,6 +80,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [InfinityFree](https://www.infinityfree.net/)
 
 ## Websites to learn
+
 - [Freecodecamp](http://freecodecamp.org)
 - [Codeacademy](http://codecademy.com)
 - [w3schools](https://www.w3schools.com/)
@@ -94,6 +101,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Full Stack Open](https://fullstackopen.com/en/)
 
 ## Websites for code challenges
+
 - [AtCoder](https://atcoder.jp)
 - [Code Wars](http://codewars.com)
 - [Top Coder](http://topcoder.com)
@@ -114,6 +122,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [KodeKloud](https://kodekloud.com/kodekloud-engineer/)
 
 ## Web Images or Photos
+
 - [Flickr](https://www.flickr.com/)
 - [Unsplash](http://unsplash.com)
 - [Pixaby](http://pixabay.com)
@@ -124,6 +133,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Undraw](https://undraw.co/)
 
 ## Web Color Palettes
+
 - [Coolors](http://coolors.co)
 - [Colorhunt](http://colorhunt.co)
 - [Paletton](http://paletton.com)
@@ -131,6 +141,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [MyColor](http://mycolor.space)
 
 ## Chrome Extensions For Web Developers
+
 - [CSS3 GENERATOR](https://chrome.google.com/webstore/detail/css3-generator/dmlgmehijaodgkkooghkknjjkddahmej?hl=en-GB)
 - [Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en)
 - [PERFECTPIXEL](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
@@ -138,8 +149,10 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome/bakpbgckdnepkmkeaiomhmfcnejndkbi)
 - [JSON Viewer Pro](https://chrome.google.com/webstore/detail/json-viewer-pro/eifflpmocdbdmepbjaopkkhbfmdgijcc)
 - [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf)
+- [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg)
 
 ## Chart Visualizations
+
 - [Chart.js](https://www.chartjs.org/)
 - [D3.js](https://d3js.org/)
 - [Three.js](https://threejs.org/)
@@ -147,6 +160,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Google Data Studio](https://datastudio.google.com/visualization)
 
 ## Web Illustrations
+
 - [Bulbman.art](https://bulbman.art/)
 - [Drawkit.io](https://www.drawkit.io/)
 - [Icons8.com](https://icons8.com/)
@@ -170,6 +184,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Illustrations Kit](https://illustrationkit.com/)
 
 ## Web fonts
+
 - [Google fonts](https://fonts.google.com/)
 - [Font Squirrel](https://www.fontsquirrel.com/)
 - [Fontspace](https://www.fontspace.com/)
@@ -177,6 +192,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [fontawesome](https://fontawesome.com/)
 
 ## Website Optimization Tools
+
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 - [GTmetrix](https://gtmetrix.com/)
 - [Webpagetest](https://www.webpagetest.org/)
@@ -184,13 +200,15 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Optimizeimages](https://www.optimizeimages.com)
 - [JSON validator and formatter](https://jsonlint.com)
 
-## Interview Preparation 
+## Interview Preparation
+
 - [Front End Interview Handbook](https://www.frontendinterviewhandbook.com/)
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 - [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
 - [Interview Cake](https://www.interviewcake.com)
 
 ## Free Website Templates For Inspiration
+
 - [One Page Love](https://onepagelove.com/)
 - [UIdeck](https://uideck.com/)
 - [Tooplate](https://www.tooplate.com/)
@@ -204,35 +222,43 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Themes For App](https://themesfor.app/)
 
 ## Website Copier
+
 - [Httrack](https://www.httrack.com/)
 - [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy)
 
 ## Bio Links
+
 - [Linktree](https://linktr.ee/)
 - [HeyLink](https://heylink.me/)
 - [BioLink](https://bio.link/)
 
 ## Github Student Developer Pack Resources
+
 More information about the pack can be found here [Github Student Developer Pack](https://www.geeksforgeeks.org/what-is-github-student-developer-pack-and-how-to-get-it/)
+
 - [FrontendMaster](https://frontendmasters.com/)
 - [OneMonth](https://onemonth.com/github/students)
 - [Datacamp](https://www.datacamp.com/)
 - [Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
 
 ## Website for Project Management and Notes
+
 - [Notion](https://www.notion.so/)
 
 ## User Authentication
+
 - [Auth0](https://auth0.com/)
 - [Firebase](https://firebase.google.com/)
 - [Clerk](https://clerk.dev/)
 - [Next Auth](https://next-auth.js.org)
 
 ## Animations and Graphics
+
 - [Lottie Animations](https://lottiefiles.com/featured)
 - [Rive Animations](https://rive.app/)
 
 ## Awesome CSS generators
+
 - [Buttons CSS generator](https://markodenic.com/tools/buttons-generator/)
 - [Fancy Buttons generator](https://getcssscan.com/css-buttons-examples?ref=beautifulboxshadow-bottom)
 - [Shapes CSS generator](https://getcssscan.com/css-shapes?ref=beautifulbuttons-bottom/)
@@ -246,6 +272,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Keyframes Generators](https://keyframes.app/)
 
 ## Free YouTube resources
+
 - [Codewithharry](https://www.youtube.com/c/CodeWithHarry/featured)
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
@@ -262,8 +289,8 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Wed dev Simplified](https://www.youtube.com/c/WebDevSimplified/featured)
 - [Thapa Technical](https://www.youtube.com/c/ThapaTechnical)
 
-
 ## HTML Learning Resources
+
 - [Resources 1](https://www.youtube.com/watch?v=kUMe1FH4CHE)
 - [Resources 2](https://join.codecademy.com/learn/learn-html/)
 - [Resources 3](https://www.w3schools.com/html/)
@@ -273,6 +300,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Resources 7](https://www.youtube.com/watch?v=PlxWf493en4)
 
 ## CSS Learning Resources
+
 - [Resources 1](https://web.dev/learn/css/)
 - [Resources 2](https://www.codecademy.com/learn/learn-css)
 - [Resources 3](https://www.w3schools.com/css/)
@@ -281,6 +309,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Resources 6](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
 
 ## JS Learning Resources
+
 - [Resources 1](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [Resources 2](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 - [Resources 3](https://www.youtube.com/watch?v=jS4aFq5-91M)
@@ -289,6 +318,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Resources 6](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 
 ## Code Playgrounds
+
 - [CodePen](https://codepen.io/)
 - [JSFiddle](https://jsfiddle.net/)
 - [JS Bin](http://jsbin.com/)
@@ -299,6 +329,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [StackBlitz](https://stackblitz.com/)
 
 ## Top React Component Libraries
+
 - [Material UI](https://mui.com/core/)
 - [Ant Design](https://ant.design/)
 - [React-Bootstrap](https://react-bootstrap.github.io/)
@@ -309,8 +340,8 @@ More information about the pack can be found here [Github Student Developer Pack
 - [ThemeUI](https://theme-ui.com/)
 
 ## Tutorial in Other Languages
-- [Indonesian](./lang/indonesian.md)
 
+- [Indonesian](./lang/indonesian.md)
 
 Hey, I'm Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Nehru)
 
@@ -320,6 +351,6 @@ Searching for a job ? This may help you
 Want to start learning Node Js ? Dont miss to check this out
 [Ultimate NodeJs Resources](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources)
 
-If you liked this repository support it by starring ⭐ 
+If you liked this repository support it by starring ⭐
 
 Thank You for being here :)
