@@ -207,7 +207,6 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Tech Interview Handbook](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 - [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
 - [Interview Cake](https://www.interviewcake.com)
-- [Google Interview Warmup](https://grow.google/certificates/interview-warmup/)
 
 ## Free Website Templates For Inspiration
 
@@ -290,6 +289,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [James Q Quick](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw)
 - [Wed dev Simplified](https://www.youtube.com/c/WebDevSimplified/featured)
 - [Thapa Technical](https://www.youtube.com/c/ThapaTechnical)
+- [Coder Coder](https://www.youtube.com/c/TheCoderCoder)
 
 ## HTML Learning Resources
 
