@@ -294,6 +294,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [James Q Quick](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw)
 - [Wed dev Simplified](https://www.youtube.com/c/WebDevSimplified/featured)
 - [Thapa Technical](https://www.youtube.com/c/ThapaTechnical)
+- [Coder Coder](https://www.youtube.com/c/TheCoderCoder)
 
 ## HTML Learning Resources
 
