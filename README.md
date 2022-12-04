@@ -347,6 +347,29 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Chakra UI](https://chakra-ui.com/)
 - [ThemeUI](https://theme-ui.com/)
 
+## Top JavaScript Libraries
+- [jQuery](https://jquery.com/)
+- [React.js](https://reactjs.org/)
+- [D3.js](https://d3js.org/)
+- [Bideo.js](https://rishabhp.github.io/bideo.js/)
+- [Anime.js](https://animejs.com/)
+- [Chart.js](chartjs.org)
+- [Three.js](https://threejs.org/)
+- [Glimmer](https://glimmerjs.com/)
+- [TensorFlow.js](https://www.tensorflow.org/js)
+- [face-api.js](https://github.com/justadudewhohacks/face-api.js/)
+
+## Top JavaScript Frameworks
+- [AngularJS](https://angularjs.org/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Vue.js](https://vuejs.org/)
+- [Ember.js](https://emberjs.com/)
+- [Node.js](https://nodejs.org/en/)
+- [Next.js](https://nextjs.org/)
+- [Gatsby](https://www.gatsbyjs.com/)
+- [ExpressJS](https://expressjs.com/)
+- [Meteor.js](https://www.meteor.com/)
+
 ## Tutorial in Other Languages
 
 - [Indonesian](./lang/indonesian.md)
