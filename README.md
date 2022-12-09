@@ -314,6 +314,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Resources 4](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 - [Resources 5](https://www.youtube.com/kepowob)
 - [Resources 6](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+- [Resources 7](https://www.simplilearn.com/tutorials/css-tutorial)
 
 ## JS Learning Resources
 
