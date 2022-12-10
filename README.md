@@ -383,6 +383,9 @@ Searching for a job ? This may help you
 Want to start learning Node Js ? Dont miss to check this out
 [Ultimate NodeJs Resources](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources)
 
+## Free Development Logos and designs 
+[Github Repo for batches](https://github.com/Ileriayo/markdown-badges)
+
 If you liked this repository support it by starring ⭐
 
 Thank You for being here :)
