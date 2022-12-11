@@ -277,6 +277,7 @@ Hey, I am Dhanush N, a Full Stack Developer who likes to contribute to Open Sour
 - [codeSTACKr](https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw)
 - [James Q Quick](https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw)
 - [Wed dev Simplified](https://www.youtube.com/c/WebDevSimplified/featured)
+- [Thapa Technical](https://www.youtube.com/c/ThapaTechnical)
 
 ## Code Playgrounds
 - [CodePen](https://codepen.io/)
