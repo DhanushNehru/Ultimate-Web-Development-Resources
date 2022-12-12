@@ -38,6 +38,8 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [JS Learning Resources](#JS-Learning-Resources)
 - [Code Playgrounds](#code-playgrounds)
 - [Top React Component Libraries](#Top-React-Component-Libraries)
+- [Top JavaScript Libraries](#Top-JavaScript-Libraries)
+- [Top JavaScript Frameworks](#Top-JavaScript-Frameworks)
 
 ## Web Development Roadmaps
 
