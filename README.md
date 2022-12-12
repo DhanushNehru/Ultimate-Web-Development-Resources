@@ -378,13 +378,11 @@ More information about the pack can be found here [Github Student Developer Pack
 Hey, I'm Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Nehru)
 
 Searching for a job ? This may help you
-[Ultimate Tech Job List](https://github.com/DHANUSHXENO/Ultimate-Tech-Jobs)
+[Ultimate Tech Job List](https://github.com/DhanushNehru/Ultimate-Tech-Jobs)
 
 Want to start learning Node Js ? Dont miss to check this out
-[Ultimate NodeJs Resources](https://github.com/DHANUSHXENO/Ultimate-NodeJs-Resources)
+[Ultimate NodeJs Resources](https://github.com/DhanushNehru/Ultimate-NodeJs-Resources)
 
-## Free Development Logos and designs 
-[Github Repo for batches](https://github.com/Ileriayo/markdown-badges)
 
 If you liked this repository support it by starring ⭐
 
