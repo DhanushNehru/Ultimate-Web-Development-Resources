@@ -206,6 +206,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Yslow](http://yslow.org/)
 - [Optimizeimages](https://www.optimizeimages.com)
 - [JSON validator and formatter](https://jsonlint.com)
+- [DebugBear Speed Test](https://www.debugbear.com/test/website-speed)
 
 ## Interview Preparation
 
