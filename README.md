@@ -328,6 +328,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Resources 5](https://join.codecademy.com/learn/introduction-to-javascript/)
 - [Resources 6](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 
+
 ## Code Playgrounds
 
 - [CodePen](https://codepen.io/)
