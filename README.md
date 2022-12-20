@@ -328,6 +328,16 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Resources 5](https://join.codecademy.com/learn/introduction-to-javascript/)
 - [Resources 6](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 
+## Mini Projects using HTML,CSS and Javascript
+
+- [Simple Calculator](https://www.youtube.com/watch?v=HQCLzqhiT2w)
+- [Tic Tac Toe](https://www.youtube.com/watch?v=Y-GkMjUZsmM)
+- [Build a Clock](https://www.youtube.com/watch?v=Ki0XXrlKlHY)
+- [Filterable Image Gallery](https://www.youtube.com/watch?v=VZ07OjhdJlc&list=PL9bD98LkBR7P16BndaNtP4x6Wf5Ib85Hm&index=3)
+- [Ecommerce website](https://www.youtube.com/watch?v=P8YuWEkTeuE)
+- [Responsive Personal Porfolio](https://www.youtube.com/watch?v=StdOJkz35vQ&list=PL7O32me0iMoIlc5nPd6rqEfTziGj6_wJ4&index=6)
+- [More mini projects](https://www.youtube.com/watch?v=ePzOFu2xXUQ)
+
 ## Code Playgrounds
 
 - [CodePen](https://codepen.io/)
