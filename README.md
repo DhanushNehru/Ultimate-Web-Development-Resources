@@ -36,6 +36,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [HTML Learning Resources](#HTML-Learning-Resources)
 - [CSS Learning Resources](#CSS-Learning-Resources)
 - [JS Learning Resources](#JS-Learning-Resources)
+- [Tutorials of creating mini projects using HTML,CSS and Javascript](#Tutorials-of-creating-mini-projects-using-HTML-,-CSS-and-Javascript)
 - [Code Playgrounds](#code-playgrounds)
 - [Top React Component Libraries](#Top-React-Component-Libraries)
 - [Top JavaScript Libraries](#Top-JavaScript-Libraries)
