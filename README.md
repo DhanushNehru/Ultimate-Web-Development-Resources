@@ -328,7 +328,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Resources 5](https://join.codecademy.com/learn/introduction-to-javascript/)
 - [Resources 6](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 
-## Mini Projects using HTML,CSS and Javascript
+## Tutorials of creating mini projects using HTML,CSS and Javascript
 
 - [Simple Calculator](https://www.youtube.com/watch?v=HQCLzqhiT2w)
 - [Tic Tac Toe](https://www.youtube.com/watch?v=Y-GkMjUZsmM)
