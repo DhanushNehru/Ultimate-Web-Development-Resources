@@ -1,0 +1,35 @@
+@media screen and (max-width: 1220px) {
+  .navigation {
+    flex-direction: column;
+  }
+  .left {
+    flex-direction: column;
+    text-align: center;
+  }
+  .content-right {
+    display: none;
+  }
+  .content {
+    height: 100%;
+  }
+  .home-article {
+    align-items: center;
+    flex-direction: column;
+  }
+  .home-article-img {
+    text-align: center;
+    justify-content: center;
+  }
+  .form-box input {
+    width: 50vw;
+  }
+  .form-box textarea {
+    width: 50vw;
+  }
+  .para1 {
+    margin-top: 3vh;
+  }
+  .forms-input {
+    width: 50%;
+  }
+}
