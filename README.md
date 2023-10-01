@@ -10,36 +10,40 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 
 ## Table of Contents
 
-- [Web Development Roadmaps](#web-development-roadmaps)
-- [Web design softwares](#web-design-softwares)
-- [Prototyping tools for UI/UX](#prototyping-tools-for-uiux)
-- [Free Hosting](#free-hosting)
-- [Websites to learn](#websites-to-learn)
-- [Websites for code challenges](#websites-for-code-challenges)
-- [Web Images or Photos](#web-images-or-photos)
-- [Web Color Palettes](#web-color-palettes)
-- [Chrome Extensions For Web Developers](#chrome-extensions-for-web-developers)
-- [Chart Visualizations](#chart-visualizations)
-- [Web Illustrations](#web-illustrations)
-- [Web fonts](#web-fonts)
-- [Website Optimization Tools](#website-optimization-tools)
-- [Interview Preparation](#interview-preparation)
-- [Free Website Templates For Inspiration](#free-website-templates-for-inspiration)
-- [Website Copier](#website-copier)
-- [Bio Links](#Bio-Links)
-- [Github Student Developer Pack Resources](#Github-Student-Developer-Pack-Resources)
-- [Website for Project Management and Notes](#website-for-project-management-and-notes)
-- [User Authentication](#user-authentication)
-- [Animations and Graphics](#animations-and-graphics)
-- [Awesome CSS generators](#awesome-css-generators)
-- [Free YouTube resources](#free-youtube-resources)
-- [HTML Learning Resources](#HTML-Learning-Resources)
-- [CSS Learning Resources](#CSS-Learning-Resources)
-- [JS Learning Resources](#JS-Learning-Resources)
-- [Code Playgrounds](#code-playgrounds)
-- [Top React Component Libraries](#Top-React-Component-Libraries)
-- [Top JavaScript Libraries](#Top-JavaScript-Libraries)
-- [Top JavaScript Frameworks](#Top-JavaScript-Frameworks)
+- [Ultimate-Web-Development-Resources](#ultimate-web-development-resources)
+  - [Contributing](#contributing)
+  - [Table of Contents](#table-of-contents)
+  - [Web Development Roadmaps](#web-development-roadmaps)
+  - [Web design softwares](#web-design-softwares)
+  - [Prototyping tools for UI/UX](#prototyping-tools-for-uiux)
+  - [Free Hosting](#free-hosting)
+  - [Websites to learn](#websites-to-learn)
+  - [Websites for code challenges](#websites-for-code-challenges)
+  - [Web Images or Photos](#web-images-or-photos)
+  - [Web Color Palettes](#web-color-palettes)
+  - [Chrome Extensions For Web Developers](#chrome-extensions-for-web-developers)
+  - [Chart Visualizations](#chart-visualizations)
+  - [Web Illustrations](#web-illustrations)
+  - [Web fonts](#web-fonts)
+  - [Website Optimization Tools](#website-optimization-tools)
+  - [Interview Preparation](#interview-preparation)
+  - [Free Website Templates For Inspiration](#free-website-templates-for-inspiration)
+  - [Website Copier](#website-copier)
+  - [Bio Links](#bio-links)
+  - [Github Student Developer Pack Resources](#github-student-developer-pack-resources)
+  - [Website for Project Management and Notes](#website-for-project-management-and-notes)
+  - [User Authentication](#user-authentication)
+  - [Animations and Graphics](#animations-and-graphics)
+  - [Awesome CSS generators](#awesome-css-generators)
+  - [Free YouTube resources](#free-youtube-resources)
+  - [HTML Learning Resources](#html-learning-resources)
+  - [CSS Learning Resources](#css-learning-resources)
+  - [JS Learning Resources](#js-learning-resources)
+  - [Code Playgrounds](#code-playgrounds)
+  - [Top React Component Libraries](#top-react-component-libraries)
+  - [Top JavaScript Libraries](#top-javascript-libraries)
+  - [Top JavaScript Frameworks](#top-javascript-frameworks)
+  - [Tutorial in Other Languages](#tutorial-in-other-languages)
 
 ## Web Development Roadmaps
 
@@ -144,6 +148,7 @@ Please see [CONTRIBUTING](https://github.com/DHANUSHXENO/Ultimate-Web-Developmen
 - [Color Hex](http://color-hex.com)
 - [MyColor](http://mycolor.space)
 - [UIColorPicker](https://uicolorpicker.com/)
+- [Realtime Colors](https://www.realtimecolors.com)
 
 ## Chrome Extensions For Web Developers
 
@@ -332,7 +337,6 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Resources 5](https://join.codecademy.com/learn/introduction-to-javascript/)
 - [Resources 6](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 
-
 ## Code Playgrounds
 
 - [CodePen](https://codepen.io/)
@@ -357,6 +361,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [ThemeUI](https://theme-ui.com/)
 
 ## Top JavaScript Libraries
+
 - [jQuery](https://jquery.com/)
 - [React.js](https://reactjs.org/)
 - [D3.js](https://d3js.org/)
@@ -369,6 +374,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js/)
 
 ## Top JavaScript Frameworks
+
 - [AngularJS](https://angularjs.org/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Vue.js](https://vuejs.org/)
@@ -390,7 +396,6 @@ Searching for a job ? This may help you
 
 Want to start learning Node Js ? Dont miss to check this out
 [Ultimate NodeJs Resources](https://github.com/DhanushNehru/Ultimate-NodeJs-Resources)
-
 
 If you liked this repository support it by starring ⭐
 
