@@ -30,6 +30,7 @@ p{
 
 #title{
     text-align: left;
+    margin-top: 132px;
 }
 
 /* Sections */
@@ -48,10 +49,7 @@ p{
 
 .logo{
     width: 100px;
-}
-
-.navbar{
-    padding-bottom: 4.5rem;
+    height: 100px;
 }
 
 .navbar-brand{
