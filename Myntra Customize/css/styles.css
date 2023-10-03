@@ -30,6 +30,7 @@ p{
 
 #title{
     text-align: left;
+    margin-top: 132px;
 }
 
 /* Sections */
@@ -44,14 +45,13 @@ p{
 }
 
 /* Navigation Bar */
-
+nav {
+    background-color: black !important;
+}
 
 .logo{
     width: 100px;
-}
-
-.navbar{
-    padding-bottom: 4.5rem;
+    height: 100px;
 }
 
 .navbar-brand{
@@ -67,6 +67,11 @@ p{
 .nav-link{
     font-family: Monserrat-Light;
     font-size: 1.2rem;
+    color: white;
+}
+
+.navbar-nav li:hover{
+    background-color: #E72744;
 }
 
 /* Download Buttons */
