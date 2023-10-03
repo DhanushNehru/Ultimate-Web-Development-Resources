@@ -45,7 +45,9 @@ p{
 }
 
 /* Navigation Bar */
-
+nav {
+    background-color: black !important;
+}
 
 .logo{
     width: 100px;
@@ -65,6 +67,11 @@ p{
 .nav-link{
     font-family: Monserrat-Light;
     font-size: 1.2rem;
+    color: white;
+}
+
+.navbar-nav li:hover{
+    background-color: #E72744;
 }
 
 /* Download Buttons */
