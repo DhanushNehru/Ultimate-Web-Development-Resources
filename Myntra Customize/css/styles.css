@@ -64,15 +64,58 @@ nav {
     padding: 0 18px;
 }
 
+.nav-item.aboutDropdown {
+    margin-top: 7px;
+}
+
 .nav-link{
-    font-family: Monserrat-Light;
-    font-size: 1.2rem;
+    font-family: inherit;
+    font-size: 1rem;
     color: white;
 }
 
-.navbar-nav li:hover{
-    background-color: #E72744;
+.navbar .nav-item .nav-link:hover, .navbar a:hover, .dropdown:hover .dropbtn, button.navbar-toggler{
+    background-color: white;
+    color: black;
 }
+
+.navbar .nav-item .nav-link.active {
+    background-color: #E72744 !important;
+}
+
+/*Dropdown in navigation*/
+.dropdown .dropbtn {
+  font-family: inherit;
+  font-size: 1rem;
+  border: none;
+  outline: none;
+  color: white;
+  background-color: inherit;
+  margin: 0; 
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
 
 /* Download Buttons */
 
@@ -145,7 +188,7 @@ nav {
 /* Pricing Section */
 
 #pricing{
-    padding: 100px;
+    padding: 70px;
 }
 
 .pricing-column{
