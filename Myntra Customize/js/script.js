@@ -1,4 +1,5 @@
 $(document).ready(function() {
+    /*Show the active clicked navigation item*/
     document.querySelectorAll(".nav-link").forEach((link) => {
         if (link.hash === window.location.hash) {
             link.classList.add("active");
@@ -6,6 +7,7 @@ $(document).ready(function() {
         }
     });
 
+    /*On clicking the links in navigation bar*/
     $(".navbar li a").on('click', function(event) {
         $(".navbar li a").removeClass("active");
         $(this).addClass("active");
@@ -15,5 +17,21 @@ $(document).ready(function() {
                 scrollTop: sectionTop
             }, 500);
         }
+    });
+
+    /*Scroll to top Button*/
+    var goToTop = $('#GoToTopButton');
+    $(window).scroll(function() {
+        if ($(window).scrollTop() > 500) {
+            goToTop.addClass('showScrollTopButton');
+        } else {
+            goToTop.removeClass('showScrollTopButton');
+        }
+    });
+    goToTop.on('click', function(event) {
+        event.preventDefault();
+        $('html, body').animate({
+            scrollTop: 0
+        }, '300');
     });
 });
