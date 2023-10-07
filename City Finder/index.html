@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Skypeia</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script> 
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+</head>
+<body>
+    <header>
+        <div class="container">
+            <nav class="nav">
+                <ul class="nav-list nav-list-mobile">
+                    <li class="nav-item">
+                        <div class="mobile-menu">
+                            <span class="line line-top"></span>
+                            <span class="line line-middle"></span>
+                            <span class="line line-bottom"></span>
+                        </div>
+                    </li>
+                    <li class="nav-item">
+                        <a href="index.html" class="nav-link nav-link-home"></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="https://www.instagram.com/rugvednarvenker/" class="nav-link nav-link-insta"></a>
+                    </li>
+                </ul>
+                <!-- /.nav-list nav-list-mobile -->
+                <ul class="nav-list nav-list-larger">
+                    <li class="nav-item nav-item-hidden">
+                        <a href="index.html" class="nav-link nav-link-home"></a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="index.html" class="nav-link">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="predictor.html" class="nav-link">Predictor</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="option.html" class="nav-link">Option</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">Option</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#" class="nav-link">My Account</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="https://twitter.com/NarvenkerRugved" class="nav-link nav-link-twitter"></a>
+                    </li>
+                    <li class="nav-item nav-item-hidden">
+                        <a href="https://www.instagram.com/rugvednarvenker/" class="nav-link nav-link-insta"></a>
+                    </li>
+                </ul>
+            <!-- /.nav-list nav-list-larger -->
+            </nav>
+        </div>
+</header>
+
+<div class="Heading">
+  <div class="title">
+  <h3>Map<span</h3>
+</div>
+
+        
+  <div class="map-container">
+        <div id="map"></div>
+  </div>
+  <div class="location-form">
+    <form id="location-form">
+        <label for="district">Select Location:</label>
+        <select id="district">
+            <option value="Dehradun">Dehradun</option> <!-- Added Dehradun as a district -->
+                <!-- Add other district options here -->
+        </select>
+        <label for="station">Select Station:</label>
+         <select id="station">
+                <option value="Mussoorie">Mussoorie</option> <!-- Added Mussoorie as a station -->
+                <!-- Add other station options here -->
+        </select>
+        <input type="submit" value="Submit">
+        </form>
+  </div>
+
+
+<script src="script.js"></script>
+</body>
+</html>
