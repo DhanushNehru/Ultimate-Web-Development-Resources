@@ -50,3 +50,27 @@ body{
 
     color: brown;
 }
+
+@media all and (max-width: 700px) {
+
+    #quesBox {
+        font-size: 16px;
+        font-weight: bold;
+    }
+    .row > label {
+        font-size: 12px;
+    }
+
+    #box {
+        width: 70%;
+        height : 350px;
+    }
+}
+
+@media all and (max-width: 350px) {
+
+    #box {
+        width: 80%;
+        height : 400px;
+    }
+}
