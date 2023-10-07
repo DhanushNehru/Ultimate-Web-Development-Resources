@@ -308,6 +308,19 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Wed dev Simplified](https://www.youtube.com/c/WebDevSimplified/featured)
 - [Thapa Technical](https://www.youtube.com/c/ThapaTechnical)
 - [Coder Coder](https://www.youtube.com/c/TheCoderCoder)
+- [Coder's Gyan](https://www.youtube.com/@CodersGyan)
+- [JavaScript Mastery](https://www.youtube.com/@javascriptmastery/featured)
+- [developedbyed](https://www.youtube.com/@developedbyed)
+- [Apna College](https://www.youtube.com/@ApnaCollegeOfficial)
+- [AsmrProg](https://www.youtube.com/@AsmrProg)
+
+
+
+
+
+
+
+
 
 ## HTML Learning Resources
 
