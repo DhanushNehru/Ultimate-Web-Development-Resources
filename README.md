@@ -250,6 +250,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Linktree](https://linktr.ee/)
 - [HeyLink](https://heylink.me/)
 - [BioLink](https://bio.link/)
+- [BioDrop](https://www.biodrop.io/)
 
 ## Github Student Developer Pack Resources
 
@@ -313,14 +314,6 @@ More information about the pack can be found here [Github Student Developer Pack
 - [developedbyed](https://www.youtube.com/@developedbyed)
 - [Apna College](https://www.youtube.com/@ApnaCollegeOfficial)
 - [AsmrProg](https://www.youtube.com/@AsmrProg)
-
-
-
-
-
-
-
-
 
 ## HTML Learning Resources
 
