@@ -245,11 +245,45 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Httrack](https://www.httrack.com/)
 - [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy)
 
+## HTML Learning Resources
+- [Resources 1](https://www.youtube.com/watch?v=kUMe1FH4CHE)
+- [Resources 2](https://join.codecademy.com/learn/learn-html/)
+- [Resources 3](https://www.w3schools.com/html/)
+- [Resources 4](https://www.tutorialspoint.com/html/index.htm)
+- [Resources 5](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+- [Resources 6](https://www.youtube.com/watch?v=UB1O30fR-EE)
+- [Resources 7](https://www.youtube.com/watch?v=PlxWf493en4)
+
+## CSS Learning Resources
+- [Resources 1](https://web.dev/learn/css/)
+- [Resources 2](https://www.codecademy.com/learn/learn-css)
+- [Resources 3](https://www.w3schools.com/css/)
+- [Resources 4](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+- [Resources 5](https://www.youtube.com/kepowob)
+- [Resources 6](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+
+## JS Learning Resources
+- [Resources 1](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- [Resources 2](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+- [Resources 3](https://www.youtube.com/watch?v=jS4aFq5-91M)
+- [Resources 4](https://www.w3schools.com/js/)
+- [Resources 5](https://join.codecademy.com/learn/introduction-to-javascript/)
+- [Resources 6](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
+
+## Let's pick a framework/library for you
+- [React-Tutorial](https://www.youtube.com/watch?v=bMknfKXIFA8)
+- [React-Docs](https://reactjs.org/)
+- [Vue JS-Tutorial](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
+- [Vue JS-Docs](https://vuejs.org/tutorial/#step-1)
+- [Angular-Tutorial](https://www.youtube.com/watch?v=k5E2AVpwsko) 
+- [Angular-Docs](https://angular.io/docs) 
+
 ## Bio Links
 
 - [Linktree](https://linktr.ee/)
 - [HeyLink](https://heylink.me/)
 - [BioLink](https://bio.link/)
+
 
 ## Github Student Developer Pack Resources
 
