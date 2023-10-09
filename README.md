@@ -268,7 +268,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [JavaScript Programming - Full Course (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=jS4aFq5-91M)
 - [JavaScript Tutorial (W3Schools - Documentation)](https://www.w3schools.com/js/)
 - [Learn JavaScript - (CodeAcademy - Course)](https://join.codecademy.com/learn/introduction-to-javascript/)
-- [Learn JavaScript – Free JS Courses for Beginners (FreeCodeCamp - Documentation)](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
+- [Learn JavaScript: Free JS Courses for Beginners (FreeCodeCamp - Documentation)](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 
 ## Let's pick a framework/library for you
 - [React-Tutorial](https://www.youtube.com/watch?v=bMknfKXIFA8)
