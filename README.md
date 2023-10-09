@@ -50,6 +50,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Frontend Development](https://roadmap.sh/frontend)
 - [Backend Development](https://roadmap.sh/backend)
 - [FullStack Development](https://www.theinsaneapp.com/2020/11/web-developer-roadmap-by-kamran-ahmed.html)
+- [React Developer](https://roadmap.sh/react)
+- [Node.js Developer](https://roadmap.sh/nodejs)
 
 ## Web design softwares
 
@@ -149,6 +151,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [MyColor](http://mycolor.space)
 - [UIColorPicker](https://uicolorpicker.com/)
 - [Realtime Colors](https://www.realtimecolors.com)
+- [Happy Hues](https://www.happyhues.co)
 
 ## Chrome Extensions For Web Developers
 
@@ -206,6 +209,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Fontspace](https://www.fontspace.com/)
 - [1001fonts](http://1001fonts.com/)
 - [fontawesome](https://fontawesome.com/)
+- [daFont](https://www.dafont.com)
 
 ## Website Optimization Tools
 
@@ -250,6 +254,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Linktree](https://linktr.ee/)
 - [HeyLink](https://heylink.me/)
 - [BioLink](https://bio.link/)
+- [BioDrop](https://www.biodrop.io)
 
 ## Github Student Developer Pack Resources
 
@@ -373,6 +378,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Redux](https://redux.js.org/)
 - [Chakra UI](https://chakra-ui.com/)
 - [ThemeUI](https://theme-ui.com/)
+- [ThreeJS](https://threejs.org)
 
 ## Top JavaScript Libraries
 
