@@ -162,6 +162,7 @@ nav {
 
 #testimonials{
     background-color: #F05524;
+    padding: 7% 15%;
 }
 
 .testimonial-image{
@@ -176,8 +177,8 @@ nav {
 /* Press */
 
 #press{
-    background-color: #F05524;
-    padding-bottom: 3%;
+    background-color: #6F3CAB;
+    padding: 7% 15%;
 }
 
 .press-logo{
@@ -198,16 +199,18 @@ nav {
 
 /* Call to Action */
 
-#cta{
+#download{
     padding: 7% 15%;
 }
 
+/* Footer */
 #footer{
-    padding: 7% 15%;
+    padding: 15%;
 }
 
 .social-icon{
-    margin: 15px 10px;
+    margin: 25px;
+    font-size: 4rem;
 }
 
 @media (max-width: 1000px){
