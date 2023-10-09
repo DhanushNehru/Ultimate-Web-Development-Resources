@@ -1,0 +1,291 @@
+*,
+*::before,
+*::after{
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 10px;
+    font-family:'Raleway',Sans-serif;
+}
+
+a{
+    display: block;
+    text-decoration: none;
+}
+
+.container{
+    max-width: 98rem;
+    margin: 0 auto;
+    padding: 0 2.2rem;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 0;
+    background-image: url('Starry Sky.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+}
+
+h3{
+    color: #fff;
+}
+
+header{
+    position: fixed;
+    top: 0;
+    z-index: 1400;
+    height: 4.4rem;
+    width: 100%;
+    border-bottom: 3px solid rgb(255, 255, 255);
+    background-color: rgba(0,0,0,.8);
+    backdrop-filter: blur(0.5rem);
+}
+
+.title{
+    border-bottom: 3px solid rgb(255, 255, 255);
+    width: 108px;
+}
+
+.nav-list{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 -1rem;
+}
+
+.nav-list-mobile{
+    display: none;
+}
+
+.nav-link{
+    font-size: 1.4rem;
+    color: #fff;
+    padding: 0 1rem;
+}
+
+.nav-link:hover{
+    color: rgb(51, 255, 0);
+}
+
+.nav-link-home{
+    width: 1.6rem;
+    height: 4.4rem;
+    background: url(orange\ circle.png) center no-repeat;
+}
+
+.nav-link-insta{
+    width: 1.6rem;
+    height: 4.4rem;
+    background: url(instagram-logo.svg.svg) center no-repeat;
+}
+
+.nav-link-twitter{
+    width: 1.6rem;
+    height: 4.4rem;
+    background: url(Twitter-logo.svg.svg) center no-repeat;
+}
+
+@media screen and (max-width:767px){
+    header{
+        height: 4.8rem;
+        transition: background .36s cubic-bezier(0.32, 0.08, 0.24, 1);
+                    height: .56s cubic-bezier(0.32, 0.08, 0.24, 1);
+    }
+
+    header .container{
+        padding: 0;
+    }
+
+    .nav-list{
+        margin-top: 0;
+    }
+
+    .nav-list-mobile{
+        display: flex;
+    }
+
+    .nav-item{
+        width: 4.8rem;
+        height: 4.8rem;
+        display: flex;
+        justify-content: center;
+    }
+
+    .nav-item-hidden{
+        display: none;
+    }
+
+    .mobile-menu{
+        position: relative;
+        z-index: 1500;
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+    }
+
+    .line{
+        position: absolute;
+        width: 1.7rem;
+        height: 1px;
+        background-color: #fff;
+        transition: margin-top .3192s cubic-bezier(0.04, 0.04, 0.12, 0.96);
+    }
+
+    .line-top{
+        margin-top: 10px;
+        margin-left: 15px;
+    }
+
+    .line-middle{
+        margin-left: 15px;
+    }
+
+    .line-bottom{
+        margin-top: -1rem;
+        margin-left: 15px;
+    }
+
+    .active .line-top{
+        margin-top: 0;
+        transform: rotate(45deg);
+        transition: transform .3192s .1s cubic-bezier(0.04, 0.04, 0.12, 0.96);
+    }
+
+    .active .line-bottom{
+        margin-top: 0;
+        transform: rotate(-45deg);
+        transition: transform .3192s .1s cubic-bezier(0.04, 0.04, 0.12, 0.96);
+    }
+
+    .active .line-middle{
+        display: none;
+    }
+
+    header.active{
+        height: 100%;
+        background-color: #000;
+        transition: 0.5s;
+    }
+
+    .nav-link-home{
+        width: 1.8rem;
+        height: 4.8rem;
+        position: relative;
+        z-index: 1500;
+    }
+
+    .nav-link-insta{
+        width: 1.6rem;
+        height: 4.8rem;
+        transition: opacity 3s;
+    }
+
+    .nav{
+        position: relative;
+    }
+
+    .nav-link{
+        font-size: 1.7rem;
+        padding: 0;
+        margin: auto 0;
+    }
+
+    .nav-list-larger{
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 0;
+        height: 0;
+        display: block;
+        padding: 10.5rem 5rem;
+        z-index: 1000;
+        box-sizing: border-box;
+        opacity: 0;
+        visibility: hidden;
+        transition: opacity .3s;
+    }
+
+    .active .nav-list-larger{
+        width: 100%;
+        height: 100vh;
+        opacity: 1;
+        visibility: visible;
+    }
+
+    .active .nav-link-insta{
+        opacity: 1;
+        transition: opacity .3s;
+    }
+
+    .nav-list-larger .nav-item{
+        width: 100%;
+        justify-content: flex-start;
+        border-bottom: 2px dotted rgb(53, 1, 40);
+    }
+
+    .nav-list-larger .nth-item:nth-child(6){
+        border-bottom: none; 
+    }
+
+    .active .nav-list-larger .nav-item{
+        animation: fadeIn 1s ease-in;
+    }
+
+    @keyframes fadeIn {
+        from{
+            opacity: 0;
+        }
+        to{
+            opacity: 1;
+        }
+    }
+   
+
+} 
+
+.Heading{
+    margin: 0 auto;
+    max-width: 1300px;
+    padding: 100px 20px;
+    padding-top: 65px;
+}
+
+.title{
+    margin-bottom: 25px;
+}
+
+.title h3{
+    position: relative;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+
+
+
+header {
+    text-align: center;
+    color: white;
+}
+
+.map-container {
+    width: calc(100% - 40px);
+    height: 650px;
+    margin: 20px;
+    border-radius: 20px;
+    overflow: hidden;
+}
+
+#map {
+    width: 100%;
+    height: 100%;
+}

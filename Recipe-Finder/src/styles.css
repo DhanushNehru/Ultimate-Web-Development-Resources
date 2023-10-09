@@ -1,0 +1,208 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(9, 9, 9);
+  }
+  .mTB10 {
+    margin: 10px 0px;
+  }
+  .mLR10 {
+    margin: 0px 10px;
+  }
+  * {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+  }
+.headerName span{
+    color: rgb(234, 35, 35);
+}
+#navigationBar {
+  position: fixed;
+  background: rgb(50, 50, 50);
+  box-shadow:0px 1px 10px 5px #444;
+  height:auto;
+  text-align:center;
+  width:100%;
+}
+#navigationBar > ul > li {
+  display:inline;
+}
+#navigationBar > ul > li > a
+{
+  color:#fff;
+  display:inline-block;
+  height:60px;
+  line-height:60px;
+  margin:2px;
+  padding:0px 15px;
+  text-decoration:none;
+  transition: color 0.3s ease-in;
+}
+#navigationBar > ul > li > a:hover {
+  color:grey;
+}
+  .greenBtn {
+    padding: 8px;
+    background-color: #3e8e41;
+    color: white;
+    font-weight: bold;
+    border-radius: 4px;
+    border: none;
+  }
+  .header {
+    height: 300px;
+    width: 100%;
+    background-color: rgb(50, 50, 50);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  .nameAndSearch {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  .headerName {
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+  }
+  .search {
+    display: flex;
+    align-items: stretche;
+  }
+  .searchInput {
+    padding: 12px;
+    width: 400px;
+    border-radius: 4px;
+    border: none;
+  }
+  .searchBtn {
+    background-color: #3e8e41;
+    border: none;
+    border-radius: 4px;
+    margin: 0px 10px;
+    padding: 8px;
+    color: white;
+    font-weight: bold;
+  }
+  .searchBtn:hover {
+    cursor: pointer;
+    background-color: rgb(13, 87, 13);
+  }
+  .sort {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    visibility: hidden;
+  }
+  
+  .sortBy {
+    display: flex;
+    align-items: center;
+  }
+  .sortByText {
+    color: white;
+    margin: 0px 10px;
+    margin-left: 30px;
+    font-weight: bold;
+  }
+  .sortSelect {
+    padding: 4px 20px;
+    border: none;
+    border-radius: 4px;
+  }
+  .sortSelect option {
+    padding: 4px;
+    background-color: white;
+    color: black;
+  }
+  .valueRange {
+    display: flex;
+    align-items: center;
+  }
+  .valueText {
+    color: white;
+    margin-left: 30px;
+  }
+  .valueInput {
+    margin-left: 10px;
+    padding: 8px;
+    border-radius: 4px;
+    border: none;
+  }
+  .recipes {
+    padding: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: space-evenly;
+    margin: 20px 0px;
+  }
+  
+  .itemBox {
+    margin: 10px 5px;
+    width: 30%;
+    background-color: rgb(80, 80, 80);
+    border-radius: 8px;
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+  }
+  .itemImage {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  .titleDiv {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 12px 0px;
+  }
+  .titleText {
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+  }
+  .titleBtn {
+    margin-left: 10px;
+    width: 150px;
+    padding: 4px 10px;
+    background-color: #3e8e41;
+    color: white;
+    border-radius: 16px;
+    border: none;
+  }
+  .extraInfo {
+    width: 100%;
+    padding: 4px 10px;
+    text-align: left;
+    color: white;
+  }
+  .loadmore {
+    padding: 5px;
+    text-align: center;
+  }
+  .greenBtnHover{
+    padding: 10px;
+  }
+  .greenBtnHover:hover {
+    cursor: pointer;
+    background-color: rgb(13, 87, 13);
+  }
+  footer{
+    color: white;
+    margin-top: 100px;
+    padding: 40px;
+    text-align: center;
+    background-color:  rgb(9, 9, 9);
+  }
