@@ -313,6 +313,13 @@ More information about the pack can be found here [Github Student Developer Pack
 - [developedbyed](https://www.youtube.com/@developedbyed)
 - [Apna College](https://www.youtube.com/@ApnaCollegeOfficial)
 - [AsmrProg](https://www.youtube.com/@AsmrProg)
+- [Akshay Saini](https://www.youtube.com/@akshaymarch7)
+- [Codevolution](https://www.youtube.com/@Codevolution)
+- [Kevin Powell](https://www.youtube.com/@KevinPowell)
+- [codedamn](https://www.youtube.com/@codedamn)
+- [Chai aur Code](https://www.youtube.com/@chaiaurcode)
+- [developedbyed](https://www.youtube.com/@developedbyed)
+- [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudharydotcom)
 
 
 
