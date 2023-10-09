@@ -57,5 +57,12 @@ $(window).on('scroll', function (e) {
         };
     });
     history.replaceState(null,null, window.location.pathname+"#"+current);
+    document.querySelectorAll(".nav-link").forEach((link) => {
+        link.classList.remove("active");
+        if (link.hash === window.location.hash) {
+            link.classList.add("active");
+            link.setAttribute("aria-current", "page");
+        }
+    });
 });
 
