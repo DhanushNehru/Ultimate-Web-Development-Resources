@@ -128,6 +128,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Frontend Mento](https://www.frontendmentor.io/challenges)
 - [GeeksforGeeks](https://www.geeksforgeeks.org)
 - [KodeKloud](https://kodekloud.com/kodekloud-engineer/)
+- [Frontend Practice](https://www.frontendpractice.com/)
 
 ## Web Images or Photos
 
