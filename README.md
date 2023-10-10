@@ -140,7 +140,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Freepik](https://www.freepik.com/)
 - [MorgueFile](https://morguefile.com/)
 - [Undraw](https://undraw.co/)
-
+- [Stockvault](https://www.stockvault.net/)
+  
 ## Web Color Palettes
 
 - [Coolors](http://coolors.co)
