@@ -246,13 +246,13 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy)
 
 ## HTML Learning Resources
-- [Resources 1](https://www.youtube.com/watch?v=kUMe1FH4CHE)
-- [Resources 2](https://join.codecademy.com/learn/learn-html/)
-- [Resources 3](https://www.w3schools.com/html/)
-- [Resources 4](https://www.tutorialspoint.com/html/index.htm)
-- [Resources 5](https://www.youtube.com/watch?v=pQN-pnXPaVg)
-- [Resources 6](https://www.youtube.com/watch?v=UB1O30fR-EE)
-- [Resources 7](https://www.youtube.com/watch?v=PlxWf493en4)
+- [Learn HTML – Full Tutorial for Beginners(Freecodecamp)](https://www.youtube.com/watch?v=kUMe1FH4CHE)
+- [Learn HTML - Codecademy](https://join.codecademy.com/learn/learn-html/)
+- [HTML Tutorial - W3schools](https://www.w3schools.com/html/)
+- [HTML Tutorial - Tutorialspoint](https://www.tutorialspoint.com/html/index.htm)
+- [HTML Full Course - Build a Website Tutorial(Freecodecamp)](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+- [HTML Crash Course For Absolute Beginners - Traversy Media](https://www.youtube.com/watch?v=UB1O30fR-EE)
+- [HTML Tutorial - How to Make a Super Simple Website(Freecodecamp)](https://www.youtube.com/watch?v=PlxWf493en4)
 
 ## CSS Learning Resources
 - [Resources 1](https://web.dev/learn/css/)
