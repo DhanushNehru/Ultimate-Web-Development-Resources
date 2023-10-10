@@ -255,12 +255,12 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [HTML Tutorial - How to Make a Super Simple Website(Freecodecamp)](https://www.youtube.com/watch?v=PlxWf493en4)
 
 ## CSS Learning Resources
-- [Resources 1](https://web.dev/learn/css/)
-- [Resources 2](https://www.codecademy.com/learn/learn-css)
-- [Resources 3](https://www.w3schools.com/css/)
-- [Resources 4](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
-- [Resources 5](https://www.youtube.com/kepowob)
-- [Resources 6](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+- [Learn CSS - web.dev](https://web.dev/learn/css/)
+- [Learn CSS - Codecademy](https://www.codecademy.com/learn/learn-css)
+- [CSS Tutorial - W3schools](https://www.w3schools.com/css/)
+- [CSS Tutorial - Zero to Hero (Complete Course)(Freecodecamp)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+- [CSS tips and tricks - Kevin Powell](https://www.youtube.com/kepowob)
+- [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
 
 ## JS Learning Resources
 - [Resources 1](https://www.youtube.com/watch?v=PkZNo7MFNFg)
