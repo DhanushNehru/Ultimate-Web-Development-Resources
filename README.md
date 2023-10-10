@@ -70,6 +70,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Webflow](https://webflow.com/)
 - [Penpot](https://penpot.app/)
 - [Balsamiq Wireframing](https://balsamiq.com/)
+- [Framer](https://www.framer.com/prototyping/)
 
 ## Free Hosting
 
