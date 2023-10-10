@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@300&display=swap" rel="stylesheet">
+    <title>Hangman</title>
+</head>
+<body>
+
+   <div class="game-modal">
+        <div class="content">
+            <img src="./images/lost.gif" alt="gif">
+            <h4>Game Over!</h4>
+            <p>The correct word was: <b>RAINBOW</b></p>
+            <button class="playagain">Play Again</button>
+        </div>
+    </div>
+
+    
+    <div class="container">
+        <div class="hman-box">
+            <img src="./images/hangman-0.svg" draggable="false" alt="hangman image">
+            <h1 class="heading">Hangman Game</h1>
+        </div>
+
+        <div class="game-box">
+            <ul class="word-display"></ul>
+            <h4 class="hint-text">
+                Hint:
+                <b>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ut, nam.</b>
+            </h4>
+
+            <h4 class="guesses-text">Incorrect guesses: <b>0/6</b></h4>
+            <div class="keyboard"></div>
+        
+    </div>
+
+
+    <script src="./scripts/words.js" defer></script>
+    <script src="./scripts/script.js" defer></script>
+</body>
+</html>
