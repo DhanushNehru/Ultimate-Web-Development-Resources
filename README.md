@@ -263,12 +263,12 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Resources 6](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
 
 ## JS Learning Resources
-- [Resources 1](https://www.youtube.com/watch?v=PkZNo7MFNFg)
-- [Resources 2](https://www.youtube.com/watch?v=W6NZfCO5SIk)
-- [Resources 3](https://www.youtube.com/watch?v=jS4aFq5-91M)
-- [Resources 4](https://www.w3schools.com/js/)
-- [Resources 5](https://join.codecademy.com/learn/introduction-to-javascript/)
-- [Resources 6](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
+- [Learn JavaScript - Full Course for Beginners (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour (YouTube - Programming With Mosh)](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+- [JavaScript Programming - Full Course (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=jS4aFq5-91M)
+- [JavaScript Tutorial (W3Schools - Documentation)](https://www.w3schools.com/js/)
+- [Learn JavaScript - (CodeAcademy - Course)](https://join.codecademy.com/learn/introduction-to-javascript/)
+- [Learn JavaScript: Free JS Courses for Beginners (FreeCodeCamp - Documentation)](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 
 ## Let's pick a framework/library for you
 - [React-Tutorial](https://www.youtube.com/watch?v=bMknfKXIFA8)
