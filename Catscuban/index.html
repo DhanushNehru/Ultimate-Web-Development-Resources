@@ -1,0 +1,562 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css"/> 
+  
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"/>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.css"/>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"/>
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+   
+   
+   <link rel="stylesheet" href="/assets/CSS/style.css">
+</head>
+<body data-spy="scroll" data-target="#navbar" onload="myfunction()">
+
+
+<!-- Preloader -->
+
+<div id="loading">
+
+</div> 
+
+<!--Header Section-->
+
+<div id="home">
+
+<!--Navigation Bar-->
+
+ <div class="container-fluid p-0">
+    <div class="row m-0">
+        <div class="col-12 navbar navbar-expand-md navbar-dark nav-set py-1 px-lg-5 shadow-lg">
+         
+            <a href="#" class="navbar-brand text-decoration-none nav-b header-logo m-0 text-capitalize px-3 px-lg-4"><span class="first-half">cats</span><span class="half-text head-logo">cuban</span><i class="fas fa-paw mx-1 paw"></i></a>
+    
+           <button class="navbar-toggler bg-warning set-btn-toggle mx-3 px-3 py-2" data-toggle="collapse" data-target="#navbar">
+           <span class="fa-solid fa-paw text-white header-btn"></span>
+           </button>
+
+           <div class="navbar-collapse collapse nav-elements" id="navbar">
+          
+           <ul class="navbar-nav text-center nav-pills nav-box text-decoration-none">
+                <li class="nav-item px-2 px-lg-4"><a href="#home" class="nav-link">Home</a></li>
+                <li class="nav-item px-2 px-lg-4"><a href="#about" class="nav-link">About</a></li>
+                <li class="nav-item px-2 px-lg-4"><a href="#cafe" class="nav-link">Cat Cafe</a></li>
+                <li class="nav-item px-2 px-lg-4"><a href="/store.html" class="nav-link">Store</a></li>
+                <li class="nav-item px-2 px-lg-4"><a href="/contact.html" class="nav-link">Contact</a></li>
+               
+            </ul>
+                
+        </div>
+
+        </div>
+    </div>
+</div> 
+
+<!--Carousel-->
+
+<div class="container-fluid p-0">
+<div class="row m-0">
+<div class="col-12 p-0">
+
+ <div class="carousel slide carousel-fade slide" data-ride="carousel" id="mycarousel">
+
+<ol class="carousel-indicators">
+    <li data-target="#mycarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#mycarousel" data-slide-to="1"></li>
+   
+</ol>
+
+<div class="carousel-inner inner">
+<div class="carousel-item active overflow-hidden item" data-interval="10000">
+
+    <img src="/assets/images/img-1-min.jpg" alt="img-3" class="img-fluid item-pic">
+    <div class="carousel-caption d-none d-md-flex align-items-center justify-content-center h-100">
+        <h5 class="c-heading" id="head-id">become a <span class="c-text">cat</span> parent</h5>
+        
+      </div>
+   
+   
+</div>
+
+<div class="carousel-item overflow-hidden item" data-interval="10000">
+    <img src="/assets/images/img-2.jpg" alt="img-4" class="img-fluid item-pic">
+    
+    <div class="carousel-caption d-none d-md-block">
+        <h5 class="c-heading" id="head-two">own a <span class="c-text text-primary">cat</span> now</h5>
+    
+</div>
+
+
+</div>
+
+<a href="#mycarousel" class="carousel-control-prev" data-slide="prev">
+    <span class="carousel-control-prev-icon bg-primary"></span>
+</a>
+
+<a href="#mycarousel" class="carousel-control-next" data-slide="next">
+    <span class="carousel-control-next-icon bg-primary"></span>
+</a> 
+</div>
+</div>
+    </div>
+
+</div>
+ 
+<!--End carousel-->
+
+<!--Guides-->
+
+<div class="container-fluid p-0">
+    <div class="row m-0 text-white">
+        <div class="col-md-4 py-3 overflow-hidden s-1 bg-warning d-flex justify-content-center align-items-center order-1">
+       <img src="/assets/images/merged-blob.png" alt="" class="img-fluid img-box">
+        </div>
+
+        <div class="col-md-4 bg-primary p-0 order-0">
+          <h3 class="main-h text main-h-1" data-aos="fade-right">cat guide</h3>
+          <p class="p-text"  data-aos="zoom"><span><i class="fas fa-quote-left q-f qfas text-warning"></i></span>You should feed your cat healthy food, and choose suitable food dishes and water bowls. Brush your cats regularly and bathe your cats but not too often<span><i class="fas fa-quote-right r-f qfas text-warning"></i></span></p>
+          <div class="mw-100 mh-100 d-flex justify-content-center btn-s">
+
+          
+          <button class="btn btn-warning btn-s-1">
+              <a href="#">read more</a>
+          </button>
+        </div>
+        </div>
+        <div class="col-md-4 bg-primary p-0 order-2">
+            <h3 class="main-h text main-h-1" data-aos="fade-down">why choose cats</h3>
+            <p class="p-text" data-aos="zoom"><span><i class="fas fa-quote-left q-f qfas text-warning"></i></span>Cats are beautiful, purring, intelligent pets that love and entertain us every day. We love our cats and, unlike dogs, cats are low maintenance<span><i class="fas fa-quote-right r-f text-warning qfas"></i></span></p>
+            
+            <div class="mw-100 mh-100 d-flex justify-content-center btn-s">
+                <button class="btn btn-warning btn-s-2">
+                    <a href="#">get started</a>
+                </button>
+            </div>
+           
+        </div>
+    </div>
+</div>
+     
+    </div>
+</div>
+
+ <!--End guides-->
+    
+<!--About-->
+
+<div id="about" class="offset-seq">
+
+    <!--About section-->
+
+<div class="container-fluid p-0 about-s text-capitalize bg-black">
+
+    <h3 class="d-inline-block service-head text-white team-border" data-aos="fade-right">meet our team</h3>
+    
+    <div class="row m-0 text-capitalize about d-flex justify-content-around m-md-0 mx-3 pb-md-3 pt-md-0 pb-0 pt-0 p-3">
+
+      
+        <div class="col-md-4 col-lg-3 col-sm-3 p-3 mb-md-3 mb-4 pt-0"  data-aos="fade-right">
+         <div class="shadow d-flex justify-content-center box-1 bg-warning align-items-center p-3 flex-column">
+<div class="person-img overflow-hidden circle-img">
+    <img src="assets/images/user-min.png" alt="" class="img-fluid">
+</div>
+
+<div class="person-name mt-3">
+<h3 class="text-white">Tom Holland</h3>
+</div>
+<div class="info mb-1">
+    <h6 class="text-white">ceo</h6>
+</div>
+
+<div class="social-icons text-decoration-none">
+    <a href="#" class="text-white"><i class="fa-brands fa-facebook-f p-2 hover"></i></a>
+    <a href="#" class="text-white"><i class="fa-brands fa-twitter p-2 hover"></i></a>
+    <a href="#" class="text-white"><i class="fa-brands fa-instagram p-2 hover"></i></a>
+</div>
+
+         </div>
+        </div>
+        <div class="col-md-4 col-lg-3 col-sm-3 p-3 mb-md-3 mb-4 pt-0"  data-aos="fade-up">
+            <div class="shadow d-flex justify-content-center box-1 align-items-center p-3 bg-warning flex-column">
+   <div class="person-img overflow-hidden circle-img">
+       <img src="assets/images/user-min.png" alt="" class="img-fluid">
+   </div>
+   
+   <div class="person-name mt-3">
+   <h3 class="text-white">Emma Watson</h3>
+   </div>
+   <div class="info mb-1">
+       <h6 class="text-white">Director</h6>
+   </div>
+   
+   <div class="social-icons text-decoration-none">
+       <a href="#" class="text-white"><i class="fa-brands fa-facebook-f p-2 hover"></i></a>
+       <a href="#" class="text-white"><i class="fa-brands fa-twitter p-2 hover"></i></a>
+       <a href="#" class="text-white"><i class="fa-brands fa-instagram p-2 hover"></i></a>
+   </div>
+   
+   
+            </div>
+           </div>
+           <div class="col-md-4 col-lg-3 col-sm-3 p-3 mb-md-3 mb-4 pt-0"  data-aos="fade-down">
+            <div class="shadow d-flex justify-content-center box-1 align-items-center p-3 bg-warning flex-column">
+   <div class="person-img overflow-hidden circle-img">
+       <img src="/assets/images/user-min.png" alt="" class="img-fluid">
+   </div>
+   
+   <div class="person-name mt-3">
+   <h3 class="text-white">Tom hardy</h3>
+   </div>
+   <div class="info mb-1">
+       <h6 class="text-white">Manager</h6>
+   </div>
+   
+   <div class="social-icons text-decoration-none">
+       <a href="#" class="text-white"><i class="fa-brands fa-facebook-f p-2 hover"></i></a>
+       <a href="#" class="text-white"><i class="fa-brands fa-twitter p-2 hover"></i></a>
+       <a href="#" class="text-white"><i class="fa-brands fa-instagram p-2 hover"></i></a>
+   </div>
+   
+   
+            </div>
+           </div>
+    </div>
+
+
+</div>
+
+    <!--Services-->
+
+<div class="container-fluid p-0 bg-warning">
+
+    <h3 class="text-white d-inline-block service-head" data-aos="fade-right">Services</h3>
+
+ 
+    
+    <div class="row d-flex justify-content-around m-md-0 mx-3 pb-md-4 pt-0 p-4 pb-3 text-center boom">
+
+    <div class=" col-md-4 col-lg-3 col-sm-3 overflow-hidden box p-4  mb-md-4 mb-lg-3 mb-4 bg-primary shadow"  data-aos="fade-right">
+        
+        <div class="boxes">
+        <div class="circle-img">
+     <img src="/assets/images/s-1-x.png" alt="" class="mw-100 set-img">
+</div>
+</div>
+  
+<h3 class="s-m s-h m-3">sell</h3>
+<p class="lead s-p">Catscuban offers services for selling cats in Pakistan. Moreover, it encourages people to adopt a kitten</p>
+    </div>
+
+
+         <div class="col-md-4 col-lg-3 col-sm-3 overflow-hidden box p-3 mb-md-4 mb-lg-3  mb-4 bg-primary shadow"  data-aos="fade-down">
+         
+        <div class="boxes">
+        <div class="circle-img">
+            <img src="/assets/images/s-3.png" alt="" class="mw-100 set-img">
+             </div>
+            </div>
+              
+        <h3 class="s-m s-h m-3">booking</h3>
+        <p class="lead s-p">From cuddly and cute to frisky and fierce, we've rounded up some cats with whom you can spend time</p>
+        </div>            
+
+             
+             <div class="col-md-4 col-lg-3 col-sm-3 overflow-hidden box bg-primary p-3 mb-md-4 mb-lg-3  mb-4 shadow"  data-aos="fade-up">
+
+                <div class="boxes">
+                <div class="circle-img">
+                <img src="/assets/images/s-4.png" alt="" class="mw-100 set-img">
+                 </div>
+                </div>
+                  
+        <h3 class="s-m s-h m-3">Cat Store</h3>
+        <p class="lead s-p">At Catscuban you can find all you want for a cat. We offer quality accessories and food items at the best prices</p>
+            </div>
+        </div>
+
+</div>
+
+<!--End services-->
+
+<!--Counter-->
+
+<div class="container-fluid p-0 about-s text-capitalize bg-primary">
+
+    <h3 class="text-white d-inline-block service-head" data-aos="fade-right">Join the community</h3>
+    
+    <div class="row m-0 text-capitalize about d-flex justify-content-around m-md-0 mx-3 pb-md-3 pt-md-0 pb-0 pt-0 p-3" id="start-counter">
+
+      
+        <div class="col-md-4 col-lg-3 col-sm-3 p-3 mb-md-2 mb-4 pt-0 ">
+         <div class="shadow d-flex justify-content-center box-1 bg-warning align-items-center p-3 rounded-lg flex-column">
+
+<div class= "my-2">
+<h3 class="text-white counter percent" data-target="200"></h3>
+</div>
+<div class="info-box">
+    <h6 class="text-white counter-info" data-aos="zoom">happy cat customers</h6>
+</div>
+         </div>
+        </div>
+        <div class="col-md-4 col-lg-3 col-sm-3 p-3 mb-md-2 mb-4 pt-0">
+            <div class="shadow d-flex justify-content-center box-1 align-items-center p-3 bg-warning rounded-lg flex-column">
+  
+   <div class="my-2">
+   <h3 class="text-white counter percent" data-target="98"></h3>
+   </div>
+   <div class="info-box">
+       <h6 class="text-white counter-info" data-aos="zoom">global stand</h6>
+   </div>
+   
+  
+            </div>
+           </div>
+           <div class="col-md-4 col-lg-3 col-sm-3 p-3 mb-md-2 mb-4 pt-0" >
+            <div class="shadow d-flex justify-content-center box-1 align-items-center p-3 bg-warning rounded-lg flex-column">
+ 
+   
+   <div class="my-2">
+   <h3 class="text-white counter percent" data-target="89"></h3>
+   </div>
+   <div class="info-box">
+       <h6 class="text-white counter-info" data-aos="zoom">local stand</h6>
+   </div>
+ 
+   
+            </div>
+           </div>
+    </div>
+
+
+</div>
+
+<!--End counter-->
+
+<!--Reviews-->
+
+<div class="container-fluid reviews p-0 bg-warning">
+    <h3 class="text-white d-inline-block service-head text-capitalize mb-0" data-aos="fade-right">what clients say</h3>
+    <div class="row m-0 ">
+      
+        <div class="col-md-12 p-0">
+            <div class="p-4 mb-3">
+              
+                <div id="slider" class="owl-carousel">
+                    <div class="content-area text-center">
+                        <div class="content text-white p-3 bg-primary shadow review-box">
+                            <div class="img-area overflow-hidden">
+                                <img src="assets/images/user-min.png" alt="" class="img-fluid">
+            
+                            </div>
+                            <h3 class="s-m s-h m-3">Jon snow</h3>
+                            <p class="lead s-p s-r-p"><i class="fa fa-quote-left text-warning review-q"></i>Always friendly. Always has helpful products to keep my animals happy, health and joyful<i class="fa fa-quote-right text-warning review-r"></i></p>
+                        
+                            <p class="socials">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star-half-alt"></i>
+                            </p>
+            
+            
+                        </div>
+                    </div>
+                    <div class="content-area text-center">
+                        <div class="content text-white p-3 bg-primary shadow review-box">
+                            <div class="img-area overflow-hidden">
+                                <img src="assets/images/user-min.png" alt="" class="img-fluid">
+            
+                            </div>
+                            <h3 class="s-m s-h m-3">Post malone</h3>
+                            <p class="lead s-p s-r-p"><i class="fa fa-quote-left text-warning review-q"></i>They have everything you could need for your pet! Very friendly and eager to give treats to well behaved cats<i class="fa fa-quote-right text-warning review-r"></i></p>
+                        
+                            <p class="socials">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star-half-alt"></i>
+                            </p>
+            
+            
+                        </div>
+                    </div>
+                    <div class="content-area text-center">
+                        <div class="content text-white p-3 bg-primary shadow review-box">
+                            <div class="img-area overflow-hidden">
+                                <img src="assets/images/user-min.png" alt="" class="img-fluid">
+            
+                            </div>
+                            <h3 class="s-m s-h m-3">Arya stark</h3>
+                            <p class="lead s-p s-r-p"><i class="fa fa-quote-left text-warning review-q"></i>Just purchased the lion head costume for our cat recently. Cute product and quality customer service<i class="fa fa-quote-right text-warning review-r"></i></p>
+                        
+                            <p class="socials">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star-half-alt"></i>
+                            </p>
+            
+            
+                        </div>
+                    </div>
+                    <div class="content-area text-center">
+                        <div class="content text-white p-3 bg-primary shadow review-box">
+                            <div class="img-area overflow-hidden">
+                                <img src="assets/images/user-min.png" alt="" class="img-fluid">
+            
+                            </div>
+                            <h3 class="s-m s-h m-3">Tony stark</h3>
+                            <p class="lead s-p s-r-p"><i class="fa fa-quote-left text-warning review-q"></i>This is a place, by far, our kitten loved. She didn’t want to leave. The staff was so accommodating<i class="fa fa-quote-right text-warning review-r"></i></p>
+                        
+                            <p class="socials">
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star"></i>
+                                <i class="fas fa-star-half-alt"></i>
+                            </p>
+            
+            
+                        </div>
+                    </div>
+                </div>
+
+
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!--End reviews-->
+
+</div>
+
+<!--Footer-->
+<footer>
+  <div class="container-fluid bg-black text-white shadow">
+      <div class="row m-0 footer-top py-4 px-4">
+
+        <div class="col-md-12 p-0 footer-one d-flex justify-content-center">
+            <div class="footer-head">
+            <h3>cats<span class="footer-second">cuban</span><i class="fas fa-paw mx-1 paw"></i></h3>
+        </div>
+                   
+       
+        </div>
+    </div>
+
+    <div class="row m-0 footer-bottom">
+     <div class="col-md-12 footer-two p-0 d-flex justify-content-center text-capitalize">
+<p>copyright &copy 2022</p>
+     </div>
+        </div>
+
+      
+  </div>
+  </footer>
+
+<!--End footer-->
+
+<button id="back-to-top-btn">
+    <i class="fas fa-angle-double-up"></i>
+</button>
+
+
+
+<!--JAVASCRIPT-->
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.2/umd/popper.min.js"></script>
+ <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js"></script> 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<script src="https://unpkg.com/typeit@8.2.0/dist/index.umd.js"></script>
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="/assets/JS/counter.js"></script>
+<script src="/assets/JS/btn.js"></script>
+
+<!--Owl carousel-->
+
+<script>
+   
+   $('#slider').owlCarousel({
+    loop:true,
+    margin:15,
+    nav:false,
+    autoplay:true,
+    responsive:{
+        0:{
+            items:1
+        },
+        600:{
+            items:2
+        },
+        1000:{
+            items:3
+        }
+    }
+});
+
+</script>
+
+<!--Typeit-->
+
+ <script>
+    new TypeIt("#head-id", {
+         speed: 120,
+        waitUntilVisible: true,
+         
+        loop: true,
+          })
+          .pause(1500)
+          .go();
+         
+          new TypeIt("#head-two", {
+         speed: 120,
+        waitUntilVisible: true,
+         
+        loop: true,
+          })
+          .pause(1500)
+          .go();
+     
+     
+    </script>   
+
+<!--Animation-->
+<script>
+    AOS.init(
+        {
+            offset: 300,
+    duration: 1000,
+        }
+    );
+   
+  </script>
+    
+<!--preloader-->
+
+ <script>
+    var preloader = document.getElementById("loading");
+    function myfunction()
+    {
+        preloader.style.display = "none";
+    }
+</script> 
+
+
+</body>
+
+</html>

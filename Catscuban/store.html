@@ -1,0 +1,657 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.1.3/css/bootstrap.min.css"/> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/CSS/file.css">
+</head>
+<body data-spy="scroll" data-target="#navbar" onload="myfunction()">
+    
+<!--Preloader-->
+
+<div id="loading"></div>
+
+<!--Header-->
+
+<div id="store">
+
+<div class="container-fluid p-0 nav-head">
+
+<div class="row m-0">
+
+<div class="col-12 navbar navbar-expand-md navbar-dark nav-set py-1 px-lg-5 shadow-lg">
+
+<a href="#" class="navbar-brand text-decoration-none nav-b header-logo m-0 text-capitalize px-3 px-lg-4">
+<span class="first-half">cats</span><span class="half-text head-logo">cuban</span><i class="fas fa-paw mx-1 paw"></i></a>
+
+<button class="navbar-toggler bg-warning set-btn-toggle mx-3 px-3 py-2" data-toggle="collapse" data-target="#navbar">
+    <span class="fa-solid fa-paw text-white header-btn"></span>
+    </button>
+
+    <div class="navbar-collapse collapse nav-elements" id="navbar">
+              
+        <ul class="navbar-nav text-center nav-pills nav-box text-decoration-none">
+            <li class="nav-item px-2 px-lg-4"><a href="/index.html" class="nav-link c-btn">Home</a></li>
+            <li class="nav-item px-2 px-lg-4"><a href="/index.html#about" class="nav-link c-btn">About</a></li>
+           <li class="nav-item px-2 px-lg-4"><a href="#cafe" class="nav-link c-btn">Cat Cafe</a></li>
+            <li class="nav-item px-2 px-lg-4"><a href="#store" class="nav-link c-btn">Store</a></li>
+            <li class="nav-item px-2 px-lg-4 item-u"><a href="/contact.html" class="nav-link c-btn">Contact</a></li>
+            <li class="nav-item px-2 px-lg-4 item-u"><a href="#" class="nav-link c-user-use"><i class="fas fa-shopping-cart" id="cartIcon">
+               <!-- <span>0</span> -->
+            </i></a>
+            
+            <div class="cart">
+                <h2 class="cart-title">your cart</h2>
+
+                <div class="cart-content" id="buyItems">
+                    <div class="cart-box">
+                        <img src="/assets/images/cat_food-2-removebg-preview-min.png" alt="" class="cart-img">
+                        <div class="detail-box">
+            <div class="cart-product-title">product name</div>
+                            <div class="cart-price">
+                                <span id="sum-price">$0</span>
+                            </div>
+
+<div class="quantity">
+<input type="number" value="1" class="cart-quantity">
+</div>
+                        </div>
+
+                        <i class="fa-solid fa-trash cart-remove"></i>
+
+                    </div>
+                </div>
+
+<div class="total">
+    <div class="total-title set-total">
+       <span>total</span>
+    </div>
+    <div class="title-price set-total">
+        <span>$120.00</span>
+    </div>
+</div>
+
+<button type="button" class="btn-buy">buy now</button> 
+
+<i class="fas fa-times" id="close-cart"></i>
+
+            </div>
+            
+            
+            </li>
+            
+            <li class="nav-item px-2 px-lg-4"><a href="#" class="nav-link c-user-use" id="show"><i class="fas fa-user"></i></a>
+                        
+                     
+            
+            </li>
+
+            </ul>
+            
+    </div>
+
+</div>
+
+</div>
+
+</div>
+
+
+<!--Form-->
+
+<div class="form-container shadow border">
+
+    <div class="forms">
+   <div class="form login">
+
+<span class="close"><i class="fas fa-times"></i></span>
+
+<span class="title">Login</span>
+
+<form action="#">
+
+<div class="input-field">
+
+<input type="text" placeholder="Enter your email" required>
+<i class="fas fa-envelope"></i>
+
+</div>
+
+<div class="input-field">
+
+    <input type="password" placeholder="Enter your password" required>
+    <i class="fas fa-lock icon"></i>
+       </div>
+
+
+<div class="checkbox-text">
+
+<div class="checkbox-content">
+    <input type="checkbox" id="logCheck">
+    <label for="logCheck" class="text">Remember me?</label>
+</div>
+
+<a href="#" class="text">Forgot password?</a>
+
+</div>
+
+
+ <div class="input-field button">
+
+    
+    <button type="submit" class="btn btn-primary">
+login now
+    </button>
+  
+    
+    </div> 
+ 
+
+</form>
+
+<div class="login-signup">
+    <span class="text">Not a member?
+        <a href="#" class="text signup-link">Sign up</a>
+    </span>
+</div>
+
+</div>
+
+<!--Registration-->
+
+<div class="form signup">
+   
+
+    <span class="close close_two"><i class="fas fa-times"></i></span>
+    
+    <span class="title">Registration</span>
+    
+    <form action="">
+    
+    <div class="input-field">
+    
+    <input type="text" placeholder="Enter your name" required>
+    <i class="fas fa-user"></i>
+    
+    </div>
+
+    <div class="input-field">
+    
+        <input type="text" placeholder="Enter your email" required>
+        <i class="fas fa-envelope"></i>
+        
+        </div>
+    
+    <div class="input-field">
+    
+        <input type="password" class="password" placeholder="Enter your password" required>
+        <i class="fas fa-lock icon"></i>
+           </div>
+    
+              
+    <div class="checkbox-text">
+    
+    <div class="checkbox-content">
+        <input type="checkbox" id="signCheck">
+        <label for="logCheck" class="text">Remember me?</label>
+    </div>
+    
+    <a href="#" class="text">Forgot password?</a>
+    
+    </div>
+    
+    
+    <div class="input-field button">
+    
+        <button type="submit" class="btn btn-primary">
+            sign up
+                </button>
+      
+        
+        </div>
+    
+    </form>
+    
+    <div class="login-signup">
+        <span class="text">Already a member?
+            <a href="#" class="text login-link">Login</a>
+        </span>
+    </div>
+    
+    </div>
+    
+    </div>
+</div>
+
+<!--Store Image Slider-->
+
+<div class="slider mb-4 mb-lg-5">
+
+<div class="slide active">
+
+<img src="https://img.freepik.com/free-photo/red-furry-cat-lies-clothes-dryer-with-clean-clothes-kitten-playing-hunting-staring-intently_88194-3015.jpg?size=626&ext=jpg&ga=GA1.2.1596211792.1650461261" alt="img">
+
+<div class="info">
+     <h2 class="text-capitalize">just cat facts</h2>
+    <p>Cats have powerful night vision, allowing them to see at light levels six times lower than what a human needs in order to see</p>
+</div>
+
+</div>
+
+   <div class="slide">
+
+        <img src="https://img.freepik.com/free-photo/cute-baby-kitten-sitting-inside-brown-paper-grocery-sack_88194-1647.jpg?w=740" alt="img">
+        
+        <div class="info">
+            <h2 class="text-capitalize">just cat facts</h2>
+            <p>Cats and humans have been associated for nearly 10000 years</p>
+        </div>
+        
+        
+        </div>
+
+<div class="navigation">
+    <i class="fas fa-chevron-circle-left prev-btn"></i>
+    <i class="fas fa-chevron-circle-right next-btn"></i>
+</div>
+
+<div class="navigation-visible">
+    <div class="slide-icon active"></div>
+    <div class="slide-icon"></div>
+  </div>
+
+
+</div>
+
+<!--Section - 1-->
+
+<div class="container-fluid mb-lg-5 p-0 section">
+
+<div class="row m-0">
+
+<div class="col-md-12 col-lg-6 mb-4 p-0 img-section">
+    <img src="/assets/images/store-section-1.png" alt="" class="img-fluid">
+</div>
+
+<div class="col-md-12 col-lg-6 mb-4 p-0 d-flex flex-column justify-content-center overflow-hidden">
+
+<div class="text-heading m-3"><h2>Why cat store?</h2></div>
+
+<div class="text-info m-3"><p>Keeping your cat at a healthy weight by starting with fresh ingredients and ending with fresh cat food. Also, dont miss out our cat toys to delight your cats!</p>
+</div>
+
+
+<div class="shop-btn m-3">
+    <button class="btn btn-warning" id="shop_btn">
+        <span>shop now</span>
+    </button>
+</div>
+
+</div>
+</div>
+
+</div>
+
+<!--Collection packages-->
+
+<div class="container-fluid mb-4 mb-lg-5 p-0">
+
+    <div class="row m-0 product-box">
+        <div class="col-md-12 p-0">
+        
+ <div class="main-heading m-3 mb-4">
+                <h2>products</h2>
+            </div>
+        
+    <div class="switch">
+        <ul class="list-unstyled list-switch d-flex justify-content-center w-100 h-100 align-items-center mb-4 mb-md-0" id="filter-btns">
+            <li data-target="all" class="active">all</li>
+            <li data-target="c1">cat food</li>
+            <li data-target="c2">accessories</li>
+        </ul>
+    </div>
+     
+
+          <div class="container-p">
+
+<div class="product item-box" data-id="c1">
+    <div class="product-card product-under">
+        <h2 class="name">salmon</h2>
+        <span class="price">$20.00</span>
+        <a class="popup-btn">quick view</a>
+        <img src="/assets/images/cat_food-1-removebg-preview-min.png" alt="" class="product-img">
+    </div>
+
+<div class="popup-view">
+    <div class="popup-card">
+        <a><i class="fas fa-times close-btn"></i></a>
+        <div class="product-img">
+            <img src="/assets/images/cat_food-1-removebg-preview-min.png" alt="">
+        </div>
+    
+        <div class="info">
+            <h2>salmon</h2>
+            <p>It contains no artificial flavors, preservatives or colors but made of real fresh meat. Furthermore, each tin contains perfect amount of zinc to ensure healthy skin and coat</p>
+            <span class="price">$120.00</span>
+            <a class="add-cart-btn addToCart">add to cart</a>
+            <a class="add-wish">add to wishlist</a>
+        </div>
+
+    </div>
+</div>
+
+
+</div>
+
+<div class="product item-box" data-id="c2">
+    <div class="product-card product-under">
+        <h2 class="name">Rectangle Bed</h2>
+        <span class="price">$120.00</span>
+        <a class="popup-btn">quick view</a>
+        <img src="/assets/images/c-a-1-min.png" alt="" class="product-img">
+    </div>
+
+<div class="popup-view">
+    <div class="popup-card">
+        <a><i class="fas fa-times close-btn"></i></a>
+        <div class="product-img">
+            <img src="/assets/images/c-a-1-min.png" alt="">
+        </div>
+    
+        <div class="info">
+            <h2>Rectangle Bed</h2>
+            <p>Creates a sense of security and provides head and neck support. The bed could let them feel the envelopment of love and offer a safe place for a cat to snooze</p>
+            <span class="price">$120.00</span>
+            <a class="add-cart-btn addToCart">add to cart</a>
+            <a class="add-wish">add to wishlist</a>
+        </div>
+
+    </div>
+</div>
+
+
+</div>
+      
+<div class="product item-box" data-id="c2">
+    <div class="product-card product-under">
+        <h2 class="name">Furminator</h2>
+        <span class="price">$120.00</span>
+        <a class="popup-btn">quick view</a>
+        <img src="/assets/images/c-a-2.png" alt="" class="product-img">
+    </div>
+
+<div class="popup-view">
+    <div class="popup-card">
+        <a><i class="fas fa-times close-btn"></i></a>
+        <div class="product-img">
+            <img src="/assets/images/c-a-2.png" alt="">
+        </div>
+    
+        <div class="info">
+            <h2>Furminator</h2>
+            <p>The edge reaches through the top-coat to remove loose undercoat hair and helps keep coat dirt and debris free. Best used weekly for cats and make sure to use it with ease</p>
+            <span class="price">$120.00</span>
+            <a class="add-cart-btn addToCart">add to cart</a>
+            <a class="add-wish">add to wishlist</a>
+        </div>
+
+    </div>
+</div>
+
+</div>
+      
+<div class="product item-box" data-id="c2">
+    <div class="product-card product-under">
+        <h2 class="name">cat Carrier</h2>
+        <span class="price">$120.00</span>
+        <a class="popup-btn">quick view</a>
+        <img src="/assets/images/catcages2.png" alt="" class="product-img">
+    </div>
+
+<div class="popup-view">
+    <div class="popup-card">
+        <a><i class="fas fa-times close-btn"></i></a>
+        <div class="product-img">
+            <img src="/assets/images/catcages2.png" alt="">
+        </div>
+    
+        <div class="info">
+            <h2>cat Carrier</h2>
+            <p>It is plastic material which makes it suitable for adult cats. Provides an ultimate ease to carry your cat from one place to another. It is also called jetbox</p>
+            <span class="price">$120.00</span>
+            <a class="add-cart-btn addToCart">add to cart</a>
+            <a class="add-wish">add to wishlist</a>
+        </div>
+
+    </div>
+</div>
+
+</div>
+      
+<div class="product item-box" data-id="c2">
+    <div class="product-card product-under">
+        <h2 class="name">Training Leash</h2>
+        <span class="price">$120.00</span>
+        <a class="popup-btn">quick view</a>
+        <img src="/assets/images/c-a-3.png" alt="" class="product-img">
+    </div>
+
+<div class="popup-view">
+    <div class="popup-card">
+        <a><i class="fas fa-times close-btn"></i></a>
+        <div class="product-img">
+            <img src="/assets/images/c-a-3.png" alt="">
+        </div>
+    
+        <div class="info">
+            <h2>Training Leash</h2>
+            <p>Specially designed for cats. The product provides 100% quality with reusability. It is little stretchable and feels good. Make sure to use it with ease so your cat does not get injured
+            </p>
+            <span class="price">$120.00</span>
+            <a class="add-cart-btn addToCart">add to cart</a>
+            <a class="add-wish">add to wishlist</a>
+        </div>
+
+    </div>
+</div>
+
+</div>
+      
+<div class="product item-box" data-id="c1">
+    <div class="product-card product-under">
+        <h2 class="name">Bentonite Litter</h2>
+        <span class="price">$120.00</span>
+        <a class="popup-btn">quick view</a>
+        <img src="/assets/images/cat_food-2-removebg-preview-min.png" alt="" class="product-img">
+    </div>
+
+<div class="popup-view ">
+    <div class="popup-card">
+        <a><i class="fas fa-times close-btn"></i></a>
+        <div class="product-img">
+            <img src="/assets/images/cat_food-2-removebg-preview-min.png" alt="">
+        </div>
+    
+        <div class="info">
+            <h2>Bentonite Litter</h2>
+            <p>It has a lemon scent that keeps your cat fresh. Ensures no sign of odour and separable clumps. Make it a part of your cat's routine to keep your cat cosy and delighted
+            </p>
+            <span class="price">$120.00</span>
+            <a class="add-cart-btn addToCart">add to cart</a>
+            <a class="add-wish">add to wishlist</a>
+        </div>
+
+    </div>
+</div>
+
+
+</div>           
+
+<div class="product item-box" data-id="c1">
+    <div class="product-card product-under">
+        <h2 class="name">klumpy litter</h2>
+        <span class="price">$120.00</span>
+        <a class="popup-btn">quick view</a>
+        <img src="/assets/images/cat_food-3.png" alt="" class="product-img">
+    </div>
+
+<div class="popup-view ">
+    <div class="popup-card">
+        <a><i class="fas fa-times close-btn"></i></a>
+        <div class="product-img">
+            <img src="/assets/images/cat_food-3.png" alt="">
+        </div>
+    
+        <div class="info">
+            <h2>klumpy litter</h2>
+            <p>klumpy is produced from premium quality bentonite. It is aesthetically pleasing and one of the best products in its category of clumping cat litters. It is comparable to leading brands</p>
+            <span class="price">$120.00</span>
+            <a class="add-cart-btn addToCart">add to cart</a>
+            <a class="add-wish">add to wishlist</a>
+        </div>
+
+    </div>
+</div>
+
+</div>           
+
+
+<div class="product item-box" data-id="c2">
+    <div class="product-card product-under">
+        <h2 class="name">cat bowl</h2>
+        <span class="price">$120.00</span>
+        <a class="popup-btn">quick view</a>
+        <img src="/assets/images/cat-accessories3.png" alt="" class="product-img">
+    </div>
+
+<div class="popup-view ">
+    <div class="popup-card">
+        <a><i class="fas fa-times close-btn"></i></a>
+        <div class="product-img">
+            <img src="/assets/images/cat-accessories3.png" alt="">
+        </div>
+    
+        <div class="info">
+            <h2>cat bowl</h2>
+            <p>These are the most beautiful cat feeding bowls available on the market. They will transform your pet's eating area into something you're proud to portray and recommend</p>
+            <span class="price">$120.00</span>
+            <a class="add-cart-btn addToCart">add to cart</a>
+            <a class="add-wish">add to wishlist</a>
+        </div>
+
+    </div>
+</div>
+
+</div>           
+
+
+<div class="product item-box" data-id="c2">
+    <div class="product-card product-under">
+        <h2 class="name">Slicker Brush</h2>
+        <span class="price">$120.00</span>
+        <a class="popup-btn">quick view</a>
+        <img src="/assets/images/c-a-4.png" alt="" class="product-img">
+    </div>
+
+<div class="popup-view ">
+    <div class="popup-card">
+        <a><i class="fas fa-times close-btn"></i></a>
+        <div class="product-img">
+            <img src="/assets/images/c-a-4.png" alt="">
+        </div>
+    
+        <div class="info">
+            <h2>Slicker Brush</h2>
+            <p>It has long pins to penetrate deep into longer coats. Extra long ergonomic handle reduces hand and arm fatigue. Effortlessly removes debris, mats and dead hair</p>
+            <span class="price">$120.00</span>
+            <a class="add-cart-btn addToCart">add to cart</a>
+            <a class="add-wish">add to wishlist</a>
+        </div>
+
+    </div>
+</div>
+
+
+</div>       
+          </div>  
+
+
+        </div>
+    </div>
+
+</div>
+
+<!--Back to top-->
+
+<button id="back-to-top-btn">
+    <i class="fas fa-angle-double-up"></i>
+</button>
+
+<!--Footer-->
+
+
+<footer>
+    <div class="container-fluid bg-black text-white shadow">
+        <div class="row m-0 footer-top py-4 px-4">
+  
+          <div class="col-md-12 p-0 footer-one d-flex justify-content-center">
+              <div class="footer-head">
+              <h3>cats<span class="footer-second">cuban</span><i class="fas fa-paw mx-1 paw"></i></h3>
+          </div>
+                     
+         
+          </div>
+      </div>
+  
+      <div class="row m-0 footer-bottom">
+       <div class="col-md-12 footer-two p-0 d-flex justify-content-center text-capitalize">
+  <p>copyright &copy 2022</p>
+       </div>
+          </div>
+  
+        
+    </div>
+    </footer>
+
+    </div>
+
+<script src="/assets/JS/form.js"></script>
+<script src="/assets/JS/slider.js"></script>
+<script src="/assets/JS/file.js"></script>
+<script src="/assets/JS/filter.js"></script>
+<script src="/assets/JS/btn.js"></script>
+<script src="/assets/JS/cart.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.11.2/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js"></script>  
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.min.js"></script>
+
+
+<!--Loading function-->
+
+<script>
+
+var load = document.getElementById("loading");
+
+function myfunction()
+{
+
+    load.style.display = "none";
+
+}
+
+</script>
+
+
+
+
+</body>
+</html>
