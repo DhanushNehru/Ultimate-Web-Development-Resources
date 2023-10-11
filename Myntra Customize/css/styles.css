@@ -216,3 +216,42 @@ nav {
         transform: rotate(0);
     }
 }
+
+/* Footer Social Media Button Modification */
+#footer{
+    cursor: pointer;
+}
+
+.fa-twitter:hover{
+    color: #1DA1F2;
+}
+
+.fa-facebook-f:hover{
+
+    color: blue;
+
+}
+
+.fa-instagram:hover{
+    color: #E4405F;
+}
+
+
+/* Apple Button Modification */
+.apple-btn:hover{
+
+    background-color: transparent;
+    color: black;
+
+}
+
+.Cashback-btn:hover{
+
+    background-color: transparent;
+    color: black;
+
+}
+.Cashback-btn{
+    color: white;
+    background-color: black;
+}
