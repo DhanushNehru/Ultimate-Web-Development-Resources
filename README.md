@@ -245,11 +245,46 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Httrack](https://www.httrack.com/)
 - [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy)
 
+## HTML Learning Resources
+- [Learn HTML – Full Tutorial for Beginners(Freecodecamp)](https://www.youtube.com/watch?v=kUMe1FH4CHE)
+- [Learn HTML - Codecademy](https://join.codecademy.com/learn/learn-html/)
+- [HTML Tutorial - W3schools](https://www.w3schools.com/html/)
+- [HTML Tutorial - Tutorialspoint](https://www.tutorialspoint.com/html/index.htm)
+- [HTML Full Course - Build a Website Tutorial(Freecodecamp)](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+- [HTML Crash Course For Absolute Beginners - Traversy Media](https://www.youtube.com/watch?v=UB1O30fR-EE)
+- [HTML Tutorial - How to Make a Super Simple Website(Freecodecamp)](https://www.youtube.com/watch?v=PlxWf493en4)
+
+## CSS Learning Resources
+- [Learn CSS - web.dev](https://web.dev/learn/css/)
+- [Learn CSS - Codecademy](https://www.codecademy.com/learn/learn-css)
+- [CSS Tutorial - W3schools](https://www.w3schools.com/css/)
+- [CSS Tutorial - Zero to Hero (Complete Course)(Freecodecamp)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+- [CSS tips and tricks - Kevin Powell](https://www.youtube.com/kepowob)
+- [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+
+## JS Learning Resources
+- [Learn JavaScript - Full Course for Beginners (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour (YouTube - Programming With Mosh)](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+- [JavaScript Programming - Full Course (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=jS4aFq5-91M)
+- [JavaScript Tutorial (W3Schools - Documentation)](https://www.w3schools.com/js/)
+- [Learn JavaScript - (CodeAcademy - Course)](https://join.codecademy.com/learn/introduction-to-javascript/)
+- [Learn JavaScript: Free JS Courses for Beginners (FreeCodeCamp - Documentation)](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
+
+## Let's pick a framework/library for you
+- [React-Tutorial](https://www.youtube.com/watch?v=bMknfKXIFA8)
+- [React-Docs](https://reactjs.org/)
+- [Vue JS-Tutorial](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
+- [Vue JS-Docs](https://vuejs.org/tutorial/#step-1)
+- [Angular-Tutorial](https://www.youtube.com/watch?v=k5E2AVpwsko) 
+- [Angular-Docs](https://angular.io/docs) 
+
 ## Bio Links
 
 - [Linktree](https://linktr.ee/)
 - [HeyLink](https://heylink.me/)
 - [BioLink](https://bio.link/)
+- [BioDrop](https://www.biodrop.io/)
+
 
 ## Github Student Developer Pack Resources
 
@@ -313,14 +348,13 @@ More information about the pack can be found here [Github Student Developer Pack
 - [developedbyed](https://www.youtube.com/@developedbyed)
 - [Apna College](https://www.youtube.com/@ApnaCollegeOfficial)
 - [AsmrProg](https://www.youtube.com/@AsmrProg)
-
-
-
-
-
-
-
-
+- [Akshay Saini](https://www.youtube.com/@akshaymarch7)
+- [Codevolution](https://www.youtube.com/@Codevolution)
+- [Kevin Powell](https://www.youtube.com/@KevinPowell)
+- [codedamn](https://www.youtube.com/@codedamn)
+- [Chai aur Code](https://www.youtube.com/@chaiaurcode)
+- [developedbyed](https://www.youtube.com/@developedbyed)
+- [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudharydotcom)
 
 ## HTML Learning Resources
 
@@ -403,7 +437,7 @@ More information about the pack can be found here [Github Student Developer Pack
 
 - [Indonesian](./lang/indonesian.md)
 
-Hey, I'm Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Nehru)
+Hey, I'm Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1)
 
 Searching for a job ? This may help you
 [Ultimate Tech Job List](https://github.com/DhanushNehru/Ultimate-Tech-Jobs)
