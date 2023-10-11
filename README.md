@@ -246,29 +246,29 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy)
 
 ## HTML Learning Resources
-- [Resources 1](https://www.youtube.com/watch?v=kUMe1FH4CHE)
-- [Resources 2](https://join.codecademy.com/learn/learn-html/)
-- [Resources 3](https://www.w3schools.com/html/)
-- [Resources 4](https://www.tutorialspoint.com/html/index.htm)
-- [Resources 5](https://www.youtube.com/watch?v=pQN-pnXPaVg)
-- [Resources 6](https://www.youtube.com/watch?v=UB1O30fR-EE)
-- [Resources 7](https://www.youtube.com/watch?v=PlxWf493en4)
+- [Learn HTML – Full Tutorial for Beginners(Freecodecamp)](https://www.youtube.com/watch?v=kUMe1FH4CHE)
+- [Learn HTML - Codecademy](https://join.codecademy.com/learn/learn-html/)
+- [HTML Tutorial - W3schools](https://www.w3schools.com/html/)
+- [HTML Tutorial - Tutorialspoint](https://www.tutorialspoint.com/html/index.htm)
+- [HTML Full Course - Build a Website Tutorial(Freecodecamp)](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+- [HTML Crash Course For Absolute Beginners - Traversy Media](https://www.youtube.com/watch?v=UB1O30fR-EE)
+- [HTML Tutorial - How to Make a Super Simple Website(Freecodecamp)](https://www.youtube.com/watch?v=PlxWf493en4)
 
 ## CSS Learning Resources
-- [Resources 1](https://web.dev/learn/css/)
-- [Resources 2](https://www.codecademy.com/learn/learn-css)
-- [Resources 3](https://www.w3schools.com/css/)
-- [Resources 4](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
-- [Resources 5](https://www.youtube.com/kepowob)
-- [Resources 6](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+- [Learn CSS - web.dev](https://web.dev/learn/css/)
+- [Learn CSS - Codecademy](https://www.codecademy.com/learn/learn-css)
+- [CSS Tutorial - W3schools](https://www.w3schools.com/css/)
+- [CSS Tutorial - Zero to Hero (Complete Course)(Freecodecamp)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+- [CSS tips and tricks - Kevin Powell](https://www.youtube.com/kepowob)
+- [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
 
 ## JS Learning Resources
-- [Resources 1](https://www.youtube.com/watch?v=PkZNo7MFNFg)
-- [Resources 2](https://www.youtube.com/watch?v=W6NZfCO5SIk)
-- [Resources 3](https://www.youtube.com/watch?v=jS4aFq5-91M)
-- [Resources 4](https://www.w3schools.com/js/)
-- [Resources 5](https://join.codecademy.com/learn/introduction-to-javascript/)
-- [Resources 6](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
+- [Learn JavaScript - Full Course for Beginners (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour (YouTube - Programming With Mosh)](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+- [JavaScript Programming - Full Course (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=jS4aFq5-91M)
+- [JavaScript Tutorial (W3Schools - Documentation)](https://www.w3schools.com/js/)
+- [Learn JavaScript - (CodeAcademy - Course)](https://join.codecademy.com/learn/introduction-to-javascript/)
+- [Learn JavaScript: Free JS Courses for Beginners (FreeCodeCamp - Documentation)](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 
 ## Let's pick a framework/library for you
 - [React-Tutorial](https://www.youtube.com/watch?v=bMknfKXIFA8)
@@ -283,6 +283,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Linktree](https://linktr.ee/)
 - [HeyLink](https://heylink.me/)
 - [BioLink](https://bio.link/)
+- [BioDrop](https://www.biodrop.io/)
 
 
 ## Github Student Developer Pack Resources
@@ -354,14 +355,6 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Chai aur Code](https://www.youtube.com/@chaiaurcode)
 - [developedbyed](https://www.youtube.com/@developedbyed)
 - [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudharydotcom)
-
-
-
-
-
-
-
-
 
 ## HTML Learning Resources
 
