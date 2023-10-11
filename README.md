@@ -253,6 +253,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [HTML Full Course - Build a Website Tutorial(Freecodecamp)](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 - [HTML Crash Course For Absolute Beginners - Traversy Media](https://www.youtube.com/watch?v=UB1O30fR-EE)
 - [HTML Tutorial - How to Make a Super Simple Website(Freecodecamp)](https://www.youtube.com/watch?v=PlxWf493en4)
+- [HTML & CSS Full Course - Beginner to Pro(SuperSimpleDev](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=19628s)
 
 ## CSS Learning Resources
 - [Learn CSS - web.dev](https://web.dev/learn/css/)
@@ -261,6 +262,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [CSS Tutorial - Zero to Hero (Complete Course)(Freecodecamp)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 - [CSS tips and tricks - Kevin Powell](https://www.youtube.com/kepowob)
 - [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+- [HTML & CSS Full Course - Beginner to Pro(SuperSimpleDev](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=19628s)
 
 ## JS Learning Resources
 - [Learn JavaScript - Full Course for Beginners (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
@@ -269,6 +271,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [JavaScript Tutorial (W3Schools - Documentation)](https://www.w3schools.com/js/)
 - [Learn JavaScript - (CodeAcademy - Course)](https://join.codecademy.com/learn/introduction-to-javascript/)
 - [Learn JavaScript: Free JS Courses for Beginners (FreeCodeCamp - Documentation)](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
+- [Chai aur Javascript | हिन्दी (Chai aur Code)](https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37)
 
 ## Let's pick a framework/library for you
 - [React-Tutorial](https://www.youtube.com/watch?v=bMknfKXIFA8)
