@@ -215,6 +215,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [JSON validator and formatter](https://jsonlint.com)
 - [DebugBear Speed Test](https://www.debugbear.com/test/website-speed)
 - [TinyPNG](https://tinypng.com)
+- [JPEG Optimizer](https://jpeg-optimizer.com)
+- [CloudConvert](https://cloudconvert.com)
 
 ## Interview Preparation
 
