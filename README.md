@@ -334,6 +334,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Chai aur Code](https://www.youtube.com/@chaiaurcode)
 - [developedbyed](https://www.youtube.com/@developedbyed)
 - [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudharydotcom)
+- [CodeHelp - by Babbar] (https://www.youtube.com/@CodeHelp)
 
 ## HTML Learning Resources
 - [Learn HTML – Full Tutorial for Beginners(Freecodecamp)](https://www.youtube.com/watch?v=kUMe1FH4CHE)
