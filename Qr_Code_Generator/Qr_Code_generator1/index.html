@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+    <div class="generator-container">
+        <h1>QR Code Generator</h1>
+        <label for="input-type">Select input type:</label>
+        <select id="input-type">
+            <option value="text">Text</option>
+            <option value="url">URL</option>
+            <option value="contact">Contact</option>
+        </select>
+        <div id="text-input" class="input-section">
+            <input type="text" id="text" placeholder="Enter Text">
+        </div>
+        <div id="url-input" class="input-section">
+            <input type="text" id="url" placeholder="Enter URL">
+        </div>
+        <div id="contact-input" class="input-section">
+            <input type="text" id="name" placeholder="Name">
+            <input type="tel" id="number" placeholder="Phone Number">
+            <input type="email" id="email" placeholder="Email">
+        </div>
+        <button id="generate-button">Generate QR Code</button>
+        <div id="qr-code" class="hidden">
+            <img id="qr-code-img" alt="QR Code">
+        </div>
+    </div>
+    <script src="qrcode.js"></script>
+    <script src="index.js"></script>
+</body>
+</html>
