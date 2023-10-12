@@ -200,6 +200,7 @@ _**Note: Please follow the maintainer of the repository for quick approval of th
 - [ShapeFest](https://www.shapefest.com/)
 - [Graphic Burger](https://graphicburger.com/)
 - [Illustrations Kit](https://illustrationkit.com/)
+- [UI Illustrations](https://yashikabhargava.github.io/WebX/public/content/ui-illustrations.html)
 
 ## Web fonts
 
@@ -285,6 +286,8 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Firebase](https://firebase.google.com/)
 - [Clerk](https://clerk.dev/)
 - [Next Auth](https://next-auth.js.org)
+- [Appwrite](https://appwrite.io/)
+- [Okta](https://developer.okta.com/docs/reference/api/authn/)
 
 ## Animations and Graphics
 
