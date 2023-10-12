@@ -263,7 +263,10 @@ _**Note: Please follow the maintainer of the repository for quick approval of th
 - [Linktree](https://linktr.ee/)
 - [HeyLink](https://heylink.me/)
 - [BioLink](https://bio.link/)
+- [LnkBio](https://lnk.bio/)
 - [BioDrop](https://www.biodrop.io/)
+- [eLink](https://elink.io/)
+- [Sked Social](https://skedsocial.com/)
 
 
 ## Github Student Developer Pack Resources
