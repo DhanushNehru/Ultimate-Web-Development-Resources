@@ -3,16 +3,16 @@
 // Creating a responsive navbar
 // ==================================================
 
-  const mobile_nav = document.querySelector(".mobile-navbar-btn");
-  const headerElem = document.querySelector(".header");
+const mobile_nav = document.querySelector(".mobile-navbar-btn");
+const headerElem = document.querySelector(".header");
 
-  mobile_nav.addEventListener("click", () => {
+mobile_nav.addEventListener("click", () => {
 
     headerElem.classList.toggle("active");
 
-  });
+});
 
-  // ========================================
+// ========================================
 // sticky navigation
 // ======================================== 
 
@@ -22,11 +22,11 @@ const observer = new IntersectionObserver(
     (entries) => {
         const ent = entries[0];
         console.log(ent);
-        !ent.isIntersecting 
+        !ent.isIntersecting
             ? document.body.classList.add("sticky")
             : document.body.classList.remove("sticky");
     },
-     {
+    {
         // viewport
         root: null,
         threshold: 0,
@@ -41,11 +41,11 @@ observer.observe(heroSection);
 // Creating a portfolio tabbed CompositionEvent
 // ==================================================
 
- const p_btns = document.querySelector(".p-btns");
- const p_btn = document.querySelectorAll(".p-btn");
- const p_img_elem = document.querySelectorAll(".img-overlay");
+const p_btns = document.querySelector(".p-btns");
+const p_btn = document.querySelectorAll(".p-btn");
+const p_img_elem = document.querySelectorAll(".img-overlay");
 
- p_btns.addEventListener("click",(e)=>{
+p_btns.addEventListener("click", (e) => {
     const p_btn_clicked = e.target;
     console.log(p_btn_clicked);
 
@@ -62,15 +62,15 @@ observer.observe(heroSection);
 
     p_img_elem.forEach((curElem) => curElem.classList.add("p-image-not-active"));
 
-    img_active.forEach((curElem) => 
+    img_active.forEach((curElem) =>
         curElem.classList.remove("p-image-not-active")
-   );
+    );
 
 
- });
+});
 
 
- // ==================================================
+// ==================================================
 //              Scroll to top button section
 // ==================================================
 
@@ -87,11 +87,11 @@ scroollElement.innerHTML = `<ion-icon name="arrow-up-outline" class="scroll-top"
 
 footerElem.after(scroollElement);
 
-const scrollTop =() =>{
-   heroSection.scrollIntoView({behavior:"smooth"});
+const scrollTop = () => {
+    heroSection.scrollIntoView({ behavior: "smooth" });
 };
 
-scroollElement.addEventListener("click",scrollTop);
+scroollElement.addEventListener("click", scrollTop);
 
- 
+
 
