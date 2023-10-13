@@ -42,6 +42,7 @@ _**Note: Please follow the maintainer of the repository for quick approval of th
 - [Ultimate-Web-Development-Resources](#ultimate-web-development-resources)
   - [Web Development Roadmaps](#web-development-roadmaps)
   - [Web design softwares](#web-design-softwares)
+  - [List Of Projects](#list-of-projects)
   - [Prototyping tools for UI/UX](#prototyping-tools-for-uiux)
   - [Free Hosting](#free-hosting)
   - [Websites to learn](#websites-to-learn)
@@ -86,6 +87,52 @@ _**Note: Please follow the maintainer of the repository for quick approval of th
 - [Wix](https://www.wix.com/)
 - [Zeplin](https://zeplin.io/)
 - [Figma](https://www.figma.com/design/?utm_source=google&utm_medium=cpc&utm_campaign=17873985255&utm_term=design%20software&utm_content=613237509572&gclid=Cj0KCQjwkt6aBhDKARIsAAyeLJ2tS_qfB9w63_uwByAElTGIXk3qtPAajqy-1XXZRc_sjn-xXjlw4WYaArnaEALw_wcB)
+
+## List Of Projects
+
+- [3D-Portfolio](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/3D-Portfolio)
+- [Blog Website](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Blog-Website)
+- [Bloggers Website](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Blogger-Website-main/blogers%20%20website)
+- [Calculator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/calculator)
+- [Chess](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Chess)
+- [City Finder](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/City%20Finder)
+- [Clock Project](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/ClockProject)
+- [DRUM KIT](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/DRUM-KIT)
+- [Dice Challenge](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Dice-Challenge)
+- [Disney Character Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/disney-character-game)
+- [Emoji](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Emoji)
+- [Expense Tracker App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/ExpenseTrackerApp)
+- [Guess My Number](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/guess%20my%20number)
+- [Hangman Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Hangman%20Game)
+- [Javascript Quiz App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Javascript%20Quiz%20App)
+- [Lang](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/lang)
+- [MarioMatching](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/MarioMatching)
+- [Memory Cards](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/memorycards)
+- [Meme Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Meme-Generator)
+- [MERN Blog App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/mern-blog-app)
+- [Myntra Customize](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Myntra%20Customize)
+- [Netflix UI Clone](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Netflix%20UI%20Clone)
+- [Notes App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Notes%20App)
+- [Password Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Password%20Generator)
+- [Portfolio](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/portfolio)
+- [QR Cde Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Qr_Code_Generator)
+- [Random Background Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Random-Background-Generator)
+- [Recipe Finder](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Recipe-Finder)
+- [Task Management App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/task-management-app)
+- [Table Tennis scorekeeper](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Table%20Tennis%20scorekeeper)
+- [Temperature Converter](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/tempreture-converter)
+- [TicTacToe Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/TicTacToe%20Game)
+- [TO DO List](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/to-do-list)
+- [URL Shortner](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/url-shortner)
+- [Weather App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WeatherApp)
+- [Wix Template](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WixTemplate)
+
+
+  
+
+
+
+
 
 ## Prototyping tools for UI/UX
 
