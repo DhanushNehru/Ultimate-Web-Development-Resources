@@ -1,0 +1,58 @@
+/* Add your CSS styles here */
+.generator-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.input-section {
+    display: none;
+    margin: 10px 0;
+}
+
+.hidden {
+    display: none;
+}
+
+
+
+#text-input input {
+    width: 380px;
+    padding: 8px;
+}
+
+#url-input input {
+    width: 380px;
+    padding: 8px;
+}
+
+#contact-input.input-section {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+#contact-input.input-section :nth-child(1) {
+    margin: 15px;
+    padding: 8px;
+    width: 380px;
+
+}
+
+#contact-input.input-section :nth-child(2) {
+    margin: 15px;
+    padding: 8px;
+    width: 380px;
+
+}
+
+#contact-input.input-section :nth-child(3) {
+    margin: 15px;
+    padding: 8px;
+    width: 380px;
+}
