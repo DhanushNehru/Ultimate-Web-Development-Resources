@@ -277,6 +277,8 @@ _**Note: Please follow the maintainer of the repository for quick approval of th
 - [Graphic Burger](https://graphicburger.com/)
 - [Illustrations Kit](https://illustrationkit.com/)
 - [UI Illustrations](https://yashikabhargava.github.io/WebX/public/content/ui-illustrations.html)
+- [Humaaans](https://www.humaaans.com/)
+- [UI Store](https://www.uistore.design/)
 
 ## Web fonts
 
@@ -285,6 +287,7 @@ _**Note: Please follow the maintainer of the repository for quick approval of th
 - [Fontspace](https://www.fontspace.com/)
 - [1001fonts](http://1001fonts.com/)
 - [fontawesome](https://fontawesome.com/)
+- [Font Bundles](https://fontbundles.net/)
 
 ## Website Optimization Tools
 
@@ -413,6 +416,8 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Chai aur Code](https://www.youtube.com/@chaiaurcode)
 - [developedbyed](https://www.youtube.com/@developedbyed)
 - [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudharydotcom)
+- [Clever Programmer](https://www.youtube.com/@CleverProgrammer)
+- [Sonny Sangha](https://www.youtube.com/@SonnySangha)
 
 ## HTML Learning Resources
 - [Learn HTML – Full Tutorial for Beginners(Freecodecamp)](https://www.youtube.com/watch?v=kUMe1FH4CHE)
