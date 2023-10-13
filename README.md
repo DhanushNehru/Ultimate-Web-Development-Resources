@@ -69,6 +69,8 @@ _**Note: Please follow the maintainer of the repository for quick approval of th
 - [Webflow](https://webflow.com/)
 - [Penpot](https://penpot.app/)
 - [Balsamiq Wireframing](https://balsamiq.com/)
+- [Axure RP](https://www.axure.com/)
+- [Origami Studio](https://origami.design/)
 
 ## Free Hosting
 
