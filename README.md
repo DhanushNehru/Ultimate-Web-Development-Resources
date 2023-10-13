@@ -34,9 +34,6 @@ Contributions to this repository are welcome! please follow these steps:
 
 Your project will be reviewed, and once approved, it will be merged into the main repository.
 
-
-_**Note: Please follow the maintainer of the repository for quick approval of the PR's via [Twitter](https://twitter.com/Dhanush_Nehru), [Instagram](https://www.instagram.com/dhanush_nehru/), [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1), [Github](https://github.com/DhanushNehru)**_
-
 ## Table of Contents
 
 - [Ultimate-Web-Development-Resources](#ultimate-web-development-resources)
