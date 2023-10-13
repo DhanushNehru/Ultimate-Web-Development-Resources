@@ -486,6 +486,7 @@ More information about the pack can be found here [Github Student Developer Pack
 | Notes App                  | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Notes%20App)                |
 | Password Generator         | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Password%20Generator)       |
 | Portfolio                  | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/portfolio)                  |
+| Portfolio_02                  | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Portfolio_02)                  |
 | QR Code Generator          | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Qr_Code_Generator)          |
 | Random Background Generator | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Random-Background-Generator) |
 | Recipe Finder               | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Recipe-Finder)             |
