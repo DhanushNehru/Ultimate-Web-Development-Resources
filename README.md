@@ -34,9 +34,6 @@ Contributions to this repository are welcome! please follow these steps:
 
 Your project will be reviewed, and once approved, it will be merged into the main repository.
 
-
-_**Note: Please follow the maintainer of the repository for quick approval of the PR's via [Twitter](https://twitter.com/Dhanush_Nehru), [Instagram](https://www.instagram.com/dhanush_nehru/), [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1), [Github](https://github.com/DhanushNehru)**_
-
 ## Table of Contents
 
 - [Ultimate-Web-Development-Resources](#ultimate-web-development-resources)
@@ -70,6 +67,7 @@ _**Note: Please follow the maintainer of the repository for quick approval of th
   - [Top React Component Libraries](#top-react-component-libraries)
   - [Top JavaScript Libraries](#top-javascript-libraries)
   - [Top JavaScript Frameworks](#top-javascript-frameworks)
+  - [List Of Projects](#list-of-projects)
 
 ## Web Development Roadmaps
 
@@ -86,6 +84,7 @@ _**Note: Please follow the maintainer of the repository for quick approval of th
 - [Wix](https://www.wix.com/)
 - [Zeplin](https://zeplin.io/)
 - [Figma](https://www.figma.com/design/?utm_source=google&utm_medium=cpc&utm_campaign=17873985255&utm_term=design%20software&utm_content=613237509572&gclid=Cj0KCQjwkt6aBhDKARIsAAyeLJ2tS_qfB9w63_uwByAElTGIXk3qtPAajqy-1XXZRc_sjn-xXjlw4WYaArnaEALw_wcB)
+
 
 ## Prototyping tools for UI/UX
 
@@ -230,6 +229,8 @@ _**Note: Please follow the maintainer of the repository for quick approval of th
 - [Graphic Burger](https://graphicburger.com/)
 - [Illustrations Kit](https://illustrationkit.com/)
 - [UI Illustrations](https://yashikabhargava.github.io/WebX/public/content/ui-illustrations.html)
+- [Humaaans](https://www.humaaans.com/)
+- [UI Store](https://www.uistore.design/)
 
 ## Web fonts
 
@@ -238,6 +239,7 @@ _**Note: Please follow the maintainer of the repository for quick approval of th
 - [Fontspace](https://www.fontspace.com/)
 - [1001fonts](http://1001fonts.com/)
 - [fontawesome](https://fontawesome.com/)
+- [Font Bundles](https://fontbundles.net/)
 
 ## Website Optimization Tools
 
@@ -366,6 +368,8 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Chai aur Code](https://www.youtube.com/@chaiaurcode)
 - [developedbyed](https://www.youtube.com/@developedbyed)
 - [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudharydotcom)
+- [Clever Programmer](https://www.youtube.com/@CleverProgrammer)
+- [Sonny Sangha](https://www.youtube.com/@SonnySangha)
 
 ## HTML Learning Resources
 - [Learn HTML – Full Tutorial for Beginners(Freecodecamp)](https://www.youtube.com/watch?v=kUMe1FH4CHE)
@@ -453,6 +457,49 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Koa.js](https://koajs.com/)
 - [Nest.js](https://nestjs.com/)
 
+## List Of Projects
+
+| Project Name               | GitHub Link                                                                                                      |
+| -------------------------- | ----------------------------------------------------------------------------------------------------------------- |
+| 3D Portfolio               | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/3D-Portfolio)                |
+| Blog Website               | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Blog-Website)                |
+| Bloggers Website           | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Blogger-Website-main/blogers%20%20website) |
+| Calculator                 | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/calculator)                 |
+| Chess                      | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Chess)                      |
+| City Finder                | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/City%20Finder)              |
+| Clock Project              | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/ClockProject)               |
+| DRUM KIT                   | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/DRUM-KIT)                    |
+| Dice Challenge             | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Dice-Challenge)             |
+| Disney Character Game      | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/disney-character-game)     |
+| Emoji                      | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Emoji)                      |
+| Expense Tracker App        | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/ExpenseTrackerApp)         |
+| Guess My Number            | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/guess%20my%20number)       |
+| Hangman Game               | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Hangman%20Game)             |
+| Javascript Quiz App        | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Javascript%20Quiz%20App)   |
+| Lang                       | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/lang)                       |
+| MarioMatching              | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/MarioMatching)              |
+| Memory Cards               | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/memorycards)               |
+| Meme Generator              | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Meme-Generator)              |
+| MERN Blog App              | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/mern-blog-app)              |
+| Myntra Customize           | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Myntra%20Customize)         |
+| Netflix UI Clone           | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Netflix%20UI%20Clone)      |
+| Notes App                  | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Notes%20App)                |
+| Password Generator         | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Password%20Generator)       |
+| Portfolio                  | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/portfolio)                  |
+| QR Code Generator          | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Qr_Code_Generator)          |
+| Random Background Generator | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Random-Background-Generator) |
+| Recipe Finder               | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Recipe-Finder)             |
+| Task Management App        | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/task-management-app)        |
+| Table Tennis Scorekeeper    | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Table%20Tennis%20scorekeeper) |
+| Temperature Converter       | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/tempreture-converter)      |
+| TicTacToe Game              | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/TicTacToe%20Game)          |
+| TO DO List                 | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/to-do-list)                |
+| URL Shortener              | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/url-shortner)              |
+| Weather App                | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WeatherApp)                |
+| Wix Template               | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WixTemplate)               |
+
+Please note that the links provided are the GitHub repository URLs for each project.
+
 ## Web For Testing and Check The Security Score 
 
 - [Security Headers](https://securityheaders.com/)
@@ -463,7 +510,7 @@ More information about the pack can be found here [Github Student Developer Pack
 
 - [Indonesian](./lang/indonesian.md)
 
-Hey, I'm Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [Twitter](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1)
+Hey, I'm Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [X / (Twitter)](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1)
 
 Searching for a job ? This may help you
 [Ultimate Tech Job List](https://github.com/DhanushNehru/Ultimate-Tech-Jobs)
