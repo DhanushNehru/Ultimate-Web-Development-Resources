@@ -67,6 +67,7 @@
 }
 .nav_f_left{
     margin-right:10px;
+    display: none;
 }
 .nav_f_right{
     display: flex;
@@ -100,7 +101,7 @@
     .navbar-container{
         display: block;
         position: relative;
-        height: 64px;
+        height: 50px;
     }
 
     .navbar-container input[type="checkbox"]{
@@ -120,7 +121,7 @@
         height: 28px;
         width: 35px;
         position: absolute;
-        top: 20px;
+        top: 26px;
         left: 20px;
         z-index: 2;
         display: flex;
@@ -171,12 +172,12 @@
         font-weight: 500;
     }
 
-    .logo{
+    /* .logo{
         position: absolute;
         top: 10px;
         right: 15px;
         font-size: 2.5rem;
-    }
+    } */
 
     .navbar-container input[type="checkbox"]:checked ~ .menu-items{
         transform: translateX(0);
@@ -200,4 +201,7 @@
     .navbar-container input[type="checkbox"]:checked ~ .logo{
         display: none;
     }
+}
+@media only screen and (max-width: 600px) {
+
 }
