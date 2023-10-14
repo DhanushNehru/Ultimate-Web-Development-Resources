@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+
+<html>
+
+	<head>
+	
+		<!-- Global site tag (gtag.js) - Google Analytics -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121647007-3"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+
+			gtag('config', 'UA-121647007-3');
+		</script>
+	
+		<meta property="og:image" content="https://tetris-90067.firebaseapp.com/img/preview.png">
+		<meta property="og:url" content="https://tetris-90067.firebaseapp.com/">
+		<meta property="og:description" content="Tetris game written in HTML5 + CSS3 + jQuery. This WebApp is a Responsive Web Design (RWD) website.">
+		<meta property="og:title" content="Lucio PANEPINTO - Tetris">
+	
+		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+		<meta name="description" content="Tetris game written in HTML5 + CSS3 + jQuery. This WebApp is a Responsive Web Design (RWD) website." />
+		<meta name="keywords" content="tetris, tetris online, online, online games, games, free, puzzle, lucio panepinto, lucio, panepinto, html, html5, css, css3, javascript, jquery, rwd, responsive, responsive web design, responsive web, web design" />
+
+		<link rel="stylesheet" type="text/css" href="css/tetris.css" />
+	
+		<script type="text/javascript" src="js/jquery.js"></script>
+		<script type="text/javascript" src="js/jquery-mobile.js"></script>
+		<script type="text/javascript" src="js/jquery-buzz.js"></script>
+		<script type="text/javascript" src="js/tetris-vars.js"></script>
+		<script type="text/javascript" src="js/tetris-tools.js"></script>
+		<script type="text/javascript" src="js/tetris-pieces.js"></script>
+		<script type="text/javascript" src="js/tetris-lines.js"></script>
+		<script type="text/javascript" src="js/tetris-score.js"></script>
+		<script type="text/javascript" src="js/tetris-sound.js"></script>
+		
+		<script type="text/javascript">		
+		
+			function initBoard() { 
+				for (var y = LINES_MAX_Y, ymax = 0; y > ymax; y --) { 
+					for (var x = 1, xmax = LINES_MAX_X + 1; x < xmax; x ++) { 
+						$('#board').append('<div class="square" id="s-' + y + '-' + x + '"></div>');
+					}
+				}
+				for (var y = 4, ymax = 0; y > ymax; y --) { 
+					for (var x = 1, xmax = 5; x < xmax; x ++) { 
+						$('#board-next').append('<div class="square" id="next-s-' + y + '-' + x + '"></div>');
+					}
+				}
+
+				refreshPlayer();
+			}
+			
+			function resetAll() { 
+				$('#board').find('.square').remove();
+				$('#board-next').find('.square').remove();
+			
+				PLAYER_LEVEL = 0;
+				PLAYER_LINES = 0;
+				PLAYER_LINES_LEVEL = 0;
+				PLAYER_SCORE = 0;
+				PLAYER_SCORE_BONUS = 0;
+				PLAYER_SPEED = PLAYER_SPEED_DEFAULT;
+				
+				PIECE_NEXT = -1;
+				
+				GAME_OVER = false;
+				GAME_PAUSE = false;
+				GAME_SPECIAL_AUTHORIZED = false;
+				
+				initBoard();
+				
+			}
+			
+			function gameover() { 
+				stopAllSound();
+				playGameoverSound();
+			
+				GAME_SPECIAL_AUTHORIZED = false;
+				PIECE_CONTROL = "NULL";
+				
+				PIECE_DISABLED_Y = 1;
+				PIECE_DISABLED_X = 1;
+				PIECE_DISABLED_TIMER = setInterval('disablePiece()', PIECE_DISABLED_DELAY);
+			}
+			
+			function pause() { 
+				if (GAME_PAUSE) { 
+					$("#control div.pause").removeClass("play");
+					$('#board, #board-next').find(".square").removeClass("invisible");
+					clearMessage();
+					GAME_PAUSE = false;
+					playThemeSound();
+					PIECE_DOWN_TIMER = setInterval('pieceDown()', PLAYER_SPEED);
+					if (LINES !== "") { 
+						LINES_BLINK_TIMER = setInterval('blinkLines()', LINES_BLINK_DELAY);
+					}
+				} else { 
+					$("#control div.pause").addClass("play");
+					message("pause");
+					GAME_PAUSE = true;
+					pauseThemeSound();
+					clearInterval(PIECE_DOWN_TIMER);
+					if (LINES !== "") { 
+						clearInterval(LINES_BLINK_TIMER);
+					}
+					$('#board, #board-next').find(".square").addClass("invisible");
+				}
+			}
+			
+			function startOneGame() { 
+				GAME_SPECIAL_AUTHORIZED = true;
+				clearMessage();
+				launchOnePiece();
+			}
+			
+			function blinkHelp() { 
+				if ( $('.help-button').attr("class").indexOf("yo") > -1 ) { 
+					$('.help-button').removeClass("yo");
+				} else { 
+					$('.help-button').addClass("yo");
+				}
+			}
+			
+			function blinkStart() { 
+				if ( $('#home .start').attr("class").indexOf("invisible") > -1 ) { 
+					$('#home .start').removeClass("invisible");
+				} else { 
+					$('#home .start').addClass("invisible");
+				}
+			}
+			
+			function blinkName() { 
+				if ( $('#home #score' + ENTER_NAME).attr("class") && $('#home #score' + ENTER_NAME).attr("class").indexOf("invisible") > -1 ) { 
+					$('#home #position' + ENTER_NAME + ', #home #score' + ENTER_NAME).removeClass("invisible");
+					if ( $("#control").css("display") === "none" ) { 
+						$('#home #name' + ENTER_NAME).removeClass("invisible");
+					}
+				} else { 
+					$('#home #position' + ENTER_NAME + ', #home #score' + ENTER_NAME).addClass("invisible");
+					if ( $("#control").css("display") === "none" ) { 
+						$('#home #name' + ENTER_NAME).addClass("invisible");
+					}
+				}
+			}
+			
+			function home() { 
+				$("#panel").hide();
+				$("#home").show();
+				
+				if (ENTER_NAME > -1) { 
+					$('#home .start').addClass("invisible");
+					ENTER_NAME_TIMER = setInterval('blinkName()', ENTER_NAME_DELAY);
+				} else { 
+					GAME_START_TIMER = setInterval('blinkStart()', GAME_START_DELAY);
+					playThemeSound();
+				}
+			}
+			
+			function game() { 
+				playMoveSound();
+			
+				$("#home").hide();
+				$("#panel").show();
+				
+				clearInterval(GAME_START_TIMER);
+				GAME_START_TIMER = -1;
+				resetAll();
+				startOneGame();
+			}
+			
+			$(document).ready(function() { 
+				$.mobile.loading().hide();
+				
+				loadAllSound();
+				
+				if ($("#control").css("display") !== "none") { 
+					$("#home .start").html(" - Touch screen to start - ");
+				}
+				
+				$(".sound").click(function(e) { 
+					e.stopPropagation();
+					
+					var sound = $(this).attr("data-sound");
+					if ( sound === "on" ) { 
+						$(".sound").attr("data-sound", "off");
+						$(".sound").find("img").attr("src", "img/sound-off.png");
+						muteAllSound();
+					} else { 
+						$(".sound").attr("data-sound", "on");
+						$(".sound").find("img").attr("src", "img/sound-on.png");
+						unmuteAllSound();
+					}
+				});
+				
+				HELP_TIMER = setInterval('blinkHelp()', HELP_DELAY);
+				
+				home();
+				
+				$(".help-button, #help").click(function(e) { 
+					e.stopPropagation();
+					if ( $('#help').css("display") === "none") { 
+						$('#help').fadeIn("slow");
+						$(".help-button").hide();
+						if ( $("#panel").css("display") !== "none" && !GAME_OVER && GAME_SPECIAL_AUTHORIZED && !GAME_PAUSE) { 
+							pause();
+						}
+					} else { 
+						$('#help').fadeOut("slow");
+						$(".help-button").show();
+					}
+				});
+				
+				$(".github").click(function(e) { 
+					e.stopPropagation();
+				});
+
+				$("body").keyup(function(e) { 
+					if ( $("#panel").css("display") !== "none") { 
+						if (e.keyCode === 40) { 
+							PLAYER_SCORE_BONUS = 0;
+						}
+					}
+				});
+				
+				$("#home, #panel #board").tap(function(e) { 
+					e.preventDefault();
+					simulateKeydown(83);
+				});
+				$("#panel #board").swipeleft(function(e) { 
+					e.preventDefault();
+					simulateKeydown(37);
+				});
+				$("#panel #board").swiperight(function(e) { 
+					e.preventDefault();
+					simulateKeydown(39);
+				});
+				$("#board-next").tap(function(e) { 
+					e.preventDefault();
+					simulateKeydown(46);
+				});
+				
+				$("#control div.move-right").tap(function(e) { 
+					e.preventDefault();
+					simulateKeydown(39);
+				});
+				$("#control div.move-left").tap(function(e) { 
+					e.preventDefault();
+					simulateKeydown(37);
+				});
+				$("#control div.move-down").tap(function(e) { 
+					e.preventDefault();
+					simulateKeydown(40);
+				});
+				$("#control div.rotate").tap(function(e) { 
+					e.preventDefault();
+					simulateKeydown(83);
+				});
+				$("#control div.pause").tap(function(e) { 
+					e.preventDefault();
+					simulateKeydown(27);
+				});
+				$("#control div.view-next").tap(function(e) { 
+					e.preventDefault();
+					simulateKeydown(46);
+				});
+				
+				function simulateKeydown(code) { 
+					var e = jQuery.Event("keydown");
+					e.keyCode = code;
+					jQuery('body').trigger(e);
+				}
+				
+				$("body").keydown(function(e) { 
+					e.preventDefault();
+					e.stopPropagation();
+					if ( $("#help").css("display") !== "none" ) { 
+						$('#help').fadeOut("slow");
+						$(".help-button").show();
+					} else { 				
+						if ( $("#panel").css("display") === "none" ) { 
+							if ( ENTER_NAME_TIMER > -1 ) { 
+								playMoveSound();
+								if ( $("#control").css("display") === "none" ) { 
+									if (e.keyCode === 8 && ENTER_NAME_POSITION > 0) { 
+										ENTER_NAME_POSITION --;
+										var n = $('#home #name' + ENTER_NAME).html();
+										n = n.replaceAt(ENTER_NAME_POSITION, ENTER_NAME_DEFAULT_CHAR);
+										$('#home #name' + ENTER_NAME).html(n);
+									} else if (e.keyCode >= 65 && e.keyCode <= 90 && ENTER_NAME_POSITION < ENTER_NAME_MAX_CHAR) { 
+										var n = $('#home #name' + ENTER_NAME).html();
+										n = n.replaceAt(ENTER_NAME_POSITION, String.fromCharCode(e.keyCode));
+										$('#home #name' + ENTER_NAME).html(n);
+										ENTER_NAME_POSITION ++;
+									} else if (e.keyCode === 13) { 
+										var n = $('#home #name' + ENTER_NAME).html();
+										$('#home #name' + ENTER_NAME).html(n.split(ENTER_NAME_DEFAULT_CHAR).join(''));
+										eval('SCORE_' + ENTER_NAME + '_NAME = n.split("' + ENTER_NAME_DEFAULT_CHAR + '").join("");');
+										clearInterval(ENTER_NAME_TIMER);
+										$('#home #position' + ENTER_NAME + ', #home #score' + ENTER_NAME + ', #home #name' + ENTER_NAME).removeClass("invisible");
+										ENTER_NAME = -1;
+										ENTER_NAME_TIMER = -1;
+										ENTER_NAME_POSITION = 0;
+										home();
+									}
+								} else { 
+									if (e.keyCode === 13) { 
+										eval('SCORE_' + ENTER_NAME + '_NAME = $("#name-input").val()');
+										$('#home #name' + ENTER_NAME).html($("#name-input").val());
+										clearInterval(ENTER_NAME_TIMER);
+										$('#home #position' + ENTER_NAME + ', #home #score' + ENTER_NAME + ', #home #name' + ENTER_NAME).removeClass("invisible");
+										$('#home #name' + ENTER_NAME).find('input').remove();
+										ENTER_NAME = -1;
+										ENTER_NAME_TIMER = -1;
+										ENTER_NAME_POSITION = 0;
+										home();
+									}
+								}
+							} else { 
+								game();
+							}
+						} else { 
+							if (GAME_OVER) { 
+								home();
+							} else { 
+								if ((e.keyCode === 27 || e.keyCode === 19 || e.keyCode === 13 || e.keyCode === 80) && GAME_SPECIAL_AUTHORIZED) { 
+									pause();
+								}
+							
+								if ( PIECE_CONTROL !== "NULL" && !GAME_PAUSE ) { 
+								
+									if (e.keyCode === 46 || e.keyCode === 8) { 
+										nextMasked();
+									}
+								
+									var c = getPieceControlId();
+									var y = getPieceControlPositionY();
+									var x = getPieceControlPositionX();
+									var p = getPieceControlType();
+									var m = getPieceControlRotate();
+											
+									if (e.keyCode === 40) { 
+										if ($("#control").css("display") === "none") { 
+											PLAYER_SCORE_BONUS ++;
+										}
+										y --;
+										playMoveSound();
+										pieceDown();
+									} else { 			
+
+										var moveSound = false;
+										var rotateSound = false;
+										if (e.keyCode === 39) { 
+											x ++; moveSound = true;
+										} else if (e.keyCode === 37) { 
+											x --; moveSound = true;
+										} else if (e.keyCode === 83 || e.keyCode === 38 || e.keyCode === 17 || e.keyCode === 32) { 
+											m ++; if (m > 4) m = 1; rotateSound = true;
+										} else if (e.keyCode === 81 || e.keyCode === 65) { 
+											m --; if (m < 1) m = 4; rotateSound = true;
+										}
+
+										if (canMove(p, x, y, m, PIECE_CONTROL)) { 
+											
+											if (moveSound) { 
+												playMoveSound();
+											} else if (rotateSound) { 
+												playRotateSound();
+											}
+										
+											$('#board').find(".square[piece-id='" + PIECE_CONTROL + "']").removeClass("piece" + p).removeAttr("piece-id").removeAttr("piece-catch").removeAttr("piece-move");
+											drawPiece(p, x, y, m, PIECE_CONTROL);
+											$('#board').find(".square[piece-id='" + PIECE_CONTROL + "'][piece-catch='yes']").attr("piece-move", m);
+										}
+									}
+								}
+							}
+						}
+					}
+				});
+			});
+		</script>
+	
+		<title>ADITYA GUPTA - Tetris</title>
+	</head>
+		
+	<body>
+	
+		<div id="sound"></div>
+	
+		<div id="help">
+			<h2>Help</h2>
+			<table align="center" border="0" cellPadding="2" cellSpacing="0">
+				<tbody>
+					<tr><td>Arrow Left / Arrow Right : </td><td>Move Left / Move Right</td></tr>
+					<tr><td>Arrow Down : </td><td>Move Down</td></tr>
+					<tr><td>Arrow Up, CTRL, Space, S : </td><td>Rotate Right</td></tr>
+					<tr><td>Q, A : </td><td>Rotate Left</td></tr>
+					<tr><td colspan="2">&nbsp;</td></tr>
+					<tr><td>ESCAPE, ENTER, P : </td><td>PAUSE</td></tr>
+					<tr><td>DELETE, BACKSPACE : </td><td>SHOW / HIDE NEXT PIECE</td></tr>
+				</tbody>
+			</table>
+		</div>
+	
+		<div id="home">
+			<h1>Tetris</h1>
+			<h2>ADITYA GUPTA</h2>
+			<h3>2023</h3>
+			<span class="start invisible">- Press a button to start -</span>
+			<div id="scores">
+				<h2>High scores</h2>
+				<table align="center" border="0" cellPadding="2" cellSpacing="0">
+					<thead>
+						<tr><th>Rank</th><th>Score</th><th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Name</th></tr>
+					</thead>
+					<tbody>
+						<tr><td id="position1">1ST</td><td id="score1">0</td><td id="name1">-------</td></tr>
+						<tr><td id="position2">2ND</td><td id="score2">0</td><td id="name2">-------</td></tr>
+						<tr><td id="position3">3RD</td><td id="score3">0</td><td id="name3">-------</td></tr>
+						<tr><td id="position4">4TH</td><td id="score4">0</td><td id="name4">-------</td></tr>
+						<tr><td id="position5">5TH</td><td id="score5">0</td><td id="name5">-------</td></tr>
+					</tbody>
+				</table>
+			</div>
+			<div class="help-button">- help -</div>
+			<a class="sound" href="javascript:void(0);" data-sound="on"><img src="img/sound-on.png" alt="" border="0"></a>
+			<a class="github" target="_blank" href="https://github.com/Adi-456/Ultimate-Web-Development-Resources.git"><img src="img/github.png" alt="GitHub - ADITYA GUPTA - Tetris"></a>
+		</div>
+	
+		<div id="panel">
+			<h1>Tetris</h1>
+			<div id="board"></div>
+			<div id="level">
+				<h2>Level</h2>
+				<span></span>
+			</div>
+			<div id="lines">
+				<h2>Lines</h2>
+				<span></span>
+			</div>
+			<div id="score">
+				<h2>Score</h2>
+				<span></span>
+			</div>
+			<div id="next">
+				<h2>Next</h2>
+				<span>
+					<div id="board-next"></div>
+				</span>
+			</div>
+			<div class="help-button">- help -</div>
+			<a class="sound" href="javascript:void(0);" data-sound="on"><img src="img/sound-on.png" alt="" border="0"></a>
+		</div>
+	
+		<div id="control">
+			<div class="move-left"></div>
+			<div class="move-right"></div>
+			<div class="move-down"></div>
+			<div class="rotate"></div>
+			<div class="pause"></div>
+			<div class="view-next not"></div>
+		</div>
+	
+	</body>
+	
+</html>
