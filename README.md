@@ -499,6 +499,7 @@ More information about the pack can be found here [Github Student Developer Pack
 | Weather App                | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WeatherApp)                |
 | Wix Template               | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WixTemplate)               |
 | Bootstrap Portfolio        | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Bootstrap%20Portfolio)     |
+| Catscuban        | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Catscuban)     |
 
 Please note that the links provided are the GitHub repository URLs for each project.
 
