@@ -250,6 +250,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [StyleShout](https://www.styleshout.com/free-templates/)
 - [Awwwards](https://www.awwwards.com/)
 - [Themes For App](https://themesfor.app/)
+- [Divi](https://www.elegantthemes.com/gallery/divi/?utm_source=Retargeting&utm_medium=Web+Design&utm_campaign=Microsoft+Search&msclkid=eb52d36117151eb67c0fb64bea32c646)
 
 ## Website Copier
 
