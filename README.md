@@ -1,4 +1,4 @@
-# [Ultimate-Web-Development-Resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources)
+# [Ultimate-Web-Development-Resources]([https://github.com/DhanushNehru/Ultimate-Web-Development-Resources](https://dhanushnehru.github.io/Ultimate-Web-Development-Resources/))
 
 A collection of Web Developement Resources at one place
 
