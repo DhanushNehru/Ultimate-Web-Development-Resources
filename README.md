@@ -207,6 +207,9 @@ Your project will be reviewed, and once approved, it will be merged into the mai
 
 ## Web Illustrations
 
+- [Freepik](https://freepik.com/)
+- [Open Doodles](https://www.opendoodles.com/)
+- [ManyPixels](https://www.manypixels.co/gallery)
 - [Bulbman.art](https://bulbman.art/)
 - [Drawkit.io](https://www.drawkit.io/)
 - [Icons8.com](https://icons8.com/)
