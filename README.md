@@ -8,32 +8,6 @@ A collection of Web Developement Resources at one place
 
 Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/blob/main/CODE-OF-CONDUCT.md) for details before you contribute. 
 
-## Steps of contribution
-
-Contributions to this repository are welcome! please follow these steps:
-
-1. Fork the repository and clone it to your local machine.
-
-2. Create a new branch for your contribution:
-
-   ```bash
-   git checkout -b {{branch-name}}
-   ```
-
-3. Add your project to the repository. Make sure to include all the necessary files and instructions to run the project.
-
-4. Commit your changes with descriptive commit messages.
-
-5. Push your changes to your forked repository:
-
-   ```bash
-   git push origin {{branch-name}}
-   ```
-
-6. Open a pull request on the main repository and provide a detailed description of your project.
-
-Your project will be reviewed, and once approved, it will be merged into the main repository.
-
 ## Table of Contents
 
 - [Ultimate-Web-Development-Resources](#ultimate-web-development-resources)
