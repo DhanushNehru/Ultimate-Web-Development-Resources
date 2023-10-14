@@ -1,4 +1,4 @@
-# [Ultimate-Web-Development-Resources](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources)
+# [Ultimate-Web-Development-Resources]([https://github.com/DhanushNehru/Ultimate-Web-Development-Resources](https://dhanushnehru.github.io/Ultimate-Web-Development-Resources/))
 
 A collection of Web Developement Resources at one place
 
@@ -7,32 +7,6 @@ A collection of Web Developement Resources at one place
 ## Contributing
 
 Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/blob/main/CODE-OF-CONDUCT.md) for details before you contribute. 
-
-## Steps of contribution
-
-Contributions to this repository are welcome! please follow these steps:
-
-1. Fork the repository and clone it to your local machine.
-
-2. Create a new branch for your contribution:
-
-   ```bash
-   git checkout -b {{branch-name}}
-   ```
-
-3. Add your project to the repository. Make sure to include all the necessary files and instructions to run the project.
-
-4. Commit your changes with descriptive commit messages.
-
-5. Push your changes to your forked repository:
-
-   ```bash
-   git push origin {{branch-name}}
-   ```
-
-6. Open a pull request on the main repository and provide a detailed description of your project.
-
-Your project will be reviewed, and once approved, it will be merged into the main repository.
 
 ## Table of Contents
 
@@ -471,7 +445,6 @@ More information about the pack can be found here [Github Student Developer Pack
 | DRUM KIT                   | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/DRUM-KIT)                    |
 | Dice Challenge             | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Dice-Challenge)             |
 | Disney Character Game      | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/disney-character-game)     |
-| Emoji                      | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Emoji)                      |
 | Expense Tracker App        | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/ExpenseTrackerApp)         |
 | Guess My Number            | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/guess%20my%20number)       |
 | Hangman Game               | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Hangman%20Game)             |
@@ -486,6 +459,7 @@ More information about the pack can be found here [Github Student Developer Pack
 | Notes App                  | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Notes%20App)                |
 | Password Generator         | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Password%20Generator)       |
 | Portfolio                  | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/portfolio)                  |
+| Portfolio_02                  | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Portfolio_02)                  |
 | QR Code Generator          | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Qr_Code_Generator)          |
 | Random Background Generator | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Random-Background-Generator) |
 | Recipe Finder               | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Recipe-Finder)             |
@@ -497,6 +471,7 @@ More information about the pack can be found here [Github Student Developer Pack
 | URL Shortener              | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/url-shortner)              |
 | Weather App                | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WeatherApp)                |
 | Wix Template               | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WixTemplate)               |
+| Bootstrap Portfolio        | [GitHub](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Bootstrap%20Portfolio)     |
 
 Please note that the links provided are the GitHub repository URLs for each project.
 
@@ -510,7 +485,7 @@ Please note that the links provided are the GitHub repository URLs for each proj
 
 - [Indonesian](./lang/indonesian.md)
 
-Hey, I'm Dhanush N, a Full Stack Developer who likes to contribute to Open Source. You can connect with me and follow my work via [X / (Twitter)](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1)
+Hey, I'm Dhanush N. You can connect with me and follow my work via [X / (Twitter)](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1)
 
 Searching for a job ? This may help you
 [Ultimate Tech Job List](https://github.com/DhanushNehru/Ultimate-Tech-Jobs)
