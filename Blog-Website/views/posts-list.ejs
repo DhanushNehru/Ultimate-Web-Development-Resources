@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <%- include('includes/head', { title: 'All Posts' }) %>
+    <link rel="stylesheet" href="/styles/posts.css" />
+  </head>
+
+  <body>
+    <%- include('includes/header') %>
+    <main id="all-posts">
+      <h1>All Posts</h1>
+      
+      <ol id="posts-list">
+        <% for(let post of posts){ %>
+          <li>
+            <%- include('includes/post-item',{post:post}) %>
+          </li>
+        <% } %>
+      </ol>
+      
+    </main>
+  </body>
+</html>

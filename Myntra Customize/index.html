@@ -19,89 +19,92 @@
 </head>
 
 <body>
+  <!-- Navigation Bar -->
+  <nav class="navbar navbar-expand-lg navbar-light fixed-top">
+    <div class="container">
+      <ul class="px-0 mx-0">
+        <img class="logo" src="images/logo.png">
+      </ul>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01"
+        aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link px-3 home" href="#">Home</a>
+          </li>
+          <li class="nav-item aboutDropdown">
+            <div class="dropdown">
+              <button class="dropbtn">
+                <span>About</span>
+                <i class="fa fa-caret-down"></i>
+              </button>
+              <div class="dropdown-content">
+                <a class="nav-link px-4 testimonials" href="#testimonials">Testimonials</a>
+                <a class="nav-link px-4 press" href="#press">Press</a>
+              </div>
+            </div>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link px-4 pricing" href="#pricing">Pricing</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link px-4 download" href="#download">Download</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link px-4 footer" href="#footer">Contact Us</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
 
   <section class="coloured-section" id="title">
     <div class="container-fluid">
-
-      <!-- Nav Bar -->
-      <nav class="navbar navbar-expand-lg navbar-dark ">
-        <a class="navbar-brand" href="">
-          <img class="logo" src="images/logo.png" alt="">
-        </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo01"
-          aria-controls="navbarTogglerDemo01" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
-          <ul class="navbar-nav ms-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="#footer">Contact</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#pricing">Pricing</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#cta">Download</a>
-            </li>
-          </ul>
-        </div>
-      </nav>
-
-
-
       <!-- Title -->
-
       <div class="row">
-
         <div class="col-lg-6">
           <h1 class="biggest-heading">Customize Your Clothing</h1>
           <h5 class="small-heading">A customer friendly service.</h5>
-          <button type="button" class="btn btn-dark btn-lg download-button"><i class="fa-brands fa-apple"></i>Download</button>
-          <button type="button" class="btn btn-outline-light btn-lg download-button"><i class="fa-brands fa-google-play"></i> Download</button>
+          <button type="button" class="btn btn-dark btn-lg download-button apple-btn"><i
+              class="fa-brands fa-apple"></i>Download</button>
+          <button type="button" class="btn btn-outline-light btn-lg download-button"><i
+              class="fa-brands fa-google-play"></i> Download</button>
         </div>
-
         <div class=" image-div col-lg-6">
           <img class="title-image" src="images/titleimage.png" alt="iphone-mockup">
         </div>
-
       </div>
     </div>
   </section>
 
-
   <!-- Features -->
-
   <section class="white-section" id="features">
-
     <div class="row">
       <div class="feature-box col-lg-4">
         <i class="icon fa-solid fa-circle-check fa-4x"></i>
         <h3>Customer's Choice</h3>
         <p>Undoubtedly the most important thing</p>
       </div>
-
       <div class="feature-box col-lg-4">
         <i class="icon fa-solid fa-bullseye fa-4x"></i>
         <h3>Encouraging Creative Minds</h3>
         <p>This can also add on to their new source of income</p>
       </div>
-
       <div class="feature-box col-lg-4">
         <i class="icon fa-solid fa-person-walking-luggage fa-4x"></i>
         <h3>Employment</h3>
-        <p>The company will require more labour to physically implement the design, hence increasing the employment ratio
+        <p>The company will require more labour to physically implement the design, hence increasing the employment
+          ratio
         </p>
       </div>
     </div>
-
-
   </section>
 
 
   <!-- Testimonials -->
-
   <section class="coloured-section" id="testimonials">
-
     <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="false">
       <div class="carousel-indicators">
         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active"
@@ -111,12 +114,14 @@
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <h2>My dream outfits are no more in my dreams, MyntraCustomize helped me customize my own clothes at minimal price.</h2>
+          <h2>My dream outfits are no more in my dreams, MyntraCustomize helped me customize my own clothes at minimal
+            price.</h2>
           <img class="testimonial-image" src="images/lady-img.jpg" alt="dog-profile">
           <em>Pebbles, New York</em>
         </div>
         <div class="carousel-item">
-          <h2 class="testimonial-text">Not just mine, but MyntraCustomize made me customize my Dogs attire too, Woof Woof!</h2>
+          <h2 class="testimonial-text">Not just mine, but MyntraCustomize made me customize my Dogs attire too, Woof
+            Woof!</h2>
           <img class="testimonial-image" src="images/dog-img.jpg" alt="lady-profile">
           <em>Beverly, Illinois</em>
         </div>
@@ -132,23 +137,19 @@
         <span class="visually-hidden">Next</span>
       </button>
     </div>
-
   </section>
 
 
   <!-- Press -->
-
   <section class="coloured-section" id="press">
     <img class="press-logo" src="images/techcrunch.png" alt="tc-logo">
     <img class="press-logo" src="images/tnw.png" alt="tnw-logo">
     <img class="press-logo" src="images/bizinsider.png" alt="biz-insider-logo">
     <img class="press-logo" src="images/mashable.png" alt="mashable-logo">
-
   </section>
 
 
   <!-- Pricing -->
-
   <section class="white-section" id="pricing">
 
     <h2>A Plan for Every Customer's Needs</h2>
@@ -165,7 +166,7 @@
             <p>Free customization</p>
             <p>Recomendations</p>
             <p>Free Delivery</p>
-            <button class="btn btn-lg btn-block btn-outline-dark" type="button">Sign Up</button>
+            <button class="btn btn-lg btn-block btn-outline-dark Cashback-btn" type="button">Sign Up</button>
           </div>
         </div>
       </div>
@@ -179,8 +180,8 @@
             <h2>Cashback</h2>
             <p>For next discount on customization</p>
             <p>Movie Coupons</p>
-            <p>For next orders on Myntra<</p>
-            <button class="btn btn-lg btn-block btn-dark" type="button">Sign Up</button>
+            <p>For next orders on Myntra</p>
+                <button class="btn btn-lg btn-block btn-dark Cashback-btn" type="button">Sign Up</button>
           </div>
         </div>
       </div>
@@ -196,7 +197,7 @@
             <p>Recommendations from designers</p>
             <p>Free tool for customization</p>
             <p>Gift vounchers on every order</p>
-            <button class="btn btn-lg btn-block btn-dark" type="button">Sign Up</button>
+            <button class="btn btn-lg btn-block btn-dark Cashback-btn" type="button">Sign Up</button>
           </div>
         </div>
       </div>
@@ -206,32 +207,42 @@
 
   <!-- Call to Action -->
 
-  <section class="coloured-section" id="cta">
-      <h3 class="biggest-heading">Download MyntraCustomize and enjoy Customizing.</h3>
-      <!-- <button type="button">Download</button>
+  <section class="coloured-section" id="download">
+    <h3 class="biggest-heading">Download MyntraCustomize and enjoy Customizing.</h3>
+    <!-- <button type="button">Download</button>
       <button type="button">Download</button> -->
-      <button type="button" class="btn btn-dark btn-lg download-button"><i class="fa-brands fa-apple"></i> Download</button>
-      <button type="button" class="btn btn-outline-light btn-lg download-button"><i class="fa-brands fa-google-play"></i> Download</button>
-    
-
-
+    <button type="button" class="btn btn-dark btn-lg download-button apple-btn"><i class="fa-brands fa-apple"></i>
+      Download</button>
+    <button type="button" class="btn btn-outline-light btn-lg download-button"><i class="fa-brands fa-google-play"></i>
+      Download</button>
   </section>
 
 
   <!-- Footer -->
 
   <footer class="white-section" id="footer">
-
-
     <i class="social-icon fa-brands fa-twitter"></i>
     <i class="social-icon fa-brands fa-facebook-f"></i>
     <i class="social-icon fa-brands fa-instagram"></i>
     <i class="social-icon fa-solid fa-envelope"></i>
     <p>© Copyright MyntraCustomize</p>
-
   </footer>
+  <!-- Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+    integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+    integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+    integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+    crossorigin="anonymous"></script>
 
+  <!-- JQuery CDN -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
+  <!-- Custom JS -->
+  <script src="js/script.js"></script>
 </body>
 
 </html>

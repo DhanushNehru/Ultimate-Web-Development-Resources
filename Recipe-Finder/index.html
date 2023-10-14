@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Kitchen Craze</title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="src/styles.css" />
+  </head>
+
+  <body>
+    <nav id="navigationBar">
+        <ul>
+          <li>
+            <a href="javascript:void(0)" class="link">Home</a>
+          </li>
+          <li>
+            <a href="javascript:void(0)" class="link">About</a>
+          </li>
+          <li>
+            <a href="javascript:void(0)" class="link">Contact</a>
+          </li>
+          <li>
+            <a href="javascript:void(0)" class="link">Services</a>
+          </li>
+          <li>
+        </ul>
+      </nav>
+    <div class="header">
+      <div class="nameAndSearch">
+        <div class="headerName">Search Your <span>Recipes</span></div>
+        <div class="search">
+          <input
+            type="text"
+            class="searchInput"
+            id="searchInput"ke
+            placeholder="Search recipe here eg. Milk Shake.."
+          />
+          <button class="searchBtn" id="searchBtn">Search</button>
+        </div>
+      </div>
+      <div class="sort" id="sort">
+        <div class="greenBtn">Filters</div>
+        <div class="sortBy" id="sortBy">
+          <div class="sortByText">Sort</div>
+          <select name="preference" id="sortSelect" class="sortSelect">
+            <option value="none" class="attribute">None</option>
+            <option value="aggregateLikes" class="attribute">Likes</option>
+            <option value="healthScore" class="attribute">Health Score</option>
+            <option value="pricePerServing" class="attribute"
+              >Price per serving</option
+            >
+            <option value="readyInMinutes" class="attribute"
+              >Minutes to Prepare</option
+            >
+          </select>
+        </div>
+        <div class="valueRange">
+          <div class="valueText" id="minValueText">Not Selected</div>
+          <input
+            type="number"
+            class="valueInput"
+            id="minValueInput"
+            min="0"
+            placeholder="Enter min value"
+            min="0"
+          />
+        </div>
+        <div class="valueRange">
+          <div class="valueText" id="maxValueText">Not Selected</div>
+          <input
+            type="number"
+            class="valueInput"
+            id="maxValueInput"
+            min="0"
+            placeholder="Enter max value"
+            min="0"
+          />
+        </div>
+        <button class="greenBtn mLR10 greenBtnHover" id="rangeUpdateBtn">
+          Update
+        </button>
+      </div>
+    </div>
+    <div class="recipes" id="recipes"></div>
+    <div class="loadmore">
+      <button
+        class="greenBtn mTB10 greenBtnHover"
+        id="loadMoreBtn"
+        style="visibility: hidden;"
+      >
+        More
+      </button>
+    </div>
+    <footer>
+        <p>Copyright © 2023. All Rights Reserved</p>
+      </footer>
+    <script src="src/script.js"></script>
+  </body>
+</html>

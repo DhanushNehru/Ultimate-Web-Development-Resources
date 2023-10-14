@@ -30,6 +30,7 @@ p{
 
 #title{
     text-align: left;
+    margin-top: 132px;
 }
 
 /* Sections */
@@ -44,14 +45,13 @@ p{
 }
 
 /* Navigation Bar */
-
+nav {
+    background-color: black !important;
+}
 
 .logo{
     width: 100px;
-}
-
-.navbar{
-    padding-bottom: 4.5rem;
+    height: 100px;
 }
 
 .navbar-brand{
@@ -64,10 +64,58 @@ p{
     padding: 0 18px;
 }
 
-.nav-link{
-    font-family: Monserrat-Light;
-    font-size: 1.2rem;
+.nav-item.aboutDropdown {
+    margin-top: 7px;
 }
+
+.nav-link{
+    font-family: inherit;
+    font-size: 1rem;
+    color: white;
+}
+
+.navbar .nav-item .nav-link:hover, .navbar a:hover, .dropdown:hover .dropbtn, button.navbar-toggler{
+    background-color: white;
+    color: black;
+}
+
+.navbar .nav-item .nav-link.active {
+    background-color: #E72744 !important;
+}
+
+/*Dropdown in navigation*/
+.dropdown .dropbtn {
+  font-family: inherit;
+  font-size: 1rem;
+  border: none;
+  outline: none;
+  color: white;
+  background-color: inherit;
+  margin: 0; 
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  float: none;
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
 
 /* Download Buttons */
 
@@ -140,7 +188,7 @@ p{
 /* Pricing Section */
 
 #pricing{
-    padding: 100px;
+    padding: 70px;
 }
 
 .pricing-column{
@@ -167,4 +215,43 @@ p{
         position: static;
         transform: rotate(0);
     }
+}
+
+/* Footer Social Media Button Modification */
+#footer{
+    cursor: pointer;
+}
+
+.fa-twitter:hover{
+    color: #1DA1F2;
+}
+
+.fa-facebook-f:hover{
+
+    color: blue;
+
+}
+
+.fa-instagram:hover{
+    color: #E4405F;
+}
+
+
+/* Apple Button Modification */
+.apple-btn:hover{
+
+    background-color: transparent;
+    color: black;
+
+}
+
+.Cashback-btn:hover{
+
+    background-color: transparent;
+    color: black;
+
+}
+.Cashback-btn{
+    color: white;
+    background-color: black;
 }

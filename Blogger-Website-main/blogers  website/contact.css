@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Bhai+2:wght@400;500&display=swap");
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.navigation {
+  height: 20vh;
+  /* background-color: red; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 21px;
+}
+.left {
+  display: flex;
+  font-size: 32px;
+  font-family: "Baloo Bhai 2", cursive;
+}
+.left ul {
+  margin: 0px 84px;
+  display: flex;
+  align-items: center;
+}
+.left ul li {
+  list-style: none;
+  margin: 0 2vw;
+  font-family: "Baloo Bhai 2", cursive;
+}
+.left ul li a {
+  font-size: 4vh;
+  text-decoration: none;
+  color: black;
+}
+.left ul li a:hover {
+  color: rgb(94, 93, 92);
+}
+.para1 {
+  font-size: 2rem;
+  margin-top: -3px;
+  margin-bottom: 17px;
+}
+.contact-content {
+  font-family: "Baloo Bhai 2", cursive;
+  margin-top: 7px;
+
+  /* background-image: url(../img/man-hands-typing-an-article-on-a-vintage-typewriter-vector.jpg);
+  opacity: 0.15;  */
+  height: 80vh;
+  /* background-color: rgb(198, 198, 226); */
+  /* display: flex; */
+  position: relative;
+}
+.contact-content::after {
+  width: 100%;
+  height: inherit;
+  position: absolute;
+  top: 0px;
+  content: "";
+  background-image: url(../img/man-hands-typing-an-article-on-a-vintage-typewriter-vector.jpg);
+  opacity: 0.35;
+  z-index: -1;
+}
+.form-box {
+  height: 7.5vh;
+}
+.form-box input {
+  height: 4vh;
+  width: 34vw;
+}
+.form-box textarea {
+  height: 24vh;
+  width: 34vw;
+}
+.btn-btn-primary {
+  margin-top: 20vh;
+  cursor: pointer;
+}
+
+.contact-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+  background-color: beige;
+}
+.contact-footer p {
+  padding-right: 7px;
+  margin-bottom: 0px;
+}
