@@ -256,6 +256,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [StyleShout](https://www.styleshout.com/free-templates/)
 - [Awwwards](https://www.awwwards.com/)
 - [Themes For App](https://themesfor.app/)
+- [Divi]( https://www.elegantthemes.com/examples/)
 
 ## Website Copier
 
