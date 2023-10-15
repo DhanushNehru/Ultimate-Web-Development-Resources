@@ -86,6 +86,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [cyclic](https://app.cyclic.sh/#/)
 - [InfinityFree](https://www.infinityfree.net/)
 - [Deta](https://deta.sh)
+- [Railway](https://railway.app)
 - [Supabase](https://supabase.com)
 
 ## Websites to learn
@@ -155,6 +156,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 ## Chrome Extensions For Web Developers
 
 - [CSS3 GENERATOR](https://chrome.google.com/webstore/detail/css3-generator/dmlgmehijaodgkkooghkknjjkddahmej?hl=en-GB)
+- [CSSPeeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
+- [Fake Filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo?hl=en)
 - [Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en)
 - [PERFECTPIXEL](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
 - [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
@@ -181,6 +184,9 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 
 ## Web Illustrations
 
+- [Freepik](https://freepik.com/)
+- [Open Doodles](https://www.opendoodles.com/)
+- [ManyPixels](https://www.manypixels.co/gallery)
 - [Bulbman.art](https://bulbman.art/)
 - [Drawkit.io](https://www.drawkit.io/)
 - [Icons8.com](https://icons8.com/)
