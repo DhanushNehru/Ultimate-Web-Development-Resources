@@ -189,7 +189,6 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [ManyPixels](https://www.manypixels.co/gallery)
 - [Open Peeps](https://www.openpeeps.com/)
 - [Flaticon](https://www.flaticon.com/)
-- [Whoosh](https://www.whoosh.io/)
 - [Bulbman.art](https://bulbman.art/)
 - [Drawkit.io](https://www.drawkit.io/)
 - [Icons8.com](https://icons8.com/)
