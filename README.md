@@ -2,7 +2,7 @@
 
 A collection of Web Developement Resources at one place
 
-![Ultimate-Web-Development-Resources by Dhanush N](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/blob/main/cover.png)
+![Ultimate-Web-Development-Resources by Dhanush N](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/blob/main/cover.png?raw=true)
 
 ## Contributing
 
