@@ -470,6 +470,14 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Koa.js](https://koajs.com/)
 - [Nest.js](https://nestjs.com/)
 
+## Top TypeScript ORMs
+
+- [Sequelize](https://sequelize.org/)
+- [TypeORM](https://typeorm.io/)
+- [Prisma](https://prisma.io/)
+- [Micro-ORM](https://mikro-orm.io/)
+- [Objection.js](https://nestjs.com/)
+
 ## List Of Projects
 
 |      |      |      |      |
