@@ -341,6 +341,8 @@ More information about the pack can be found here [Github Student Developer Pack
 ## Awesome CSS generators
 
 - [Buttons CSS generator](https://markodenic.com/tools/buttons-generator/)
+- [Animista](https://animista.net/)
+- [Clippy](https://bennettfeely.com/clippy/)
 - [Fancy Buttons generator](https://getcssscan.com/css-buttons-examples?ref=beautifulboxshadow-bottom)
 - [Shapes CSS generator](https://getcssscan.com/css-shapes?ref=beautifulbuttons-bottom/)
 - [Neumorphism/Soft UI generator](https://neumorphism.io/#e0e0e0)
