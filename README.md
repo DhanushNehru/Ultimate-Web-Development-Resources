@@ -188,6 +188,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Freepik](https://freepik.com/)
 - [Open Doodles](https://www.opendoodles.com/)
 - [ManyPixels](https://www.manypixels.co/gallery)
+- [Open Peeps](https://www.openpeeps.com/)
+- [Flaticon](https://www.flaticon.com/)
 - [Bulbman.art](https://bulbman.art/)
 - [Drawkit.io](https://www.drawkit.io/)
 - [Icons8.com](https://icons8.com/)
