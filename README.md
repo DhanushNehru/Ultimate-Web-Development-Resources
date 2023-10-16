@@ -94,6 +94,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Freecodecamp](http://freecodecamp.org)
 - [Codeacademy](http://codecademy.com)
 - [w3schools](https://www.w3schools.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/web-development/)
 - [Javascript30](http://javascript30.com)
 - [Frontendmentor](http://frontendmentor.io)
 - [Test automation](http://testautomationu.applitools.com)
