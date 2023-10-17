@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name ="viewport" content = "width=device-width, intial-scale="1.0">
+    <title>Password generator</title>
+    <link rel = "stylesheet" href="style.css">
+</head>
+<body>
+<div class="container">
+    <h1>Generate <br> <span>a Password </span></h1>
+    <div class="display">
+        <input type = "text" id="password" placeholder="Password">
+        <img src ="https://ik.imagekit.io/imgview/Password_generator/copy.png?updatedAt=1689341999482" alt="image 1" onclick="copypassword()" >
+    </div>
+    <button onclick="createPassword()">
+        <img src="https://ik.imagekit.io/imgview/Password_generator/generate.png?updatedAt=1689341999531" alt ="image">Generate password</button>
+</div>
+
+
+<script>
+    const passwordbox = document.getElementById("password");
+    const length = 12;
+
+    const uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    const lowercase = "abcdefghijklmnopqrstuvwxyz";
+    const number = "123456789";
+    const symbol = "!@#$%^&*()";
+
+    const allchars = uppercase+lowercase+number+symbol;
+    function createPassword(){
+        let password = "";
+        password += uppercase[Math.floor(Math.random()* uppercase.length)];
+        password += lowercase[Math.floor(Math.random()*lowercase.length)];
+        password += number[Math.floor(Math.random()*number.length)];
+        password += symbol[Math.floor(Math.random()*symbol.length)];
+
+        while(length>password.length){
+            password += allchars[Math.floor(Math.random()*allchars.length)];
+
+        }
+        passwordbox.value = password;
+
+
+    }
+
+
+    function copypassword(){
+        passwordbox.select();
+        document.execCommand("copy");
+
+    }   <!-- comment test -->
+
+
+
+
+</script>
+
+
+</body>
+</html>
+
+

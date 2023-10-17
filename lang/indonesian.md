@@ -6,3 +6,6 @@
 4. [Kelas Terbuka](https://www.youtube.com/c/kelasterbuka)
 5. [array id](https://www.youtube.com/channel/UCQzfClEEDfuVuES-GQUy6aw/videos?view=57)
 6. [BuildWith Angga](https://buildwithangga.com/)
+6. [Dicoding](https://www.dicoding.com/)
+6. [Purwadhika](https://www.purwadhika.com/)
+6. [Hacktiv8](https://www.hacktiv8.com/)

@@ -1,0 +1,55 @@
+from PIL import Image, ImageDraw, ImageFont
+
+# Create a blank image with a white background
+image_size = (100, 100)
+background_color = "white"
+image = Image.new("RGB", image_size, background_color)
+draw = ImageDraw.Draw(image)
+
+# Define the font size and color for the dots
+font_size = 20
+dot_color = "black"
+font = ImageFont.truetype("arial.ttf", font_size)
+
+# Create an image for each side of the dice
+for i in range(1, 7):
+    # Draw the background rectangle
+    draw.rectangle([0, 0, image_size[0], image_size[1]], fill=background_color)
+
+    # Calculate the position for the dot
+    dot_x = image_size[0] / 2 - font_size / 4
+    dot_y = image_size[1] / 2 - font_size / 4
+
+    # Draw dots based on the dice side
+    if i == 1:
+        draw.text((dot_x, dot_y), "•", fill=dot_color, font=font)
+    elif i == 2:
+        draw.text((dot_x / 2, dot_y / 2), "•", fill=dot_color, font=font)
+        draw.text((dot_x + dot_x / 2, dot_y + dot_y / 2), "•", fill=dot_color, font=font)
+    elif i == 3:
+        draw.text((dot_x / 2, dot_y / 2), "•", fill=dot_color, font=font)
+        draw.text((dot_x, dot_y), "•", fill=dot_color, font=font)
+        draw.text((dot_x + dot_x / 2, dot_y + dot_y / 2), "•", fill=dot_color, font=font)
+    elif i == 4:
+        draw.text((dot_x / 2, dot_y / 2), "•", fill=dot_color, font=font)
+        draw.text((dot_x / 2, dot_y + dot_y / 2), "•", fill=dot_color, font=font)
+        draw.text((dot_x + dot_x / 2, dot_y / 2), "•", fill=dot_color, font=font)
+        draw.text((dot_x + dot_x / 2, dot_y + dot_y / 2), "•", fill=dot_color, font=font)
+    elif i == 5:
+        draw.text((dot_x / 2, dot_y / 2), "•", fill=dot_color, font=font)
+        draw.text((dot_x / 2, dot_y + dot_y / 2), "•", fill=dot_color, font=font)
+        draw.text((dot_x, dot_y), "•", fill=dot_color, font=font)
+        draw.text((dot_x + dot_x / 2, dot_y / 2), "•", fill=dot_color, font=font)
+        draw.text((dot_x + dot_x / 2, dot_y + dot_y / 2), "•", fill=dot_color, font=font)
+    elif i == 6:
+        draw.text((dot_x / 2, dot_y / 2), "•", fill=dot_color, font=font)
+        draw.text((dot_x / 2, dot_y), "•", fill=dot_color, font=font)
+        draw.text((dot_x / 2, dot_y + dot_y / 2), "•", fill=dot_color, font=font)
+        draw.text((dot_x + dot_x / 2, dot_y / 2), "•", fill=dot_color, font=font)
+        draw.text((dot_x + dot_x / 2, dot_y), "•", fill=dot_color, font=font)
+        draw.text((dot_x + dot_x / 2, dot_y + dot_y / 2), "•", fill=dot_color, font=font)
+
+    # Save the image for the current side
+    image.save(f"dice{i}.png")
+
+print("Dice images (dice1.png to dice6.png) have been created.")
