@@ -132,6 +132,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [GeeksforGeeks](https://www.geeksforgeeks.org)
 - [KodeKloud](https://kodekloud.com/kodekloud-engineer/)
 - [Frontend Practice](https://www.frontendpractice.com/)
+- [CodeStudio by CodingNinjas](https://www.codingninjas.com/studio)
 
 ## Web Images or Photos
 
