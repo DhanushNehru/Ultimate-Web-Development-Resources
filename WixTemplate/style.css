@@ -1,10 +1,11 @@
-body{
+body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Space Grotesk', sans-serif;
 }
-.container1{
+
+.container1 {
     display: flex;
     padding-bottom: 0vh !important;
     padding: 5vh 10vw;
@@ -13,19 +14,22 @@ body{
     gap: 20px;
     /* border: 2px solid black; */
 }
-.container1 h2{
+
+.container1 h2 {
     font-size: 50px;
     text-align: start;
     margin: 0;
 }
-.container1 p{
+
+.container1 p {
     font-size: 20px;
     text-align: start;
 }
-.container1 button{
+
+.container1 button {
     justify-self: start;
     display: block;
-    width:125px;
+    width: 125px;
     padding: 10px;
     font-size: 15px;
     font-weight: 700;
@@ -35,27 +39,31 @@ body{
     /* height: 100px; */
 }
 
-.LeftBox{
+.LeftBox {
     display: flex;
     flex-direction: column;
-    gap:25px;
+    gap: 25px;
     text-align: center;
     justify-content: center;
 }
-.RightBox{
+
+.RightBox {
     width: 60%;
     overflow: hidden;
 }
-.RightBox > svg{
+
+.RightBox>svg {
     height: auto;
     width: 100%;
 }
-.boxes{
+
+.boxes {
     display: flex;
     text-align: center;
     gap: 20px;
 }
-.smallboxes{
+
+.smallboxes {
     display: flex;
     flex-direction: row;
     gap: 20px;
@@ -63,10 +71,12 @@ body{
     justify-content: center;
     bottom: 10px;
 }
-.smallboxes > p{
+
+.smallboxes>p {
     font-size: 14px;
 }
-.my-icons{
+
+.my-icons {
     background-color: black;
     max-width: 35px;
     max-height: 30px;
@@ -82,7 +92,7 @@ body{
     padding-top: 7px;
 }
 
-.wave-header{
+.wave-header {
     min-height: 10vh;
     width: 100%;
     /* background: yellow; */
@@ -93,12 +103,13 @@ body{
     z-index: -1;
     margin: 0;
 }
+
 /* .wave-header > svg{
     position: absolute;
     top: 0;
     left: 0;
 } */
-.wave-content{
+.wave-content {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -109,18 +120,21 @@ body{
     gap: 80px;
     margin-top: -10px;
 }
+
 .container2 {
     display: flex;
     flex-direction: column;
-    margin-top:-130px;
+    margin-top: -130px;
 }
-.container2 > .wave-content > .Left{
+
+.container2>.wave-content>.Left {
     min-width: 25vw;
     padding: 2vw;
     font-size: 25px;
     text-align: start;
 }
-.container2 > .wave-content > .Right{
+
+.container2>.wave-content>.Right {
     min-width: 30%;
     padding: 2vw;
     /* background-color: red; */
@@ -128,13 +142,14 @@ body{
     text-align: start;
 }
 
-.container3{
+.container3 {
     padding: 8vh 12vw;
     display: flex;
     flex-direction: column;
-    gap:50px;
+    gap: 50px;
 }
-.cards{
+
+.cards {
     display: flex;
     justify-content: center;
     align-items: start;
@@ -142,47 +157,57 @@ body{
     gap: 20px;
     padding: 20px;
 }
-.card-item{
+
+.card-item {
     display: flex;
     flex-direction: column;
     align-items: start;
-    gap:10px;
+    gap: 10px;
     /* justify-content: sp; */
     padding: 30px;
 }
-.card-item > img {
+
+.card-item>img {
     width: 227px;
     height: 301px;
     border: 2px solid black;
     border-radius: 10px;
 }
-.card-item > h3{
+
+.card-item>h3 {
     font-size: 22px;
     text-align: start;
     width: 85%;
 }
-.upperbox > h2{
+
+.upperbox>h2 {
     font-size: 38px;
 }
-.upperbox > p{
-    font-size: 16px;width: 50%;
+
+.upperbox>p {
+    font-size: 16px;
+    width: 50%;
 }
-.container4{
+
+.container4 {
     display: flex;
     padding: 8vh 10vw;
     text-align: center;
     justify-content: space-around;
     /* gap: 12vw; */
 }
-.container4 > .left{
+
+.container4>.left {
     max-width: 45%;
     overflow: hidden;
     /* padding: 20px; */
 }
-.container4 > .left > img{
+
+.container4>.left>img {
     width: 100%;
 }
-.container4 > .right{
+
+.container4>.right {
     max-width: 50%;
     text-align: start;
     padding: 20px;
@@ -190,25 +215,31 @@ body{
     flex-direction: column;
     align-items: start;
     justify-content: center;
-    gap:20px;
+    gap: 20px;
 }
-.container4 > .right > .heading > h2{
-    font-size: 36px;margin: 0;gap:0;
+
+.container4>.right>.heading>h2 {
+    font-size: 36px;
+    margin: 0;
+    gap: 0;
 }
-.container4 > .right > .boxes > .smallboxes{
+
+.container4>.right>.boxes>.smallboxes {
     gap: 10px;
     /* align-items:baseline; */
 }
 
-.container4 > .right > .boxes > .smallboxes >p{
+.container4>.right>.boxes>.smallboxes>p {
     text-align: left;
 }
-.wave-content2{
+
+.wave-content2 {
     display: flex;
     flex-direction: column;
     gap: 50px;
 }
-.wave-header2{
+
+.wave-header2 {
     min-height: 10vh;
     width: 100%;
     /* background: yellow; */
@@ -219,35 +250,41 @@ body{
     z-index: -1;
     margin: 0;
 }
-.wave-content2{
+
+.wave-content2 {
     padding: 8vh 10vw;
     padding-top: 0;
     background-color: #f1b7f0;
     /* gap: 1000px; */
     margin-top: -60px;
 }
-.my-heading{
+
+.my-heading {
     font-size: 36px;
 }
-.wave-content2 > div > p{
-    width:40%;
+
+.wave-content2>div>p {
+    width: 40%;
     font-size: 16px;
     line-height: 28px;
 }
-.partners{
+
+.partners {
     display: flex;
     flex-direction: row;
-    flex-wrap: wrap;    
+    flex-wrap: wrap;
     align-items: center;
     justify-content: space-around;
 }
-.partners > img{
+
+.partners>img {
     width: 100%;
     height: 100%;
     display: block;
     margin: 0 auto;
 }
-.partners > .partner{
+
+.partners>.partner {
     display: flex;
     width: 120px;
     height: 120px;
@@ -256,7 +293,7 @@ body{
     flex-direction: column;
 }
 
-.container6{
+.container6 {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -264,14 +301,16 @@ body{
     padding-top: 10vw;
     padding-left: 10vw;
     padding-right: 10vw;
-    gap:50px;
+    gap: 50px;
 }
-.container6 > .team_svg >svg{
+
+.container6>.team_svg>svg {
     height: 534px;
     width: 900px;
     margin-top: -30px;
 }
-.container6 > .container6_heading > h3{
+
+.container6>.container6_heading>h3 {
     font-size: 2.1rem;
     /* width: 50%; */
     text-align: center;
@@ -283,10 +322,10 @@ body{
     letter-spacing: .2rem;
 }
 
-.container6 button{
+.container6 button {
     justify-self: start;
     display: block;
-    width:125px;
+    width: 125px;
     padding: 8px;
     font-size: 17px;
     font-weight: 700;
@@ -296,8 +335,122 @@ body{
     letter-spacing: 1px;
 }
 
-.ybox{
-    background-color:#FFB81C;
+.ybox {
+    background-color: #FFB81C;
     margin-top: -45px;
     height: 100px;
+}
+
+@media only screen and (max-width: 600px) {
+    body {
+        width: 100vw;
+        /* overflow: hidden; */
+    }
+
+    .container1 {
+        width: 90vw;
+        display: flex;
+        flex-direction: column;
+        padding: 20px;
+        gap: 0px;
+    }
+
+    .container1 p {
+        margin: 0;
+    }
+
+    .container1 h2 {
+        font-size: 35px;
+    }
+
+    .boxes {
+        display: none;
+    }
+
+    .smallboxes {
+        align-items: center;
+    }
+
+    .RightBox {
+        width: 95%;
+    }
+
+    .container2 {
+        margin-top: -96px;
+    }
+
+    .container3 {
+        padding: 10px;
+        gap: 10px
+    }
+
+    .container3 .cards {
+        flex-direction: column;
+        padding: 0px;
+    }
+
+    .card-item {
+        gap: 18px;
+    }
+
+    .card-item h3 {
+        margin: 0;
+    }
+
+    .card-item p {
+        margin: 0;
+    }
+
+    .upperbox {
+        display: flex;
+        flex-direction: column;
+        /* align-items: center; */
+        /* justify-content: center; */
+    }
+
+    .upperbox>h2 {
+        margin-left: 30px;
+    }
+
+    .upperbox>p {
+        margin-left: 30px;
+        width: 80%;
+    }
+
+    .container4 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .container4>.left {
+        max-width: 95%;
+    }
+
+    .container4>.right {
+        max-width: 95%;
+    }
+
+    .wave-content2 {
+        margin-top: -12px;
+    }
+
+    .wave-content {
+        flex-direction: column;
+        gap: 2px;
+    }
+
+
+
+    .container6>.container6_heading>h3 {
+        font-size: 1.3rem;
+    }
+
+    .container6>.team_svg>svg {
+        height: 238px;
+        width: 350px;
+    }
+
+    .container2>.wave-content>.Left>h2 {
+        margin: 0;
+    }
 }
