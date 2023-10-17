@@ -132,6 +132,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [GeeksforGeeks](https://www.geeksforgeeks.org)
 - [KodeKloud](https://kodekloud.com/kodekloud-engineer/)
 - [Frontend Practice](https://www.frontendpractice.com/)
+- [CSS Challenges](https://css-challenges.com/)
 
 ## Web Images or Photos
 
@@ -153,6 +154,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [MyColor](http://mycolor.space)
 - [UIColorPicker](https://uicolorpicker.com/)
 - [Realtime Colors](https://www.realtimecolors.com)
+- [Mesh Gradient](https://meshgradient.com/)
+- [Hyper Color](https://hypercolor.dev/)
 
 ## Chrome Extensions For Web Developers
 
