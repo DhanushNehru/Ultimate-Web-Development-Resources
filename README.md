@@ -107,6 +107,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Exercism](https://exercism.org/)
 - [InternetingIsHard](https://www.internetingishard.com/)
 - [Full Stack Open](https://fullstackopen.com/en/)
+- [Open Classrooms](https://openclassrooms.com/)
 
 ## Websites for code challenges
 
