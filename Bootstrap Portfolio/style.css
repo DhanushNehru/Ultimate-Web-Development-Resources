@@ -1,0 +1,43 @@
+.intro-div{
+    width: 100%;
+    background-color: #A4CF5B;
+}
+.first-text{
+    letter-spacing: 2px;
+    font-family: 'Domine', serif;
+    font-size: 25px;
+}
+
+.Sohail-text{
+    font-family: 'Caveat', cursive;
+    letter-spacing: 5px;
+    font-size: 50px;
+}
+
+.intro-line{
+    letter-spacing: 3px;
+    color: #3B3935;
+}
+.rounded-image{
+    border-radius: 50%;
+}
+
+.hero-color{
+    background-color: #F3FDE8;
+}
+
+.brown-text{
+    letter-spacing: 2px;
+    font-family: 'Domine', serif;
+    color: #D39149;
+}
+.sarif-text{
+    font-family: 'Domine', serif;
+}
+.green-text{
+    color: #809F46;
+    font-family: 'Caveat';
+}
+.footer-bg{
+    background-color: black;
+}
