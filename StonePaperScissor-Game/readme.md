@@ -15,7 +15,7 @@ This is a simple Stone, Paper, Scissors game implemented in HTML, CSS, and JavaS
 
 - Classic Stone, Paper, Scissors gameplay.
 - Simple and easy-to-understand user interface.
-- Random computer choices.
+- Random computer choices may be ganerated.
 - Instant results displayed on the screen.
 
 ## Technologies Used
