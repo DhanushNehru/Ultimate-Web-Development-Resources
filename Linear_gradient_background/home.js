@@ -13,9 +13,6 @@ for(let i =0; i<m ; i++){
 console.log(colours)
 let value =container.style.background =`linear-gradient(${Math.floor(Math.random() * 360)}deg, ${colours.join(',')})`;
 text.innerHTML =value
-await navigator.clipboard.writeText(value).then(()=>{
-    alert("Gradient added in ClipBoard")
-});
 
 }
 
