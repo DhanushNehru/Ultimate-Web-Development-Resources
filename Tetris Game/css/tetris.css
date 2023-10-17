@@ -1,0 +1,516 @@
+::-webkit-scrollbar { 
+	width: 16px;
+}
+::-webkit-scrollbar-track { 
+	background-color: #333;
+} 
+::-webkit-scrollbar-thumb { 
+	background-color: #424e69;
+}
+::-webkit-scrollbar-thumb:hover { 
+	background-color: #8295d5;
+}
+
+@font-face { 
+	font-family: 'Oswald-Light'; 
+	src: url('../css/Oswald-Light.ttf'); 
+}
+@font-face { 
+	font-family: 'Oswald-Bold'; 
+	src: url('../css/Oswald-Bold.otf'); 
+}
+
+* { 
+	font-family: Oswald-Light, sans-serif;
+	font-size: 16px;
+	color: #fff;
+}
+
+html, body { 
+	margin: 0px 0px 0px 0px;
+	padding: 0px 0px 0px 0px;
+	width: 100%;
+	height: 100%;
+	background-color: transparent;
+}
+html  { 
+	background-image: url('../img/bg.jpg');
+	background-repeat: no-repeat;
+	background-position: 0% 0%;
+	background-size: cover;
+	background-attachment: fixed;
+}
+body { 
+	position: relative;
+}
+
+#panel, #home { 
+	width: 460px;
+	height: 600px;
+	margin: auto;
+	margin-top: 25px;
+	left: 0px;
+	right: 0px;
+	position: absolute;
+	padding: 50px;
+	background-color: #000;
+	border: solid 1px #666;
+}			
+#board, #board-next { 
+	width: 250px;
+	height: 450px;
+	border: solid 1px #ccc;
+	position: relative;
+	padding: 1px;
+	float: left;
+}
+#board { 
+	border-left-width: 5px;
+	border-right-width: 5px;
+}
+#board-next { 
+	width: 100px;
+	height: 100px;
+	border-color: #000;
+}
+#control { 
+	position: absolute;
+	width: 460px;
+	height: 160px;
+	width: 460px;
+	margin: auto;
+	margin-top: 740px;
+	left: 0px;
+	right: 0px;
+	background-color: #999;
+	border: solid 0px #ccc;
+	opacity: 0.8;
+	display: none;
+}
+#control div { 
+	width: 70px;
+	height: 70px;
+	position: absolute;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-size: cover;
+	cursor: pointer;
+}
+#control div.move-left { 
+	background-image: url('../img/move-left.png');
+	top: 30px;
+	right: 160px;
+}
+#control div.move-right { 
+	background-image: url('../img/move-right.png');
+	top: 30px;
+	right: 20px;
+}
+#control div.move-down { 
+	background-image: url('../img/move-down.png');
+	top: 80px;
+	right: 90px;
+}
+#control div.rotate { 
+	background-image: url('../img/rotate.png');
+	top: 10px;
+	right: 90px;
+}
+#control div.pause { 
+	background-image: url('../img/pause.png');
+	top: 30px;
+	left: 20px;
+}
+#control div.pause.play { 
+	background-image: url('../img/play.png');
+}
+#control div.view-next { 
+	background-image: url('../img/next.png');
+	top: 30px;
+	left: 100px;
+}
+#control div.view-next.not { 
+	background-image: url('../img/next-not.png');
+	top: 30px;
+	left: 100px;
+}
+#level, #lines, #score, #next { 
+	float: left;
+	position: relative;
+	width: 170px;
+	height: 85px;
+	text-transform: uppercase;
+	font-size: 34px;
+	letter-spacing: 1px;
+	padding-left: 20px;
+	margin-bottom: 15px;
+	margin-left: 5px;
+	border: solid 0px #999;
+}
+#next { 
+	margin-bottom: 0px;
+	height: 146px;
+}
+#level span, #lines span, #score span { 
+	color: #fafba0;
+	font-size: 38px;
+	letter-spacing: 1px;
+	padding-left: 15px;
+}
+
+.github { 
+	position: absolute;
+	bottom: 0px;
+	left: 5px;
+}
+
+.square { 
+	width: 23px;
+	height: 23px;
+	position: relative;
+	background-color: #000;
+	border: solid 1px #000;
+	display: inline-block;
+	float: left;
+	margin: 0px;
+	padding: 0px;
+	font-size: 12px;
+	text-align: center;
+}
+.square.disabled { 
+	background-color: #444;
+	transition: background-color 0.1s;
+}
+
+.piece1.erase, .piece2.erase, .piece3.erase, .piece4.erase, .piece5.erase, .piece6.erase, .piece7.erase { 
+	background-color: #000;
+	transition: background-color 0.2s;
+}
+
+.piece1 { 
+	background-color: #cb6060;
+}
+.piece2 { 
+	background-color: #a367ce;
+}
+.piece3 { 
+	background-color: #30a6bd;
+}
+.piece4 { 
+	background-color: #abbd30;
+}
+.piece5 { 
+	background-color: #fdb312;
+}
+.piece6 { 
+	background-color: #f6018c;
+}
+.piece7 { 
+	background-color: #d60d0d;
+}
+
+.invisible, .masked { 
+	visibility: hidden;
+}
+
+#board .message, .start { 
+	margin: auto;
+	left: 0px;
+	top: 0px;
+	bottom: 0px;
+	height: 40px;
+	width: 100%;
+	position: absolute;
+	text-align: center;
+	background-color: #333;
+	opacity: 0.8;
+	letter-spacing: 2px;
+	padding-top: 5px;
+	font-size: 22px;
+	text-transform: uppercase;
+}
+
+.start { 
+	color: #888;
+	opacity: 1;
+	background-color: transparent;
+	font-size: 24px;
+	font-weight: normal;
+}
+
+h1 { 
+	font-family: Oswald-Bold, sans-serif;
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+	font-size: 78px;
+	letter-spacing: 10px;
+	text-transform: uppercase;
+	font-weight: bold;
+	
+	background: -webkit-linear-gradient(#5698f8, #e446c6, #fcba40, #fff);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	-webkit-text-stroke-color: #eee;
+	-webkit-text-stroke-width: 2px;
+}
+h2 { 
+	margin: 1px 0px 0px 0px;
+}
+
+#home h1 { 
+	font-size: 120px;
+	text-align: center;
+	-webkit-text-stroke-width: 5px;
+}
+#home h2 { 
+	font-weight: bold;
+	margin: -20px 0px 0px 0px;
+	font-size: 22px;
+	text-align: center;
+	letter-spacing: 2px;
+}
+#home h3 { 
+	color: #ffe077;
+	font-weight: normal;
+	margin: 0px;
+	font-size: 20px;
+	text-align: center;
+	letter-spacing: 1px;
+}
+
+#scores { 
+	position: absolute;
+	top: 420px;
+	margin-auto;
+	left: 0px;
+	right: 0px;
+	text-align: center;
+}
+#scores  h2, #help h2 { 
+	margin: 0px 0px 10px 0px;
+	color: #d43b3b;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 26px;
+}
+#scores  table { 
+	text-align: center;
+}
+#scores  table  th, #scores  table  td { 
+	padding: 0px 20px 0px 20px;
+	text-transform: uppercase;
+	color: #f4c030;
+	font-weight: bold;
+	font-size: 20px;
+	text-align: right;
+	letter-spacing: 1px;
+}
+#home #scores  table  td { 
+	font-weight: normal;
+	color: #ffedb3;
+}
+
+.sound { 
+	position: absolute;
+	bottom: 0px;
+	right: 10px;
+}
+.sound img { 
+	height: 28px;
+}
+
+.help-button { 
+	position: absolute;
+	bottom: 5px;
+	right: 55px;
+	font-size: 16px;
+	font-weight: bold;
+	text-transform: lowercase;
+	letter-spacing: 0.5px;
+	cursor: pointer;
+	color: #78abf7;
+	transition: color 1.5s;
+}
+.help-button.yo { 
+	color: #666;
+}
+
+#help { 
+	position: absolute;
+	width: 420px;
+	height: 265px;
+	top: 290px;
+	left: 0px;
+	right: 0px;
+	margin: auto;
+	padding-top: 15px;
+	text-align: center;
+	z-index: 999999;
+	background-color: #222;
+	border: solid 1px #ffedb3;
+	text-transform: uppercase;
+	opacity: 0.9;
+	display: none;
+	cursor: pointer;
+}
+#help  table  tr  td { 
+	font-size: 16px;
+	letter-spacing: 1px;
+}
+#help  table  tr  td:first-child { 
+	color: #f4c030;
+	font-weight: bold;
+	text-align: right;
+}
+#help  table  tr  td:last-child { 
+	text-align: left;
+}
+
+#name-input { 
+	z-index: 999999;
+	color: #ffedb3;
+	background-color: transparent;
+	font-size: 20px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	border: solid 1px #f4c030;
+    outline: none;
+	padding: 1px 6px 1px 6px;
+	margin: 0px;
+}
+
+.ui-mobile {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+
+
+@media screen and (max-width:1024px), screen and (min-device-width : 768px) and (max-device-width : 1024px) { 
+	.help-button, .github, #sound, .sound { display: none; }
+	#control { display: inline; } 
+}
+@media screen and (max-width:480px), screen and (min-device-width : 320px) and (max-device-width : 480px) { 
+	.help-button, .github, #sound, .sound { display: none; }
+	#control { display: inline; } 
+	
+	h1 { 
+		font-size: 30px;
+		letter-spacing: 5px;
+		-webkit-text-stroke-width: 1px;
+	}
+	
+	#home h1 { 
+		font-size: 64px;
+		-webkit-text-stroke-width: 1px;
+	}
+	#home h2 { 
+		margin: -5px 0px 0px 0px;
+		font-size: 14px;
+		letter-spacing: 1px;
+	}
+	#home h3 { 
+		font-size: 12px;
+	}
+	
+	#board .message, .start { 
+		font-size: 14px;
+		height: 25px;
+	}
+	
+	#scores { 
+		top: 185px;
+	}
+	#scores  h2, #help h2 { 
+		margin: 0px 0px 10px 0px;
+		font-size: 14px;
+	}
+	#scores  table  th, #scores  table  td { 
+		padding: 0px 10px 0px 10px;
+		font-size: 10px;
+		text-align: right;
+	}
+	#name-input { 
+		font-size: 10px;
+		padding: 0px 4px 0px 4px;
+	}
+	
+	#panel, #home { 
+		width: 270px;
+		height: 300px;
+		margin-top: 10px;
+		padding: 10px;
+	}
+	
+	#board { 
+		width: 140px;
+		height: 252px;
+	}
+	#board-next { 
+		width: 60px;
+		height: 64px;
+	}
+	#level, #lines, #score, #next { 
+		width: 100px;
+		height: 39px;
+		font-size: 10px;
+		padding-left: 10px;
+		margin-bottom: 15px;
+		margin-left: 2px;
+	}
+	#panel h2 {
+		font-size: 12px;
+	}
+	#next { 
+		margin-bottom: 0px;
+		height: 86px;
+	}
+	#level span, #lines span, #score span { 
+		font-size: 14px;
+		padding-left: 10px;
+	}
+
+	.square { 
+		width: 12px;
+		height: 12px;
+	}
+	
+	#control { 
+		position: absolute;
+		width: 260px;
+		height: 40px;
+		margin-top: 345px;
+	}
+	#control div { 
+		width: 36px;
+		height: 36px;
+	}
+	#control div.move-left { 
+		top: 2px;
+		right: 45px;
+	}
+	#control div.move-right { 
+		top: 2px;
+		right: 5px;
+	}
+	#control div.move-down { 
+		top: 2px;
+		right: 95px;
+	}
+	#control div.rotate { 
+		top: 2px;
+		right: 130px;
+	}
+	#control div.pause { 
+		top: 2px;
+		left: 5px;
+	}
+	#control div.view-next, #control div.view-next.not { 
+		top: 2px;
+		left: 45px;
+	}
+}

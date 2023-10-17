@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+    background-color: darkslategray;
+}
+div {
+    margin-left: 10vw;
+    margin-right: 10vw;
+    border-radius: 15px;
+    position: relative;
+    top: 40vh;
+    text-align: center;
+    font-size: 350%;
+    color: rgb(255, 253, 253);
+    background-color: lightsalmon;
+}
+
+div button{
+    margin: 3vh;
+    height: 10vh;
+    width: 15vw;
+    background-color: rgb(145, 47, 47);
+    font-size: 65%;
+    color: rgb(233, 226, 226);
+    border: none;
+    border-radius: 10px;
+}
+div input::-webkit-inner-spin-button,
+div input::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+div input{
+    position: relative;
+    padding: 0;
+    top: -0.3ch;
+    text-align: center;
+    height: 6vh;
+    border-radius: 10px;
+    border: none;
+    font-size: 52%;
+    outline: none;
+}
