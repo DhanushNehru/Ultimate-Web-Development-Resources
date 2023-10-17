@@ -1,4 +1,5 @@
 import qrcode
+import os
 
 profile = input("Enter your profile: ")
 
@@ -10,7 +11,6 @@ qr.make(fit=True)
 img = qr.make_image()
 
 destination = input("Enter the destination directory to save the QR code image: ")
+filename = input("Enter the filename for the QR code image (including the extension, like myqrcode.png): ")
 
-filename = input("Enter the filename for the QR code image (including the extension, like, myqrcode.png): ")
-
-filepath = destination + '/' + filename
+filepath = os.path.join(destination, filename)
