@@ -57,22 +57,25 @@
         <h1>Random User Cards</h1>
         <div id="userCards"></div>
     </div>
-    
+
     <script>
         document.addEventListener('DOMContentLoaded', function () {
             const userCardsContainer = document.getElementById('userCards');
 
+            // Function to generate random user cards
             function generateUserCards(numCards) {
                 for (let i = 0; i < numCards; i++) {
+                    // Fetch random user data from the API
                     fetch('https://randomuser.me/api/')
                         .then(response => response.json())
                         .then(data => {
                             const user = data.results[0];
                             const name = `${user.name.first} ${user.name.last}`;
-                            const experience = `Experience : ${user.dob.age-20}`;
+                            const experience = `Experience: ${user.dob.age - 20}`;
                             const city = user.location.city;
                             const avatar = user.picture.medium;
 
+                            // Create a user card element and populate it with user data
                             const userCard = document.createElement('div');
                             userCard.classList.add('userCard');
                             userCard.innerHTML = `
@@ -88,7 +91,7 @@
                 }
             }
 
-            // Generate a specified number of user cards (e.g., 5)
+            // Generate a specified number of user cards (e.g., 10)
             generateUserCards(10);
         });
     </script>
