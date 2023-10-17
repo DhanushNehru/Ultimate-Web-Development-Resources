@@ -174,6 +174,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [daily.dev](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied)
 - [LT Debug](https://chrome.google.com/webstore/detail/lt-debug/kofahhnmgobkidipanhejacffiigppcd)
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+- [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
 
 ## Chart Visualizations
 
@@ -383,6 +384,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudharydotcom)
 - [Clever Programmer](https://www.youtube.com/@CleverProgrammer)
 - [Sonny Sangha](https://www.youtube.com/@SonnySangha)
+- [Sheryians Coding School](https://www.youtube.com/@thesheryianscodingschool)
 
 ## HTML Learning Resources
 - [Learn HTML – Full Tutorial for Beginners(Freecodecamp)](https://www.youtube.com/watch?v=kUMe1FH4CHE)
