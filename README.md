@@ -99,6 +99,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Frontendmentor](http://frontendmentor.io)
 - [Test automation](http://testautomationu.applitools.com)
 - [Coursera](http://coursera.org)
+- [Coding Ninja](https://www.codingninjas.com/courses/full-stack-web-dev-mern)
 - [Udemy](https://www.udemy.com/)
 - [Khanacademy](http://khanacademy.org)
 - [Sololearn](http://sololearn.com)
@@ -116,25 +117,27 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 ## Websites for code challenges
 
 - [AtCoder](https://atcoder.jp)
-- [Code Wars](http://codewars.com)
-- [Top Coder](http://topcoder.com)
-- [Codingame](http://codingame.com)
-- [Hacker Rank](http://hackerrank.com)
-- [Project Euler](http://projecteuler.net)
-- [Coder Byte](http://coderbyte.com)
-- [Code Chef](http://codechef.com)
-- [Exercism](http://exercism.io)
-- [Leet Code](http://leetcode.com)
-- [Sphere Online Judge](http://spoj.com)
 - [BFE.dev](https://bigfrontend.dev/)
+- [CodeStudio](https://www.codingninjas.com/studio)
+- [Code Chef](http://codechef.com)
+- [Code Wars](http://codewars.com)
 - [Codeforces](https://codeforces.com/)
+- [Coder Byte](http://coderbyte.com)
+- [Codingame](http://codingame.com)
+- [CSS Battle](https://cssbattle.dev/)
+- [Exercism](http://exercism.io)
+- [Frontend Mento](https://www.frontendmentor.io/challenges)
+- [Frontend Practice](https://www.frontendpractice.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org)
+- [Hacker Rank](http://hackerrank.com)
 - [HackerEarth](https://www.hackerearth.com/)
 - [InterviewBit](https://www.interviewbit.com/practice/)
-- [Frontend Mento](https://www.frontendmentor.io/challenges)
-- [GeeksforGeeks](https://www.geeksforgeeks.org)
+- [JavaScript30](https://javascript30.com/)
 - [KodeKloud](https://kodekloud.com/kodekloud-engineer/)
-- [Frontend Practice](https://www.frontendpractice.com/)
-- [CodeStudio by CodingNinjas](https://www.codingninjas.com/studio)
+- [Leet Code](http://leetcode.com)
+- [Project Euler](http://projecteuler.net)
+- [Sphere Online Judge](http://spoj.com)
+- [Top Coder](http://topcoder.com)
 
 ## Web Images or Photos
 
@@ -153,6 +156,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Colorhunt](http://colorhunt.co)
 - [Paletton](http://paletton.com)
 - [Color Hex](http://color-hex.com)
+- [Color Picker](https://imagecolorpicker.com/en#google_vignette)
 - [MyColor](http://mycolor.space)
 - [UIColorPicker](https://uicolorpicker.com/)
 - [Realtime Colors](https://www.realtimecolors.com)
@@ -486,7 +490,7 @@ More information about the pack can be found here [Github Student Developer Pack
 | [Bootstrap Portfolio](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Bootstrap%20Portfolio) | [Calculator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/calculator) | [Chess](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Chess) | [City Finder](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/City%20Finder) |
 | [Clock Project](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/ClockProject) | [Disney Character Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/disney-character-game) | [Drum Kit](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/DRUM-KIT) | [Dice Challenge](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Dice-Challenge) |
 | [E-Commerce](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/E-commerce) | [English Dictionary](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Eng_Dictionary) | [Expense Tracker App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/ExpenseTrackerApp) | [Google Auth Firebase](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/GoogleAuthFirebase) |
-| [Guess My Number](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/guess%20my%20number) | [Hangman Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Hangman%20Game) | [JS Quiz App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Javascript%20Quiz%20App) | [Mario Matching](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/MarioMatching) |
+| [Guess My Number](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/guess%20my%20number) | [Hangman Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Hangman%20Game) | [JS Quiz App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Javascript%20Quiz%20App)| [Love Calculator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/love-calculator) | [Mario Matching](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/MarioMatching) |
 | [Memory Cards](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/memorycards) | [Meme Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Meme-Generator) | [Mern Blog App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/mern-blog-app) | [Mouse Hover Animation](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/MouseHoverAnimation) | 
 | [Music Player](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Music-player) | [Myntra Customize](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Myntra%20Customize) | [Netflix UI Clone](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Netflix%20UI%20Clone) | [Notes App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Notes%20App) |
 | [otp generator](https://github.com/Tanmay-Giram/Ultimate-Web-Development-Resources/tree/add-otp-generator/OTP%20generator) |
@@ -511,10 +515,10 @@ Please note that the links provided are the GitHub repository URLs for each proj
 
 Hey, I'm Dhanush N. You can connect with me and follow my work via [X / (Twitter)](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1)
 
-Searching for a job ? This may help you
+Searching for a job? This may help you
 [Ultimate Tech Job List](https://github.com/DhanushNehru/Ultimate-Tech-Jobs)
 
-Want to start learning Node Js ? Dont miss to check this out
+Want to start learning Node Js? Don't miss to check this out
 [Ultimate NodeJs Resources](https://github.com/DhanushNehru/Ultimate-NodeJs-Resources)
 
 If you liked this repository support it by starring ⭐
