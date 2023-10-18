@@ -1,26 +1,17 @@
-run = "vite"
-entrypoint = "index.html"
-hidden = ["vite.config.js", ".config"]
+hidden=[".config"]
+
+# hosting is currently hardcoded for this language
+# [hosting]
+# route = "/"
+# directory= "/"
 
 [nix]
 channel = "stable-22_11"
 
-[env]
-PATH = "$REPL_HOME/.config/npm/node_global/bin:$REPL_HOME/node_modules/.bin"
-XDG_CONFIG_HOME = "$REPL_HOME/.config"
-npm_config_prefix = "$REPL_HOME/.config/npm/node_global"
-
-[packager]
-language = "nodejs"
-  [packager.features]
-  packageSearch = true
-  guessImports = true
-  enabledForHosting = false
-
 [languages.html]
 pattern = "**/*.html"
   [languages.html.languageServer]
-  start = ["vscode-html-language-server", "--stdio"]
+start = "vscode-html-language-server --stdio"
   [languages.html.languageServer.initializationOptions]
   provideFormatter = true
   [languages.html.languageServer.configuration.html]
@@ -28,7 +19,7 @@ pattern = "**/*.html"
   autoCreateQuotes = true
   autoClosingTags = true
   mirrorCursorOnMatchingTag = false
-
+  
     [languages.html.languageServer.configuration.html.completion]
     attributeDefaultValue = "doublequotes"
   
@@ -63,14 +54,14 @@ pattern = "**/*.html"
 [languages.javascript]
 pattern = "**/{*.js,*.jsx,*.ts,*.tsx,*.mjs,*.cjs}"
   [languages.javascript.languageServer]
-  start = ["typescript-language-server", "--stdio"]
+  start = "typescript-language-server --stdio"
 
-# TODO autocomplete relies on snippet support, which we don't advertise to LSP servers.
-# For now CSS autocomplete will use built-in codemirror, which is not perfect but good enough
 [languages.css]
 pattern = "**/{*.less,*.scss,*.css}"
+  [languages.css.languageServer.initializationOptions]
+  provideFormatter = true
   [languages.css.languageServer]
-    start = ["vscode-css-language-server", "--stdio"]
+  start = "vscode-css-language-server --stdio"
     [languages.css.languageServer.configuration.css]
       customData = [ ]
       validate = true
@@ -186,7 +177,5 @@ pattern = "**/{*.less,*.scss,*.css}"
       vendorPrefix = "warning" # When using a vendor-specific prefix also include the standard property
       zeroUnits = "ignore" # No unit for zero needed"
 
-
-[deployment]
-build = ["sh", "-c", "npm run build"]
-run = ["sh", "-c", "npm run preview"]
+[gitHubImport]
+requiredFiles = [".replit", "replit.nix", ".config"]

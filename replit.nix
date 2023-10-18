@@ -1,8 +1,6 @@
 { pkgs }: {
-	deps = [
-    pkgs.nodejs-16_x
+  deps = [
     pkgs.nodePackages.vscode-langservers-extracted
-    pkgs.nodePackages.typescript-language-server
-    pkgs.nodePackages.yarn
-	];
+    pkgs.nodePackages.typescript-language-server  
+  ];
 }
