@@ -153,6 +153,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Colorhunt](http://colorhunt.co)
 - [Paletton](http://paletton.com)
 - [Color Hex](http://color-hex.com)
+- [Color Picker](https://imagecolorpicker.com/en#google_vignette)
 - [MyColor](http://mycolor.space)
 - [UIColorPicker](https://uicolorpicker.com/)
 - [Realtime Colors](https://www.realtimecolors.com)
