@@ -511,10 +511,10 @@ Please note that the links provided are the GitHub repository URLs for each proj
 
 Hey, I'm Dhanush N. You can connect with me and follow my work via [X / (Twitter)](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1)
 
-Searching for a job ? This may help you
+Searching for a job? This may help you
 [Ultimate Tech Job List](https://github.com/DhanushNehru/Ultimate-Tech-Jobs)
 
-Want to start learning Node Js ? Dont miss to check this out
+Want to start learning Node Js? Don't miss to check this out
 [Ultimate NodeJs Resources](https://github.com/DhanushNehru/Ultimate-NodeJs-Resources)
 
 If you liked this repository support it by starring ⭐
