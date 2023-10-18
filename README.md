@@ -99,6 +99,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Frontendmentor](http://frontendmentor.io)
 - [Test automation](http://testautomationu.applitools.com)
 - [Coursera](http://coursera.org)
+- [Coding Ninja](https://www.codingninjas.com/courses/full-stack-web-dev-mern)
 - [Udemy](https://www.udemy.com/)
 - [Khanacademy](http://khanacademy.org)
 - [Sololearn](http://sololearn.com)
