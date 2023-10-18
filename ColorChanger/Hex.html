@@ -1,0 +1,178 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color-Flipper</title>
+    <style>
+        body{
+            margin:0;
+            padding: 0;
+        }
+        nav{
+            background-color: #eb5757;
+            height: 80px;
+        }
+        h3{
+            margin-left: 10%;
+            color: white;
+            display: inline-block;
+        }
+        .nav-links{
+            line-height: 20px;
+            display: flex;
+            flex-direction: row;
+            justify-content: space-around;
+            width: 200px;
+            list-style: none;
+            float: right;
+            line-height: 40px;
+            margin-right: 10%;
+        }
+        a{
+            text-decoration: none;
+            color: white;
+            padding: 10px;
+            border-radius: 10px;
+            background-color: black;
+        }
+        a:hover{
+            background-color: rgb(57, 58, 58);
+        }
+        .bg-color{
+            margin-top: 10%;
+            background-color: #333;
+            height: 10%;
+            color: white;
+            width: 30%;
+            display: block;
+            padding: 10px;
+            text-align: center;
+            border-radius: 10px;
+        }
+        .container{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .btn{
+            background-color: transparent;
+            font-size: 20px;
+            border: 2px solid #333;
+            padding: 10px;
+            border-radius: 10px;
+            font-weight: bold;
+  
+         }
+         .btn:hover{
+             background-color: burlywood;
+             cursor: pointer;
+             transition: 0.5s;
+         }
+         .color{
+             color: #eb5757;
+         }
+         @media (max-width:768px){
+           .bg-color{
+            width: 50%;   
+           }
+       }
+       @media (max-width:530px){
+           .nav-links{
+               padding-left: 0px;
+               width: 200px;
+           }
+       }
+       @media (max-width:512px){
+           .bg-color{
+            width: 65%;   
+           }
+       }
+       @media (max-width:480px){
+           h3{
+            margin-left: 5%;
+           }   
+           .nav-links{
+            margin-right: 5%;
+           }
+       }
+       @media (max-width:427px){
+           .nav-links{
+               width: 150px;
+               font-size: 15px;
+               line-height: 50px;
+           }
+           .bg-color{
+               font-size: 20px;
+               margin-top: 30%;
+           }
+           .btn{
+               font-size: 15px;
+           }
+       }
+       @media (max-width:375px){
+           h3{
+               font-size: 20px;
+               line-height: 40px;
+           }
+           .nav-links{
+               padding-left: 0px;
+               width: 120px;
+           }
+       }
+       @media (max-width:308px){
+           nav{
+               height: 100px;
+           }
+           h3{
+            margin-top: 5px;
+            margin-bottom: 0px;
+           }
+           .nav-links{
+               margin: 0px;
+           }
+           .nav-center{
+               display: flex;
+               align-items: center;
+               flex-direction: column;
+           }
+       }
+
+      </style>
+</head>
+<body>
+    <nav>
+        <div class="nav-center">
+          <h3>Color Flipper-Hex</h3>
+          <ul class="nav-links">
+              <li><a href="./index.html">Simple</a></li>
+              <li><a href="./Hex.html">Hex</a></li>
+          </ul>
+        </div>
+      </nav> 
+  <main>
+      <div class="container">
+          <h2 class="bg-color">Background Color : <span class="color">
+              #f15025
+          </span> </h2>
+          <button class="btn btn-hero" id="btn">Click Me</button>
+      </div>
+      <script>
+          const hex=[0,1,2,3,4,5,6,7,8,9,"A","B","C","D","E","F"]
+          const btn = document.getElementById('btn')
+          const color =document.querySelector('.color')
+
+          btn.addEventListener('click',function () {
+              let hexColor = '#';
+              for (let i = 0; i < 6; i++) {
+                  hexColor += hex[getRandomNumber()];
+              }
+              color.textContent=hexColor;
+              document.body.style.backgroundColor=hexColor
+          });
+          function getRandomNumber() {
+              return Math.floor(Math.random() * hex.length);
+            }
+      </script>
+</body>
+</html>
