@@ -184,9 +184,12 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 
 - [Chart.js](https://www.chartjs.org/)
 - [D3.js](https://d3js.org/)
-- [Three.js](https://threejs.org/)
+- [ECharts](http://echarts.baidu.com/)
+- [EpochJS](https://epochjs.github.io/epoch/)
 - [FusionCharts](https://www.fusioncharts.com/)
 - [Google Data Studio](https://datastudio.google.com/visualization)
+- [SigmaJS](https://www.sigmajs.org/)
+- [Three.js](https://threejs.org/)
 
 ## Web Illustrations
 
