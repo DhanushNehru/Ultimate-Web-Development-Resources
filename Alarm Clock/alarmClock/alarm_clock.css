@@ -1,0 +1,57 @@
+/* Developed By Engineer Elhamuddin Taheri */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: lightgray;
+}
+
+.header {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+#box {
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 40px;
+    height: auto;
+    background-color: rgba(255, 0, 0, 0.50);
+}
+
+#clock {
+    border: 1px solid rgba(0, 0, 0, 0.663);
+    border-top-left-radius: 40px;
+    border-top-right-radius: 40px;
+    background-color: rgba(0, 0, 0, 0.663);
+    color: white;
+    height: 120px;
+}
+
+#clock_parts {
+    font-size: 80px;
+}
+
+#select {
+    margin-top: 35px;
+}
+
+select {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:5px;
+}
+
+#button {
+    margin-top: 35px;
+    margin-bottom: 45px;
+}
+
+#button2 {
+    margin-top: 5px;
+    display: none;
+    margin-left:auto;
+    margin-right: auto;
+}
