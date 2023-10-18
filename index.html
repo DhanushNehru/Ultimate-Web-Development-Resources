@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>replit</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+  </head>
+
+  <body>
+    <!-----NavBar----->
+    <nav class="navbar">
+      <div class="container">
+        <a href="index.html">
+          <img
+            src="data:image/png;base64,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"
+            alt="Company Logo"
+        /></a>
+        <div class="container-buttons">
+          <div class="btn">
+            <svg>
+              <rect x="0" y="0" fill="none" width="166" height="45" />
+            </svg>
+            Home
+          </div>
+          <div class="btn">
+            <svg>
+              <rect x="0" y="0" fill="none" width="166" height="45" />
+            </svg>
+            Connect
+          </div>
+          <div class="btn">
+            <svg>
+              <rect x="0" y="0" fill="none" width="166" height="45" />
+            </svg>
+            Universities
+          </div>
+          <div class="btn">
+            <svg>
+              <rect x="0" y="0" fill="none" width="166" height="45" />
+            </svg>
+            Latest
+          </div>
+          <div class="btn">
+            <svg>
+              <rect x="0" y="0" fill="none" width="166" height="45" />
+            </svg>
+            News
+          </div>
+          <div class="btn">
+            <svg>
+              <rect x="0" y="0" fill="none" width="166" height="45" />
+            </svg>
+            Contact
+          </div>
+        </div>
+      </div>
+    </nav>
+    <header>
+      <div class="header-content">
+        <h2>Explore Events</h2>
+        <div class="line"></div>
+      </div>
+    </header>
+
+    <!--events  -->
+    <section class="events">
+      <div class="title">
+        <h1>Upcoming Events</h1>
+        <div class="line"></div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <img src="techtitans/pdeubg.jpg" alt="" />
+          <h4>PDEU Event:-Technology and Innovation Event</h4>
+          <p>
+            "Uncover the Future: Join us for an illuminating webinar exploring
+            the exciting world of emerging technologies, from AI to blockchain.
+            Discover how innovation is reshaping industries and shaping the way
+            we live and work!"
+          </p>
+
+          <a href="#" class="ctn" onclick="openEventInfoPage('PDEU')"
+            >Event Info</a
+          >
+        </div>
+      </div>
+    </section>
+    <link href="event-info.css" rel="stylesheet" type="text/css" />
+
+    <!-- Modal for Registration Form -->
+    <div id="registrationModal" class="modal">
+      <div class="modal-content">
+        <span class="close" onclick="closeRegistrationForm()">&times;</span>
+        <form id="registrationForm" class="registration-form">
+          <!-- Form content here -->
+        </form>
+      </div>
+    </div>
+
+    <script src="script.js"></script>
+    <script
+      src="https://replit.com/public/js/replit-badge-v2.js"
+      theme="dark"
+      position="bottom-right"
+    ></script>
+  </body>
+</html>

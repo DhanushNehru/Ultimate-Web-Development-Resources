@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+<div id="registerPopup" class="popup">
+  <div class="popup-content">
+    <span class="close-popup" onclick="closePopup()">&times;</span>
+    <h2 class="title">Join for the Event</h2>
+    <form id="registrationForm">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" required />
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" required />
+      <button type="submit">Join</button>
+    </form>
+  </div>
+</div>
+<script>
+  function openPopup() {
+    document.getElementById("registerPopup").style.display = "block";
+  }
+
+  function closePopup() {
+    document.getElementById("registerPopup").style.display = "none";
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    document
+      .getElementById("registrationForm")
+      .addEventListener("submit", function (event) {
+        event.preventDefault();
+        const name = document.getElementById("name").value;
+        const email = document.getElementById("email").value;
+        alert(
+          "Thank you, " + name + "! You are registered with email: " + email
+        );
+        closePopup();
+      });
+  });
+</script>
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width" />
+  <title>Event Information</title>
+  <link href="event-info.css" rel="stylesheet" type="text/css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet" />
+</head>
+
+<body>
+  <div class="event-container">
+    <h1 class="event-name">TechX Innovation Summit</h1>
+    <img src="techtitans/event-image.jpg" alt="" class="event-image" />
+    <div class="event-details">
+      <h2 class="event-subtitle">Event Details</h2>
+      <p><strong>Date:</strong> October 15-17, 2023</p>
+
+      <h2 class="event-subtitle">Purpose</h2>
+      <p>
+        The TechX Innovation Summit is a premier annual event that brings
+        together technology leaders, innovators, entrepreneurs, and industry
+        experts to explore the latest trends and advancements in the tech
+        world. The summit aims to foster collaboration, spark new ideas, and
+        showcase groundbreaking technologies that have the potential to
+        reshape industries and drive societal progress.
+      </p>
+
+      <h2 class="event-subtitle">Event Highlights</h2>
+      <ul>
+        <li>
+          Keynote presentations from top tech visionaries, highlighting their
+          insights into the future of technology.
+        </li>
+        <li>
+          Panel discussions on emerging technologies such as artificial
+          intelligence, blockchain, biotech, and sustainable innovations.
+        </li>
+        <li>
+          Startup pitch sessions, providing early-stage companies with a
+          platform to showcase their disruptive ideas to potential investors.
+        </li>
+        <li>
+          Hands-on workshops and interactive sessions to encourage
+          skill-building and knowledge sharing.
+        </li>
+        <li>
+          Networking opportunities to connect with peers, potential partners,
+          and mentors in the technology and innovation space.
+        </li>
+        <li>
+          Innovation expo featuring cutting-edge products and prototypes from
+          leading tech companies.
+        </li>
+      </ul>
+
+      <h2 class="event-subtitle">Who Should Attend</h2>
+      <p>
+        TechX Innovation Summit is open to professionals from various
+        backgrounds, including technology executives, researchers,
+        entrepreneurs, investors, engineers, and students. Whether you're a
+        seasoned industry expert or a curious newcomer, the event offers
+        something valuable for everyone interested in the future of technology
+        and innovation.
+      </p>
+
+      <script>
+        function openPopup() {
+          document.getElementById("registerPopup").style.display = "block";
+        }
+
+        function closePopup() {
+          document.getElementById("registerPopup").style.display = "none";
+        }
+
+        document.addEventListener("DOMContentLoaded", function () {
+          document
+            .getElementById("registrationForm")
+            .addEventListener("submit", function (event) {
+              event.preventDefault();
+              const name = document.getElementById("name").value;
+              const email = document.getElementById("email").value;
+              alert(
+                "Thank you, " +
+                name +
+                "! You are registered with email: " +
+                email
+              );
+              closePopup();
+
+              // Open the new page immediately after form submission
+              window.location.href =
+                "https://videostream.chinmaypatil20.repl.co/#"; // Replace with your actual join link
+            });
+        });
+      </script>
+    </div>
+  </div>
+</body>
+
+</html>

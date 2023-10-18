@@ -1,0 +1,266 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box
+}
+
+.active {
+  color: crimson;
+  text-decoration: underline;
+  font-weight: bold;
+}
+
+body,
+html {
+  overflow-x: hidden;
+
+}
+
+img {
+  width: 200px;
+}
+
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  width: 100;
+  justify-content: space-between;
+  padding: 20px;
+  color: whitesmoke;
+}
+
+.container {
+  display: flex;
+  color: #dbe2ef;
+  font-size: 15px;
+  font-family: "Libre Baskerville", serif;
+  font-family: "Poppins", sans-serif;
+  gap: 50px;
+
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.btn {
+  display: inline;
+}
+
+.container-buttons {
+  display: inline-flex;
+}
+
+@import "bourbon";
+
+* {
+  -webkit-transition-property: all;
+  -webkit-transition-duration: .2s;
+  -webkit-transition-timing-function: cubic-bezier(100, 50, 21, 6);
+  -moz-transition-property: all;
+  -moz-transition-duration: .2s;
+  -moz-transition-timing-function: cubic-bezier(100, 50, 21, 6);
+}
+
+.btn {
+  position: relative;
+  display: inline-block;
+  width: 166px;
+  height: 45px;
+  font-size: 12px;
+  line-height: 45px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+  cursor: pointer;
+  overflow: hidden;
+  font-family: 'Nunito', sans-serif;
+}
+
+.btn svg {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.btn svg rect {
+  fill: none;
+  stroke: #fff;
+  stroke-width: 1;
+  stroke-dasharray: 422, 0;
+
+  /* @include transition(all 1300ms $ease-out-expo); */
+}
+
+.btn:hover svg rect {
+  stroke-width: 5;
+  stroke-dasharray: 10, 310;
+  stroke-dashoffset: 33;
+}
+
+.btn:hover {
+  color: #fff;
+  font-size: 18px;
+  letter-spacing: 1px;
+  font-weight: bold;
+}
+
+.nav-links {
+  display: flex;
+  align-items: center;
+}
+
+.nav-links li {
+  margin: 0 30px;
+}
+
+header {
+  width: 100vw;
+  height: 100vh;
+  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(techtitans/background.jpg);
+  background-position: bottom;
+  background-size: cover;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+
+}
+
+.header-content {
+  margin-bottom: 150px;
+  color: whitesmoke;
+  text-align: center;
+  font-size: 4vmax;
+}
+
+.line {
+  width: 150px;
+  height: 4px;
+  background: crimson;
+  margin: 10px auto;
+  border-radius: 5px;
+}
+
+.ctn {
+  padding: 8px 15px;
+  background: crimson;
+  border-radius: 30px;
+  color: whitesmoke;
+}
+
+/* Adjust the width and margin for better alignment */
+.events {
+  width: 80%;
+  margin: 80px auto;
+}
+
+/* Center the title and add styling */
+.title {
+  text-align: center;
+  font-size: 4vmin;
+  color: rgb(73, 73, 126);
+}
+
+/* Flex layout for the event rows */
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  /* Align items at the top */
+  margin-top: 50px;
+}
+
+/* Column styling */
+.col {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 45%;
+  justify-content: center;
+}
+
+/* Add appropriate styles for the registration form */
+.registration-form {
+  background-color: pink;
+  /* Set to your desired color */
+  padding: 20px;
+  border-radius: 10px;
+  color: #333;
+  /* Adjust text color for readability */
+}
+
+
+/* Image styling */
+.col img {
+  width: 100%;
+  max-width: 250px;
+  /* Increase the max-width for larger images */
+  height: auto;
+}
+
+/* Adjust the margin for the event content */
+.events .ctn {
+  margin-top: 30px;
+}
+
+/* Styling for event titles */
+h4 {
+  font-size: 3vmin;
+  color: #484872;
+}
+
+/* Add appropriate styles for the modal */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.modal-content {
+  background-color: #fefefe;
+  margin: 15% auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 50%;
+}
+
+.close {
+  color: #aaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* Add this to your existing style.css file */
+
+/* Styling for the cyan color button */
+.event-info-button {
+  background-color: cyan;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.event-info-button:hover {
+  background-color: #00a3cc;
+  /* Darker shade of cyan on hover */
+}
