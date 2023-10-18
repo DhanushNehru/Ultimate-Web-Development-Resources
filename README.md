@@ -86,6 +86,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [cyclic](https://app.cyclic.sh/#/)
 - [InfinityFree](https://www.infinityfree.net/)
 - [Deta](https://deta.sh)
+- [Railway](https://railway.app)
 - [Supabase](https://supabase.com)
 
 ## Websites to learn
@@ -93,6 +94,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Freecodecamp](http://freecodecamp.org)
 - [Codeacademy](http://codecademy.com)
 - [w3schools](https://www.w3schools.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org/web-development/)
 - [Javascript30](http://javascript30.com)
 - [Frontendmentor](http://frontendmentor.io)
 - [Test automation](http://testautomationu.applitools.com)
@@ -108,6 +110,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Exercism](https://exercism.org/)
 - [InternetingIsHard](https://www.internetingishard.com/)
 - [Full Stack Open](https://fullstackopen.com/en/)
+- [DevDocs.io](https://devdocs.io/)
 
 ## Websites for code challenges
 
@@ -155,6 +158,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 ## Chrome Extensions For Web Developers
 
 - [CSS3 GENERATOR](https://chrome.google.com/webstore/detail/css3-generator/dmlgmehijaodgkkooghkknjjkddahmej?hl=en-GB)
+- [CSSPeeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
+- [Fake Filler](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo?hl=en)
 - [Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha?hl=en)
 - [PERFECTPIXEL](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi)
 - [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en)
@@ -181,6 +186,11 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 
 ## Web Illustrations
 
+- [Freepik](https://freepik.com/)
+- [Open Doodles](https://www.opendoodles.com/)
+- [ManyPixels](https://www.manypixels.co/gallery)
+- [Open Peeps](https://www.openpeeps.com/)
+- [Flaticon](https://www.flaticon.com/)
 - [Bulbman.art](https://bulbman.art/)
 - [Drawkit.io](https://www.drawkit.io/)
 - [Icons8.com](https://icons8.com/)
@@ -250,11 +260,41 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [StyleShout](https://www.styleshout.com/free-templates/)
 - [Awwwards](https://www.awwwards.com/)
 - [Themes For App](https://themesfor.app/)
+- [Divi]( https://www.elegantthemes.com/examples/)
 
 ## Website Copier
 
 - [Httrack](https://www.httrack.com/)
 - [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy)
+
+
+## HTML Learning Resources
+- [Learn HTML – Full Tutorial for Beginners(Freecodecamp)](https://www.youtube.com/watch?v=kUMe1FH4CHE)
+- [Learn HTML - Codecademy](https://join.codecademy.com/learn/learn-html/)
+- [HTML Tutorial - W3schools](https://www.w3schools.com/html/)
+- [HTML Tutorial - Tutorialspoint](https://www.tutorialspoint.com/html/index.htm)
+- [HTML Full Course - Build a Website Tutorial(Freecodecamp)](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+- [HTML Crash Course For Absolute Beginners - Traversy Media](https://www.youtube.com/watch?v=UB1O30fR-EE)
+- [HTML Tutorial - How to Make a Super Simple Website(Freecodecamp)](https://www.youtube.com/watch?v=PlxWf493en4)
+- [HTML & CSS Full Course - Beginner to Pro(SuperSimpleDev](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=19628s)
+
+## CSS Learning Resources
+- [Learn CSS - web.dev](https://web.dev/learn/css/)
+- [Learn CSS - Codecademy](https://www.codecademy.com/learn/learn-css)
+- [CSS Tutorial - W3schools](https://www.w3schools.com/css/)
+- [CSS Tutorial - Zero to Hero (Complete Course)(Freecodecamp)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
+- [CSS tips and tricks - Kevin Powell](https://www.youtube.com/kepowob)
+- [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+
+## JS Learning Resources
+- [Learn JavaScript - Full Course for Beginners (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
+- [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour (YouTube - Programming With Mosh)](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+- [JavaScript Programming - Full Course (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=jS4aFq5-91M)
+- [JavaScript Tutorial (W3Schools - Documentation)](https://www.w3schools.com/js/)
+- [Learn JavaScript - (CodeAcademy - Course)](https://join.codecademy.com/learn/introduction-to-javascript/)
+- [Learn JavaScript: Free JS Courses for Beginners (FreeCodeCamp - Documentation)](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
+- [Chai aur Javascript / (Chai aur Code)](https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37)
+
 
 ## Let's pick a framework/library for you
 - [React-Tutorial](https://www.youtube.com/watch?v=bMknfKXIFA8)
@@ -446,7 +486,7 @@ More information about the pack can be found here [Github Student Developer Pack
 | [QR Code Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Qr_Code_Generator) | [Quiz](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Quiz) | [Random Background Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Random-Background-Generator) | [Recipe Finder](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Recipe-Finder) | 
 | [Scannable QR Code Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Scannable%20QR%20CODE%20Generator) | [Table Tennis Scorekeeper](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Table%20Tennis%20scorekeeper) | [Task Management App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/task-management-app) | [Temperature Convertor](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/tempreture-converter) | 
 [Tic Tac Toe](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/TicTacToe%20Game) | [To Do List](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/to-do-list) | [Typing Progress Bar](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Typing%20Progress%20Bar) | [Weather App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WeatherApp) | 
-| [Wix Template](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WixTemplate) | [URL Shortner](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/url-shortner) | | |
+| [Wix Template](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WixTemplate) | [URL Shortner](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/url-shortner) | [Aim Training](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Aim-training) | [Flappy Bird Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Flappy_Bird_Game)  | [Desktop Notification](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Desktop%20Notification)
 
 Please note that the links provided are the GitHub repository URLs for each project.
 
