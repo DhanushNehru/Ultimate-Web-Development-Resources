@@ -110,6 +110,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Exercism](https://exercism.org/)
 - [InternetingIsHard](https://www.internetingishard.com/)
 - [Full Stack Open](https://fullstackopen.com/en/)
+- [Open Classrooms](https://openclassrooms.com/)
 - [DevDocs.io](https://devdocs.io/)
 
 ## Websites for code challenges
@@ -133,6 +134,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [GeeksforGeeks](https://www.geeksforgeeks.org)
 - [KodeKloud](https://kodekloud.com/kodekloud-engineer/)
 - [Frontend Practice](https://www.frontendpractice.com/)
+- [CodeStudio by CodingNinjas](https://www.codingninjas.com/studio)
 
 ## Web Images or Photos
 
@@ -175,6 +177,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [daily.dev](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied)
 - [LT Debug](https://chrome.google.com/webstore/detail/lt-debug/kofahhnmgobkidipanhejacffiigppcd)
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+- [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
 
 ## Chart Visualizations
 
@@ -342,6 +345,8 @@ More information about the pack can be found here [Github Student Developer Pack
 ## Awesome CSS generators
 
 - [Buttons CSS generator](https://markodenic.com/tools/buttons-generator/)
+- [Animista](https://animista.net/)
+- [Clippy](https://bennettfeely.com/clippy/)
 - [Fancy Buttons generator](https://getcssscan.com/css-buttons-examples?ref=beautifulboxshadow-bottom)
 - [Shapes CSS generator](https://getcssscan.com/css-shapes?ref=beautifulbuttons-bottom/)
 - [Neumorphism/Soft UI generator](https://neumorphism.io/#e0e0e0)
@@ -384,6 +389,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Hitesh Choudhary](https://www.youtube.com/@HiteshChoudharydotcom)
 - [Clever Programmer](https://www.youtube.com/@CleverProgrammer)
 - [Sonny Sangha](https://www.youtube.com/@SonnySangha)
+- [Sheryians Coding School](https://www.youtube.com/@thesheryianscodingschool)
 
 ## HTML Learning Resources
 - [Learn HTML – Full Tutorial for Beginners(Freecodecamp)](https://www.youtube.com/watch?v=kUMe1FH4CHE)
@@ -401,6 +407,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [CSS Tutorial - Zero to Hero (Complete Course)(Freecodecamp)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 - [CSS tips and tricks - Kevin Powell](https://www.youtube.com/kepowob)
 - [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+- [CSS: Cascading Style Sheets - Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## JS Learning Resources
 - [Learn JavaScript - Full Course for Beginners (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
@@ -486,7 +493,8 @@ More information about the pack can be found here [Github Student Developer Pack
 | [QR Code Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Qr_Code_Generator) | [Quiz](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Quiz) | [Random Background Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Random-Background-Generator) | [Recipe Finder](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Recipe-Finder) | 
 | [Scannable QR Code Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Scannable%20QR%20CODE%20Generator) | [Table Tennis Scorekeeper](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Table%20Tennis%20scorekeeper) | [Task Management App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/task-management-app) | [Temperature Convertor](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/tempreture-converter) | 
 [Tic Tac Toe](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/TicTacToe%20Game) | [To Do List](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/to-do-list) | [Typing Progress Bar](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Typing%20Progress%20Bar) | [Weather App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WeatherApp) | 
-| [Wix Template](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WixTemplate) | [URL Shortner](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/url-shortner) | [Aim Training](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Aim-training) | [Flappy Bird Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Flappy_Bird_Game)  | [Desktop Notification](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Desktop%20Notification) | [WORD-AND-CHARACTER-COUNTER](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WORD-AND-CHARACTER-COUNTER) | 
+| [Wix Template](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WixTemplate) | [URL Shortner](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/url-shortner) | [Aim Training](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Aim-training) | [Flappy Bird Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Flappy_Bird_Game)  | [Desktop Notification](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Desktop%20Notification) | [Linear_gradient_background](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Linear_gradient_background)
+| [WORD-AND-CHARACTER-COUNTER](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WORD-AND-CHARACTER-COUNTER)
 
 Please note that the links provided are the GitHub repository URLs for each project.
 
