@@ -228,6 +228,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [1001fonts](http://1001fonts.com/)
 - [fontawesome](https://fontawesome.com/)
 - [Font Bundles](https://fontbundles.net/)
+- [Adobe Fonts](https://fonts.adobe.com/)
+- [Font Space](https://www.fontspace.com/)
 
 ## Website Optimization Tools
 
