@@ -341,6 +341,37 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Resources 5](https://www.youtube.com/kepowob)
 - [Resources 6](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
 - [Resources 7](https://www.simplilearn.com/tutorials/css-tutorial)
+- [Resources 8](https://www.youtube.com/@OnlineTutorialsYT/videos)
+- [Resources 9](https://www.youtube.com/playlist?list=PLH8iQ-rTfw2-lp7oienYPq9JT3rc-B_9p)
+- [Resources 10](https://www.youtube.com/watch?v=ESnrn1kAD4E)
+- [Resources 11](https://www.youtube.com/watch?v=ESnrn1kAD4E)
+- [Resources 12](https://www.youtube.com/playlist?list=PLhzIaPMgkbxBk9-drEC0MBPqEOXpVlwY4)
+- [Resources 13](https://www.youtube.com/playlist?list=PL4PaOIHsZcwJ5WLSMeOCrlmrLdphfhcpo)
+- [Resources 14](https://www.youtube.com/playlist?list=PLwgFb6VsUj_mtXvKDupqdWB2JBiek8YPB)
+- [Resources 15](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6Mx9fd9elt80G1bPcySmWit)
+- [Resources 16](https://forum.freecodecamp.org/t/documentation-of-html-and-css/551354)
+- [Resources 17](https://getbootstrap.com/docs/3.4/css/)
+- [Resources 18](https://www.codecademy.com/resources/docs/css)
+- [Resources 19](https://anjulitaneja12.medium.com/css-documentation-how-to-make-it-perfect-6ab189832c96)
+- [Resources 20](https://www.geeksforgeeks.org/types-of-css-cascading-style-sheet/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## JS Learning Resources
 
