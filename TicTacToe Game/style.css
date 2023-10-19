@@ -1,10 +1,4 @@
-h1 {
-	color: orangered;
-	margin-bottom: -5px;
-}
-p {
-	margin-bottom: -10px;
-}
+
 .ui {
 	display: flex;
 	flex-direction: column;
@@ -29,7 +23,7 @@ p {
 }
 /* 3*3 Grid */
 #b1{
-	border-bottom: 1px solid gray;
+	border-bottom: 1px solid rgb(98, 57, 57);
 	border-right: 1px solid gray;
 }
 
@@ -76,29 +70,16 @@ p {
 	border-left: 1px solid gray;
 }
 /* Reset Button */
-#but {
-	box-sizing: border-box;
-	width: 95px;
-	height: 40px;
-	border: 1px solid dodgerblue;
-	margin-left: auto;
-	border-radius: 8px;
-	font-family: Verdana,
-		Geneva, Tahoma, sans-serif;
 
-	background-color: whitesmoke;
-	color: dodgerblue;
-	font-size: 20px;
+
+#but:hover{
 	cursor: pointer;
+	background-color: rgb(79, 197, 210);
+	color: #fff;
 }
 
 /* Player turn space */
-#print {
-	font-family: Verdana,
-		Geneva, Tahoma, sans-serif;
-	color: dodgerblue;
-	font-size: 20px;
-}
+
 
 /* Main Container */
 #main {
@@ -110,4 +91,71 @@ p {
 	font-family: Verdana,Geneva,
 					Tahoma, sans-serif;
 	color: dodgerblue;
+}
+
+.game-box{
+	position: absolute;
+	margin-top: 18%;
+	margin-left: 38%;
+}
+
+
+button {
+	position: absolute;
+	margin-top: 35%;
+	
+	box-sizing: border-box;
+	width: 95px;
+	height: 40px;
+	border: 1px solid dodgerblue;
+	margin-left: -6%;
+	border-radius: 8px;
+	font-family: Verdana,
+		Geneva, Tahoma, sans-serif;
+
+	background-color: whitesmoke;
+	color: dodgerblue;
+	font-size: 20px;
+	cursor: pointer;
+}
+
+#print {
+	position: absolute;
+	margin-top: 8%;
+	margin-left: 40%;
+	font-family: Verdana,
+		Geneva, Tahoma, sans-serif;
+	color: dodgerblue;
+	font-size: 20px;
+}
+
+p {
+	position: absolute;
+	margin-top: 10%;
+	margin-left: 30%;
+	margin-bottom: -10px;
+}
+
+body{
+	background-color: black;
+}
+
+
+h1 {
+	
+	
+	position: absolute;
+	margin-top: 5%;
+	left: 50%;
+	transform: translate(-50% , -50%);
+	font-size: 90px;
+	-webkit-text-stroke: 1px #fff;
+	color: transparent;
+	background-image: linear-gradient(#fff , #fff);
+	background-repeat: no-repeat;
+	/* -webkit-background-clip: text; */
+	background-position: -750px 0;
+	/* animation: backcolor 5s linear infinite alternate; */
+	
+	
 }
