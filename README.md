@@ -90,7 +90,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Deta](https://deta.sh)
 - [Railway](https://railway.app)
 - [Supabase](https://supabase.com)
-- glitch[](https://glitch.com/)
+- [glitch](https://glitch.com/)
 - [pagecloud](https://www.pagecloud.com/)
 
 ## Websites to learn
