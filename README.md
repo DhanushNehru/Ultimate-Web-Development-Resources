@@ -118,25 +118,27 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 ## Websites for code challenges
 
 - [AtCoder](https://atcoder.jp)
-- [Code Wars](http://codewars.com)
-- [Top Coder](http://topcoder.com)
-- [Codingame](http://codingame.com)
-- [Hacker Rank](http://hackerrank.com)
-- [Project Euler](http://projecteuler.net)
-- [Coder Byte](http://coderbyte.com)
-- [Code Chef](http://codechef.com)
-- [Exercism](http://exercism.io)
-- [Leet Code](http://leetcode.com)
-- [Sphere Online Judge](http://spoj.com)
 - [BFE.dev](https://bigfrontend.dev/)
+- [CodeStudio](https://www.codingninjas.com/studio)
+- [Code Chef](http://codechef.com)
+- [Code Wars](http://codewars.com)
 - [Codeforces](https://codeforces.com/)
+- [Coder Byte](http://coderbyte.com)
+- [Codingame](http://codingame.com)
+- [CSS Battle](https://cssbattle.dev/)
+- [Exercism](http://exercism.io)
+- [Frontend Mento](https://www.frontendmentor.io/challenges)
+- [Frontend Practice](https://www.frontendpractice.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org)
+- [Hacker Rank](http://hackerrank.com)
 - [HackerEarth](https://www.hackerearth.com/)
 - [InterviewBit](https://www.interviewbit.com/practice/)
-- [Frontend Mento](https://www.frontendmentor.io/challenges)
-- [GeeksforGeeks](https://www.geeksforgeeks.org)
+- [JavaScript30](https://javascript30.com/)
 - [KodeKloud](https://kodekloud.com/kodekloud-engineer/)
-- [Frontend Practice](https://www.frontendpractice.com/)
-- [CodeStudio by CodingNinjas](https://www.codingninjas.com/studio)
+- [Leet Code](http://leetcode.com)
+- [Project Euler](http://projecteuler.net)
+- [Sphere Online Judge](http://spoj.com)
+- [Top Coder](http://topcoder.com)
 
 ## Web Images or Photos
 
@@ -485,7 +487,7 @@ More information about the pack can be found here [Github Student Developer Pack
 
 |      |      |      |      |
 |------|------|------|------|
-| [3D Portfolio](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/3D-Portfolio) | [3D](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/3D)  |  [Blog Website ](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Blog-Website) | [Bloggers Website ](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Blogger-Website-main/blogers%20%20website) |
+| [3D Portfolio](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/3D-Portfolio) | [3D](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/3D) |  [ ASCII VALUE GENERATOR ](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Blog-Website) |  [Blog Website ](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/ascii-value-generator) | [Bloggers Website ](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Blogger-Website-main/blogers%20%20website) |
 | [Bootstrap Portfolio](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Bootstrap%20Portfolio) | [Calculator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/calculator) | [Chess](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Chess) | [City Finder](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/City%20Finder) |
 | [Clock Project](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/ClockProject) | [Disney Character Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/disney-character-game) | [Drum Kit](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/DRUM-KIT) | [Dice Challenge](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Dice-Challenge) |
 | [E-Commerce](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/E-commerce) | [English Dictionary](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Eng_Dictionary) | [Expense Tracker App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/ExpenseTrackerApp) | [Google Auth Firebase](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/GoogleAuthFirebase) |
@@ -513,10 +515,10 @@ Please note that the links provided are the GitHub repository URLs for each proj
 
 Hey, I'm Dhanush N. You can connect with me and follow my work via [X / (Twitter)](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1)
 
-Searching for a job ? This may help you
+Searching for a job? This may help you
 [Ultimate Tech Job List](https://github.com/DhanushNehru/Ultimate-Tech-Jobs)
 
-Want to start learning Node Js ? Dont miss to check this out
+Want to start learning Node Js? Don't miss to check this out
 [Ultimate NodeJs Resources](https://github.com/DhanushNehru/Ultimate-NodeJs-Resources)
 
 If you liked this repository support it by starring ⭐
