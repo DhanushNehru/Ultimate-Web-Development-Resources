@@ -192,7 +192,6 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [FusionCharts](https://www.fusioncharts.com/)
 - [Google Data Studio](https://datastudio.google.com/visualization)
 - [SigmaJS](https://www.sigmajs.org/)
-- [Three.js](https://threejs.org/)
 
 ## Web Illustrations
 
