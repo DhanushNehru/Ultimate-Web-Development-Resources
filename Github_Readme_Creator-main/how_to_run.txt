@@ -1,0 +1,7 @@
+1. Install all the necessary requirements of requirements.txt file:-
+    pip install requirements.txt
+2. then do all the necessary migrations:-
+    pip manage.py makemigrations
+    pip manage.py migrate
+3. and final step:-
+    python manage.py runserver

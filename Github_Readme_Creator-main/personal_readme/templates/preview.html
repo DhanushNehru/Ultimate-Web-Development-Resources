@@ -1,0 +1,306 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Github Readme Creator</title>
+    <!-- bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" 
+        integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
+    <!-- iconify cdn -->
+    <script src="https://code.iconify.design/iconify-icon/1.0.0/iconify-icon.min.js"></script>
+    <!-- css -->
+    <link rel="stylesheet" href="{% static 'css/preview.css'%}">
+</head>
+<body>
+    <!-- navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="{% url 'personal_readme:home' %}">
+        <img src="{% static 'images/android-chrome-512x512.png' %}" alt="" width="56" height="56" class="align-text-center">
+        <strong>Github Readme Creator </strong>
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav ms-auto">
+        <a href="https://github.com/Shreyash-cyber/Github_Readme_Creator/fork" class="btn btn-outline-secondary text-white" role="button" target="_blank"><iconify-icon icon="eos-icons:fork"></iconify-icon> Fork This Project</a>
+        <a href="https://github.com/Shreyash-cyber/Github_Readme_Creator" class="btn btn-outline-secondary text-white" role="button" target="_blank"><iconify-icon icon="ant-design:star-filled"></iconify-icon> Star This Project</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+    <div class="wrapper">
+        <div class="left">
+            <img src="{% static 'images/default.png' %}" alt="" class="default">
+            <h1 class="vcard_names">
+        <span class="p-name vcard-fullname d-block overflow-hidden" itemprop="name">
+            Your Name
+          </span>
+          <span class="p-nickname vcard-username d-block" itemprop="additionalName">
+            your username
+          </span> 
+        </h1>
+        <div class="genrate text-center">
+            <button type="submit" class="gen_btn">Edit profile</button>
+        </div>
+        <p class="follow"><iconify-icon icon="eva:people-fill"></iconify-icon> 10 follower • 25 following</p>
+        <hr>
+            <div class="ach">
+                <h6>Your Achievemets</h6>
+                <img src="{% static 'images/pull-shark-default.png' %}" alt="" width="70px">
+                <p>     <span>   Beta   </span>       send feedback</p>
+            </div>
+            <hr>
+            <div class="sup">
+              <p>Did you like the Open source tool and happy with it to create your GitHub Readme Profile? </p>
+               <p>  
+                 <a href="https://www.buymeacoffee.com/shreyashmishra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 35px !important;width: 130px !important; float:right;" ></a> 
+                <br>
+             🙏Support Tool:-
+               <br>
+                <span style="float: right;"> <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-show-count="false" data-size="large">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> </span></p>
+            </div>
+        </div>  
+        <div class="right">
+          <p align="right"><button type="button" class="btn btn-dark" onclick="downEvent()" id="down_btn"><iconify-icon icon="ri:file-download-line"></iconify-icon> Download code</button>
+          <button type="button" class="btn btn-dark"   onclick="copyEvent();" id="copy_btn"><iconify-icon icon="akar-icons:copy"></iconify-icon> Copy Code </button></p>
+<div id="copy">
+{% for readme in readme %}
+<!-- for editing in title -->
+<h1 align="center">Hi 👋, I'm {{readme.name}}</h1>
+<hr>
+<!--for editing in subtitle -->
+{% if readme.about_me %}
+<h4 align="center">{{readme.about_me}}</h4>
+{% endif %}
+<!--for editing in work info -->
+<div align="center">
+  {% if readme.github %}
+  {% for add_on in readme.add_ons.all %}
+  {% if add_on.title == 'Display visitors count badge' %}
+  <img align="left" src="https://komarev.com/ghpvc/?username={{readme.github}}&label=Profile%20views&color=0e75b6&style=flat" alt="{{readme.github}}" />
+  {% endif %}
+  {% endfor %}
+  {% endif %}
+  {% if readme.project1_link %}
+  <a href="{{ readme.project1_link }}"><img align="right" src="https://i.postimg.cc/ryrLd06b/portfolio-image.png" alt="Visit Portfolio" height="28px" /></a>
+  {% endif %}
+<h3>My Work Info :</h3>
+<p>
+{% if readme.work_status %}
+I am a <strong> {{ readme.work_status }} </strong> {% if readme.work_status_link %} in <a href="{{ readme.work_status_link }}" target="_blank"> 🌐Visit the organization </a>  {% endif%}
+{% endif %} <br>
+{% if readme.project2 %}
+I am a currently working on <strong> {{ readme.project2 }} </strong>  {% if readme.project2_link %}  <a href="{{ readme.project2_link }}" target="_blank"> 🌐Visit </a>  {% endif%}
+ <br> {% endif %}
+{% if readme.project3 %}
+I am a looking to collaborate on  <strong> {{ readme.project3 }} </strong> {% if readme.project3_link %}  <a href="{{ readme.project3_link }}" target="_blank"> 🌐Visit</a> {% endif%}
+ <br> {% endif %}
+{% if readme.project4 %}
+I am a looking for help with  <strong> {{ readme.project4 }} </strong> {% if readme.project4_link %}  <a href="{{ readme.project4_link }}" target="_blank"> 🌐Visit</a> {% endif%}
+ <br> {% endif %}
+{% if readme.project5 %}
+My favourite project is  <strong> {{ readme.project5 }} </strong> {% if readme.project5_link %}  <a href="{{ readme.project5_link }}" target="_blank"> 🌐Visit</a> {% endif%}
+ <br> {% endif %}
+{% if readme.resume_link %}
+<a href="{{readme.resume_link}}" target="_blank"><img src=https://i.postimg.cc/0QGhRGF1/download-cv-button.png" alt="" width="200px"></a> <br> 
+<br> {% endif%}
+{% if readme.email_id %}
+How to reach me <a href="mailto: {{readme.email_id}}"> 📧Send an email</a>
+<br> {% endif %} </p>
+ </div>
+ <!-- for editing in skills / tech -->
+<h3 align="center">Skills / Tech :</h3>
+<div align="center">
+{% if readme.system %}{% for systems in readme.system.all %}
+<a href="{{systems.link}}" target="_blank"><img src="{{systems.img_link}}" alt="{{systems.name}}" width="40px"></a> 
+{% endfor %}{%endif%}{% if readme.programming_language %}{% for programming_languages in readme.programming_language.all %}
+<a href="{{programming_languages.link}}" target="_blank"><img src="{{programming_languages.img_link}}" alt="{{programming_languages.name}}" width="40px"></a> 
+{% endfor %}{%endif%}{% if readme.frontend_language %}{% for frontend_languages in readme.frontend_language.all %}
+<a href="{{frontend_languages.link}}" target="_blank"><img src="{{frontend_languages.img_link}}" alt="{{frontend_languages.name}}" width="40px"></a> 
+{% endfor %}{%endif%}{% if readme.backend_language %}{% for backend_languages in readme.backend_language.all %}
+<a href="{{backend_languages.link}}" target="_blank"><img src="{{backend_languages.img_link}}" alt="{{backend_languages.name}}" width="40px"></a> 
+{% endfor %}{%endif%}{% if readme.mobile_app_devlopment %}{% for mobile_app_devlopments in readme.mobile_app_devlopment.all %}
+<a href="{{mobile_app_devlopments.link}}" target="_blank"><img src="{{mobile_app_devlopments.img_link}}" alt="{{mobile_app_devlopments.name}}" width="40px"></a> 
+{% endfor %}{%endif%}{% if readme.aI_ML %}{% for ai_mls in readme.aI_ML.all %}
+<a href="{{ai_mls.link}}" target="_blank"><img src="{{ai_mls.img_link}}" alt="{{ai_mls.name}}" width="40px"></a> 
+{% endfor %}{%endif%}{% if readme.database %}{% for databases in readme.database.all %}
+<a href="{{databases.link}}" target="_blank"><img src="{{databases.img_link}}" alt="{{database.name}}" width="40px"></a> 
+{% endfor %}{%endif%}{% if readme.data_visualization %}{% for data_visualizations in readme.data_visualization.all %}
+<a href="{{data_visualizations.link}}" target="_blank"><img src="{{data_visualizations.img_link}}" alt="{{data_visualizations.name}}" width="40px"></a> 
+{% endfor %}{%endif%}{% if readme.devops %}{% for devopss in readme.devops.all %}
+<a href="{{devopss.link}}" target="_blank"><img src="{{devopss.img_link}}" alt="{{devopss.name}}" width="40px"></a> 
+{% endfor %}{%endif%}{% if readme.bASS %}{% for basss in readme.bASS.all %}
+<a href="{{basss.link}}" target="_blank"><img src="{{basss.img_link}}" alt="{{basss.name}}" width="40px"></a> 
+{% endfor %}{%endif%}{% if readme.framework %}{% for frameworks in readme.framework.all %}
+<a href="{{frameworks.link}}" target="_blank"><img src="{{frameworks.img_link}}" alt="{{frameworks.name}}" width="40px"></a> 
+{% endfor %}{%endif%}{% if readme.testing %}{% for testings in readme.testing.all %}
+<a href="{{testings.link}}" target="_blank"><img src="{{testings.img_link}}" alt="{{testings.name}}" width="40px"></a> 
+{% endfor %}{%endif%}{% if readme.software %}{% for softwares in readme.software.all %}
+<a href="{{softwares.link}}" target="_blank"><img src="{{softwares.img_link}}" alt="{{softwares.name}}" width="40px"></a> 
+{% endfor %}{%endif%}{% if readme.static_site_gen %}{% for static_site_gens in readme.static_site_gen.all %}
+<a href="{{static_site_gens.link}}" target="_blank"><img src="{{static_site_gens.img_link}}" alt="{{static_site_gens.name}}" width="40px"></a> 
+{% endfor %}{%endif%}{% if readme.game_engine %}{% for game_engines in readme.game_engine.all %}
+<a href="{{game_engines.link}}" target="_blank"><img src="{{game_engines.img_link}}" alt="{{game_engines.name}}" width="40px"></a> 
+{% endfor %}{%endif%}{% if readme.automation %}{% for automations in readme.automation.all %}
+<a href="{{automations.link}}" target="_blank"><img src="{{automations.img_link}}" alt="{{automations.name}}" width="40px"></a> 
+{% endfor %}{%endif%}{% if readme.blockchain %}{% for blockchains in readme.blockchain.all %}
+<a href="{{blockchains.link}}" target="_blank"><img src="{{blockchains.img_link}}" alt="{{blockchains.name}}" width="40px"></a> 
+{% endfor %}{%endif%}{% if readme.others %}{% for otherss in readme.others.all %}
+<a href="{{otherss.link}}" target="_blank"><img src="{{otherss.img_link}}" alt="{{otherss.name}}" width="40px"></a> 
+{% endfor %}
+{%endif%}
+</div>
+ <!-- for editing in social handels -->
+ <h3 align="center">Connect With My Social :</h3>
+<div align="center">
+{% if readme.github %}
+<a href="https://github.com/{{readme.github}}" target="_blank"><img src="https://i.postimg.cc/05t5WHpT/github-512.png" alt="github" width="40px" a;></a>
+{% endif %}
+{% if readme.twitter %}
+<a href="{{readme.twitter}}" target="_blank"><img src="https://i.postimg.cc/7YfHpM9f/Twitter-Logo-Square.png" alt="twitter" width="40px" a;></a>
+{% endif %}
+{% if readme.codepen %}
+<a href="{{readme.codepen}}" target="_blank"><img src="https://i.postimg.cc/fRNjRKLR/computer-icons-scalable-vector-graphics-portable-network-graphics-codepen-png-favpng-T8-Ncx-G8-PN1-La2-Zk.jpg" alt="codepen" width="40px" a;></a>
+{% endif %}
+{% if readme.dev %}
+<a href="{{readme.dev}}" target="_blank"><img src="https://i.postimg.cc/T3JjLDLq/dev.png" alt="DEV" width="40px" a;></a>
+{% endif %}
+{% if readme.linkedin %}
+<a href="{{readme.linkedin}}" target="_blank"><img src="https://i.postimg.cc/PqfWm51G/600px-Linked-In-logo-initials.png" alt="linkedin" width="40px" a;></a>
+{% endif %}
+{% if readme.kaggle %}
+<a href="{{readme.kaggle}}" target="_blank"><img src="https://i.postimg.cc/8Cyhwgb7/kaggle-3521526-2945029.png" alt="kaggle" width="40px" a;></a>
+{% endif %}
+{% if readme.facebook %}
+<a href="{{readme.facebook}}" target="_blank"><img src="https://i.postimg.cc/sXq5dPqy/Facebook-logo-blue-circle-large-transparent-png.png" alt="facebook" width="40px" a;></a>
+{% endif %}
+{% if readme.instagram %}
+<a href="{{readme.instagram}}" target="_blank"><img src="https://i.postimg.cc/XN8PbRqv/580b57fcd9996e24bc43c521.png" alt="instagram" width="40px" a;></a>
+{% endif %}
+{% if readme.dribble %}
+<a href="{{readme.dribble}}" target="_blank"><img src="https://i.postimg.cc/qMv5M16x/dribbble-icon-1-logo-png-transparent.png" alt="dribble" width="40px" a;></a>
+{% endif %}
+{% if readme.behance %}
+<a href="{{readme.behance}}" target="_blank"><img src="https://i.postimg.cc/7YtQCSg8/behance-1-logo-png-transparent.png" alt="behance" width="40px" a;></a>
+{% endif %}
+{% if readme.hashnode %}
+<a href="{{readme.hashnode}}" target="_blank"><img src="https://i.postimg.cc/8zFXLsHF/CDy-Au-Ty75.png" alt="hashnode" width="40px" a;></a>
+{% endif %}
+{% if readme.medium %}
+<a href="{{readme.medium}}" target="_blank"><img src="https://i.postimg.cc/QdR4ms4f/medium-logo.png" alt="medium" width="40px" a;></a>
+{% endif %}
+{% if readme.youtube %}
+<a href="{{readme.youtube}}" target="_blank"><img src="https://i.postimg.cc/xdMsF7Bn/580b57fcd9996e24bc43c545.png" alt="youtube" width="40px" a;></a>
+{% endif %}
+{% if readme.hackerank %}
+<a href="{{readme.hackerank}}" target="_blank"><img src="https://i.postimg.cc/GmyMnV7b/Hacker-Rank-logo.png" alt="hackerrank" width="40px" a;></a>
+{% endif %}
+{% if readme.topcoder %}
+<a href="{{readme.topcoder}}" target="_blank"><img src="https://i.postimg.cc/nzy42hx7/topcoder.png" alt="topcoder" width="40px" a;></a>
+{% endif %}
+{% if readme.leetcode %}
+<a href="{{readme.leetcode}}" target="_blank"><img src="https://i.postimg.cc/brN3rvrw/Leet-Code-logo-black.png" alt="leetcode" width="40px" a;></a>
+{% endif %}
+{% if readme.hackerearth %}
+<a href="{{readme.hackerearth}}" target="_blank"><img src="https://i.postimg.cc/fy259hSj/800px-Hacker-Earth-logo.png" alt="hackerearth" width="40px" a;></a>
+{% endif %}
+{% if readme.discord %}
+<a href="{{readme.discord}}" target="_blank"><img src="https://i.postimg.cc/fWB8FYqt/Discord-Logo-Square-1024x1024.png" alt="discord" width="40px" a;></a>
+{% endif %}
+{% if readme.rss %}
+<a href="{{readme.rss}}" target="_blank"><img src="https://i.postimg.cc/FszTQ1wP/rss-35468-640.png" alt="rss" width="40px" a;></a>
+{% endif %}
+</div>
+<!-- for editing in github info -->
+{% if readme.github %}
+<h3 align="center">My Github Info :</h3>
+<div align="center">
+{% for add_on in readme.add_ons.all %}
+{% if add_on.title == 'Display github profile stats card' %}
+<img src="https://github-readme-stats.vercel.app/api?username={{readme.github}}&show_icons=true&locale=en" alt="{{readme.github}}" width="40%" />
+{% endif %}
+{% endfor %}
+{% for add_on in readme.add_ons.all %}
+{% if add_on.title == 'Display github streak stats' %}
+<img src="https://github-readme-streak-stats.herokuapp.com/?user={{readme.github}}&" alt="{{readme.github}}" width="40%" />
+{% endif %}
+{% endfor %}
+{% for add_on in readme.add_ons.all %}
+{% if add_on.title == 'Display top skills' %}
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username={{readme.github}}&show_icons=true&locale=en&layout=compact" alt="{{readme.github}}" width="40%" />
+{% endif %} 
+{% endfor %}
+{% for add_on in readme.add_ons.all %}
+{% if add_on.title == 'Display github trophy' %}
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username={{readme.github}}" alt="{{readme.github}}" width="55%"  /></a>
+{% endif %}
+{% endfor %}
+</div>
+{% endif %}
+{% if readme.buy_me_coffee or readme.patreon %}
+<div align="center">
+<h3>Support Me :</h3>
+{% if readme.buy_me_coffee %}
+<a href="{{readme.buy_me_coffee}}"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me coffee" /></a>
+{% endif %}
+{% if readme.patreon %}
+<a href="{{readme.patreon}}"> <img src="https://i.postimg.cc/nrSX2mHq/become-patron.png" height="50" width="210" alt="Become Patron" /></a>
+{% endif %}
+</div>
+{% endif %}
+{% endfor %}
+</div>
+      </div>
+    </div>
+
+  <!-- footer -->
+  <footer class="w-100 py-4 flex-shrink-0">
+    <div class="container py-4">
+        <div class="row gy-4 gx-5">
+       <div class="col-lg-4 col-md-6">
+         <img id="logo_img" src="{% static 'images/android-chrome-512x512.png' %}" alt="" width="200" height="150">
+                <br>
+                <strong class="foot text-white">Github Readme Creator</strong>
+            </div>
+            <div class="col-lg-2 col-md-6">
+                <h5 class="text-white mb-3">Pages</h5>
+                <ul class="list-unstyled text-muted">
+                    <li><a href="#">About</a></li>
+                    <li><a href="{% url 'personal_readme:project' %}">Projects</a></li>
+                    <li><a href="{% url 'personal_readme:faq' %}">FAQ</a></li>
+                    <li><a href="https://github.com/Shreyash-cyber/Github_Readme_Creator/blob/main/LICENSE" target="_blank">Liscence</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-2 col-md-6">
+                <h5 class="text-white mb-3">Quick links</h5>
+                <ul class="list-unstyled text-muted">
+                    <li><a href="https://github.com/Shreyash-cyber/Github_Readme_Creator" target="_blank">Repositry</a></li>
+                    <li><a href="https://github.com/Shreyash-cyber/Github_Readme_Creator/releases" target="_blank">Release</a></li>
+                    <li><a href="https://github.com/Shreyash-cyber/Github_Readme_Creator/issues" target="_blank">Issue</a></li>
+                    <li><a href="https://github.com/Shreyash-cyber/Github_Readme_Creator/pulls" target="_blank">Pull Request</a></li>
+                </ul>
+            </div>
+            <div class="col-lg-4 col-md-6">
+                <h5 class="text-white mb-3">Support</h5>
+                <ul class="list-unstyled text-muted">
+                  <li><a href="https://www.buymeacoffee.com/shreyashmishra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a></li>                 
+            </div>
+        </div>
+    </div>
+</footer>
+     <!-- script -->
+    <script src="{% static 'js/preview.js'%}"></script>
+     <!-- JavaScript Bundle with Popper -->
+     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" 
+     integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
+     <!-- buy me coffee -->
+     <script data-name="BMC-Widget" data-cfasync="false" src="https://cdnjs.buymeacoffee.com/1.0.0/widget.prod.min.js" data-id="shreyashmishra" data-description="Support me on Buy me a coffee!" data-message="" data-color="#FFDD00" data-position="Right" data-x_margin="18" data-y_margin="18"></script>
+ </body>
+ </html>
+</body>
+</html>
