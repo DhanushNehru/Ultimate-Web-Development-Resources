@@ -151,6 +151,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Flickr](https://www.flickr.com/)
 - [Unsplash](http://unsplash.com)
 - [Pixaby](http://pixabay.com)
+- [PicJumbo](https://picjumbo.com/latest-free-stock-photos/)
+- [StockSnap](https://stocksnap.io/)
 - [Pexels](http://pexels.com)
 - [Burst.shopify](https://burst.shopify.com/)
 - [Freepik](https://www.freepik.com/)
