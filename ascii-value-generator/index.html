@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ascii Value Generator</title>
+</head>
+
+<body>
+    <label for="letterInput">Enter a single letter: </label>
+    <input type="text" id="letterInput">
+    <button onclick="calculateAscii()">Calculate ASCII Value</button>
+    <p id="errorText"></p>
+    <p id="asciiValue"></p>
+
+    <script>
+        function validateAndCalculateAscii() {
+            const inputElement = document.getElementById("letterInput");
+            const errorTextElement = document.getElementById("errorText");
+            const asciiValueElement = document.getElementById("asciiValue");
+
+            // Get the input value and trim any leading or trailing white spaces
+            const inputValue = inputElement.value.trim();
+
+            // Check if the input is a single letter
+            if (inputValue.length === 1 && inputValue.match(/[a-zA-Z]/)) {
+                errorTextElement.textContent = ""; // Clear any previous error message
+                const asciiValue = inputValue.charCodeAt(0);
+                asciiValueElement.textContent = `ASCII Value: ${asciiValue}`;
+            } else {
+                errorTextElement.textContent = "Please enter a single letter.";
+                asciiValueElement.textContent = ""; // Clear any previous ASCII value
+            }
+        }
+
+        // Attach the event listener to the button
+        document.querySelector("button").addEventListener("click", validateAndCalculateAscii);
+
+    </script>
+</body>
+
+</html>
