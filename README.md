@@ -90,7 +90,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Supabase](https://supabase.com)
 - [Glitch](https://glitch.com/)
 - [Fleek](https://fleek.co/)
-- [netlify](https://www.netlify.com/)
+- [Netlify](https://www.netlify.com/)
 
 
 ## Websites to learn
