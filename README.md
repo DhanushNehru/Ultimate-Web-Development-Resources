@@ -90,7 +90,9 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Supabase](https://supabase.com)
 - [Glitch](https://glitch.com/)
 - [Fleek](https://fleek.co/)
-- [Netlify](https://www.netlify.com/)
+- [ByetHost](https://byet.host/)
+- [HyperPHP](http://hyperphp.com/)
+
 
 
 ## Websites to learn
