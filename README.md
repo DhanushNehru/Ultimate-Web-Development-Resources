@@ -311,7 +311,9 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Vue JS-Tutorial](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
 - [Vue JS-Docs](https://vuejs.org/tutorial/#step-1)
 - [Angular-Tutorial](https://www.youtube.com/watch?v=k5E2AVpwsko) 
-- [Angular-Docs](https://angular.io/docs) 
+- [Angular-Docs](https://angular.io/docs)
+- [NextJS-Tutorial](https://www.youtube.com/watch?v=ETV17M4SauU)
+- [NextJS-Docs](https://nextjs.org/docs)
 
 ## Bio Links
 
