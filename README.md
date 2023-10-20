@@ -88,6 +88,9 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Deta](https://deta.sh)
 - [Railway](https://railway.app)
 - [Supabase](https://supabase.com)
+- [Glitch](https://glitch.com/)
+- [Fleek](https://fleek.co/)
+
 
 ## Websites to learn
 
@@ -113,6 +116,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Full Stack Open](https://fullstackopen.com/en/)
 - [Open Classrooms](https://openclassrooms.com/)
 - [DevDocs.io](https://devdocs.io/)
+- [codewithharry.com](https://www.codewithharry.com/)
 
 ## Websites for code challenges
 
@@ -311,7 +315,9 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Vue JS-Tutorial](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
 - [Vue JS-Docs](https://vuejs.org/tutorial/#step-1)
 - [Angular-Tutorial](https://www.youtube.com/watch?v=k5E2AVpwsko) 
-- [Angular-Docs](https://angular.io/docs) 
+- [Angular-Docs](https://angular.io/docs)
+- [NextJS-Tutorial](https://www.youtube.com/watch?v=ETV17M4SauU)
+- [NextJS-Docs](https://nextjs.org/docs)
 
 ## Bio Links
 
@@ -494,7 +500,7 @@ More information about the pack can be found here [Github Student Developer Pack
 | [E-Commerce](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/E-commerce) | [English Dictionary](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Eng_Dictionary) | [Expense Tracker App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/ExpenseTrackerApp) | [Google Auth Firebase](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/GoogleAuthFirebase) |
 | [Guess My Number](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/guess%20my%20number) | [Hangman Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Hangman%20Game) | [JS Quiz App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Javascript%20Quiz%20App)| [Love Calculator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/love-calculator) | [Mario Matching](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/MarioMatching) |
 | [Memory Cards](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/memorycards) | [Meme Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Meme-Generator) | [Mern Blog App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/mern-blog-app) | [Mouse Hover Animation](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/MouseHoverAnimation) | 
-| [Music Player](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Music-player) | [Myntra Customize](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Myntra%20Customize) | [Netflix UI Clone](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Netflix%20UI%20Clone) | [Notes App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Notes%20App) |
+| [Music Player](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Music-player)| [Morse Code Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/morse-code-generator) | [Myntra Customize](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Myntra%20Customize) | [Netflix UI Clone](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Netflix%20UI%20Clone) | [Notes App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Notes%20App) |
 [Password Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Password%20Generator) | [Portfolio 1](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/portfolio) | [Portfolio 2](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Portfolio_02) | [QR Code Generator 1](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/QR_Code_Generator_1) |
 | [QR Code Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Qr_Code_Generator) | [Quiz](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Quiz) | [Random Background Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Random-Background-Generator) | [Recipe Finder](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Recipe-Finder) | 
 | [Scannable QR Code Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Scannable%20QR%20CODE%20Generator) | [Table Tennis Scorekeeper](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Table%20Tennis%20scorekeeper) | [Task Management App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/task-management-app) | [Temperature Convertor](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/tempreture-converter) | 
