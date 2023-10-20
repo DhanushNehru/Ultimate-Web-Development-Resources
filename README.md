@@ -291,6 +291,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [HTML Crash Course For Absolute Beginners - Traversy Media](https://www.youtube.com/watch?v=UB1O30fR-EE)
 - [HTML Tutorial - How to Make a Super Simple Website(Freecodecamp)](https://www.youtube.com/watch?v=PlxWf493en4)
 - [HTML & CSS Full Course - Beginner to Pro(SuperSimpleDev](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=19628s)
+- [HTML: HyperText Markup Language] https://developer.mozilla.org/en-US/docs/Web/HTML
+
 
 ## CSS Learning Resources
 - [Learn CSS - web.dev](https://web.dev/learn/css/)
