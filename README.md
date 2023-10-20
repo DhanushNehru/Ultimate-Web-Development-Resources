@@ -1,8 +1,8 @@
-# [Ultimate-Web-Development-Resources]([https://github.com/DhanushNehru/Ultimate-Web-Development-Resources](https://dhanushnehru.github.io/Ultimate-Web-Development-Resources/))
+# [Ultimate-Web-Development-Resources](https://dhanushnehru.github.io/Ultimate-Web-Development-Resources)
 
 A collection of Web Developement Resources at one place
 
-![Ultimate-Web-Development-Resources by Dhanush N](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/blob/main/cover.png)
+![Ultimate-Web-Development-Resources by Dhanush N](https://raw.githubusercontent.com/DhanushNehru/Ultimate-Web-Development-Resources/main/cover.png)
 
 ## Contributing
 
