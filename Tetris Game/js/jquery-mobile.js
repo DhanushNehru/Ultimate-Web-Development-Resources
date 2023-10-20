@@ -13787,7 +13787,7 @@ $.widget( "mobile.table", $.mobile.table, {
 		if ( this.options.mode === "columntoggle" ) {
 			// NOTE: rebuild passes "false", while refresh passes "undefined"
 			// both refresh the table, but inside addToggles, !false will be true,
-			// so a rebuild call can be indentified
+			// so a rebuild call can be identified
 			this._refresh( false );
 		}
 	},
@@ -14944,7 +14944,7 @@ $.widget( "ui.tabs", {
 		if ( tab.hasClass( "ui-state-disabled" ) ||
 				// tab is already loading
 				tab.hasClass( "ui-tabs-loading" ) ||
-				// can't switch durning an animation
+				// can't switch during an animation
 				this.running ||
 				// click on active header, but not collapsible
 				( clickedIsActive && !options.collapsible ) ||
