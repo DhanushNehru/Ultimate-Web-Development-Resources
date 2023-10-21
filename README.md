@@ -413,7 +413,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [HTML Tutorial - Tutorialspoint](https://www.tutorialspoint.com/html/index.htm)
 - [HTML Full Course - Build a Website Tutorial(Freecodecamp)](https://www.youtube.com/watch?v=pQN-pnXPaVg)
 - [HTML Crash Course For Absolute Beginners - Traversy Media](https://www.youtube.com/watch?v=UB1O30fR-EE)
-- [HTML Tutorial - How to Make a Super Simple Website(Freecodecamp)](https://www.youtube.com/watch?v=PlxWf493en4)
+- [HTML Tutorial - How to Make a Super Simple Website - Freecodecamp](https://www.youtube.com/watch?v=PlxWf493en4)
 
 ## CSS Learning Resources
 - [Learn CSS - web.dev](https://web.dev/learn/css/)
