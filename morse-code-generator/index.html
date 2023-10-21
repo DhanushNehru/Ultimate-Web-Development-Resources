@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Morse Code Translator</title>
+</head>
+<style>
+    #output{
+        font-size: 3rem;
+        font-weight: bold;
+    }
+</style>
+<body>
+    <h1>Morse Code Translator</h1>
+    <label for="text">Text:</label>
+    <input type="text" id="text" placeholder="Enter text">
+    <button onclick="textToMorse()">Translate to Morse</button>
+    <button onclick="morseToText()">Translate to Text</button>
+    <div id="output"></div>
+    <script>
+        // Morse code dictionary
+        const morseCodeDict = {
+            'A': '.-', 'B': '-...', 'C': '-.-.', 'D': '-..', 'E': '.',
+            'F': '..-.', 'G': '--.', 'H': '....', 'I': '..', 'J': '.---',
+            'K': '-.-', 'L': '.-..', 'M': '--', 'N': '-.', 'O': '---',
+            'P': '.--.', 'Q': '--.-', 'R': '.-.', 'S': '...', 'T': '-',
+            'U': '..-', 'V': '...-', 'W': '.--', 'X': '-..-', 'Y': '-.--',
+            'Z': '--..',
+            '0': '-----', '1': '.----', '2': '..---', '3': '...--',
+            '4': '....-', '5': '.....', '6': '-....', '7': '--...',
+            '8': '---..', '9': '----.'
+        };
+
+        function textToMorse() {
+            const inputText = document.getElementById('text').value.toUpperCase();
+            const morseCode = [];
+
+            for (let char of inputText) {
+                if (char === ' ') {
+                    morseCode.push(' ');
+                } else if (morseCodeDict[char]) {
+                    morseCode.push(morseCodeDict[char]);
+                }
+            }
+
+            document.getElementById('output').textContent = morseCode.join(' ');
+        }
+
+        function morseToText() {
+            const inputMorse = document.getElementById('text').value;
+            const words = inputMorse.split('   '); // Split words
+            const text = [];
+
+            for (const word of words) {
+                const characters = word.split(' '); // Split characters
+                const wordText = [];
+
+                for (const char of characters) {
+                    for (const key in morseCodeDict) {
+                        if (morseCodeDict[key] === char) {
+                            wordText.push(key);
+                            break;
+                        }
+                    }
+                }
+
+                text.push(wordText.join(''));
+            }
+
+            document.getElementById('output').textContent = text.join(' ');
+        }
+
+    </script>
+</body>
+
+</html>
