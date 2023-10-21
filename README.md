@@ -95,6 +95,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Supabase](https://supabase.com)
 - [Glitch](https://glitch.com/)
 - [Fleek](https://fleek.co/)
+- [Cloudflare Pages](https://pages.cloudflare.com)
+- [Cloudflare Workers](https://workers.cloudflare.com)
 
 
 ## Websites to learn
