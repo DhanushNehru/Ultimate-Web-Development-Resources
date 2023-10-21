@@ -79,6 +79,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 
 - [Vercel](https://vercel.com)
 - [Amazon](https://aws.amazon.com)
+- [Byethost](https://byet.host/)
+- [000webhost](https://www.hostinger.in/recommended/free-hosting-special?utm_medium=affiliate&utm_source=aff17049&utm_campaign=276&session=102400793e16b079c1f6fc50c61289)
 - [Netlify](https://www.netlify.com)
 - [Firebase](https://firebase.google.com)
 - [Gitlab](https://docs.gitlab.com/ee/user/project/pages/)
