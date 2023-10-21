@@ -1,0 +1,242 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:wght@100;200;300;400;500;600;700;800;900&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    height:100vh;
+    background-color: #343a40;
+    display: flex;
+}
+.container{
+    width:500px;
+    height:500px;
+    margin:auto;
+    border-radius: 5px;
+    border:1px solid #ced4da;
+    font-family: Exo;
+    color:white;
+    background-color: #212529;
+    display: flex;
+    flex-direction: column;
+    padding:10px;
+    position: relative;
+    overflow: hidden;
+}
+
+.heading{
+    padding:20px;
+    font-weight: 900;
+    text-align: center;
+    font-size: 2em;
+}
+.steps-container{
+    position: relative;
+    display: flex;
+    height: 50px;;
+    margin:10px;
+    width:calc(100% - 20px)
+}
+.steps-container>hr{
+    width:100%;
+    height:5px;
+    background-color: white;
+    border-radius: 20px;
+    margin-top:25px;
+    position: absolute;
+    z-index:0;
+    border:none;    
+}
+
+
+.steps-container>.active{
+    background:#80ed99;
+    width:0%;
+}
+.steps-container>.steps{
+    width:45px;
+    height:45px;
+    border-radius: 50%;
+    background-color: #f8f9fa;
+    color:#212529;
+    font-size: 1.4em;
+    display: flex;
+    border:5px solid #212529;
+    margin:auto;
+    position: relative;
+    box-sizing: content-box;
+    z-index: 1;
+    overflow: hidden;
+    
+}
+.steps-container>.steps::after{
+    content:'';
+    position: absolute;
+    width:0%;
+    height: 45px;
+    background-color: #80ed99;
+    border-radius: 50%;
+    z-index: 2;
+}
+.steps-container>.steps>i{
+    margin:auto;
+    z-index: 3;
+}
+
+.input-slide-contianer{
+    width: 100%;
+    flex:1;
+    display:flex;
+    overflow: hidden;
+}
+scroller{
+    width:fit-content;
+    display: flex;
+    margin-left:0px;
+    transition-duration: 0.5s;
+}
+.input-slide-contianer>scroller>.input-slide{
+    width:478px;
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+}
+.input-slide>h3{
+    text-align: center;
+}
+.input-slide>.rules{
+    list-style-type: disc;
+    display: flex;
+    flex-direction: column;
+    margin:auto;
+    padding-left:20px;
+    
+}
+.input-slide>.rules>li{
+padding:5px 0;
+}
+
+.input-slide input{
+    width:calc(100% - 20px);
+    padding:10px;
+    background-color: #6c757d;
+    outline:none;
+    border-radius:10px;
+    border:none;
+    /* box-shadow:1px 1px 15px 0.5px rgba(0, 0, 0, 0.5); */
+    margin:auto 10px;
+    font-size: 1.01em;
+    color:white;
+    box-sizing: border-box;
+    transition-duration: 0.3s;
+    position: relative;
+
+}
+.input-slide input::placeholder{
+color:white !important;
+font-size: 1.01em;
+}
+.input-slide input:focus{
+    border: 1px solid lime;
+}
+
+.button-nex{
+    padding:8px 20px;
+    border-radius: 20px;
+    color:white;
+    font-weight: 800;
+    outline:none;
+    border:none;
+    margin:auto;
+    margin-right:10px;
+    font-family:Exo;
+    font-size: 1em;
+    cursor:pointer;
+    background-color: #52b788;
+}
+.button-nex:hover{
+    background-color: #40916c;
+}
+.full-name{
+    display: flex;
+}
+.user-detail>input{
+    align-items: start;
+    margin:10px;
+}
+.user-detail>button{
+    margin:10px;
+    margin-left:auto;
+}
+
+
+.user-detail>.email{
+    width:calc(100% - 20px)
+    }
+
+.input-slide p{
+    font-size: 0.8em;
+    text-align: center;
+    
+}
+.finish-slide{
+    line-height:1.4em
+}
+:root{
+    --BarStartWidth:0%;
+    --BarEndWidth:calc(var(--BarStartWidth) + 25%);
+}
+.animateStep{
+    width:var(--BarEndWidth);
+    background-color: black;
+    animation: ZerotoHeroWidth 0.5s ease;
+    
+}
+.PassedStep::after{
+  
+    width:100% !important;
+    transition: 1s;
+
+}
+
+.GoBack{
+    width:fit-content;
+    padding:0px 10px;
+    font-size: 1.5em;
+    font-weight: 900;
+    position: absolute;
+    border-radius: 5px;
+    background-color: transparent;
+    border:none;
+    color:white;
+    cursor:pointer;
+    left:-50px;
+}
+.GoBack:hover{
+    background-color: #40916c;
+}
+@keyframes ZerotoHeroWidth{
+    0%{
+        width:0%;
+    }
+    100%{
+        width:100%
+    }
+}
+@keyframes GoBackBtnVisible {
+    0%{
+        left:-50px;
+    }
+    100%{
+        left:10px;
+    }
+}
+@keyframes GoBackBtnInvisible {
+    0%{
+        left:10px;
+    }
+    100%{
+        left:-50px;
+    }
+}
