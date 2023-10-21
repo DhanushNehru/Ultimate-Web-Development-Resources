@@ -4,10 +4,15 @@ body {
     background-color: #f2f2f2;
     margin: 0;
     padding: 0;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
 }
 
 .container {
-    max-width: 400px;
+    min-width: 30vw;
     margin: 0 auto;
     background-color: #fff;
     padding: 20px;
