@@ -240,6 +240,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [1001fonts](http://1001fonts.com/)
 - [fontawesome](https://fontawesome.com/)
 - [Font Bundles](https://fontbundles.net/)
+- [Fonts Hub](https://fontshub.pro/)
 
 ## Website Optimization Tools
 
