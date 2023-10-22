@@ -65,6 +65,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Figma](https://www.figma.com/)
 - [Invision](https://www.invisionapp.com/studio)
 - [AdobeXD](https://www.adobe.com)
+- [Canva](https://designerup.co/blog/canva-for-ux-ui-designers/)
 - [Sketch](https://www.sketch.com/)
 - [Webflow](https://webflow.com/)
 - [Justinmind](https://illa.ai/ai-agent/ILAex4p1C7ZJ/detail)
