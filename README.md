@@ -130,6 +130,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [BFE.dev](https://bigfrontend.dev/)
 - [CodeStudio](https://www.codingninjas.com/studio)
 - [Code Chef](http://codechef.com)
+- [Code Studio](https://www.codingninjas.com/studio)
 - [Code Wars](http://codewars.com)
 - [Codeforces](https://codeforces.com/)
 - [Coder Byte](http://coderbyte.com)
@@ -306,6 +307,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [CSS Tutorial - Zero to Hero (Complete Course)(Freecodecamp)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 - [CSS tips and tricks - Kevin Powell](https://www.youtube.com/kepowob)
 - [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+- [CSS: Cascading Style Sheets - Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 ## JS Learning Resources
 - [Learn JavaScript - Full Course for Beginners (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
@@ -412,32 +414,6 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Clever Programmer](https://www.youtube.com/@CleverProgrammer)
 - [Sonny Sangha](https://www.youtube.com/@SonnySangha)
 - [Sheryians Coding School](https://www.youtube.com/@thesheryianscodingschool)
-
-## HTML Learning Resources
-- [Learn HTML – Full Tutorial for Beginners(Freecodecamp)](https://www.youtube.com/watch?v=kUMe1FH4CHE)
-- [Learn HTML - Codecademy](https://join.codecademy.com/learn/learn-html/)
-- [HTML Tutorial - W3schools](https://www.w3schools.com/html/)
-- [HTML Tutorial - Tutorialspoint](https://www.tutorialspoint.com/html/index.htm)
-- [HTML Full Course - Build a Website Tutorial(Freecodecamp)](https://www.youtube.com/watch?v=pQN-pnXPaVg)
-- [HTML Crash Course For Absolute Beginners - Traversy Media](https://www.youtube.com/watch?v=UB1O30fR-EE)
-- [HTML Tutorial - How to Make a Super Simple Website(Freecodecamp)](https://www.youtube.com/watch?v=PlxWf493en4)
-
-## CSS Learning Resources
-- [Learn CSS - web.dev](https://web.dev/learn/css/)
-- [Learn CSS - Codecademy](https://www.codecademy.com/learn/learn-css)
-- [CSS Tutorial - W3schools](https://www.w3schools.com/css/)
-- [CSS Tutorial - Zero to Hero (Complete Course)(Freecodecamp)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
-- [CSS tips and tricks - Kevin Powell](https://www.youtube.com/kepowob)
-- [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
-- [CSS: Cascading Style Sheets - Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
-## JS Learning Resources
-- [Learn JavaScript - Full Course for Beginners (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
-- [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour (YouTube - Programming With Mosh)](https://www.youtube.com/watch?v=W6NZfCO5SIk)
-- [JavaScript Programming - Full Course (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=jS4aFq5-91M)
-- [JavaScript Tutorial (W3Schools - Documentation)](https://www.w3schools.com/js/)
-- [Learn JavaScript - (CodeAcademy - Course)](https://join.codecademy.com/learn/introduction-to-javascript/)
-- [Learn JavaScript: Free JS Courses for Beginners (FreeCodeCamp - Documentation)](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 
 ## Code Playgrounds
 
