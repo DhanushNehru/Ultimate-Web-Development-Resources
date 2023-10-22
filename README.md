@@ -130,6 +130,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [BFE.dev](https://bigfrontend.dev/)
 - [CodeStudio](https://www.codingninjas.com/studio)
 - [Code Chef](http://codechef.com)
+- [Code Studio](https://www.codingninjas.com/studio)
 - [Code Wars](http://codewars.com)
 - [Codeforces](https://codeforces.com/)
 - [Coder Byte](http://coderbyte.com)
