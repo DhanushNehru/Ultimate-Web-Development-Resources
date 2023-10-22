@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Customizable Gradient Background Generator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background: #3498db; /* Default background color */
+            color: white;
+            margin: 0;
+            padding: 0;
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+
+        .color-picker {
+            margin-bottom: 10px;
+        }
+
+        .gradient-preview {
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+        }
+
+        .mix-input {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .mix-label {
+            font-weight: bold;
+        }
+
+        #hexCode {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Customizable Gradient Background Generator</h1>
+    <div class="mix-input">
+        <label class="mix-label">Mix Percentage:</label>
+        <input type="number" id="mixPercentage" value="50" min="0" max="100">
+    </div>
+    <input type="color" class="color-picker" value="#3498db">
+    <input type="color" class="color-picker" value="#e74c3c">
+    <input type="color" class="color-picker" value="#f1c40f">
+    <input type="color" class="color-picker" value="#2ecc71">
+    <input type="color" class="color-picker" value="#9b59b6">
+    <div class="gradient-preview" id="gradientPreview"></div>
+    <div id="hexCode"></div>
+    <script>
+        const colorPickers = document.querySelectorAll('.color-picker');
+        const gradientPreview = document.getElementById('gradientPreview');
+        const mixPercentageInput = document.getElementById('mixPercentage');
+        const hexCodeDiv = document.getElementById('hexCode');
+
+        // Function to set the gradient background and hex code
+        function setGradientBackground() {
+            const colors = Array.from(colorPickers).map(picker => picker.value);
+            const mixPercentage = mixPercentageInput.value;
+
+            const colorStops = [];
+            const step = 100 / (colors.length - 1);
+
+            for (let i = 0; i < colors.length; i++) {
+                const stop = i * step;
+                colorStops.push(`${colors[i]} ${stop}%`);
+            }
+
+            const gradient = `linear-gradient(45deg, ${colorStops.join(', ')})`;
+            gradientPreview.style.background = gradient;
+
+            // Generate hex code for the gradient
+            const hexCode = colors.map(color => color.toUpperCase()).join(' - ');
+            hexCodeDiv.textContent = `Gradient Hex Code: ${hexCode}`;
+        }
+
+        
+        colorPickers.forEach(picker => {
+            picker.addEventListener('input', setGradientBackground);
+        });
+
+        mixPercentageInput.addEventListener('input', setGradientBackground);
+
+        // Initial gradient background and hex code
+        setGradientBackground();
+    </script>
+</body>
+</html>
