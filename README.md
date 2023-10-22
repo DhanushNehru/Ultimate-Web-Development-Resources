@@ -65,6 +65,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Figma](https://www.figma.com/)
 - [Invision](https://www.invisionapp.com/studio)
 - [AdobeXD](https://www.adobe.com)
+- [Canva](https://designerup.co/blog/canva-for-ux-ui-designers/)
 - [Sketch](https://www.sketch.com/)
 - [Webflow](https://webflow.com/)
 - [Justinmind](https://illa.ai/ai-agent/ILAex4p1C7ZJ/detail)
@@ -282,6 +283,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 
 - [Httrack](https://www.httrack.com/)
 - [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy)
+- [GNU Wget](https://www.gnu.org/software/wget/)
+- [WebCopy by Cyotek](https://www.cyotek.com/cyotek-webcopy)
 
 
 ## HTML Learning Resources
@@ -348,6 +351,8 @@ More information about the pack can be found here [Github Student Developer Pack
 ## User Authentication
 
 - [Auth0](https://auth0.com/)
+- [Passport.JS](https://www.passportjs.org/)
+- [KeyCloak](https://www.keycloak.org/)
 - [Firebase](https://firebase.google.com/)
 - [Clerk](https://clerk.dev/)
 - [Next Auth](https://next-auth.js.org)
