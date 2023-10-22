@@ -1,0 +1,90 @@
+html{
+    box-sizing: border-box;
+    background: black;
+    font-family:'helvetica neue';
+    font-size:10px;
+    font-weight: 200;
+}
+
+body{
+    margin: 0;
+}
+
+*, *:before, *:after{
+    box-sizing: inherit;
+}
+
+.panels{
+    min-height:100vh;
+    overflow:hidden;
+    display: flex;  /*flex makes the panel stand side by side*/
+}
+
+.panel{
+    background: #6B0F9C;
+    box-shadow: insert 0 0 0 5px rgba(255,255,255,0,1);
+    color:white;
+    text-align: center;
+    align-items: center;
+    transition:
+    font-size 0.7s cubic-bezier(0.61,-0.19,0.7,-0.11),
+    flex 0.7s cubic-bezier(0.61,-0.19,0.7,-0.11),
+    background 0.2s;
+    font-size: 20px;
+    background-size: cover;
+    background-position: center;
+    flex: 1; /*The flex boxes panels divide the space among them equally*/
+    border: 1px solid black;
+    justify-content: center;
+    align-items: center;
+    display: flex; /*panel is a flex item of panels and we also make it become flex container -> nested flex*/
+    flex-direction: column; /*bring text to center middle*/
+}
+
+.panel1{background-image:url(https://wallpapercave.com/wp/wp4056761.jpg);}
+
+.panel2{background-image:url(https://wallpapercave.com/wp/wp6760162.jpg);}
+
+.panel3{background-image:url(https://wallpapercave.com/wp/wp2048442.jpg);}
+
+.panel4{background-image:url(https://wallpapercave.com/wp/HFsWtAz.jpg);}
+
+.panel5{background-image:url(https://wallpapercave.com/wp/wp4025618.jpg);}
+
+.panel6{background-image:url(https://wallpapercave.com/wp/wp2126272.jpg);}
+
+.panel > * {     /*This means the text in each panel -> Flex items*/
+    margin:0;
+    width:100%;
+    transition:transform 0.5s;
+    /* border: 1px solid red; */
+    flex: 1 0 auto; /*text in three parts one top mid and bottom*/
+    display: felx;  /*make these text flex itself*/
+    align-items: center;
+}
+
+.panel > *:first-child { transform: translateY(-100%);} /*the up text*/ /*We will need this to switch between .panel and .panel.openactive class for text to slide up and down*/
+.panel.open-active > *:first-child { transform: translateY(0);}
+.panel > *:last-child { transform: translateY(100%);}       /*the down text*/
+.panel.open-active > *:last-child { transform: translateY(0);}
+
+.panel p{
+    text-transform: uppercase;
+    text-shadow: 0 0 4px rgba(0,0,0,0.72), 0 0 14px rgba(0,0,0,0.45);
+    font-size: 2em;
+}
+
+.panel p:nth-child(2){
+    font-size: 4rem;
+}
+
+.panel.open{
+    flex: 5;    /*when panel opens it will take 5 times size*/
+    font-size: 40px;
+}
+
+@media only screen and (max-width: 600px) {
+    .panel p {
+      font-size: 1em;
+    }
+  }
