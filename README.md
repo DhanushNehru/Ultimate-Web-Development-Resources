@@ -283,6 +283,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 
 - [Httrack](https://www.httrack.com/)
 - [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy)
+- [GNU Wget](https://www.gnu.org/software/wget/)
+- [WebCopy by Cyotek](https://www.cyotek.com/cyotek-webcopy)
 
 
 ## HTML Learning Resources
