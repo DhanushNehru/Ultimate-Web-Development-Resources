@@ -527,6 +527,8 @@ Please note that the links provided are the GitHub repository URLs for each proj
 
 - [Security Headers](https://securityheaders.com/)
 - [SSL Labs ](https://www.ssllabs.com/)
+- [HackerTarget](https://hackertarget.com/vulnerability-scanner/)
+- [Qualys SSL Labs](https://www.ssllabs.com/ssltest/)
 
 
 ## Tutorial in Other Languages
