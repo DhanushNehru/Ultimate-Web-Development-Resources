@@ -1,6 +1,6 @@
 # [Ultimate-Web-Development-Resources](https://dhanushnehru.github.io/Ultimate-Web-Development-Resources)
 
-A collection of Web Developement Resources at one place
+A collection of Web Development Resources at one place
 
 ![Ultimate-Web-Development-Resources by Dhanush N](https://raw.githubusercontent.com/DhanushNehru/Ultimate-Web-Development-Resources/main/cover.png)
 
