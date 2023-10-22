@@ -94,7 +94,6 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Glitch](https://glitch.com/)
 - [Fleek](https://fleek.co/)
 - [ByetHost](https://byet.host/)
-- [HyperPHP](http://hyperphp.com/)
 
 
 
