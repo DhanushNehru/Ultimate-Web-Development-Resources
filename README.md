@@ -349,6 +349,8 @@ More information about the pack can be found here [Github Student Developer Pack
 ## User Authentication
 
 - [Auth0](https://auth0.com/)
+- [Passport.JS](https://www.passportjs.org/)
+- [KeyCloak](https://www.keycloak.org/)
 - [Firebase](https://firebase.google.com/)
 - [Clerk](https://clerk.dev/)
 - [Next Auth](https://next-auth.js.org)
