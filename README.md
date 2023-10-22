@@ -82,6 +82,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Firebase](https://firebase.google.com)
 - [Gitlab](https://docs.gitlab.com/ee/user/project/pages/)
 - [Github](https://github.com/)
+- [glitch](https://glitch.com/)
+- [pagecloud](https://www.pagecloud.com/)
 - [Render](https://render.com)
 - [Surge](https://surge.sh)
 - [Wix](https://www.wix.com/html5en/hiker-hosting)
@@ -90,8 +92,6 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Deta](https://deta.sh)
 - [Railway](https://railway.app)
 - [Supabase](https://supabase.com)
-- [glitch](https://glitch.com/)
-- [pagecloud](https://www.pagecloud.com/)
 
 ## Websites to learn
 
