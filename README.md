@@ -552,25 +552,6 @@ Click on the link to register yourself [here](https://hacktoberfest.digitalocean
 
 We welcome first time contributors and open source enthusiasts. Check out our issues and if you are willing to start with something simple check issues marked with the good-first-issue tag.
 
-<div align="center">
-
-<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
-<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
-<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
-<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
-<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev/watchers"><img src="https://img.shields.io/github/watchers/LetsGrowMoreCommunity/WebDev-Playyard"></a>
-
-<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev/graphs/contributors"><img src="https://img.shields.io/github/contributors/dsc-gtbit/HACKTOBERFEST21-GTBIT-WEBDEV?color=brightgreen"></a>
-<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev/stargazers"><img src="https://img.shields.io/github/stars/dsc-gtbit/HACKTOBERFEST21-GTBIT-WEBDEV?color=0059b3"></a>
-<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev/network/members"><img src="https://img.shields.io/github/forks/dsc-gtbit/HACKTOBERFEST21-GTBIT-WEBDEV?color=yellow"></a>
-<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev/issues"><img src="https://img.shields.io/github/issues/dsc-gtbit/HACKTOBERFEST21-GTBIT-WEBDEV?color=0059b3"></a>
-<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/dsc-gtbit/HACKTOBERFEST21-GTBIT-WEBDEV?color=yellow"></a>
-<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev/pulls"><img src="https://img.shields.io/github/issues-pr/dsc-gtbit/HACKTOBERFEST21-GTBIT-WEBDEV?color=brightgreen"></a>
-<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/dsc-gtbit/HACKTOBERFEST21-GTBIT-WEBDEV?color=0059b3"></a> 
-</div>
-
-<h1 align="center"> Technologies Included </h1>
-<div align="center"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></div>
 
 <h1 align="center">🛠️ Workflow 🛠️</h1>
 <ul>
