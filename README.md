@@ -528,6 +528,63 @@ Please note that the links provided are the GitHub repository URLs for each proj
 - [Security Headers](https://securityheaders.com/)
 - [SSL Labs ](https://www.ssllabs.com/)
 
+What is Hacktoberfest?
+</h2>
+Hacktoberfest is the easiest way to get into open source! Hacktoberfest is a month long celebration of open source code presented by Digital Ocean.
+
+During the entire month, all you have to do is contribute to any open source project with the hacktoberfest tag and open at least 4 pull requests which follow the [Hacktoberfest guidelines](https://hacktoberfest.com/participation/). It can be any project mentioned below and you can contribute in any way possible. It can be a be a bug fix, optimisation, feature addition or even a documentation enhancement! 
+
+If you’ve never contributed to open source before, this is the perfect time to get started because Hacktoberfest provides a large list of available contribution opportunities.
+
+<h1>
+How to get Started?
+</h1>
+
+Click on the link to register yourself [here](https://hacktoberfest.digitalocean.com/).
+
+## Why should you take part?
+- Chance to contribute to awesome open source projects 
+- Engage with reputed communities
+- Free swags and T-Shirts from Digital Ocean
+- Chance to get a tree planted and make Earth greener
+
+## CONTRIBUTING
+
+We welcome first time contributors and open source enthusiasts. Check out our issues and if you are willing to start with something simple check issues marked with the good-first-issue tag.
+
+<div align="center">
+
+<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev"><img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103"></a>
+<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev"><img src="https://img.shields.io/badge/Built%20by-developers%20%3C%2F%3E-0059b3"></a>
+<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev"><img src="https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=yellow"></a>
+<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev"><img src="https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg?v=103"></a>
+<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev/watchers"><img src="https://img.shields.io/github/watchers/LetsGrowMoreCommunity/WebDev-Playyard"></a>
+
+<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev/graphs/contributors"><img src="https://img.shields.io/github/contributors/dsc-gtbit/HACKTOBERFEST21-GTBIT-WEBDEV?color=brightgreen"></a>
+<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev/stargazers"><img src="https://img.shields.io/github/stars/dsc-gtbit/HACKTOBERFEST21-GTBIT-WEBDEV?color=0059b3"></a>
+<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev/network/members"><img src="https://img.shields.io/github/forks/dsc-gtbit/HACKTOBERFEST21-GTBIT-WEBDEV?color=yellow"></a>
+<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev/issues"><img src="https://img.shields.io/github/issues/dsc-gtbit/HACKTOBERFEST21-GTBIT-WEBDEV?color=0059b3"></a>
+<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev/issues?q=is%3Aissue+is%3Aclosed"><img src="https://img.shields.io/github/issues-closed-raw/dsc-gtbit/HACKTOBERFEST21-GTBIT-WEBDEV?color=yellow"></a>
+<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev/pulls"><img src="https://img.shields.io/github/issues-pr/dsc-gtbit/HACKTOBERFEST21-GTBIT-WEBDEV?color=brightgreen"></a>
+<a href="https://github.com/dsc-gtbit/HacktoberFest-23-WebDev/pulls?q=is%3Apr+is%3Aclosed"><img src="https://img.shields.io/github/issues-pr-closed-raw/dsc-gtbit/HACKTOBERFEST21-GTBIT-WEBDEV?color=0059b3"></a> 
+</div>
+
+<h1 align="center"> Technologies Included </h1>
+<div align="center"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></div>
+
+<h1 align="center">🛠️ Workflow 🛠️</h1>
+<ul>
+<li>Check Contribution Guidelines.</li>
+<li>Check for Open ( Unassigned ) Issue, If you are able to do the particular task then ask for an assignment ( Help will be provided by mentors to get the task done if you are stuck at someplace )</li>
+<li>Start work only on the issue which is assigned to you.</li>
+<li>After Completion of work Open a Pull Request with a template provided.</li>
+<li>Mentor will review it and let you know if any changes are required and get it merged.</li>
+<li>Only the existing issues can be worked upon, contributors are not allowed to open any issues of their own.</strong></li>
+<li>After this your commit will be merged into our repository.</li>
+<li>Do-Follow Code of Conduct.</li>
+<li>Happy Coding 💻</li>
+</ul>
+
 
 ## Tutorial in Other Languages
 
