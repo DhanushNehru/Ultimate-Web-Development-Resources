@@ -1,0 +1,342 @@
+
+body{
+    margin: auto;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    overflow: auto;
+    background: linear-gradient(315deg, rgb(252, 208, 158) 3%, rgb(144, 200, 255) 38%, rgb(104, 245, 250) 68%, rgb(45, 151, 250) 98%);
+    animation: gradient 25s ease infinite;
+    background-size: 400% 400%;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 0%;
+    }
+    50% {
+        background-position: 100% 100%;
+    }
+    100% {
+        background-position: 0% 0%;
+    }
+}
+
+.wave {
+    background: rgba(255, 255, 255, 0.25);
+    border-radius: 1000% 1000% 0 0;
+    position: fixed;
+    width: 200%;
+    height: 12em;
+    animation: wave 20s -3s linear infinite;
+    transform: translate3d(0, 0, 0);
+    opacity: 0.8;
+    bottom: 0;
+    left: 0;
+    z-index: -1;
+}
+
+.wave:nth-of-type(2) {
+    bottom: -1.25em;
+    animation: wave 18s linear reverse infinite;
+    opacity: 0.8;
+}
+
+.wave:nth-of-type(3) {
+    bottom: -2.5em;
+    animation: wave 20s -1s reverse infinite;
+    opacity: 0.9;
+}
+
+@keyframes wave {
+    2% {
+        transform: translateX(1);
+    }
+
+    25% {
+        transform: translateX(-25%);
+    }
+
+    50% {
+        transform: translateX(-50%);
+    }
+
+    75% {
+        transform: translateX(-25%);
+    }
+
+    100% {
+        transform: translateX(1);
+    }
+}
+
+.floating { 
+    animation-name: floating;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    margin-left: 60px;
+    /*background-image: linear-gradient(-20deg, #4ECDC4 0%, #FFE1A8 100%);*/
+    /*background-color: 4ECDC4;*/
+    height: 510px;
+    width: 700px;
+    border-radius: 20px;
+    box-shadow: 50px;
+}
+
+.start{
+    padding-top: 30px;
+    animation-name: floating;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+    overflow: hidden;
+}
+
+.container {
+    overflow: hidden; 
+    padding-top: 20px;
+  }
+  
+  .floating, .start {
+    float: left; 
+    box-sizing:border-box;
+    margin-right: 40px;
+}
+
+.Startsub{
+    padding-left: 30px;
+    padding-top: 30px;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.startsub1{
+    text-align: justify;
+    font-family: serif;
+    padding-left: 30px;
+    padding-right: 25px;
+    font-size: 20px;
+}
+  
+@keyframes typing {
+    from {
+      width: 0
+    }
+  }
+      
+  @keyframes blink {
+    0% {
+      border-color: transparent
+    }
+  }
+  
+ 
+@keyframes floating {
+    0% { transform: translate(0,  0px); }
+    50%  { transform: translate(0, 5px); }
+    100%   { transform: translate(0, -1px); }   
+}
+
+@keyframes start {
+    0% { transform: translate(0,  0px); }
+    50%  { transform: translate(0, 5px); }
+    100%   { transform: translate(0, -1px); }   
+}
+.welcome{
+    padding-left: 30px;
+    padding-top: 20px;
+    font-family: serif;
+    font-weight: bolder;
+    font-size: 45px;
+}
+
+.signup{
+    background-color: rgb(62, 216, 243);
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 17px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 30px;
+    border-radius: 15px;
+    transition: 0.3s;
+}
+
+.signup:hover{
+    opacity: 0.8;
+}
+
+.subtext{
+    padding-left: 30px;
+    padding-top: 0px;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 22px;
+    text-align: justify;
+    color: #393a3a;
+}
+
+.sub{
+    padding-left: 30px;
+    padding-top: 0px;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 22px;
+    width: 56ch;
+    animation: typing 5s steps(50), blink .5s step-end infinite alternate;
+    white-space: nowrap;
+    overflow: hidden;
+    border-right: 3px solid;
+    color: #393a3a;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    margin-right: 60px;
+    padding-right:0;
+    padding-top: 15px;
+    overflow: hidden;
+    font-size: large;
+    background-color:none;
+    position: sticky;
+    top: 0;
+    font-weight: bolder;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(56, 56, 56);
+    text-align: center;
+    padding: 11px 60px;
+    text-decoration: none;
+  }
+
+  li a:hover{
+    color: rgb(255, 255, 255);
+  }
+
+  .Profileicon{
+    height: 75px;
+    width: 75px;
+    opacity: 0.8;
+  }
+
+  .Profileicon:hover{
+    transform: scale(1.1);
+  }
+
+  .listcontainer {
+    overflow: hidden;
+    margin-left: 20px;
+    margin-top: 10px; 
+  }
+  
+  .nav, .icon {
+    float: left; 
+    box-sizing:border-box;
+    margin-right: 180px;
+}
+
+  /* Styling for HUB Page*/
+
+  .container {
+    overflow: hidden; 
+    padding-top: 20px;
+  }
+  
+  .firm, .profile {
+    float: left; 
+    box-sizing:border-box;
+    margin-right: 30px;
+}
+
+.firm{
+    background-image: linear-gradient(-20deg, #4ECDC4 0%, #FFE1A8 100%);
+    height: 500px;
+    width:900px;
+    margin-left: 55px;
+    margin-top: 25px;
+    border-radius: 15px;
+}
+
+.profile{
+    background-image: linear-gradient(-20deg, #4ECDC4 0%, #FFE1A8 100%);
+    height: 500px;
+    width: 325px;
+    margin-top:25px;
+    border-radius: 15px;
+}
+
+.Profile-content{
+    font-family: serif;
+    font-size: large;
+    color: #393a3a;
+}
+
+.social{
+    padding-left: 20px;
+}
+
+.iconprofile{
+    height: 120px;
+    width: 120px;
+    padding-left: 105px;
+    padding-top: 20px;
+}
+
+.iconprofile:hover{
+    transform: scale(1.01);
+}
+
+.Activity{
+    height: 170px;
+    width: 180px;
+    padding-left: 70px;
+    padding-top: 20px;
+}
+
+.socials:hover{
+    transform: skew(-5deg, -10deg);
+}
+
+.firmimage{
+    padding-left: 20px;
+    padding-top: 20px;
+    opacity: 0.7;
+}
+
+.firmname{
+    font-size: 30px;
+    font-family: serif;
+    color: #393a3a;
+    padding-top: 20px;
+}
+
+.firm {
+    overflow: hidden;
+  }
+  
+  .firmimage, .firmname {
+    float: left; 
+    box-sizing:border-box;
+    margin-right: 80px;
+}
+
+.firmabout{
+    font-size: 18px;
+    text-align: justify;
+    padding-right: 40px;
+    color: #393a3a;
+    font-style: italic;
+    font-family: serif;
+}

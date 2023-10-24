@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Campaign Update</title>
+</head>
+<body>
+    <h1>Exciting Campaign Update!</h1>
+    <p>Check out the latest progress on our crowdfunding project.</p>
+    
+    <!-- Facebook Share Button -->
+    <button id="facebook-share">Share on Facebook</button>
+
+    <!-- Twitter Share Button -->
+    <button id="twitter-share">Share on Twitter</button>
+
+    <script>
+        // Facebook Share
+        document.getElementById('facebook-share').addEventListener('click', function() {
+            var url = encodeURIComponent(window.location.href);
+            var facebookShareURL = 'https://www.facebook.com/sharer/sharer.php?u=' + url;
+            window.open(facebookShareURL, '_blank');
+        });
+
+        // Twitter Share
+        document.getElementById('twitter-share').addEventListener('click', function() {
+            var text = encodeURIComponent("Exciting campaign update! Check out the latest progress on our crowdfunding project. #Crowdfunding #CampaignUpdate");
+            var twitterShareURL = 'https://twitter.com/intent/tweet?text=' + text;
+            window.open(twitterShareURL, '_blank');
+        });
+    </script>
+</body>
+</html>
