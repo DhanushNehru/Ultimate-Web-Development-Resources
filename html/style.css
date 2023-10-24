@@ -1,0 +1,164 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.header {
+  min-height: 100vh;
+  width: 100%;
+  background-image: linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(banner.png);
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
+
+nav {
+  display: flex;
+  padding: 2%6%;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav img {
+  width: 150px;
+}
+
+.nav-links {
+  flex: 1;
+  text-align: right;
+}
+
+.nav-links ul li {
+  list-style: none;
+  display: inline-block;
+  padding: 8px 12px;
+  position: relative;
+}
+
+.nav-links ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 13px;
+}
+
+.nav-links ul li::after {
+  content: '';
+  width: 0%;
+  height: 2px;
+  background: #f44336;
+  display: block;
+  margin: auto;
+  transition-duration: 0.5s;
+}
+
+.nav-links ul li:hover::after {
+  width: 100%;
+}
+.text-box{
+  width: 90%;
+  color: white;
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+  text-align: center;
+}
+
+.text-box hl{
+  font-size: 62px;
+}
+.hero-btn{
+  display: inline-block;
+  text-decoration: none;
+  color: #fff;
+  border:1px solid#fff;
+  padding:12px 34px;
+  font-size:13px;
+  background: transparent;
+  position: relative;
+  cursor: pointer;  
+}
+.hero-btn:hover{
+  border-left: 1px solid green;
+  background: #f44336;
+  transition: 1s;
+}
+nav.fa{
+  display: none;
+}
+@media(max-width: 700px){
+  .text-box hl{
+    font-size:30px;
+    }
+  .nav-linksul li{
+    display:block;
+  }
+  .nav-links{
+    position: absolute;
+    background: #f44336;
+    height:100vh;
+    width:200px;
+    top:0;
+    right:-200px;
+    text-align:left;
+    z-index:2;
+    transition: 1s;
+  }
+  nav.fa{
+    display:block;
+    color:#fff;
+    margin:10px;
+    font-size: 22px;
+    cursor: pointer;
+  }
+  .nav-links ul{
+    padding: 30px;
+  }
+}
+/* ---------------course-------------- */
+.course{
+width: 80%;
+margin:auto;
+text-align: center;
+padding-top: 100px;
+}
+h1{
+  font-size:36px;
+  font-weight:600;
+}
+p{
+  color: #777;
+  font-size:14px;
+  font-weight: 300;
+  line-height: 22px;
+  padding: 10px;
+}
+
+.row{
+  margin:10%;
+  display:flex;
+  justify-content: space between;
+}
+.course-col{
+  flex-basis:31%;
+  background: lightgreen;
+  border-radius: 100px;
+  margin-bottom: 5%;
+  padding: 20px 12px;
+  box-sizing: border-box;
+
+  transition: 0.1s;
+}
+h3{
+  text-align:center;
+  font-weight: 600;
+  margin: 10px;
+}
+.course-col:hover{
+  box-shadow: 0 0 20px rgba(0,0,0,1.99);
+}
+@media(max-width 700px){
+  .row{
+    flex-direction: row;
+  }
+}
