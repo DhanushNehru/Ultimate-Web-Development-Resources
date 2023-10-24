@@ -58,6 +58,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Wix](https://www.wix.com/)
 - [Zeplin](https://zeplin.io/)
 - [Figma](https://www.figma.com/design/?utm_source=google&utm_medium=cpc&utm_campaign=17873985255&utm_term=design%20software&utm_content=613237509572&gclid=Cj0KCQjwkt6aBhDKARIsAAyeLJ2tS_qfB9w63_uwByAElTGIXk3qtPAajqy-1XXZRc_sjn-xXjlw4WYaArnaEALw_wcB)
+- [InVision](https://www.invisionapp.com/)
+- [Sketch](https://www.sketch.com/)
 
 
 ## Prototyping tools for UI/UX
@@ -86,6 +88,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Firebase](https://firebase.google.com)
 - [Gitlab](https://docs.gitlab.com/ee/user/project/pages/)
 - [Github](https://github.com/)
+- [glitch](https://glitch.com/)
+- [pagecloud](https://www.pagecloud.com/)
 - [Render](https://render.com)
 - [Surge](https://surge.sh)
 - [Wix](https://www.wix.com/html5en/hiker-hosting)
