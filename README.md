@@ -358,6 +358,8 @@ More information about the pack can be found here [Github Student Developer Pack
 ## Website for Project Management and Notes
 
 - [Notion](https://www.notion.so/)
+- [Asana](https://asana.com/)
+- [Evernote](https://evernote.com/)
 
 ## User Authentication
 
