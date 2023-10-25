@@ -358,6 +358,8 @@ More information about the pack can be found here [Github Student Developer Pack
 ## Website for Project Management and Notes
 
 - [Notion](https://www.notion.so/)
+- [Asana](https://asana.com/)
+- [Evernote](https://evernote.com/)
 
 ## User Authentication
 
@@ -537,6 +539,8 @@ Please note that the links provided are the GitHub repository URLs for each proj
 
 - [Security Headers](https://securityheaders.com/)
 - [SSL Labs ](https://www.ssllabs.com/)
+- [HackerTarget](https://hackertarget.com/vulnerability-scanner/)
+- [Qualys SSL Labs](https://www.ssllabs.com/ssltest/)
 
 
 ## Tutorial in Other Languages
