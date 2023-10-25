@@ -58,6 +58,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Wix](https://www.wix.com/)
 - [Zeplin](https://zeplin.io/)
 - [Figma](https://www.figma.com/design/?utm_source=google&utm_medium=cpc&utm_campaign=17873985255&utm_term=design%20software&utm_content=613237509572&gclid=Cj0KCQjwkt6aBhDKARIsAAyeLJ2tS_qfB9w63_uwByAElTGIXk3qtPAajqy-1XXZRc_sjn-xXjlw4WYaArnaEALw_wcB)
+- [InVision](https://www.invisionapp.com/)
+- [Sketch](https://www.sketch.com/)
 
 
 ## Prototyping tools for UI/UX
@@ -86,6 +88,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Firebase](https://firebase.google.com)
 - [Gitlab](https://docs.gitlab.com/ee/user/project/pages/)
 - [Github](https://github.com/)
+- [glitch](https://glitch.com/)
+- [pagecloud](https://www.pagecloud.com/)
 - [Render](https://render.com)
 - [Surge](https://surge.sh)
 - [Wix](https://www.wix.com/html5en/hiker-hosting)
@@ -150,6 +154,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Project Euler](http://projecteuler.net)
 - [Sphere Online Judge](http://spoj.com)
 - [Top Coder](http://topcoder.com)
+- [CSES](https://cses.fi/problemset/)
 
 ## Web Images or Photos
 
@@ -168,8 +173,10 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Colorhunt](http://colorhunt.co)
 - [Paletton](http://paletton.com)
 - [Color Hex](http://color-hex.com)
+- [ColorSpace](https://mycolor.space/)
 - [Color Picker](https://imagecolorpicker.com/en#google_vignette)
 - [MyColor](http://mycolor.space)
+- [Khroma](https://www.khroma.co/)
 - [UIColorPicker](https://uicolorpicker.com/)
 - [Realtime Colors](https://www.realtimecolors.com)
 
@@ -351,6 +358,8 @@ More information about the pack can be found here [Github Student Developer Pack
 ## Website for Project Management and Notes
 
 - [Notion](https://www.notion.so/)
+- [Asana](https://asana.com/)
+- [Evernote](https://evernote.com/)
 
 ## User Authentication
 
@@ -519,9 +528,10 @@ More information about the pack can be found here [Github Student Developer Pack
 [Password Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Password%20Generator) | [Portfolio 1](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/portfolio) | [Portfolio 2](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Portfolio_02) | [QR Code Generator 1](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/QR_Code_Generator_1) |
 | [QR Code Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Qr_Code_Generator) | [Quiz](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Quiz) | [Random Background Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Random-Background-Generator) | [Recipe Finder](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Recipe-Finder) | 
 | [Scannable QR Code Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Scannable%20QR%20CODE%20Generator) | [Stone Paper Scissor Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/StonePaperScissor-Game) |[Table Tennis Scorekeeper](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Table%20Tennis%20scorekeeper) | [Task Management App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/task-management-app) | [Temperature Convertor](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/tempreture-converter) | 
-[Tic Tac Toe](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/TicTacToe%20Game) | [To Do List](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/to-do-list) | [Typing Progress Bar](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Typing%20Progress%20Bar) | [Weather App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WeatherApp) | 
+| [Tic Tac Toe](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/TicTacToe%20Game) | [To Do List](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/to-do-list) | [Typing Progress Bar](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Typing%20Progress%20Bar) | [Weather App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WeatherApp) | 
 | [Wix Template](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WixTemplate) | [URL Shortner](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/url-shortner) | [Aim Training](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Aim-training) | [Flappy Bird Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Flappy_Bird_Game)  | [Desktop Notification](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Desktop%20Notification) | [Linear_gradient_background](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Linear_gradient_background) | [Tic Tac Toe Game](https://github.com/DevanshKyada27/Ultimate-Web-Development-Resources/tree/TicTacToe-Game/TicTacToeGame)
-| [Joke Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/JokeGenerator) | [Rock-Paper-Scissor-Game-V2](https://github.com/Shreyasb1015/Ultimate-Web-Development-Resources/tree/new_branch/rock-paper-scissor-game-V2) |
+| [Joke Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/JokeGenerator) | [Rock-Paper-Scissor-Game-V2](https://github.com/Shreyasb1015/Ultimate-Web-Development-Resources/tree/new_branch/rock-paper-scissor-game-V2) | [Book Cricket Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Book-cricket-game) |
+
 
 Please note that the links provided are the GitHub repository URLs for each project.
 
@@ -529,6 +539,8 @@ Please note that the links provided are the GitHub repository URLs for each proj
 
 - [Security Headers](https://securityheaders.com/)
 - [SSL Labs ](https://www.ssllabs.com/)
+- [HackerTarget](https://hackertarget.com/vulnerability-scanner/)
+- [Qualys SSL Labs](https://www.ssllabs.com/ssltest/)
 
 
 ## Tutorial in Other Languages
