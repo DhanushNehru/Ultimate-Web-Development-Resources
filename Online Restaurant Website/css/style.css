@@ -1,0 +1,324 @@
+
+
+body
+	{
+		background: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    position: relative;
+	}
+
+.heading {
+  font-size: 22px;
+  font-weight: 500;
+}
+
+.subheading {
+  font-size: 16px;
+  padding-bottom: 60px;
+}
+
+p {
+  color: #848484;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.4px;
+  line-height: 28px;
+}
+
+hr {
+	border-top: 2px solid #828282;
+	width: 120px;
+}
+
+#menu, #gallery, #team {
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+#menu, #contact {
+  background: #f0f0f0;
+}
+
+.parallax-section {
+  background-attachment: fixed !important;
+  background-size: cover !important;
+}
+
+/* preloader section */
+.preloader  {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        z-index: 99999;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-flex-flow: row nowrap;
+            -ms-flex-flow: row nowrap;
+                flex-flow: row nowrap;
+        -webkit-justify-content: center;
+            -ms-flex-pack: center;
+                justify-content: center;
+        -webkit-align-items: center;
+            -ms-flex-align: center;
+                align-items: center;
+        background: none repeat scroll 0 0 #fff;
+    }
+.sk-spinner-pulse {
+  width: 40px;
+  height: 40px;
+  background-color: #F6D76B;
+  border-radius: 100%;
+  -webkit-animation: sk-pulseScaleOut 1s infinite ease-in-out;
+          animation: sk-pulseScaleOut 1s infinite ease-in-out; }
+
+@-webkit-keyframes sk-pulseScaleOut {
+  0% {
+    -webkit-transform: scale(0);
+            transform: scale(0); }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+    opacity: 0; } }
+
+@keyframes sk-pulseScaleOut {
+  0% {
+    -webkit-transform: scale(0);
+            transform: scale(0); }
+  100% {
+    -webkit-transform: scale(1);
+            transform: scale(1);
+    opacity: 0; } }
+
+
+/* start navigation */
+.navbar-default {
+  background: #ffffff;
+  box-shadow: 0px 2px 8px 0px rgba(50, 50, 50, 0.04);
+  border: none;
+  margin-bottom: 0;
+}
+.navbar-brand, .navbar-nav li a {
+  line-height: 28px;
+}
+.navbar-default .navbar-brand  {
+  color: #5C5C5C;
+  font-size: 22px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+.navbar-default .navbar-nav li a {
+  font-size: 12px;
+  letter-spacing: 1px;
+}
+
+/* home section */
+#home {
+  background: url('../images/home-bg.jpg') 50% 0 repeat-y fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+#home h1 {
+  font-size: 20px;
+  letter-spacing: 8px;
+  font-style: normal;
+  padding-top: 10px;
+}
+#home .btn {
+  background: transparent;
+  border-radius: 0;
+  border: 3px solid #ffffff;
+  color: #ffffff;
+  font-weight: bold;
+  letter-spacing: 2px;
+  padding: 16px 42px;
+  margin-top: 40px;
+  transition: all 0.4s ease-in-out;
+}
+#home .btn:hover {
+  background: #ffffff;
+  color: #202020;
+}
+
+/* team section */
+#team {
+  text-align: center;
+}
+#team h3 {
+  font-size: 18px;
+  line-height: 4px;
+}
+#team h4 {
+  color: #5C5C5C;
+  padding-top: 24px;
+}
+#team .col-md-4 {
+ padding-top: 42px;
+}
+
+/* menu section */
+#menu h4 {
+	line-height: 1.5;
+}
+#menu .col-md-8 {
+  padding-bottom: 42px;
+}
+#menu .col-md-6 {
+  padding-bottom: 18px;
+}
+#menu span {
+  color: #5C5C5C;
+}
+
+/* gallery section */
+#gallery {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+#gallery .col-md-4 {
+  padding-top: 52px;
+}
+#gallery img {
+  width: 100%;
+  padding-bottom: 18px;
+}
+#gallery .col-md-4 div {
+  position: relative;
+  bottom: 18px;
+  padding-bottom: 12px;
+}
+#gallery h3 {
+  font-size: 18px;
+  line-height: 8px;
+}
+
+/* contact section */
+#contact {
+  padding-top: 80px;
+  padding-bottom: 100px;
+}
+#contact .col-md-8 {
+  margin-bottom: 32px;
+}
+#contact .form-control {
+  background: #ffffff;
+  border: none;
+  border-radius: 0;
+  box-shadow: none;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  transition: all 0.4s ease-in-out;
+}
+#contact .form-control:focus {
+  border-color: #f9f9f9;
+}
+#contact input {
+  height: 48px;
+}
+#contact input[type="submit"] {
+  background: transparent;
+  border: 2px solid #999;
+  border-radius: 10px;
+  letter-spacing: 2px;
+  margin-top: 12px;
+  height: 50px;
+}
+#contact input[type="submit"]:hover {
+  background: #999;
+  color: #ffffff;
+}
+
+/* footer section */
+footer {
+  background: url('../images/footer-bg.jpg') 50% 0 repeat-y fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+  background-position: center;
+  color: #ffffff;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+footer h2 {
+  padding-bottom: 14px;
+}
+footer h3 {
+  padding-top: 8px;
+}
+footer p {
+  color: #ffffff;
+}
+footer span {
+  font-weight: bold;
+  padding-left: 24px;
+}
+footer .ph, footer .address {
+  padding-top: 12px;
+  padding-bottom: 12px;
+}
+footer .fa {
+  font-size: 12px;
+  padding-right: 10px;
+}
+
+/* social icon */
+.social-icon {
+  padding: 0;
+}
+.social-icon li {
+  list-style: none;
+  display: inline-block;
+  padding: 0;
+}
+.social-icon li a {
+  background: #f0f0f0;
+  border-radius: 50%;
+  color: #5C5C5C;
+  font-size: 16px;
+  width: 48px;
+  height: 48px;
+  line-height: 48px;
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.4s ease-in-out;
+  margin-top: 12px;
+  margin-right: 16px;
+  top: 0;
+  position: relative;
+  padding: 0;
+}
+.social-icon li a:hover {
+  background: #F6D76B;
+  top: 5px;
+}
+
+/* copyright section */
+#copyright {
+  background: #343434;
+  color: #ffffff;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  text-align: center;
+}
+#copyright p {
+  color: #ffffff;
+}
+#copyright a {
+  color: #ffffff;
+}
+#copyright a:hover {
+  color: #FF0;
+}
