@@ -60,6 +60,11 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Figma](https://www.figma.com/design/?utm_source=google&utm_medium=cpc&utm_campaign=17873985255&utm_term=design%20software&utm_content=613237509572&gclid=Cj0KCQjwkt6aBhDKARIsAAyeLJ2tS_qfB9w63_uwByAElTGIXk3qtPAajqy-1XXZRc_sjn-xXjlw4WYaArnaEALw_wcB)
 - [InVision](https://www.invisionapp.com/)
 - [Sketch](https://www.sketch.com/)
+- [Webflow](https://www.g2.com/products/webflow/reviews)
+- [Lunacy](https://icons8.com/lunacy)
+- [Origami](https://origami.design/)
+- [FluidUI](https://www.fluidui.com/)
+- [Vectr](https://vectr.com/)
 
 
 ## Prototyping tools for UI/UX
