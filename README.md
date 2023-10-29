@@ -134,6 +134,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Open Classrooms](https://openclassrooms.com/)
 - [DevDocs.io](https://devdocs.io/)
 - [codewithharry.com](https://www.codewithharry.com/)
+- [frontend.horse](https://frontend.horse)
 
 ## Websites for code challenges
 
