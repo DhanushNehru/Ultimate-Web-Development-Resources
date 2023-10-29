@@ -69,7 +69,7 @@ class Game:
         for position,piece in self.gameboard.items():
             if type(piece) == King:
                 kingDict[piece.Color] = position
-            print(piece)
+            #print(piece)
             pieceDict[piece.Color].append((piece,position))
         #white
         if self.canSeeKing(kingDict[WHITE],pieceDict[BLACK]):
