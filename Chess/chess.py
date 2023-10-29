@@ -87,7 +87,7 @@ class Game:
     def parseInput(self):
         try:
             a,b = input("Input your move --> ").split()
-            a = ((ord(a[0])-97), int(a[1])-1)
+            a = (ord(a[0])-97, int(a[1])-1)
             b = (ord(b[0])-97, int(b[1])-1)
             print(a,b)
             return (a,b)
@@ -223,6 +223,7 @@ class Pawn(Piece):
         if (x+1,y+self.direction) in gameboard and self.noConflict(gameboard, Color, x+1, y+self.direction) : answers.append((x+1,y+self.direction))
         if (x-1,y+self.direction) in gameboard and self.noConflict(gameboard, Color, x-1, y+self.direction) : answers.append((x-1,y+self.direction))
         if (x,y+self.direction) not in gameboard and Color == self.Color and y<7: answers.append((x,y+self.direction))# the condition after the and is to make sure the non-capturing movement (the only one in the game) is not used in the calculation of checkmate
+        if ((x,y+2*self.direction) and (x,y+self.direction)) not in gameboard and Color == self.Color and (y==1 or y==6) : answers.append((x,y+2*self.direction))
         return answers
 
 uniDict = {WHITE : {Pawn : "♙", Rook : "♖", Knight : "♘", Bishop : "♗", King : "♔", Queen : "♕" }, BLACK : {Pawn : "♟", Rook : "♜", Knight : "♞", Bishop : "♝", King : "♚", Queen : "♛" }}
