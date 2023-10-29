@@ -8,7 +8,7 @@ BLACK = "black"
 class Game:
     #ive decided since the number of pieces is capped but the type of pieces is not (pawn transformations), I've already coded much of the modularity to support just using a dictionary of pieces
     def __init__(self):
-        self.playersturn = BLACK
+        self.playersturn = WHITE
         self.message = "this is where prompts will go"
         self.gameboard = {}
         self.placePieces()
@@ -26,7 +26,7 @@ class Game:
         
         for i in range(0,8):
             self.gameboard[(i,0)] = placers[i](WHITE,uniDict[WHITE][placers[i]])
-            self.gameboard[((7-i),7)] = placers[i](BLACK,uniDict[BLACK][placers[i]])
+            self.gameboard[(i,7)] = placers[i](BLACK,uniDict[BLACK][placers[i]])
         placers.reverse()
 
         
@@ -86,7 +86,7 @@ class Game:
                 
     def parseInput(self):
         try:
-            a,b = input().split()
+            a,b = input("Input your move --> ").split()
             a = ((ord(a[0])-97), int(a[1])-1)
             b = (ord(b[0])-97, int(b[1])-1)
             print(a,b)
