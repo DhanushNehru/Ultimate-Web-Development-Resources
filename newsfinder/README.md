@@ -1,6 +1,7 @@
 
 # NewsFinder
 Get or search top news headlines delivered from reputed leading news websites
+Find original https://github.com/amaanwarsi/newsfinder
 
 
 ## API Reference
@@ -45,20 +46,5 @@ Function which handles all of the operations
 - Light/dark mode toggle
 - Responsive
 - get overview of news
-- wider range of categories
+- wide range of categories
 - regional based results 
-
-
-## Screenshots
-From Android phone 
-![App Screenshot](screenshots/Screenshot_2023-03-26-00-00-18-37_f9a7afa717ced9e1fc9be9833291031a.jpg)
-![App Screenshot](screenshots/IMG_20230326_000644.jpg)
-![App Screenshot](screenshots/IMG_20230326_000631.jpg)
-![App Screenshot](screenshots/IMG_20230326_000623.jpg)
-![App Screenshot](screenshots/IMG_20230326_000602.jpg)
-![App Screenshot](screenshots/IMG_20230326_000548.jpg)
-
-
-## Contributing
-
-Contributions are always welcome!
