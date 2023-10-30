@@ -1,6 +1,7 @@
 
 # NewsFinder
 Get or search top news headlines delivered from reputed leading news websites
+
 Find original https://github.com/amaanwarsi/newsfinder
 
 
