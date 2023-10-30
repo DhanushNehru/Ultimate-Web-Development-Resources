@@ -1,0 +1,821 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+    text-decoration: none;
+}
+body{
+    background-color: #414a4c;
+    max-width: 100%;
+}
+a{
+    color: #B1D4E0;
+  }
+/* navbar styling */
+
+.navbar{
+    background-color: #353839;
+}
+.btn{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+ 
+/* form styling */
+.form{
+    margin: 50px;
+}
+hr{
+    height: 5px;
+    color: black;
+    background-color: white;
+    border-radius: 3px;
+}
+input[type="checkbox"]{
+    height: 15px;
+    width: 15px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+/* form title section */
+.name_tag{
+    font-size: larger;
+}
+#name{
+    width: 70%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px ;
+}
+/* form subtitle section */
+.about_tag{
+    font-size: larger;
+}
+#about_me{
+    width: 70%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px ;
+}
+/* form work section */
+.work_tag{
+    font-size: larger;
+}
+#resume_link{
+    width: 70%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px ;
+}
+#email_id{
+    width: 70%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px ;
+}
+#work_status{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-right: 10px ;
+}
+#work_status_link{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-right: 10px ;
+}
+#project1_link{
+    width: 70%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px ;
+}
+#project2{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-right: 10px ;
+}
+#project2_link{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-right: 10px ;
+}
+#project3{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-right: 10px ;
+}
+#project3_link{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-right: 10px ;
+}
+#project4{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-right: 10px ;
+}
+#project4_link{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-right: 10px ;
+}
+#project5{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-right: 10px ;
+}
+#project5_link{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-right: 10px ;
+}
+/* form skills/tech section */
+#img{
+    width: 40px;
+    cursor: pointer;
+}
+.skill_tag{
+    font-size: larger;
+}
+#hide_name{
+    display: none;
+    background-color: white;
+    color: black;
+    padding: 3px;
+    box-sizing: content-box;
+    border-radius: 2px;
+    margin-left: 5px;
+}
+
+div#id_system div label {
+    display: flex;
+    align-items: center;
+}
+
+.system > div:hover #hide_name{
+    display: inline;
+
+}
+.system{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.system > div{
+    padding: 0;
+    margin: 50px;
+    
+}
+
+div#id_programming_language div label {
+    display: flex;
+    align-items: center;
+}
+
+.programming_language > div:hover #hide_name{
+    display: inline;
+
+}
+.programming_language{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    padding-right: 50px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.programming_language > div{
+    padding: 0;
+    margin: 50px;
+    
+}
+
+div#id_frontend_language div label {
+    display: flex;
+    align-items: center;
+}
+
+.frontend_language > div:hover #hide_name{
+    display: inline;
+
+}
+.frontend_language{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.frontend_language > div{
+    padding: 0;
+    margin: 50px;
+    
+}
+
+div#id_backend_language div label {
+    display: flex;
+    align-items: center;
+}
+
+.backend_language > div:hover #hide_name{
+    display: inline;
+
+}
+.backend_language{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.backend_language > div{
+    padding: 0;
+    margin: 50px;
+    
+}
+
+div#id_mobile_app_devlopment div label {
+    display: flex;
+    align-items: center;
+}
+
+.mobile_app_devlopment > div:hover #hide_name{
+    display: inline;
+
+}
+.mobile_app_devlopment{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.mobile_app_devlopment > div{
+    padding: 0;
+    margin: 50px;
+    
+}
+
+div#id_aI_ML div label {
+    display: flex;
+    align-items: center;
+}
+
+.aI_ML > div:hover #hide_name{
+    display: inline;
+
+}
+.aI_ML{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.aI_ML > div{
+    padding: 0;
+    margin: 50px;
+    
+}
+
+div#id_database div label {
+    display: flex;
+    align-items: center;
+}
+
+.database > div:hover #hide_name{
+    display: inline;
+
+}
+.database{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.database > div{
+    padding: 0;
+    margin: 50px;
+    
+}
+
+div#id_data_visualization div label {
+    display: flex;
+    align-items: center;
+}
+
+.data_visualization > div:hover #hide_name{
+    display: inline;
+
+}
+.data_visualization{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.data_visualization > div{
+    padding: 0;
+    margin: 50px;
+    
+}
+
+div#id_devops div label {
+    display: flex;
+    align-items: center;
+}
+
+.devops > div:hover #hide_name{
+    display: inline;
+
+}
+.devops{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.devops > div{
+    padding: 0;
+    margin: 50px;
+    
+}
+
+div#id_bASS div label {
+    display: flex;
+    align-items: center;
+}
+
+.bASS > div:hover #hide_name{
+    display: inline;
+
+}
+.bASS{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.bASS > div{
+    padding: 0;
+    margin: 50px;
+    
+}
+
+div#id_framewoork div label {
+    display: flex;
+    align-items: center;
+}
+
+.framewoork > div:hover #hide_name{
+    display: inline;
+
+}
+.framewoork{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.framewoork > div{
+    padding: 0;
+    margin: 50px;
+    
+}
+
+div#id_testing div label {
+    display: flex;
+    align-items: center;
+}
+
+.testing > div:hover #hide_name{
+    display: inline;
+
+}
+.testing{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.testing > div{
+    padding: 0;
+    margin: 50px;
+    
+}
+
+div#id_software div label {
+    display: flex;
+    align-items: center;
+}
+
+.software > div:hover #hide_name{
+    display: inline;
+
+}
+.software{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.software > div{
+    padding: 0;
+    margin: 50px;
+    
+}
+
+div#id_static_site_gen div label {
+    display: flex;
+    align-items: center;
+}
+
+.static_site_gen > div:hover #hide_name{
+    display: inline;
+
+}
+.static_site_gen{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.static_site_gen > div{
+    padding: 0;
+    margin: 50px;
+    
+}
+
+div#id_game_engine div label {
+    display: flex;
+    align-items: center;
+}
+
+.game_engine > div:hover #hide_name{
+    display: inline;
+
+}
+.game_engine{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.game_engine > div{
+    padding: 0;
+    margin: 50px;
+    
+}
+
+div#id_automation div label {
+    display: flex;
+    align-items: center;
+}
+
+.automation > div:hover #hide_name{
+    display: inline;
+
+}
+.automation{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.automation > div{
+    padding: 0;
+    margin: 50px;
+    
+}
+
+div#id_blockchain div label {
+    display: flex;
+    align-items: center;
+}
+
+.blockchain > div:hover #hide_name{
+    display: inline;
+
+}
+.blockchain{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.blockchain > div{
+    padding: 0;
+    margin: 50px;
+    
+}
+
+div#id_others div label {
+    display: flex;
+    align-items: center;
+}
+
+.others > div:hover #hide_name{
+    display: inline;
+
+}
+.others{
+    margin-left: 10px;
+    margin-right: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.others > div{
+    padding: 0;
+    margin: 50px;
+    
+}
+
+/* form social section */
+
+.social_tag{
+    font-size: larger;
+}
+#github{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    border-radius: 5px;
+    margin-left: 40px;
+    text-transform: lowercase;
+}
+#twitter{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    border-radius: 5px;
+    margin-left: 28px;
+}
+#codepen{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    border-radius: 5px;
+    margin-left: 23px;
+}
+#dev{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    border-radius: 5px;
+    margin-left: 57px;
+}
+
+#linkedin{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    border-radius: 5px;
+    margin-left: 25px;
+}
+#kaggle{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    border-radius: 5px;
+    margin-left: 35px;
+}
+#facebook{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+#instagram{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+#dribble{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    border-radius: 5px;
+    margin-left: 35px;
+}
+#behance{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    border-radius: 5px;
+    margin-left: 22px;
+}
+#hashnode{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    border-radius: 5px;
+    margin-left: 18px;
+}
+#medium{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    border-radius: 5px;
+    margin-left: 25px;
+}
+#youtube{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    border-radius: 5px;
+    margin-left: 30px;
+}
+
+#hackerank{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    border-radius: 5px;
+}
+#hackerearth{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    border-radius: 5px;
+}
+
+#leetcode{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    border-radius: 5px;
+    margin-left: 17px;
+}
+
+#topcoder{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    border-radius: 5px;
+    margin-left: 22px;
+}
+#discord{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    border-radius: 5px;
+    margin-left: 25px;
+}
+#rss{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    border-radius: 5px;
+    margin-left: 57px;
+}
+/* form add_on section */
+.add_tag{
+    font-size: larger;
+}
+/* form support section */
+.support_tag{
+    font-size: larger;
+}
+#buy_me_coffee{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-right: 15px;
+}
+#patreon{
+    width: 40%;
+    height: 40px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-right: 15px;
+}
+/* form genrate md section */
+.genrate{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.gen_btn{
+    font-size: 25px;
+    width: 250px;
+    height: 50px;
+}
+
+/* footer styling */
+
+#logo_img{
+    animation: bounce 2s infinite ease-in alternate;
+}
+@keyframes bounce {
+    0%{
+        transform:translateY(0px)
+    }
+    100%{
+        transform: translateY(10px);
+    }
+}
+footer{
+    background-color: #353839;
+}
+.foot{
+    font-size: 20px;
+}

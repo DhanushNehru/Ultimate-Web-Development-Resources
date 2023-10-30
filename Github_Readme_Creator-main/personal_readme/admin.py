@@ -1,0 +1,23 @@
+from django.contrib import admin
+from .models import *
+# Register your models here.
+admin.site.register(Personal_readme)
+admin.site.register(SystemChoice)
+admin.site.register(Programming_language)
+admin.site.register(Frontend_language)
+admin.site.register(Backend_language)
+admin.site.register(Mobile_app_devlopment)
+admin.site.register(AI_ML)
+admin.site.register(Database)
+admin.site.register(Data_visualization)
+admin.site.register(Devops)
+admin.site.register(BASS)
+admin.site.register(Framework)
+admin.site.register(Testing)
+admin.site.register(Software)
+admin.site.register(Static_site_gen)
+admin.site.register(Game_engine)
+admin.site.register(Automation)
+admin.site.register(Blockchain)
+admin.site.register(Others)
+admin.site.register(Add_on)
