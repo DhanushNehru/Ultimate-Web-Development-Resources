@@ -9,12 +9,6 @@ Find original https://github.com/amaanwarsi/newsfinder
 https://newsapi.org/
 ```
 
-#### Pricing 
-
-```http
-https://newsapi.org/pricing
-```
-
 ## Functions and Variables
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
