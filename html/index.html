@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>university website design</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css">
+</head>
+
+<body>
+  <section class="header">
+    <nav>
+      <a href="index.html"><img src="logo.png" alt="Logo"></a>
+      <div class="nav-links" id="navLinks">
+        <i class="fas fa-times" onclick="hideMenu()"></i>
+        <ul>
+          <li><a href="#">HOME</a></li>
+          <li><a href="#">ABOUT</a></li>
+          <li><a href="#">COURSE</a></li>
+          <li><a href="#">BLOG</a></li>
+          <li><a href="#">CONTACT</a></li>
+        </ul>
+      </div>
+      <i class="fas fa-bars" onclick="showMenu()"></i>
+    </nav>
+
+    <div class="text-box">
+      <h1>PDEU</h1>
+      <a href="#" class="hero-btn">Visit Us To Know More</a>
+    </div>
+  </section>
+  <!--------------- course---------- -->
+  <section class="course">
+    <h1>Courses We Offer</h1>
+    <p>ICT || Computer Science || Mechanical || Civil|| ECE</p>
+    <div class="row">
+      <div class="course-col">
+        <h3>Intermediate</h3>
+        <p>aebgkehak aekjbfwkjrsbg fkbskv s aefs zgsur gwos vhsa sbgosbg srgrs gssbsbv</p>
+      </div>
+      <div class="course-col">
+        <h3>Degree</h3>
+        <p>aebgkehak aekjbfwkjrsbg jnvsobgvjsorngrsnguosr nrsobgsuorguorgs sghsuogrsbgsrg</p>
+      </div>
+      <div class="course-col">
+        <h3>Post Graduation</h3>
+        <p>aebgkehak aekjbfwkjrsb  gueasbfuoshfueohfuos egsrbgorsgwughwurohgs sn srghsurb
+          grsjbvs</p>
+      </div>
+    </div>
+
+  </section>
+
+  <script>
+    var navLinks = document.getElementById("navLinks");
+
+    function showMenu() {
+      navLinks.style.right = "0";
+    }
+
+    function hideMenu() {
+      navLinks.style.right = "-200px";
+    }
+  </script>
+</body>
+
+</html>
