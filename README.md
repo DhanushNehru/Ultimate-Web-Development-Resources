@@ -547,6 +547,8 @@ Please note that the links provided are the GitHub repository URLs for each proj
 - [HackerTarget](https://hackertarget.com/vulnerability-scanner/)
 - [Qualys SSL Labs](https://www.ssllabs.com/ssltest/)
 
+## License
+This project is licensed under the CC0 1.0 Universal - see the [LICENSE](./LICENSE) file for details.
 
 ## Tutorial in Other Languages
 
