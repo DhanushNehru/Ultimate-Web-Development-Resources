@@ -106,7 +106,21 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Glitch](https://glitch.com/)
 - [Fleek](https://fleek.co/)
 - [ByetHost](https://byet.host/)
+
 - [Strikingly](https://www.strikingly.com/)
+- [WordPress](https://www.wordpress.com/)
+- [Weebly](https://www.weebly.com/)
+- [Jimdo](https://www.jimdo.com/)
+- [AwardSpace](https://www.awardspace.com/)
+- [Anglefire](https://www.anglefire.com/)
+- [Neocities](https://www.neocities.com/)
+- [Tripod](https://www.tripod.com/)
+- [uCoz](https://www.ucoz.com/)
+- [FreeHostingEU](https://www.freehostingeu.com/)
+- [u Host Full](https://www.uhostfull.com/)
+- [Freehostia](https://www.freehostia.com/)
+- [000webhost.com](https://www.000webhost.com/)
+
 
 
 
@@ -135,6 +149,10 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Open Classrooms](https://openclassrooms.com/)
 - [DevDocs.io](https://devdocs.io/)
 - [codewithharry.com](https://www.codewithharry.com/)
+- [CodePen](https://codepen.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Tutorialspoint](https://tutorialspoint.com/)
+- 
 
 ## Websites for code challenges
 
@@ -324,6 +342,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [CSS Tutorial - Zero to Hero (Complete Course)(Freecodecamp)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 - [CSS tips and tricks - Kevin Powell](https://www.youtube.com/kepowob)
 - [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## JS Learning Resources
 - [Learn JavaScript - Full Course for Beginners (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
@@ -504,7 +523,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Ember.js](https://emberjs.com/)
 - [Next.js](https://nextjs.org/)
 - [Gatsby](https://www.gatsbyjs.com/)
-
+- [Astro](https://astro.build/)
 
 
 ## Top JavaScript Runtime
@@ -549,6 +568,8 @@ Please note that the links provided are the GitHub repository URLs for each proj
 - [HackerTarget](https://hackertarget.com/vulnerability-scanner/)
 - [Qualys SSL Labs](https://www.ssllabs.com/ssltest/)
 
+## License
+This project is licensed under the CC0 1.0 Universal - see the [LICENSE](./LICENSE) file for details.
 
 ## Tutorial in Other Languages
 
