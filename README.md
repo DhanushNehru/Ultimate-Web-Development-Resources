@@ -106,6 +106,18 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Glitch](https://glitch.com/)
 - [Fleek](https://fleek.co/)
 - [ByetHost](https://byet.host/)
+- [WordPress](https://www.wordpress.com/)
+- [Weebly](https://www.weebly.com/)
+- [Jimdo](https://www.jimdo.com/)
+- [AwardSpace](https://www.awardspace.com/)
+- [Anglefire](https://www.anglefire.com/)
+- [Neocities](https://www.neocities.com/)
+- [Tripod](https://www.tripod.com/)
+- [uCoz](https://www.ucoz.com/)
+- [FreeHostingEU](https://www.freehostingeu.com/)
+- [u Host Full](https://www.uhostfull.com/)
+- [Freehostia](https://www.freehostia.com/)
+- [000webhost.com](https://www.000webhost.com/)
 
 
 
@@ -134,6 +146,10 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Open Classrooms](https://openclassrooms.com/)
 - [DevDocs.io](https://devdocs.io/)
 - [codewithharry.com](https://www.codewithharry.com/)
+- [CodePen](https://codepen.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Tutorialspoint](https://tutorialspoint.com/)
+- 
 
 ## Websites for code challenges
 
