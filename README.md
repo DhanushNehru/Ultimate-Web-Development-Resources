@@ -106,6 +106,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Glitch](https://glitch.com/)
 - [Fleek](https://fleek.co/)
 - [ByetHost](https://byet.host/)
+
+- [Strikingly](https://www.strikingly.com/)
 - [WordPress](https://www.wordpress.com/)
 - [Weebly](https://www.weebly.com/)
 - [Jimdo](https://www.jimdo.com/)
@@ -118,6 +120,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [u Host Full](https://www.uhostfull.com/)
 - [Freehostia](https://www.freehostia.com/)
 - [000webhost.com](https://www.000webhost.com/)
+
 
 
 
@@ -329,6 +332,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [HTML Tutorial - How to Make a Super Simple Website(Freecodecamp)](https://www.youtube.com/watch?v=PlxWf493en4)
 - [HTML & CSS Full Course - Beginner to Pro(SuperSimpleDev](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=19628s)
 - [HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [HTML Full Course For Beginners - Brocode](https://www.youtube.com/watch?v=HGTJBPNC-Gw)
 
 
 ## CSS Learning Resources
