@@ -60,6 +60,11 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Figma](https://www.figma.com/design/?utm_source=google&utm_medium=cpc&utm_campaign=17873985255&utm_term=design%20software&utm_content=613237509572&gclid=Cj0KCQjwkt6aBhDKARIsAAyeLJ2tS_qfB9w63_uwByAElTGIXk3qtPAajqy-1XXZRc_sjn-xXjlw4WYaArnaEALw_wcB)
 - [InVision](https://www.invisionapp.com/)
 - [Sketch](https://www.sketch.com/)
+- [Webflow](https://www.g2.com/products/webflow/reviews)
+- [Lunacy](https://icons8.com/lunacy)
+- [Origami](https://origami.design/)
+- [FluidUI](https://www.fluidui.com/)
+- [Vectr](https://vectr.com/)
 
 
 ## Prototyping tools for UI/UX
@@ -102,6 +107,21 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Fleek](https://fleek.co/)
 - [ByetHost](https://byet.host/)
 
+- [Strikingly](https://www.strikingly.com/)
+- [WordPress](https://www.wordpress.com/)
+- [Weebly](https://www.weebly.com/)
+- [Jimdo](https://www.jimdo.com/)
+- [AwardSpace](https://www.awardspace.com/)
+- [Anglefire](https://www.anglefire.com/)
+- [Neocities](https://www.neocities.com/)
+- [Tripod](https://www.tripod.com/)
+- [uCoz](https://www.ucoz.com/)
+- [FreeHostingEU](https://www.freehostingeu.com/)
+- [u Host Full](https://www.uhostfull.com/)
+- [Freehostia](https://www.freehostia.com/)
+- [000webhost.com](https://www.000webhost.com/)
+
+
 
 
 ## Websites to learn
@@ -129,6 +149,10 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Open Classrooms](https://openclassrooms.com/)
 - [DevDocs.io](https://devdocs.io/)
 - [codewithharry.com](https://www.codewithharry.com/)
+- [CodePen](https://codepen.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Tutorialspoint](https://tutorialspoint.com/)
+- 
 
 ## Websites for code challenges
 
@@ -308,6 +332,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [HTML Tutorial - How to Make a Super Simple Website(Freecodecamp)](https://www.youtube.com/watch?v=PlxWf493en4)
 - [HTML & CSS Full Course - Beginner to Pro(SuperSimpleDev](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=19628s)
 - [HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [HTML Full Course For Beginners - Brocode](https://www.youtube.com/watch?v=HGTJBPNC-Gw)
 
 
 ## CSS Learning Resources
@@ -317,6 +342,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [CSS Tutorial - Zero to Hero (Complete Course)(Freecodecamp)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 - [CSS tips and tricks - Kevin Powell](https://www.youtube.com/kepowob)
 - [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## JS Learning Resources
 - [Learn JavaScript - Full Course for Beginners (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
@@ -497,7 +523,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Ember.js](https://emberjs.com/)
 - [Next.js](https://nextjs.org/)
 - [Gatsby](https://www.gatsbyjs.com/)
-
+- [Astro](https://astro.build/)
 
 
 ## Top JavaScript Runtime
@@ -542,6 +568,8 @@ Please note that the links provided are the GitHub repository URLs for each proj
 - [HackerTarget](https://hackertarget.com/vulnerability-scanner/)
 - [Qualys SSL Labs](https://www.ssllabs.com/ssltest/)
 
+## License
+This project is licensed under the CC0 1.0 Universal - see the [LICENSE](./LICENSE) file for details.
 
 ## Tutorial in Other Languages
 
