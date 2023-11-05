@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee');
+
+* {
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  /* border:1px solid red; */
+  font-family: 'Bungee', cursive;
+}
+
+.container{
+  width:80%;
+  margin: 0 auto;
+}
+
+@media(max-width:600px){
+  li{
+    margin:30px;
+  }
+
+
+}
+
+nav{
+  position:fixed;
+  width:100%;
+  margin-top: 0.4rem;
+}
+
+ul{
+  display:flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  list-style:none;
+  padding:0.1rem;
+  align-items: center;
+
+
+}
+
+a{
+  text-decoration: none;
+  color:lightblue;
+  padding:1rem;
+  background: black;
+  border: 10px solid black;
+  border-radius:100px;
+}
+
+a:hover{
+  transition: 1s;
+  font-size: 2rem;
+}
+
+
+main{
+  display: flex;
+
+}
+
+
+
+main img{
+  width:50%;
+  height:50%;
+}
+
+.logo{
+  width:50%;
+  margin:120px 0 0 0;
+}
+
+.main-logo{
+  text-align: center;
+}
+
+.video{
+  text-align: center;
+  /* margin: 4rem 0; */
+  background: url("../images/gameplay.jpeg");
+  padding:15rem;
+  border:10px solid black;
+}
+
+iframe{
+  border:10px solid lightblue;
+}
+
+iframe:hover{
+  border:10px solid blue;
+  transition: 1s;
+  padding:10px;
+}
+
+section img{
+  width:100%;
+}
+
+footer{
+  text-align: center;
+  background:black;
+  color:white;
+}
+
+h1{
+  text-align: center;
+  margin-top:60px;
+}
