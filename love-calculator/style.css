@@ -1,0 +1,115 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    overflow-x: none;
+}
+body{
+    background: linear-gradient(to right, #77a1d3, #79cbca, #e684ae);
+    display: flex;
+    overflow-x: none;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Montserrat;
+    min-height: 100vh;
+    width: 100%;
+    overflow: scroll;
+}
+.container{
+    height:  100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding:1rem;
+}
+input{
+    width: 50%;
+    padding: 7px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: rgba(149, 157, 165, 1) 0px 8px 24px;
+    text-align: center ;
+}
+button{
+    border: 0;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #0d6efd;
+    color: white;
+    cursor: pointer;
+    transition: 500ms ease-in-out;
+}
+button:hover{
+    background-color: #00327e;
+}
+.container *{
+    margin: 0.7rem 0;
+}
+.popup{
+    box-shadow: rgba(149, 157, 165, 1) 0px 8px 24px;
+    display: none;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    z-index: 10;
+    width: 50%;
+    min-height: 70vh;
+    background-color: white;
+    animation: start 1s linear 1;
+}
+@keyframes start{
+    0%{
+        opacity: 0;
+        transform: scale(0);
+    }
+    100%{
+        opacity: 1;
+        transform: scale(1);
+    }
+}
+.popup *{
+    margin: 8px;
+}
+.cross{
+    background: rgb(0,0,0,0.1);
+    display: flex;
+    top: 0;
+    right: 0;
+    transform: translate(-50%,50%);
+    position: absolute;
+    font-size: 1rem;
+    font-weight: 900;
+    color: black;
+    justify-content: center;
+    height: 1.5rem;
+    border-radius: 50%;
+    width: 1.5rem;
+    cursor: pointer;
+    transition: 500ms ease-in-out;
+}
+.cross:hover{
+    background-color: #000;
+    color: white;
+}
+.d-none{
+    display: none;
+}
+.d-flex{
+    display: flex;
+}
+.gif{
+    width: 30%;
+}
+@media screen and (max-width:918px) {
+    .popup{
+        width: 80%;
+    }
+}
+@media screen and (max-width:427px) {
+    .popup{
+        width: 95%;
+    }
+}
