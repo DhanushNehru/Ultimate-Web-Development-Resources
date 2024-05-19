@@ -1,8 +1,8 @@
-# [Ultimate-Web-Development-Resources]([https://github.com/DhanushNehru/Ultimate-Web-Development-Resources](https://dhanushnehru.github.io/Ultimate-Web-Development-Resources/))
+# [Ultimate-Web-Development-Resources](https://dhanushnehru.github.io/Ultimate-Web-Development-Resources)
 
 A collection of Web Developement Resources at one place
 
-![Ultimate-Web-Development-Resources by Dhanush N](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/blob/main/cover.png)
+![Ultimate-Web-Development-Resources by Dhanush N](https://raw.githubusercontent.com/DhanushNehru/Ultimate-Web-Development-Resources/main/cover.png)
 
 ## Contributing
 
@@ -58,6 +58,13 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Wix](https://www.wix.com/)
 - [Zeplin](https://zeplin.io/)
 - [Figma](https://www.figma.com/design/?utm_source=google&utm_medium=cpc&utm_campaign=17873985255&utm_term=design%20software&utm_content=613237509572&gclid=Cj0KCQjwkt6aBhDKARIsAAyeLJ2tS_qfB9w63_uwByAElTGIXk3qtPAajqy-1XXZRc_sjn-xXjlw4WYaArnaEALw_wcB)
+- [InVision](https://www.invisionapp.com/)
+- [Sketch](https://www.sketch.com/)
+- [Webflow](https://www.g2.com/products/webflow/reviews)
+- [Lunacy](https://icons8.com/lunacy)
+- [Origami](https://origami.design/)
+- [FluidUI](https://www.fluidui.com/)
+- [Vectr](https://vectr.com/)
 
 
 ## Prototyping tools for UI/UX
@@ -65,21 +72,30 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Figma](https://www.figma.com/)
 - [Invision](https://www.invisionapp.com/studio)
 - [AdobeXD](https://www.adobe.com)
+- [Canva](https://designerup.co/blog/canva-for-ux-ui-designers/)
 - [Sketch](https://www.sketch.com/)
 - [Webflow](https://webflow.com/)
+- [Justinmind](https://illa.ai/ai-agent/ILAex4p1C7ZJ/detail)
+- [Fluid UI](https://www.fluidui.com/)
+- [Framer](https://www.framer.com/)
 - [Penpot](https://penpot.app/)
 - [Balsamiq Wireframing](https://balsamiq.com/)
 - [Axure RP](https://www.axure.com/)
 - [Origami Studio](https://origami.design/)
+- [strapi](https://strapi.io/)
 
 ## Free Hosting
 
 - [Vercel](https://vercel.com)
 - [Amazon](https://aws.amazon.com)
+- [Byethost](https://byet.host/)
+- [000webhost](https://www.hostinger.in/recommended/free-hosting-special?utm_medium=affiliate&utm_source=aff17049&utm_campaign=276&session=102400793e16b079c1f6fc50c61289)
 - [Netlify](https://www.netlify.com)
 - [Firebase](https://firebase.google.com)
 - [Gitlab](https://docs.gitlab.com/ee/user/project/pages/)
 - [Github](https://github.com/)
+- [glitch](https://glitch.com/)
+- [pagecloud](https://www.pagecloud.com/)
 - [Render](https://render.com)
 - [Surge](https://surge.sh)
 - [Wix](https://www.wix.com/html5en/hiker-hosting)
@@ -88,6 +104,26 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Deta](https://deta.sh)
 - [Railway](https://railway.app)
 - [Supabase](https://supabase.com)
+- [Glitch](https://glitch.com/)
+- [Fleek](https://fleek.co/)
+- [ByetHost](https://byet.host/)
+
+- [Strikingly](https://www.strikingly.com/)
+- [WordPress](https://www.wordpress.com/)
+- [Weebly](https://www.weebly.com/)
+- [Jimdo](https://www.jimdo.com/)
+- [AwardSpace](https://www.awardspace.com/)
+- [Anglefire](https://www.anglefire.com/)
+- [Neocities](https://www.neocities.com/)
+- [Tripod](https://www.tripod.com/)
+- [uCoz](https://www.ucoz.com/)
+- [FreeHostingEU](https://www.freehostingeu.com/)
+- [u Host Full](https://www.uhostfull.com/)
+- [Freehostia](https://www.freehostia.com/)
+- [000webhost.com](https://www.000webhost.com/)
+
+
+
 
 ## Websites to learn
 
@@ -99,6 +135,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Frontendmentor](http://frontendmentor.io)
 - [Test automation](http://testautomationu.applitools.com)
 - [Coursera](http://coursera.org)
+- [Coding Ninja](https://www.codingninjas.com/courses/full-stack-web-dev-mern)
 - [Udemy](https://www.udemy.com/)
 - [Khanacademy](http://khanacademy.org)
 - [Sololearn](http://sololearn.com)
@@ -112,35 +149,43 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Full Stack Open](https://fullstackopen.com/en/)
 - [Open Classrooms](https://openclassrooms.com/)
 - [DevDocs.io](https://devdocs.io/)
+- [codewithharry.com](https://www.codewithharry.com/)
+- [CodePen](https://codepen.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Tutorialspoint](https://tutorialspoint.com/)
+- 
 
 ## Websites for code challenges
 
 - [AtCoder](https://atcoder.jp)
-- [Code Wars](http://codewars.com)
-- [Top Coder](http://topcoder.com)
-- [Codingame](http://codingame.com)
-- [Hacker Rank](http://hackerrank.com)
-- [Project Euler](http://projecteuler.net)
-- [Coder Byte](http://coderbyte.com)
-- [Code Chef](http://codechef.com)
-- [Exercism](http://exercism.io)
-- [Leet Code](http://leetcode.com)
-- [Sphere Online Judge](http://spoj.com)
 - [BFE.dev](https://bigfrontend.dev/)
+- [CodeStudio](https://www.codingninjas.com/studio)
+- [Code Chef](http://codechef.com)
+- [Code Wars](http://codewars.com)
 - [Codeforces](https://codeforces.com/)
+- [Coder Byte](http://coderbyte.com)
+- [Codingame](http://codingame.com)
+- [CSS Battle](https://cssbattle.dev/)
+- [Exercism](http://exercism.io)
+- [Frontend Mento](https://www.frontendmentor.io/challenges)
+- [Frontend Practice](https://www.frontendpractice.com/)
+- [GeeksforGeeks](https://www.geeksforgeeks.org)
+- [Hacker Rank](http://hackerrank.com)
 - [HackerEarth](https://www.hackerearth.com/)
 - [InterviewBit](https://www.interviewbit.com/practice/)
-- [Frontend Mento](https://www.frontendmentor.io/challenges)
-- [GeeksforGeeks](https://www.geeksforgeeks.org)
+- [JavaScript30](https://javascript30.com/)
 - [KodeKloud](https://kodekloud.com/kodekloud-engineer/)
-- [Frontend Practice](https://www.frontendpractice.com/)
-- [CodeStudio by CodingNinjas](https://www.codingninjas.com/studio)
+- [Leet Code](http://leetcode.com)
+- [Project Euler](http://projecteuler.net)
+- [Sphere Online Judge](http://spoj.com)
+- [Top Coder](http://topcoder.com)
+- [CSES](https://cses.fi/problemset/)
 
 ## Web Images or Photos
 
 - [Flickr](https://www.flickr.com/)
 - [Unsplash](http://unsplash.com)
-- [Pixaby](http://pixabay.com)
+- [Pixabay](http://pixabay.com)
 - [Pexels](http://pexels.com)
 - [Burst.shopify](https://burst.shopify.com/)
 - [Freepik](https://www.freepik.com/)
@@ -153,10 +198,13 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Colorhunt](http://colorhunt.co)
 - [Paletton](http://paletton.com)
 - [Color Hex](http://color-hex.com)
+- [ColorSpace](https://mycolor.space/)
 - [Color Picker](https://imagecolorpicker.com/en#google_vignette)
 - [MyColor](http://mycolor.space)
+- [Khroma](https://www.khroma.co/)
 - [UIColorPicker](https://uicolorpicker.com/)
 - [Realtime Colors](https://www.realtimecolors.com)
+- [Adobe Colors](https://color.adobe.com)
 
 ## Chrome Extensions For Web Developers
 
@@ -185,9 +233,11 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 
 - [Chart.js](https://www.chartjs.org/)
 - [D3.js](https://d3js.org/)
-- [Three.js](https://threejs.org/)
+- [ECharts](http://echarts.baidu.com/)
+- [EpochJS](https://epochjs.github.io/epoch/)
 - [FusionCharts](https://www.fusioncharts.com/)
 - [Google Data Studio](https://datastudio.google.com/visualization)
+- [SigmaJS](https://www.sigmajs.org/)
 
 ## Web Illustrations
 
@@ -271,6 +321,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 
 - [Httrack](https://www.httrack.com/)
 - [Cyotek WebCopy](https://www.cyotek.com/cyotek-webcopy)
+- [GNU Wget](https://www.gnu.org/software/wget/)
+- [WebCopy by Cyotek](https://www.cyotek.com/cyotek-webcopy)
 
 
 ## HTML Learning Resources
@@ -282,6 +334,9 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [HTML Crash Course For Absolute Beginners - Traversy Media](https://www.youtube.com/watch?v=UB1O30fR-EE)
 - [HTML Tutorial - How to Make a Super Simple Website(Freecodecamp)](https://www.youtube.com/watch?v=PlxWf493en4)
 - [HTML & CSS Full Course - Beginner to Pro(SuperSimpleDev](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=19628s)
+- [HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [HTML Full Course For Beginners - Brocode](https://www.youtube.com/watch?v=HGTJBPNC-Gw)
+
 
 ## CSS Learning Resources
 - [Learn CSS - web.dev](https://web.dev/learn/css/)
@@ -290,6 +345,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [CSS Tutorial - Zero to Hero (Complete Course)(Freecodecamp)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 - [CSS tips and tricks - Kevin Powell](https://www.youtube.com/kepowob)
 - [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## JS Learning Resources
 - [Learn JavaScript - Full Course for Beginners (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
@@ -307,7 +363,9 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Vue JS-Tutorial](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
 - [Vue JS-Docs](https://vuejs.org/tutorial/#step-1)
 - [Angular-Tutorial](https://www.youtube.com/watch?v=k5E2AVpwsko) 
-- [Angular-Docs](https://angular.io/docs) 
+- [Angular-Docs](https://angular.io/docs)
+- [NextJS-Tutorial](https://www.youtube.com/watch?v=ETV17M4SauU)
+- [NextJS-Docs](https://nextjs.org/docs)
 
 ## Bio Links
 
@@ -329,10 +387,14 @@ More information about the pack can be found here [Github Student Developer Pack
 ## Website for Project Management and Notes
 
 - [Notion](https://www.notion.so/)
+- [Asana](https://asana.com/)
+- [Evernote](https://evernote.com/)
 
 ## User Authentication
 
 - [Auth0](https://auth0.com/)
+- [Passport.JS](https://www.passportjs.org/)
+- [KeyCloak](https://www.keycloak.org/)
 - [Firebase](https://firebase.google.com/)
 - [Clerk](https://clerk.dev/)
 - [Next Auth](https://next-auth.js.org)
@@ -410,6 +472,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [CSS tips and tricks - Kevin Powell](https://www.youtube.com/kepowob)
 - [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
 - [CSS: Cascading Style Sheets - Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [CSS-Tricks](https://css-tricks.com)
 
 ## JS Learning Resources
 - [Learn JavaScript - Full Course for Beginners (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
@@ -463,7 +526,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Ember.js](https://emberjs.com/)
 - [Next.js](https://nextjs.org/)
 - [Gatsby](https://www.gatsbyjs.com/)
-
+- [Astro](https://astro.build/)
 
 
 ## Top JavaScript Runtime
@@ -485,17 +548,20 @@ More information about the pack can be found here [Github Student Developer Pack
 |      |      |      |      |
 |------|------|------|------|
 | [3D Portfolio](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/3D-Portfolio) | [3D](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/3D)  |  [Blog Website ](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Blog-Website) | [Bloggers Website ](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Blogger-Website-main/blogers%20%20website) |
+| [Bootstrap Portfolio](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Bootstrap%20Portfolio) | [Calculator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/calculator) | [Catch Me Card Game](https://github.com/Tanmay-Giram/Ultimate-Web-Development-Resources/tree/adding-Catch-Me-Card-Game/Catch%20Me%20Card%20Edition) | | [Chess](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Chess) | [City Finder](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/City%20Finder) |
+| [3D Portfolio](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/3D-Portfolio) | [3D](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/3D) |  [ ASCII VALUE GENERATOR ](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/ascii-value-generator) |  [Blog Website ](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Blog-Website) | [Bloggers Website ](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Blogger-Website-main/blogers%20%20website) |
 | [Bootstrap Portfolio](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Bootstrap%20Portfolio) | [Calculator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/calculator) | [Chess](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Chess) | [City Finder](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/City%20Finder) |
 | [Clock Project](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/ClockProject) | [Disney Character Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/disney-character-game) | [Drum Kit](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/DRUM-KIT) | [Dice Challenge](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Dice-Challenge) |
 | [E-Commerce](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/E-commerce) | [English Dictionary](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Eng_Dictionary) | [Expense Tracker App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/ExpenseTrackerApp) | [Google Auth Firebase](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/GoogleAuthFirebase) |
 | [Guess My Number](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/guess%20my%20number) | [Hangman Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Hangman%20Game) | [JS Quiz App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Javascript%20Quiz%20App)| [Love Calculator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/love-calculator) | [Mario Matching](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/MarioMatching) |
 | [Memory Cards](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/memorycards) | [Meme Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Meme-Generator) | [Mern Blog App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/mern-blog-app) | [Mouse Hover Animation](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/MouseHoverAnimation) | 
-| [Music Player](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Music-player) | [Myntra Customize](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Myntra%20Customize) | [Netflix UI Clone](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Netflix%20UI%20Clone) | [Notes App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Notes%20App) |
+| [Music Player](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Music-player)| [Morse Code Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/morse-code-generator) | [Myntra Customize](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Myntra%20Customize) | [Netflix UI Clone](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Netflix%20UI%20Clone) | [Notes App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Notes%20App) |
 [Password Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Password%20Generator) | [Portfolio 1](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/portfolio) | [Portfolio 2](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Portfolio_02) | [QR Code Generator 1](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/QR_Code_Generator_1) |
 | [QR Code Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Qr_Code_Generator) | [Quiz](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Quiz) | [Random Background Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Random-Background-Generator) | [Recipe Finder](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Recipe-Finder) | 
-| [Scannable QR Code Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Scannable%20QR%20CODE%20Generator) | [Table Tennis Scorekeeper](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Table%20Tennis%20scorekeeper) | [Task Management App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/task-management-app) | [Temperature Convertor](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/tempreture-converter) | 
-[Tic Tac Toe](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/TicTacToe%20Game) | [To Do List](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/to-do-list) | [Typing Progress Bar](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Typing%20Progress%20Bar) | [Weather App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WeatherApp) | 
-| [Wix Template](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WixTemplate) | [URL Shortner](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/url-shortner) | [Aim Training](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Aim-training) | [Flappy Bird Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Flappy_Bird_Game)  | [Desktop Notification](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Desktop%20Notification) | [Linear_gradient_background](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Linear_gradient_background)
+| [Scannable QR Code Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Scannable%20QR%20CODE%20Generator) | [Stone Paper Scissor Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/StonePaperScissor-Game) |[Table Tennis Scorekeeper](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Table%20Tennis%20scorekeeper) | [Task Management App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/task-management-app) | [Temperature Convertor](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/tempreture-converter) | 
+| [Tic Tac Toe](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/TicTacToe%20Game) | [To Do List](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/to-do-list) | [Typing Progress Bar](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Typing%20Progress%20Bar) | [Weather App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WeatherApp) | 
+| [Wix Template](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WixTemplate) | [URL Shortner](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/url-shortner) | [Aim Training](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Aim-training) | [Flappy Bird Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Flappy_Bird_Game)  | [Desktop Notification](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Desktop%20Notification) | [Linear_gradient_background](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Linear_gradient_background) | [Tic Tac Toe Game](https://github.com/DevanshKyada27/Ultimate-Web-Development-Resources/tree/TicTacToe-Game/TicTacToeGame)
+| [Joke Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/JokeGenerator) | [Rock-Paper-Scissor-Game-V2](https://github.com/Shreyasb1015/Ultimate-Web-Development-Resources/tree/new_branch/rock-paper-scissor-game-V2) | [Book Cricket Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Book-cricket-game) | [ Voice-Recorder ](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Voice-Recorder)
 
 
 Please note that the links provided are the GitHub repository URLs for each project.
@@ -504,7 +570,11 @@ Please note that the links provided are the GitHub repository URLs for each proj
 
 - [Security Headers](https://securityheaders.com/)
 - [SSL Labs ](https://www.ssllabs.com/)
+- [HackerTarget](https://hackertarget.com/vulnerability-scanner/)
+- [Qualys SSL Labs](https://www.ssllabs.com/ssltest/)
 
+## License
+This project is licensed under the CC0 1.0 Universal - see the [LICENSE](./LICENSE) file for details.
 
 ## Tutorial in Other Languages
 
@@ -512,10 +582,10 @@ Please note that the links provided are the GitHub repository URLs for each proj
 
 Hey, I'm Dhanush N. You can connect with me and follow my work via [X / (Twitter)](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1)
 
-Searching for a job ? This may help you
+Searching for a job? This may help you
 [Ultimate Tech Job List](https://github.com/DhanushNehru/Ultimate-Tech-Jobs)
 
-Want to start learning Node Js ? Dont miss to check this out
+Want to start learning Node Js? Don't miss to check this out
 [Ultimate NodeJs Resources](https://github.com/DhanushNehru/Ultimate-NodeJs-Resources)
 
 If you liked this repository support it by starring ⭐
