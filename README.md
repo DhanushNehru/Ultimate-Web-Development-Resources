@@ -58,6 +58,13 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Wix](https://www.wix.com/)
 - [Zeplin](https://zeplin.io/)
 - [Figma](https://www.figma.com/design/?utm_source=google&utm_medium=cpc&utm_campaign=17873985255&utm_term=design%20software&utm_content=613237509572&gclid=Cj0KCQjwkt6aBhDKARIsAAyeLJ2tS_qfB9w63_uwByAElTGIXk3qtPAajqy-1XXZRc_sjn-xXjlw4WYaArnaEALw_wcB)
+- [InVision](https://www.invisionapp.com/)
+- [Sketch](https://www.sketch.com/)
+- [Webflow](https://www.g2.com/products/webflow/reviews)
+- [Lunacy](https://icons8.com/lunacy)
+- [Origami](https://origami.design/)
+- [FluidUI](https://www.fluidui.com/)
+- [Vectr](https://vectr.com/)
 
 
 ## Prototyping tools for UI/UX
@@ -87,6 +94,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Firebase](https://firebase.google.com)
 - [Gitlab](https://docs.gitlab.com/ee/user/project/pages/)
 - [Github](https://github.com/)
+- [glitch](https://glitch.com/)
+- [pagecloud](https://www.pagecloud.com/)
 - [Render](https://render.com)
 - [Surge](https://surge.sh)
 - [Wix](https://www.wix.com/html5en/hiker-hosting)
@@ -98,6 +107,21 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Glitch](https://glitch.com/)
 - [Fleek](https://fleek.co/)
 - [ByetHost](https://byet.host/)
+
+- [Strikingly](https://www.strikingly.com/)
+- [WordPress](https://www.wordpress.com/)
+- [Weebly](https://www.weebly.com/)
+- [Jimdo](https://www.jimdo.com/)
+- [AwardSpace](https://www.awardspace.com/)
+- [Anglefire](https://www.anglefire.com/)
+- [Neocities](https://www.neocities.com/)
+- [Tripod](https://www.tripod.com/)
+- [uCoz](https://www.ucoz.com/)
+- [FreeHostingEU](https://www.freehostingeu.com/)
+- [u Host Full](https://www.uhostfull.com/)
+- [Freehostia](https://www.freehostia.com/)
+- [000webhost.com](https://www.000webhost.com/)
+
 
 
 
@@ -126,6 +150,10 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Open Classrooms](https://openclassrooms.com/)
 - [DevDocs.io](https://devdocs.io/)
 - [codewithharry.com](https://www.codewithharry.com/)
+- [CodePen](https://codepen.com/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [Tutorialspoint](https://tutorialspoint.com/)
+- 
 
 ## Websites for code challenges
 
@@ -151,12 +179,13 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Project Euler](http://projecteuler.net)
 - [Sphere Online Judge](http://spoj.com)
 - [Top Coder](http://topcoder.com)
+- [CSES](https://cses.fi/problemset/)
 
 ## Web Images or Photos
 
 - [Flickr](https://www.flickr.com/)
 - [Unsplash](http://unsplash.com)
-- [Pixaby](http://pixabay.com)
+- [Pixabay](http://pixabay.com)
 - [Pexels](http://pexels.com)
 - [Burst.shopify](https://burst.shopify.com/)
 - [Freepik](https://www.freepik.com/)
@@ -169,10 +198,13 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Colorhunt](http://colorhunt.co)
 - [Paletton](http://paletton.com)
 - [Color Hex](http://color-hex.com)
+- [ColorSpace](https://mycolor.space/)
 - [Color Picker](https://imagecolorpicker.com/en#google_vignette)
 - [MyColor](http://mycolor.space)
+- [Khroma](https://www.khroma.co/)
 - [UIColorPicker](https://uicolorpicker.com/)
 - [Realtime Colors](https://www.realtimecolors.com)
+- [Adobe Colors](https://color.adobe.com)
 
 ## Chrome Extensions For Web Developers
 
@@ -200,9 +232,11 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 
 - [Chart.js](https://www.chartjs.org/)
 - [D3.js](https://d3js.org/)
-- [Three.js](https://threejs.org/)
+- [ECharts](http://echarts.baidu.com/)
+- [EpochJS](https://epochjs.github.io/epoch/)
 - [FusionCharts](https://www.fusioncharts.com/)
 - [Google Data Studio](https://datastudio.google.com/visualization)
+- [SigmaJS](https://www.sigmajs.org/)
 
 ## Web Illustrations
 
@@ -300,6 +334,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [HTML Tutorial - How to Make a Super Simple Website(Freecodecamp)](https://www.youtube.com/watch?v=PlxWf493en4)
 - [HTML & CSS Full Course - Beginner to Pro(SuperSimpleDev](https://www.youtube.com/watch?v=G3e-cpL7ofc&t=19628s)
 - [HTML: HyperText Markup Language](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [HTML Full Course For Beginners - Brocode](https://www.youtube.com/watch?v=HGTJBPNC-Gw)
 
 
 ## CSS Learning Resources
@@ -309,6 +344,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [CSS Tutorial - Zero to Hero (Complete Course)(Freecodecamp)](https://www.youtube.com/watch?v=1Rs2ND1ryYc)
 - [CSS tips and tricks - Kevin Powell](https://www.youtube.com/kepowob)
 - [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ## JS Learning Resources
 - [Learn JavaScript - Full Course for Beginners (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
@@ -350,6 +386,8 @@ More information about the pack can be found here [Github Student Developer Pack
 ## Website for Project Management and Notes
 
 - [Notion](https://www.notion.so/)
+- [Asana](https://asana.com/)
+- [Evernote](https://evernote.com/)
 
 ## User Authentication
 
@@ -433,6 +471,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [CSS tips and tricks - Kevin Powell](https://www.youtube.com/kepowob)
 - [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
 - [CSS: Cascading Style Sheets - Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [CSS-Tricks](https://css-tricks.com)
 
 ## JS Learning Resources
 - [Learn JavaScript - Full Course for Beginners (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
@@ -486,7 +525,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Ember.js](https://emberjs.com/)
 - [Next.js](https://nextjs.org/)
 - [Gatsby](https://www.gatsbyjs.com/)
-
+- [Astro](https://astro.build/)
 
 
 ## Top JavaScript Runtime
@@ -507,6 +546,8 @@ More information about the pack can be found here [Github Student Developer Pack
 
 |      |      |      |      |
 |------|------|------|------|
+| [3D Portfolio](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/3D-Portfolio) | [3D](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/3D)  |  [Blog Website ](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Blog-Website) | [Bloggers Website ](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Blogger-Website-main/blogers%20%20website) |
+| [Bootstrap Portfolio](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Bootstrap%20Portfolio) | [Calculator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/calculator) | [Catch Me Card Game](https://github.com/Tanmay-Giram/Ultimate-Web-Development-Resources/tree/adding-Catch-Me-Card-Game/Catch%20Me%20Card%20Edition) | | [Chess](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Chess) | [City Finder](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/City%20Finder) |
 | [3D Portfolio](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/3D-Portfolio) | [3D](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/3D) |  [ ASCII VALUE GENERATOR ](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/ascii-value-generator) |  [Blog Website ](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Blog-Website) | [Bloggers Website ](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Blogger-Website-main/blogers%20%20website) |
 | [Bootstrap Portfolio](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Bootstrap%20Portfolio) | [Calculator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/calculator) | [Chess](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Chess) | [City Finder](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/City%20Finder) |
 | [Clock Project](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/ClockProject) | [Disney Character Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/disney-character-game) | [Drum Kit](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/DRUM-KIT) | [Dice Challenge](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Dice-Challenge) |
@@ -517,9 +558,10 @@ More information about the pack can be found here [Github Student Developer Pack
 [Password Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Password%20Generator) | [Portfolio 1](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/portfolio) | [Portfolio 2](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Portfolio_02) | [QR Code Generator 1](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/QR_Code_Generator_1) |
 | [QR Code Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Qr_Code_Generator) | [Quiz](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Quiz) | [Random Background Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Random-Background-Generator) | [Recipe Finder](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Recipe-Finder) | 
 | [Scannable QR Code Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Scannable%20QR%20CODE%20Generator) | [Stone Paper Scissor Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/StonePaperScissor-Game) |[Table Tennis Scorekeeper](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Table%20Tennis%20scorekeeper) | [Task Management App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/task-management-app) | [Temperature Convertor](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/tempreture-converter) | 
-[Tic Tac Toe](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/TicTacToe%20Game) | [To Do List](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/to-do-list) | [Typing Progress Bar](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Typing%20Progress%20Bar) | [Weather App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WeatherApp) | 
+| [Tic Tac Toe](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/TicTacToe%20Game) | [To Do List](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/to-do-list) | [Typing Progress Bar](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Typing%20Progress%20Bar) | [Weather App](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WeatherApp) | 
 | [Wix Template](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/WixTemplate) | [URL Shortner](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/url-shortner) | [Aim Training](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Aim-training) | [Flappy Bird Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Flappy_Bird_Game)  | [Desktop Notification](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Desktop%20Notification) | [Linear_gradient_background](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Linear_gradient_background) | [Tic Tac Toe Game](https://github.com/DevanshKyada27/Ultimate-Web-Development-Resources/tree/TicTacToe-Game/TicTacToeGame)
-| [Joke Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/JokeGenerator) | [Rock-Paper-Scissor-Game-V2](https://github.com/Shreyasb1015/Ultimate-Web-Development-Resources/tree/new_branch/rock-paper-scissor-game-V2) |
+| [Joke Generator](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/JokeGenerator) | [Rock-Paper-Scissor-Game-V2](https://github.com/Shreyasb1015/Ultimate-Web-Development-Resources/tree/new_branch/rock-paper-scissor-game-V2) | [Book Cricket Game](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Book-cricket-game) | [ Voice-Recorder ](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Voice-Recorder)
+
 
 Please note that the links provided are the GitHub repository URLs for each project.
 
@@ -527,7 +569,11 @@ Please note that the links provided are the GitHub repository URLs for each proj
 
 - [Security Headers](https://securityheaders.com/)
 - [SSL Labs ](https://www.ssllabs.com/)
+- [HackerTarget](https://hackertarget.com/vulnerability-scanner/)
+- [Qualys SSL Labs](https://www.ssllabs.com/ssltest/)
 
+## License
+This project is licensed under the CC0 1.0 Universal - see the [LICENSE](./LICENSE) file for details.
 
 ## Tutorial in Other Languages
 

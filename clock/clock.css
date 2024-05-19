@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+}
+
+.container {
+    margin: 20px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #333;
+}
+
+.clock {
+    font-size: 36px;
+    margin: 20px;
+}
+
+.time {
+    font-weight: bold;
+}
+
+.alarm-form {
+    margin: 20px;
+}
+
+button {
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.alarm-message {
+    font-size: 24px;
+    color: #ff0000;
+    margin: 20px;
+}
