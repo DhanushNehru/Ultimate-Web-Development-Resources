@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css?family=Pacifico:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Cabin");
+
+.container {
+  background-color: #0a192f;
+  height: 95vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.mobile-container {
+  height: 570px;
+  width: 390px;
+  border-radius: 3%;
+  background-color: #172a46;
+  box-shadow: 0 0 0px 1px #5ff0d0;
+  justify-items: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin: 10px;
+}
+
+.logo {
+  height: 100px;
+  width: 120px;
+}
+.logo-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.title {
+  font-family: "Pacifico", sans-serif;
+  text-shadow: #5ff0d0 0px 0px 10px;
+  font-size: 24px;
+  color: white;
+  font-weight: 400;
+  text-align: center;
+}
+
+#start,
+#new-recording {
+  border-radius: 20px;
+  border: #5ff0d0 2px solid;
+  background-color: #122137;
+  width: 170px;
+  text-align: center;
+  color: white;
+  font-weight: 300;
+  height: 30px;
+  font-family: "Cabin", sans-serif;
+  cursor: pointer;
+  padding: 8px;
+  margin-top: 7rem;
+}
+#stop:hover,
+#resume:hover,
+#pause:hover,
+#start:hover {
+  box-shadow: 0 0 3px 3px #5ff0d0;
+}
+#stop:active,
+#resume:active,
+#pause:active,
+#start:active,
+#download-recording:active {
+  transform: translateY(0.5px);
+}
+
+#timer {
+  font-family: "Pacifico", sans-serif;
+  text-shadow: #5ff0d0 0px 0px 1px;
+  font-size: 60px;
+  margin-top: 5rem;
+  color: white;
+  font-weight: 400;
+}
+
+#controls {
+  display: flex;
+  justify-content: space-between;
+  width: 200px;
+  padding-top: 8px;
+  margin-top: 5rem;
+}
+
+#stop,
+#resume,
+#pause {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  border: 1px solid #0a192f;
+}
+
+#output {
+  font-family: "Cabin", sans-serif;
+  font-size: 17px;
+  margin:2px;
+  color: rgb(188, 188, 188);
+}
+
+.footer {
+  font-family: "Pacifico", sans-serif;
+  display: flex;
+  justify-content: center;
+  font-size: 10px;
+}
+
+#audio-container{
+  margin-top: 10px;
+}
+
+audio{
+  height: 50px;
+}
