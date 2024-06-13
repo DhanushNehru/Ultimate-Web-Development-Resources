@@ -1,0 +1,33 @@
+body {
+    margin: 0px;
+    margin-top: 35dvh;
+    width: 100vw;
+    height: 100wh;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    overflow-x: hidden;
+  
+  }
+  
+  input {
+    margin-top: 0px;
+  }
+  
+  output {
+    font-size: 22px;
+    font-family: sans-serif;
+  }
+  
+  p {
+      margin-top: 50px;
+  }
+
+  .ft{
+    margin-top: 36dvh;
+  }
+
+  
+  
+  
+  
+  
