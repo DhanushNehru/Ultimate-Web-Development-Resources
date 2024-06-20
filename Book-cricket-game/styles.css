@@ -1,16 +1,28 @@
 body {
-    display: flex;
+    /*display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
+    height: 100vh;*/
     margin: 0;
     background-color: #f0f0f0;
   }
-  
+  .top{
+    text-align: center;
+    width: 100%;
+    background-color: rgba(0, 255, 255, 0.217);
+    float: left;
+  }
   .container {
     text-align: center;
+    float: left;
+    /*width: 49.88%;*/
+    width: 100%;
+    height: 632px;
+    background-color: burlywood;
+    padding-top: 120px;
+    border-style: dashed;
+    border-width: 1px;
   }
-  
   button {
     margin-top: 20px;
     padding: 10px 20px;
