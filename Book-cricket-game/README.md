@@ -5,10 +5,11 @@ This is a simple cricket game implemented using HTML, CSS, and JavaScript. In th
 ## How to Play
 
 1. Click the "Hit!" button to generate a random number between 0 and 9.
-2. If the generated number is 0, the batter is out.
+2. If the generated number is 0 or 5, the batter is out.
 3. If the generated number is 1, 2, 3, 4, or 6, those runs will be added to the batting team's score.
-4. Keep hitting to accumulate runs and try to avoid getting out.
-5. Enjoy the game and see how high you can score!
+4. If the generated number is 7, 8, or 9, it will be considered as wide.
+5. Keep hitting to accumulate runs and try to avoid getting out.
+6. Enjoy the game and see how high you can score!
 
 ## Technologies Used
 
