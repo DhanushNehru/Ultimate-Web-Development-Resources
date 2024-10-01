@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Colorful Socks E-commerce Platform</title>
+    <link rel="stylesheet" href="socks-ecommerce-styles.css">
+</head>
+<body>
+    <h1>Colorful Socks E-commerce Platform</h1>
+    <div id="products"></div>
+    <div id="cart"></div>
+    <button id="checkout">Checkout</button>
+
+    <script>
+        const products = [
+            { id: 1, name: 'Red Socks', price: 9.99, image: 'images/red-socks.jpg' },
+            { id: 2, name: 'Blue Socks', price: 9.99, image: 'images/blue-socks.jpg' },
+            { id: 3, name: 'Green Socks', price: 9.99, image: 'images/green-socks.jpg' }
+        ];
+
+        let cart = [];
+
+        function displayProducts() {
+            const productsDiv = document.getElementById('products');
+            productsDiv.innerHTML = products.map(product => `
+                <div class="product">
+                    <img src="${product.image}" alt="${product.name}">
+                    <h3>${product.name}</h3>
+                    <p>Price: $${product.price}</p>
+                    <button onclick="addToCart(${product.id})">Add to Cart</button>
+                </div>
+            `).join('');
+        }
+
+        function addToCart(productId) {
+            const product = products.find(p => p.id === productId);
+            cart.push(product);
+            updateCart();
+        }
+
+        function updateCart() {
+            const cartDiv = document.getElementById('cart');
+            cartDiv.innerHTML = `
+                <h2>Shopping Cart</h2>
+                ${cart.map(item => `<p>${item.name} - $${item.price}</p>`).join('')}
+                <p><strong>Total: $${cart.reduce((sum, item) => sum + item.price, 0).toFixed(2)}</strong></p>
+            `;
+        }
+
+        function checkout() {
+            if (cart.length === 0) {
+                alert('Your cart is empty!');
+            } else {
+                const total = cart.reduce((sum, item) => sum + item.price, 0).toFixed(2);
+                alert(`Thank you for your purchase! Total: $${total}`);
+                cart = [];
+                updateCart();
+            }
+        }
+
+        displayProducts();
+        document.getElementById('checkout').addEventListener('click', checkout);
+    </script>
+</body>
+</html>
