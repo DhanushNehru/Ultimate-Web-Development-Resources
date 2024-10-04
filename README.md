@@ -154,6 +154,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Stack Overflow](https://stackoverflow.com/)
 - [Tutorialspoint](https://tutorialspoint.com/)
 - [Scaler Blogs](https://www.scaler.com/blog/)
+- [MIT Open Courseware](https://ocw.mit.edu/search/?d=Electrical%20Engineering%20and%20Computer%20Science&s=department_course_numbers.sort_coursenum)
 
 ## Websites for code challenges
 
