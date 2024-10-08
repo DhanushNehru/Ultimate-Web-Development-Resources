@@ -1,0 +1,88 @@
+body { 
+    font-family: Arial, sans-serif; 
+    max-width: 1000px; 
+    margin: 0 auto; 
+    padding: 20px; 
+    background-color: #f0f0f0;
+}
+
+h1 { 
+    color: #333; 
+    text-align: center;
+}
+
+/* Grid system for products */
+#products {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); /* Responsive grid */
+    gap: 20px; /* Space between grid items */
+}
+
+.product { 
+    border: 1px solid #ddd; 
+    padding: 20px; 
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Increased shadow for more emphasis */
+    text-align: center; /* Center content */
+    transition: transform 0.2s; /* Smooth animation */
+}
+
+.product:hover {
+    transform: translateY(-5px); /* Slight hover effect */
+}
+
+.product img {
+    width: 100%; /* Make image take full width of container */
+    max-width: 200px; /* Constrain the image size */
+    height: 200px; /* Set height to match the width */
+    object-fit: cover; /* Maintain aspect ratio */
+    margin-bottom: 10px;
+}
+
+.product h3 {
+    color: #2c3e50;
+}
+
+.product p {
+    color: #34495e;
+}
+
+.product button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+.product button:hover {
+    background-color: #2980b9;
+}
+
+/* Styling for cart and checkout */
+#cart { 
+    margin-top: 20px; 
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+#checkout {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    background-color: #2ecc71;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+#checkout:hover {
+    background-color: #27ae60;
+}

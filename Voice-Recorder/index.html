@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<head>
+    <meta charset="utf-8">
+    <title>Voice Recorder</title>
+    <link rel="stylesheet" href="index.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="mobile-container">
+            <div class="title">Voice Recorder</div>
+            <div class="logo-container">
+                <img src="voice-recorder.png" class="logo" />
+            </div>
+            <div id="timer"> 00:00:00 </div>
+            <div id="output"></div>
+            <div id="start" onclick="startTimer()"> Click to Start</div>
+            <div id="audio-container" style="display: none;">
+                <audio id="audio-player" controls></audio>
+            </div>
+            <div id="new-recording" style="display: none;" onclick="reset()"> New Recording</div>
+            <div id="controls">
+                <div id="resume" style="display: none;" onclick="toggleTimer()">
+                    <i class="fa fa-play" title="Resume" style="font-size:24px;margin-left:7px;color:#5ff0d0;"></i>
+                </div>
+
+                <div id="pause" style="display: none;" onclick="toggleTimer()">
+                    <i class="fa fa-pause" title="Pause" style="font-size:24px;color:#5ff0d0;"></i>
+                </div>
+
+                <div id="stop" title="Stop" style="display:none" onclick="stopTimer()">
+                    <i class="fa fa-stop" style="font-size:24px;margin-left:1px;color:red;"></i>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="footer">
+        With ❤️ Designed and Developed by <a href="https://github.com/jeevaramanathan"> Jeeva Ramanathan </a>
+    </div>
+    </div>
+
+</body>
+<script src="index.js"></script>
+</html>
