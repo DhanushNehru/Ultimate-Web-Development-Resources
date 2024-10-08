@@ -107,7 +107,6 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Glitch](https://glitch.com/)
 - [Fleek](https://fleek.co/)
 - [ByetHost](https://byet.host/)
-
 - [Strikingly](https://www.strikingly.com/)
 - [WordPress](https://www.wordpress.com/)
 - [Weebly](https://www.weebly.com/)
@@ -121,9 +120,6 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [u Host Full](https://www.uhostfull.com/)
 - [Freehostia](https://www.freehostia.com/)
 - [000webhost.com](https://www.000webhost.com/)
-
-
-
 
 ## Websites to learn
 
