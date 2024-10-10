@@ -1,0 +1,276 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,wght@0,200;0,600;1,900&display=swap");
+@import url("https://rsms.me/inter/inter.css");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  font-family: "Raleway", sans-serif;
+}
+
+body {
+  background-color: whitesmoke;
+}
+body.dark-mode {
+  background-color: #000; /* Dark background color */
+  color: #fff;
+}
+.dark-mode {
+  background-color: #000; /* Dark background color */
+  color: #fff; /* Light text color for dark mode */
+}
+
+@supports (font-variation-settings: normal) {
+  html {
+    font-family: "Inter var", sans-serif;
+  }
+}
+
+.icons {
+  width: 22px;
+  height: 12px;
+  color: #282121c2;
+}
+.icons-mid {
+  width: 33px;
+  height: 33px;
+  color: #2d2d2d;
+}
+.icon {
+  width: 2rem;
+  height: 23px;
+  font-weight: 600;
+}
+.bg-image {
+  background-image: url("https://i.redd.it/t9zg0yrnlj0c1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  z-index: 10;
+}
+
+.bg-image1 {
+  background-image: url("https://i.pinimg.com/564x/f3/3c/40/f33c40bc2645d97343b917a18ef6cd23.jpg");
+}
+.bg-overlay {
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: -1;
+}
+
+.box-content {
+  @apply bg-white dark:bg-slate-600;
+}
+
+.app {
+  @apply relative w-full h-screen overflow-hidden;
+}
+
+.home {
+  @apply w-fit xl:h-full flex xl:justify-between justify-start items-start flex-col xl:py-8 xl:px-36  max-xl:gap-7 absolute z-10;
+}
+
+.home-content {
+  @apply flex-1 xl:justify-center justify-start flex flex-col gap-10;
+}
+
+.head-text {
+  @apply sm:text-[6rem] text-[3rem] xl:leading-[11rem] leading-[7rem] font-black text-white bg-clip-text;
+}
+.home-heading {
+  @apply text-white font-semibold;
+}
+
+.download-btn {
+  @apply w-14 h-14 flex justify-center items-center rounded-full  cursor-pointer outline-none;
+}
+
+.editortabs-container {
+  @apply glassmorphism w-16 border-[2px] rounded-lg flex flex-col justify-center items-center ml-1 py-4 gap-4;
+}
+
+.filtertabs-container {
+  @apply absolute z-10 bottom-5 right-0 left-0 w-full flex justify-center items-center flex-wrap gap-4;
+}
+
+.aipicker-container {
+  @apply absolute left-full ml-3 glassmorphism p-3 w-[195px] h-[220px] rounded-md flex flex-col gap-4;
+}
+
+.aipicker-textarea {
+  @apply w-full bg-transparent text-sm border border-gray-300 p-2 outline-none flex-1;
+}
+
+.filepicker-container {
+  @apply absolute left-full ml-3 glassmorphism p-3 w-[195px] h-[220px] flex flex-col rounded-md;
+}
+
+.filepicker-label {
+  @apply border border-gray-300 py-1.5 px-2 rounded-md shadow-sm text-xs text-gray-700 focus:outline-none focus:ring-1 focus:ring-blue-500 focus:border-blue-500 cursor-pointer w-fit;
+}
+
+.tab-btn {
+  @apply w-14 h-14 flex justify-center items-center cursor-pointer select-none;
+}
+
+.glassmorphism {
+  background: rgba(96, 95, 95, 0.25);
+  box-shadow: 0 2px 30px 0 rgba(195, 196, 200, 0.07);
+
+  backdrop-filter: blur(555px);
+  -webkit-backdrop-filter: blur(4px);
+  opacity: 10;
+  border: 1px solid rgba(255, 248, 248, 0.18);
+}
+.glassmorphism-bg {
+  background: rgba(213, 220, 245, 0.25);
+  box-shadow: 0 2px 30px 0 rgba(195, 196, 200, 0.07);
+
+  backdrop-filter: blur(555px);
+  -webkit-backdrop-filter: blur(4px);
+  opacity: 10;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 800px;
+
+  height: auto;
+  background: #273248;
+  margin: 50px auto;
+  word-break: break-all;
+  border: 1px solid #000;
+  box-shadow: 10px 10px 10px #00000054;
+}
+.container-bg {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+
+  height: auto;
+  flex-wrap: nowrap;
+  margin: 50px;
+  word-break: break-all;
+  border: 0.2px solid #00000000;
+  box-shadow: 0px 0px 5px #9a9a9a33;
+}
+
+.bloc-tabs {
+  display: flex;
+}
+
+.tabs {
+  padding: 15px;
+  cursor: pointer;
+  text-align: center;
+  width: 50%;
+  color: antiquewhite;
+  background: #000;
+}
+
+.bloc-tabs .tabs {
+  padding: 15px;
+  cursor: pointer;
+  text-align: center;
+  width: 50%;
+  color: antiquewhite;
+  background: #000;
+}
+
+/* Styles for tab buttons (except the last one) */
+.bloc-tabs .tabs:not(:last-child) {
+  border-right: 1px solid #000;
+}
+
+.active-tabs {
+  background-image: linear-gradient(to top #2d2d2d, #2c2dc2);
+  color: antiquewhite;
+}
+.content-tabs {
+  flex-grow: 1;
+}
+
+.content {
+  background-color: #000;
+  padding: 24px;
+  width: 100%;
+  height: 100%;
+  color: white;
+  list-style-type: none;
+}
+
+.content h2 {
+  padding: 0px 0px 0px 5px;
+}
+
+.content hr {
+  width: 100px;
+  height: 2px;
+  background-color: yellow;
+}
+
+.content p {
+  width: 100%;
+  height: 100%;
+}
+.active-content {
+  display: block;
+}
+
+.icons-color {
+  color: rgb(36, 37, 38);
+  width: 2rem;
+  height: 3rem;
+  text-align: center;
+}
+.icons-color:hover {
+  color: rgb(0, 0, 0);
+}
+
+.icon-size {
+  width: 1.9rem;
+  height: 1.9rem;
+}
+
+.flip-card {
+  perspective: 1000px;
+  width: 40rem;
+  height: 25rem;
+  cursor: pointer;
+  z-index: 1;
+}
+
+.flip-card-inner {
+  width: 100%;
+  height: 80%;
+  transition: transform 0.5s;
+  transform-style: preserve-3d;
+  transform: rotateY(0deg);
+
+  margin: 6;
+}
+
+.flip-card.flipped .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front,
+.flip-card-back {
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  background-color: #fff;
+}
+
+.flip-card-back {
+  transform: rotateY(180deg);
+}
+
+/* <div className="flip-card-inner rounded-md  dark:text-gray-300 bg-slate-50 dark:bg-slate-800  relative w-full h-[320px] p-1 flip-card-inner  items-center justify-center gap-12 bg-black-200   xs:w-[320px]    "> */

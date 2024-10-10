@@ -1,0 +1,55 @@
+import React from "react";
+import { motion, AnimatePresence } from "framer-motion";
+
+import { useSnapshot } from "valtio";
+
+import { CustomButton } from "../components";
+import {
+  headContainerAnimation,
+  headContentAnimation,
+  headTextAnimation,
+  slideAnimation,
+} from "../config/motion";
+import state from "../store";
+export default function Home() {
+  const snap = useSnapshot(state);
+  return (
+    <AnimatePresence className =" bg-gray-50 text-gray-950 relative text-center h-[5000px] pt-28 sm:pt-36  ">
+      {snap.intro && (
+        <motion.section className="home" {...slideAnimation("left")}>
+        
+          <motion.div className="home-content " {...headContainerAnimation}>
+            <motion.div className="" {...headTextAnimation}>
+              <h1 className="head-text sm:text-3xl ">
+                {" "}
+                Simplify <br className="xl:block hidden" />
+                Tournament Management
+              </h1>
+            </motion.div>
+
+            <motion.div
+              {...headContentAnimation}
+              className="flex flex-col gap-5 "
+            >
+              {" "}
+              <p className="max-w-md font-normal text-gray-600 text-base">
+                {" "}
+                Join the millions who trust Challonge to manage their
+                tournaments. More than <strong> 6,239,040 </strong>3brackets
+                created around the
+              </p>
+              <CustomButton
+                type="filled"
+                title="Create Tournament"
+                handleClick={() => (state.intro = false)}
+                customStyles=" font-bold text-sm w-fit px-4 py-2.5"
+              />
+            </motion.div>
+          </motion.div>
+        </motion.section>
+      )}
+
+   
+    </AnimatePresence>
+  );
+}
