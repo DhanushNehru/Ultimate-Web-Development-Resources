@@ -1,4 +1,13 @@
-# [Ultimate-Web-Development-Resources](https://dhanushnehru.github.io/Ultimate-Web-Development-Resources)
+# [Ultimate Web Development Resources](https://dhanushnehru.github.io/Ultimate-Web-Development-Resources)
+
+<div align="center">
+  
+[![Join Our Discord](https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord&style=for-the-badge)](https://discord.com/invite/Yn9g6KuWyA)
+[![Subscribe on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@dhanushnehru?sub_confirmation=1)
+[![Subscribe to Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-orange?style=for-the-badge)](https://dhanushn.substack.com/)
+
+</div>
+
 
 A collection of Web Developement Resources at one place
 
@@ -83,6 +92,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Balsamiq Wireframing](https://balsamiq.com/)
 - [Axure RP](https://www.axure.com/)
 - [Origami Studio](https://origami.design/)
+- [strapi](https://strapi.io/)
 
 ## Free Hosting
 
@@ -107,7 +117,6 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Glitch](https://glitch.com/)
 - [Fleek](https://fleek.co/)
 - [ByetHost](https://byet.host/)
-
 - [Strikingly](https://www.strikingly.com/)
 - [WordPress](https://www.wordpress.com/)
 - [Weebly](https://www.weebly.com/)
@@ -121,9 +130,6 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [u Host Full](https://www.uhostfull.com/)
 - [Freehostia](https://www.freehostia.com/)
 - [000webhost.com](https://www.000webhost.com/)
-
-
-
 
 ## Websites to learn
 
@@ -314,7 +320,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [StyleShout](https://www.styleshout.com/free-templates/)
 - [Awwwards](https://www.awwwards.com/)
 - [Themes For App](https://themesfor.app/)
-- [Divi]( https://www.elegantthemes.com/examples/)
+- [Divi](https://www.elegantthemes.com/examples/)
+- [HTMLrev](https://htmlrev.com/)
 
 ## Website Copier
 
