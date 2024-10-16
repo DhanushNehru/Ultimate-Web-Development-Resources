@@ -57,6 +57,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Frontend Development](https://roadmap.sh/frontend)
 - [Backend Development](https://roadmap.sh/backend)
 - [FullStack Development](https://www.theinsaneapp.com/2020/11/web-developer-roadmap-by-kamran-ahmed.html)
+- [Java Full Stack Development](https://www.scaler.com/blog/java-full-stack-developer-roadmap/)
 
 ## Web design softwares
 
@@ -158,7 +159,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [CodePen](https://codepen.com/)
 - [Stack Overflow](https://stackoverflow.com/)
 - [Tutorialspoint](https://tutorialspoint.com/)
-- [Scaler Blogs](https://www.scaler.com/blog/)
+- [Scaler](https://www.scaler.com/blog/)
 
 ## Websites for code challenges
 
