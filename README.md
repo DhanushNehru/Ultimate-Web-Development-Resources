@@ -500,6 +500,12 @@ More information about the pack can be found here [Github Student Developer Pack
 - [StackBlitz](https://stackblitz.com/)
 - [Replit](https://replit.com)
 
+
+## Code Generators
+
+- [React Native Shadow Generator](https://launchyourapp.dev/tools/react-native-shadow-generator)
+
+
 ## Top React Component Libraries
 
 - [Material UI](https://mui.com/core/)
