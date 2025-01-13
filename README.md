@@ -160,6 +160,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Stack Overflow](https://stackoverflow.com/)
 - [Tutorialspoint](https://tutorialspoint.com/)
 - [Scaler](https://www.scaler.com/blog/)
+- [LabEx](https://labex.io)
 
 ## Websites for code challenges
 
@@ -181,6 +182,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [InterviewBit](https://www.interviewbit.com/practice/)
 - [JavaScript30](https://javascript30.com/)
 - [KodeKloud](https://kodekloud.com/kodekloud-engineer/)
+- [LabEx Interview Questions](https://labex.io/interview-questions)
 - [Leet Code](http://leetcode.com)
 - [Project Euler](http://projecteuler.net)
 - [Sphere Online Judge](http://spoj.com)
