@@ -592,7 +592,7 @@ This project is licensed under the CC0 1.0 Universal - see the [LICENSE](./LICEN
 
 - [Indonesian](./lang/indonesian.md)
 
-Hey, I'm Dhanush N. You can connect with me and follow my work via [X / (Twitter)](https://twitter.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1)
+Hey, I'm Dhanush N. You can connect with me and follow my work via [X](https://x.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1)
 
 Searching for a job? This may help you
 [Ultimate Tech Job List](https://github.com/DhanushNehru/Ultimate-Tech-Jobs)
