@@ -426,6 +426,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Glassmorphism CSS Generator](https://markodenic.com/tools/glassmorphism-css-generator/)
 - [Ready-made CSS animations](https://animista.net/)
 - [Keyframes Generators](https://keyframes.app/)
+- [CSS Claymorphism Generator](https://cssnippets.shefali.dev/claymorphismgenerator)
 
 ## Free YouTube resources
 
