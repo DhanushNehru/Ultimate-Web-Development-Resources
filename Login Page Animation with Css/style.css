@@ -1,0 +1,197 @@
+*{
+    font-family: 'Indie Flower', cursive;
+font-family: 'Inter', sans-serif;
+margin:0;
+padding: 0;
+
+}
+.material-symbols-outlined {
+    position: absolute;
+    right: 8px; 
+    top: 20px;
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 24
+  }
+ section{
+    background-color: #3586ff;
+ display: flex;
+ justify-content: center;
+ height: 100vh;
+  align-items: center;
+  width: 100%;
+  overflow: hidden;
+  }
+  .form-box{
+    position: relative;
+    background-color: #9dc4ff;
+    height: 410px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+  }
+
+  h2{
+    font-size: 2em;
+    color: #192655;
+    text-align: center;
+  }
+
+  .inputbox{
+    position: relative;
+    margin: 30px 0;
+   width: 310px;
+   border-bottom: 2px solid #fff; 
+  }
+  .inputbox label{
+    position: absolute;
+    top: 50%;
+    left:5px;
+    transform: translateY(-50%);
+    color: black;
+    font-size: 1em;
+    pointer-events: none;
+    transition:  2s;
+  }
+   
+  input:focus ~ label,
+  input:not(:placeholder-shown)~ label
+ {
+    top: -5px;
+    transition: 0.5s;
+  }
+  
+
+  .inputbox input{
+    width: 100%;
+    height: 50px;
+    background: transparent;
+    outline: none;
+    border:none;
+    font-size: 1em;
+    padding:0 35px 0 5px;
+  }
+
+  .forget{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+  }
+  #remem{
+    margin-right: 10px;
+  }
+  #fp{
+    text-decoration: none;
+    margin-left: 10px;
+  }
+  #fp:hover{
+    text-decoration: underline;
+    color: red;
+  }
+
+  button{
+      width: 100%;
+      height: 40px;
+      border-radius: 40px;
+      border: none;
+      outline: none;
+      cursor:pointer;
+      font-size: 1.25em;
+      font-weight: 700;
+      background-color: #fff;
+  }
+  button:hover{
+    background-color: #0F2C59;
+    color: #fff;
+  }
+  .register{
+    cursor:default;
+    font-size: 0.9em;
+    font-weight: 500;
+    text-align: center;
+    margin: 25px 0 15px;
+  }
+  .register a{
+    text-decoration: none;
+    margin-left: 10px;
+  }
+  #ra:hover{
+    text-decoration: underline;
+    font-weight: 600;
+  }
+
+.wave{
+    position:absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100px;
+   background: url(wave.png);
+   background-size: 1000px 100px;
+
+}
+.wave1{
+ animation: animate 5s linear infinite;   
+ z-index: 1000;
+ opacity: 0.8;
+ animation-delay:0s;
+ bottom:0;
+}
+@keyframes animate {
+     0%{
+background-position: 0;
+     }
+     100%{
+background-position: 1000px;
+     }
+    
+}
+.wave2{
+    animation: animate2 15s reverse infinite;   
+    z-index: 998;
+    opacity: 0.5;
+    animation-delay:-5s;
+    bottom:10px;
+   }
+   @keyframes animate2 {
+        0%{
+   background-position: 0;
+        }
+        100%{
+   background-position: 1000px;
+        }
+   }
+   .wave3{
+    animation: animate3 20s linear infinite;   
+    z-index: 998;
+    opacity: 0.2;
+    animation-delay:-2s;
+    bottom:15px;
+   }
+   @keyframes animate3 {
+        0%{
+   background-position: 0;
+        }
+        100%{
+   background-position: 1000px;
+        }
+   }
+   .wave4{
+    animation: animate4 10s reverse infinite;   
+    z-index: 950;
+    opacity: 0.7;
+    animation-delay:-5s;
+    bottom:20px;
+   }
+   @keyframes animate4 {
+        0%{
+   background-position: 0;
+        }
+        100%{
+   background-position: 1000px;
+        }
+   }
