@@ -481,6 +481,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [CSS-Tricks](https://css-tricks.com)
 
 ## JS Learning Resources
+- [Chai aur JavaScript - Hitesh Chaudhary](https://youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37&si=kKISovzJC-bSftfj)
 - [Learn JavaScript - Full Course for Beginners (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 - [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour (YouTube - Programming With Mosh)](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 - [JavaScript Programming - Full Course (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=jS4aFq5-91M)
