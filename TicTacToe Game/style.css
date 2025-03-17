@@ -1,5 +1,5 @@
 h1 {
-	color: orangered;
+	color: rgb(14, 19, 10);
 	margin-bottom: -5px;
 }
 p {
@@ -80,13 +80,13 @@ p {
 	box-sizing: border-box;
 	width: 95px;
 	height: 40px;
-	border: 1px solid dodgerblue;
-	margin-left: auto;
-	border-radius: 8px;
+	border: 1px solid rgb(4, 21, 38);
+	margin-left: bottom;
+	border-radius: 10px;
 	font-family: Verdana,
 		Geneva, Tahoma, sans-serif;
 
-	background-color: whitesmoke;
+	background-color: rgb(181, 208, 212);
 	color: dodgerblue;
 	font-size: 20px;
 	cursor: pointer;
@@ -110,4 +110,9 @@ p {
 	font-family: Verdana,Geneva,
 					Tahoma, sans-serif;
 	color: dodgerblue;
+}
+
+.winning-cell {
+    background-color: yellow; /* or any other color you prefer */
+    transition: background-color 0.5s ease; /* Add a smooth transition effect */
 }
