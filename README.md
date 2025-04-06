@@ -374,7 +374,6 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [NextJS-Docs](https://nextjs.org/docs)
 
 ## Bio Links
-
 - [Linktree](https://linktr.ee/)
 - [HeyLink](https://heylink.me/)
 - [BioLink](https://bio.link/)
@@ -382,22 +381,18 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 
 
 ## Github Student Developer Pack Resources
-
-More information about the pack can be found here [Github Student Developer Pack](https://www.geeksforgeeks.org/what-is-github-student-developer-pack-and-how-to-get-it/)
-
+- More information about the pack can be found here [Github Student Developer Pack](https://www.geeksforgeeks.org/what-is-github-student-developer-pack-and-how-to-get-it/)
 - [FrontendMaster](https://frontendmasters.com/)
 - [OneMonth](https://onemonth.com/github/students)
 - [Datacamp](https://www.datacamp.com/)
 - [Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
 
 ## Website for Project Management and Notes
-
 - [Notion](https://www.notion.so/)
 - [Asana](https://asana.com/)
 - [Evernote](https://evernote.com/)
 
 ## User Authentication
-
 - [Auth0](https://auth0.com/)
 - [Passport.JS](https://www.passportjs.org/)
 - [KeyCloak](https://www.keycloak.org/)
@@ -408,12 +403,10 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Okta](https://developer.okta.com/docs/reference/api/authn/)
 
 ## Animations and Graphics
-
 - [Lottie Animations](https://lottiefiles.com/featured)
 - [Rive Animations](https://rive.app/)
 
 ## Awesome CSS generators
-
 - [Buttons CSS generator](https://markodenic.com/tools/buttons-generator/)
 - [Animista](https://animista.net/)
 - [Clippy](https://bennettfeely.com/clippy/)
@@ -429,7 +422,7 @@ More information about the pack can be found here [Github Student Developer Pack
 - [CSS Claymorphism Generator](https://cssnippets.shefali.dev/claymorphismgenerator)
 
 ## Free YouTube resources
-
+- [Dhanush Nehru](https://www.youtube.com/@dhanushnehru)
 - [Codewithharry](https://www.youtube.com/c/CodeWithHarry/featured)
 - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
@@ -490,7 +483,6 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Learn JavaScript: Free JS Courses for Beginners (FreeCodeCamp - Documentation)](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 
 ## Code Playgrounds
-
 - [CodePen](https://codepen.io/)
 - [JSFiddle](https://jsfiddle.net/)
 - [JS Bin](http://jsbin.com/)
@@ -501,14 +493,10 @@ More information about the pack can be found here [Github Student Developer Pack
 - [StackBlitz](https://stackblitz.com/)
 - [Replit](https://replit.com)
 
-
 ## Code Generators
-
 - [React Native Shadow Generator](https://launchyourapp.dev/tools/react-native-shadow-generator)
 
-
 ## Top React Component Libraries
-
 - [Material UI](https://mui.com/core/)
 - [Ant Design](https://ant.design/)
 - [React-Bootstrap](https://react-bootstrap.github.io/)
@@ -519,7 +507,6 @@ More information about the pack can be found here [Github Student Developer Pack
 - [ThemeUI](https://theme-ui.com/)
 
 ## Top JavaScript Libraries
-
 - [jQuery](https://jquery.com/)
 - [React.js](https://reactjs.org/)
 - [D3.js](https://d3js.org/)
@@ -532,7 +519,6 @@ More information about the pack can be found here [Github Student Developer Pack
 - [face-api.js](https://github.com/justadudewhohacks/face-api.js/)
 
 ## Top JavaScript Frameworks
-
 - [AngularJS](https://angularjs.org/)
 - [Bootstrap](https://getbootstrap.com/)
 - [Vue.js](https://vuejs.org/)
@@ -541,15 +527,12 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Gatsby](https://www.gatsbyjs.com/)
 - [Astro](https://astro.build/)
 
-
 ## Top JavaScript Runtime
-
 - [Node.js](https://nodejs.org/en/)
 - [Bun](https://bun.sh/)
 - [Deno](https://deno.com/)
 
 ## Top JavaScript Frameworks Backend
-
 - [Express.js](https://expressjs.com/)
 - [Hapi.js](https://hapi.dev/)
 - [Meteor.js](https://www.meteor.com/)
@@ -557,7 +540,6 @@ More information about the pack can be found here [Github Student Developer Pack
 - [Nest.js](https://nestjs.com/)
 
 ## List Of Projects
-
 |      |      |      |      |
 |------|------|------|------|
 | [3D Portfolio](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/3D-Portfolio) | [3D](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/3D)  |  [Blog Website ](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Blog-Website) | [Bloggers Website ](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/tree/main/Blogger-Website-main/blogers%20%20website) |
@@ -580,7 +562,6 @@ More information about the pack can be found here [Github Student Developer Pack
 Please note that the links provided are the GitHub repository URLs for each project.
 
 ## Web For Testing and Check The Security Score 
-
 - [Security Headers](https://securityheaders.com/)
 - [SSL Labs ](https://www.ssllabs.com/)
 - [HackerTarget](https://hackertarget.com/vulnerability-scanner/)
@@ -590,8 +571,9 @@ Please note that the links provided are the GitHub repository URLs for each proj
 This project is licensed under the CC0 1.0 Universal - see the [LICENSE](./LICENSE) file for details.
 
 ## Tutorial in Other Languages
-
 - [Indonesian](./lang/indonesian.md)
+
+----
 
 Hey, I'm Dhanush N. You can connect with me and follow my work via [X](https://x.com/Dhanush_Nehru) / [Instagram](https://www.instagram.com/dhanush_nehru/) / [Youtube](https://www.youtube.com/@dhanushnehru?sub_confirmation=1)
 
