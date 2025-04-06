@@ -1,13 +1,8 @@
 # [Ultimate Web Development Resources](https://dhanushnehru.github.io/Ultimate-Web-Development-Resources)
 
-<div align="center">
-  
 [![Join Our Discord](https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord&style=for-the-badge)](https://discord.com/invite/Yn9g6KuWyA)
 [![Subscribe on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@dhanushnehru?sub_confirmation=1)
 [![Subscribe to Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-orange?style=for-the-badge)](https://dhanushn.substack.com/)
-
-</div>
-
 
 A collection of Web Developement Resources at one place
 
