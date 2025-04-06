@@ -1,0 +1,95 @@
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Get or search top news headlines delivered from reputed leading news websites">
+  <title>NewsFinder by Amaan Warsi</title>
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-aFq/bzH65dt+w6FI2ooMVUpc+21e0SRygnTpmBvdBgSdnuTN7QbdgL+OapgHtvPp" crossorigin="anonymous">
+
+  <link href="https://fonts.googleapis.com/css?family=Playfair&#43;Display:700,900&amp;display=swap" rel="stylesheet">
+  <link href="blog.css" rel="stylesheet">
+</head>
+
+<body>
+
+  <div class="container">
+    <header class="blog-header lh-1 py-3">
+      <div class="row flex-nowrap justify-content-between align-items-center">
+        <div class="col-4">
+          <a class="blog-header-logo link-dark" href="/">NewsFinder</a>
+        </div>
+        <div class="col-4 d-flex justify-content-end align-items-center">
+          <a class="link-secondary mx-3" href="#!" id="toggleMode" aria-label="toggleMode">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-moon-stars" width="20" height="20" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+              <path stroke="none" d="M0 0h24v24H0z" fill="none"></path>
+              <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z"></path>
+              <path d="M17 4a2 2 0 0 0 2 2a2 2 0 0 0 -2 2a2 2 0 0 0 -2 -2a2 2 0 0 0 2 -2"></path>
+              <path d="M19 11h2m-1 -1v2"></path>
+            </svg>
+          </a>
+          <a class="link-secondary" data-bs-toggle="offcanvas" href="#offcanvas" role="button" aria-controls="offcanvas">Menu</a>
+
+        </div>
+      </div>
+    </header>
+    <div class="nav-scroller py-1 mb-2">
+      <nav class="nav d-flex justify-content-between">
+        <a class="p-2 link-secondary" href="?c=business">Business</a>
+        <a class="p-2 link-secondary" href="?c=entertainment">Entertainment</a>
+        <a class="p-2 link-secondary" href="?c=general">General</a>
+        <a class="p-2 link-secondary" href="?c=health">Health</a>
+        <a class="p-2 link-secondary" href="?c=science">Science</a>
+        <a class="p-2 link-secondary" href="?c=sports">Sports</a>
+        <a class="p-2 link-secondary" href="?c=technology">Technology</a>
+      </nav>
+    </div>
+  </div>
+
+  <main class="container">
+    <div class="offcanvas offcanvas-start w-75" tabindex="-1" id="offcanvas" aria-labelledby="offcanvasLabel">
+      <div class="offcanvas-header">
+        <h5 class="offcanvas-title" id="offcanvasLabel">Offcanvas</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+      </div>
+      <div class="offcanvas-body">
+        <nav class="nav nav-pills flex-column flex-sm-row">
+          <form action="/" method="GET">
+            <div class="input-group">
+              <input type="text" class="form-control" name="s" placeholder="Search...">
+            </div>
+          </form>
+          <a class="flex-sm-fill text-sm-center nav-link text-dark my-2 active" aria-current="page" href="/">Home</a>
+          <a class="flex-sm-fill text-sm-center text-dark my-2 nav-link" href="https://amaanwarsi.github.io/#about">About</a>
+          <a class="flex-sm-fill text-sm-center text-dark my-2 nav-link" href="https://amaanwarsi.github.io/#contact">Contact</a>
+          <a class="flex-sm-fill text-sm-center text-dark my-2 nav-link" href="https://github.com/amaanwarsi">Source Code</a>
+        </nav>
+      </div>
+    </div>
+    <div class="row mb-2" id="data">
+      <div id="spinner">
+        <div class="d-flex justify-content-center">
+          <div class="spinner-border" role="status">
+            <span class="visually-hidden">Loading...</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+  </main>
+
+  <footer class="blog-footer">
+    <p>Blog template built for <a href="https://getbootstrap.com/">Bootstrap</a> by <a href="https://twitter.com/mdo">@mdo</a>.</p>
+    <p>
+      <a href="#toggleMode">Back to top</a>
+    </p>
+  </footer>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha2/dist/js/bootstrap.bundle.min.js" integrity="sha384-qKXV1j0HvMUeCBQ+QVp7JcfGl760yU08IQ+GpUo5hlbpg51QRiuqHAJz8+BrxE/N" crossorigin="anonymous"></script>
+  <script src="main.js"></script>
+
+</body>
+
+</html>
