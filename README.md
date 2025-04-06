@@ -419,6 +419,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Glassmorphism CSS Generator](https://markodenic.com/tools/glassmorphism-css-generator/)
 - [Ready-made CSS animations](https://animista.net/)
 - [Keyframes Generators](https://keyframes.app/)
+- [CSS Claymorphism Generator](https://cssnippets.shefali.dev/claymorphismgenerator)
 
 ## Free YouTube resources
 - [Dhanush Nehru](https://www.youtube.com/@dhanushnehru)
