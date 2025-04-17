@@ -1,13 +1,8 @@
 # [Ultimate Web Development Resources](https://dhanushnehru.github.io/Ultimate-Web-Development-Resources)
 
-<div align="center">
-  
 [![Join Our Discord](https://img.shields.io/badge/Discord-Join%20Server-blue?logo=discord&style=for-the-badge)](https://discord.com/invite/Yn9g6KuWyA)
 [![Subscribe on YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/@dhanushnehru?sub_confirmation=1)
 [![Subscribe to Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-orange?style=for-the-badge)](https://dhanushn.substack.com/)
-
-</div>
-
 
 A collection of Web Developement Resources at one place
 
@@ -354,6 +349,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [CSS tips and tricks - Kevin Powell](https://www.youtube.com/kepowob)
 - [Introduction to CSS - Web Dev Simplified](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9D0J0Mtp6lIiD_8046k3si)
 - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbox Zombies - Learn flexbox by playing](https://mastery.games/flexboxzombies/)
 
 ## JS Learning Resources
 - [Learn JavaScript - Full Course for Beginners (YouTube - FreeCodeCamp)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
