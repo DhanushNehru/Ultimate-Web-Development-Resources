@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edible Items</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        h1 {
+            margin: 0;
+        }
+
+        .search-bar {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        input[type="text"] {
+            padding: 10px;
+            width: 200px;
+        }
+
+        select {
+            padding: 10px;
+            margin-left: 10px;
+        }
+
+        #card-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+
+        .card {
+            border: 1px solid #ccc;
+            margin: 10px;
+            padding: 10px;
+            max-width: 200px;
+            text-align: center;
+        }
+
+        .card img {
+            max-width: 100%;
+        }
+
+        .card h2 {
+            margin: 5px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Edible Items</h1>
+        <div class="search-bar">
+            <input type="text" id="search" placeholder="Search by name...">
+            <select id="category">
+                <option value="all">All Categories</option>
+                <option value="fruits">Fruits</option>
+                <option value="vegetables">Vegetables</option>
+                <option value="nonveg">Non-Veg</option>
+            </select>
+        </div>
+    </header>
+    <main id="card-container">
+    </main>
+    <script>
+        const cardContainer = document.getElementById("card-container");
+        const searchInput = document.getElementById("search");
+        const categorySelect = document.getElementById("category");
+
+        const data = [
+            { name: "Apple", category: "fruits", image: "apple.jpg"},
+            { name: "Banana", category: "fruits", image: "banana.png" },
+            { name: "Carrot", category: "vegetables", image: "carrot.jpg" },
+            { name: "Chicken", category: "nonveg", image: "chicken.jpg" },
+            { name: "Banana", category: "fruits", image: "banana.png" },
+            { name: "Carrot", category: "vegetables", image: "carrot.jpg" },
+            { name: "Apple", category: "fruits", image: "apple.jpg"},
+            { name: "Chicken", category: "nonveg", image: "chicken.jpg" },
+            { name: "Apple", category: "fruits", image: "apple.jpg"},
+            { name: "Banana", category: "fruits", image: "banana.png" },
+            { name: "Carrot", category: "vegetables", image: "carrot.jpg" },
+            { name: "Chicken", category: "nonveg", image: "chicken.jpg" },
+            { name: "Banana", category: "fruits", image: "banana.png" },
+            { name: "Carrot", category: "vegetables", image: "carrot.jpg" },
+            { name: "Apple", category: "fruits", image: "apple.jpg"},
+            { name: "Chicken", category: "nonveg", image: "chicken.jpg" },
+       
+        ];
+
+        function displayCards() {
+            cardContainer.innerHTML = ''; 
+            const searchTerm = searchInput.value.toLowerCase();
+            const selectedCategory = categorySelect.value;
+
+            const filteredItems = data.filter(item => {
+                const name = item.name.toLowerCase();
+                return (name.includes(searchTerm) && (selectedCategory === 'all' || item.category === selectedCategory));
+            });
+
+            filteredItems.forEach(item => {
+                const card = document.createElement("div");
+                card.classList.add("card");
+                card.innerHTML = `
+                    <img src="${item.image}" alt="${item.name}">
+                    <h2>${item.name}</h2>
+                    <p>Category: ${item.category}</p>
+                `;
+                cardContainer.appendChild(card);
+            });
+        }
+        searchInput.addEventListener("input", displayCards);
+        categorySelect.addEventListener("change", displayCards);
+
+    
+        displayCards();
+    </script>
+</body>
+</html>
