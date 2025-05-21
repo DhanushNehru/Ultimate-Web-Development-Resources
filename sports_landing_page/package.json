@@ -1,0 +1,48 @@
+{
+  "name": "client",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@auth0/auth0-react": "^2.2.1",
+    "@emailjs/browser": "^3.11.0",
+    "@g-loot/react-tournament-brackets": "^1.0.30",
+    "@react-three/drei": "^9.88.4",
+    "@react-three/fiber": "^8.14.6",
+    "axios": "^1.5.1",
+    "clsx": "^2.0.0",
+    "framer-motion": "^10.16.4",
+    "gsap": "^3.12.2",
+    "maath": "^0.10.4",
+    "react": "^18.2.0",
+    "react-bracket": "^0.0.4",
+    "react-color": "^2.19.3",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.11.0",
+    "react-tilt": "^1.0.2",
+    "react-tournament-bracket": "^0.2.4",
+    "tailwind-scrollbar-hide": "^1.1.7",
+    "three": "^0.157.0",
+    "valtio": "^1.11.2"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@vitejs/plugin-react": "^4.0.3",
+    "autoprefixer": "^10.4.16",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "postcss": "^8.4.31",
+    "react-router-dom": "^6.17.0",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.5"
+  }
+}
