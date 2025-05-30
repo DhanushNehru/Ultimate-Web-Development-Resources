@@ -586,3 +586,8 @@ If you liked this repository support it by starring ⭐
 Thank You for being here :)
 
 <!-- GitAds-Verify: 5T9XS1TFWX7PLNVOJA8I2Q8G4P84G7QV -->
+
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=dhanushnehru/ultimate-web-development-resources@github)](https://gitads.dev/v1/ad-track?source=dhanushnehru/ultimate-web-development-resources@github)
+
+
