@@ -539,6 +539,14 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Koa.js](https://koajs.com/)
 - [Nest.js](https://nestjs.com/)
 
+## Top TypeScript ORMs
+
+- [Sequelize](https://sequelize.org/)
+- [TypeORM](https://typeorm.io/)
+- [Prisma](https://prisma.io/)
+- [Micro-ORM](https://mikro-orm.io/)
+- [Objection.js](https://nestjs.com/)
+
 ## List Of Projects
 |      |      |      |      |
 |------|------|------|------|
