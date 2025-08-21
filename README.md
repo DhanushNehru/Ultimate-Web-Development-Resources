@@ -192,6 +192,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Unsplash](http://unsplash.com)
 - [Pixabay](http://pixabay.com)
 - [Pexels](http://pexels.com)
+- [StockSnap](https://stocksnap.io/)
 - [Burst.shopify](https://burst.shopify.com/)
 - [Freepik](https://www.freepik.com/)
 - [MorgueFile](https://morguefile.com/)
