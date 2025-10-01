@@ -308,7 +308,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 
 ## Free Website Templates For Inspiration
 
-- [Websitevice](https://websitevice.com/)
+- [Website Nice](https://websitenice.com/)
 - [One Page Love](https://onepagelove.com/)
 - [UIdeck](https://uideck.com/)
 - [Tooplate](https://www.tooplate.com/)
