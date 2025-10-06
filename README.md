@@ -8,6 +8,8 @@ A collection of Web Developement Resources at one place
 
 ![Ultimate-Web-Development-Resources by Dhanush N](https://raw.githubusercontent.com/DhanushNehru/Ultimate-Web-Development-Resources/main/cover.png)
 
+<a href="https://www.producthunt.com/products/ultimate-web-development-resources?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-ultimate&#0045;web&#0045;development&#0045;resources" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=993303&theme=light&t=1752676573991" alt="Ultimate&#0032;Web&#0032;Development&#0032;Resources - A&#0032;collection&#0032;of&#0032;web&#0032;dev&#0032;resources&#0032;for&#0032;most&#0032;of&#0032;your&#0032;needs | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ## Contributing
 
 Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/blob/main/CODE-OF-CONDUCT.md) for details before you contribute. 
@@ -306,6 +308,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 
 ## Free Website Templates For Inspiration
 
+- [Website Nice](https://websitenice.com/)
 - [One Page Love](https://onepagelove.com/)
 - [UIdeck](https://uideck.com/)
 - [Tooplate](https://www.tooplate.com/)
