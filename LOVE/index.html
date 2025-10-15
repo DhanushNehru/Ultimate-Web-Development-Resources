@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Love Letter</title>
+  <link rel="stylesheet" href="love.css" />
+</head>
+<body>
+  <div class="container" id="introContainer">
+    <h1 class="title">A Special Love Letter</h1>
+    <p class="subtitle">Click the envelope to open the letter</p>
+  </div>
+
+  <div class="envelope" id="envelope" role="button" tabindex="0" aria-label="Open love letter" aria-expanded="false" onclick="openLetter()" onkeydown="if(event.key==='Enter' || event.key===' '){ openLetter(); }">
+    <div class="flap"></div>
+    <div class="letter">
+      <div class="letter-content" id="letterContent">
+        <h2>My Dearest</h2>
+        <p id="typedText"></p>
+        <!-- Hand holding pen SVG -->
+        <svg id="handPen" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="40" height="40" style="position:absolute; bottom:10px; right:10px;">
+          <!-- Hand base -->
+          <path fill="#ffb4a2" d="M10 50s-1-6 4-9 9-1 11 1 2 9 2 9-3 5-7 4-10-5-10-5z" />
+          <!-- Fingers -->
+          <path fill="#e5989b" d="M22 40s3-6 6-5 2 4 2 4-3 5-7 5-1-4-1-4z" />
+          <!-- Pen body -->
+          <rect x="32" y="35" width="20" height="5" fill="#d81b60" rx="1" ry="1"/>
+          <!-- Pen tip -->
+          <polygon points="52,35 56,33 58,37" fill="#ff80ab" />
+        </svg>
+        <div class="love-message">
+          You are important to me. ❤
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <button type="button" class="next-btn" id="nextBtn" onclick="showInfinity()">Next</button>
+
+  <div class="infinity-container" id="infinityContainer">
+    <svg class="infinity" viewBox="0 0 100 50" width="150" height="75" xmlns="http://www.w3.org/2000/svg">
+      <path d="M10 25 C 10 40, 40 40, 50 25 C 60 10, 90 10, 90 25 C 90 40, 60 40, 50 25 C 40 10, 10 10, 10 25 Z"
+            stroke="#e91e63" stroke-width="4" fill="none" />
+    </svg>
+    <div class="infinity-text">Our Bond is Infinite</div>
+    <button class="reset-btn" onclick="resetScene()">Reset</button>
+  </div>
+
+  <script src="love.js"></script>
+</body>
+</html>
