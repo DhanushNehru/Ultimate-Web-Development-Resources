@@ -1,0 +1,274 @@
+/* Base Styles */
+body {
+  margin: 0;
+  background: #fce4ec;
+  font-family: 'Segoe UI', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 20px;
+  box-sizing: border-box;
+}
+h1 {
+  color: rgb(221, 53, 81);
+  font-size: medium;
+  font-style: italic;
+}
+.subtitle {
+  color: rgb(221, 53, 81);
+  font-size: small;
+  font-style: italic;
+}
+
+.envelope {
+  position: relative;
+  width: 400px;
+  height: 400px;
+  background: #e91e63;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.flap {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #c2185b;
+  clip-path: polygon(0 0, 100% 0, 50% 60%);
+  transform-origin: top center;
+  transition: transform 0.6s ease;
+  z-index: 2;
+}
+
+.letter {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: #fff;
+  padding: 20px;
+  box-sizing: border-box;
+  text-align: center;
+  transition: top 0.6s ease;
+  z-index: 1;
+  overflow-y: auto;
+}
+
+.letter-content h2 {
+  margin: 0;
+  color: #e91e63;
+  font-size: 1.2rem;
+}
+
+#typedText {
+  font-size: 0.95rem;
+  color: #333;
+  min-height: 120px;
+  white-space: pre-wrap;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+#handPen {
+  animation: penMove 1s infinite alternate;
+  opacity: 0.8;
+  cursor: default;
+}
+
+@keyframes penMove {
+  0% { transform: translateY(0) rotate(0deg); }
+  100% { transform: translateY(-3px) rotate(-5deg); }
+}
+
+.love-message {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #d81b60;
+  text-shadow: 0 0 8px #ff4081, 0 0 20px #ff80ab;
+  animation: pulseGlow 2s infinite ease-in-out;
+  opacity: 0;
+  transition: opacity 1s ease;
+  margin-top: 10px;
+}
+
+@keyframes pulseGlow {
+  0%, 100% {
+    text-shadow: 0 0 8px #ff4081, 0 0 20px #ff80ab;
+  }
+  50% {
+    text-shadow: 0 0 15px #ff80ab, 0 0 30px #ff4081;
+  }
+}
+
+.open .flap {
+  transform: rotateX(180deg);
+}
+
+.open .letter {
+  top: 0;
+}
+
+#introContainer {
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 0.6s ease, visibility 0.6s ease;
+}
+
+#introContainer.hidden {
+  opacity: 0;
+  visibility: hidden;
+}
+
+.next-btn {
+  margin-top: 20px;
+  display: none; /* Hidden initially */
+  padding: 10px 20px;
+  font-size: 1rem;
+  background: white;
+  color: #e91e63;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.2);
+  transition: background 0.3s ease;
+}
+
+.next-btn:hover {
+  background: #ffe4f0;
+}
+
+@keyframes beat {
+  0% { transform: rotate(-45deg) scale(1); }
+  50% { transform: rotate(-45deg) scale(1.2); }
+  100% { transform: rotate(-45deg) scale(1); }
+}
+
+.heart-text {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #d81b60;
+}
+
+.reset-btn {
+  margin-top: 30px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  background: #e91e63;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.2);
+  transition: background 0.3s ease;
+  display: none; /* Hidden initially */
+}
+
+.reset-btn:hover {
+  background: #c2185b;
+}
+
+/* Infinity container hidden initially */
+.infinity-container {
+  display: none;
+  flex-direction: column;
+  align-items: center;
+  animation: fadeIn 2s ease-in forwards;
+  text-align: center;
+}
+
+.infinity {
+  stroke-dasharray: 250;
+  stroke-dashoffset: 250;
+  animation: drawInfinity 3s forwards;
+  margin-bottom: 20px;
+}
+
+.infinity-text {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #d81b60;
+  margin-bottom: 20px;
+}
+
+@keyframes drawInfinity {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .envelope {
+    width: 90%;
+    height: 350px;
+    min-height: 250px;
+  }
+
+  .letter {
+    padding: 15px;
+  }
+
+  .letter-content h2 {
+    font-size: 1.1rem;
+  }
+
+  #typedText {
+    font-size: 0.9rem;
+    min-height: 100px;
+  }
+
+  #handPen {
+    width: 30px;
+    height: 30px;
+  }
+
+  .love-message {
+    font-size: 1.1rem;
+  }
+
+  .infinity-container {
+    /* keep display:none handled above */
+  }
+
+  .infinity-text {
+    font-size: 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .next-btn,
+  .reset-btn {
+    width: 80%;
+    font-size: 1rem;
+  }
+
+  #typedText {
+    font-size: 0.85rem;
+  }
+
+  .letter-content h2 {
+    font-size: 1rem;
+  }
+
+  .love-message {
+    font-size: 0.95rem;
+  }
+  .infinity-text {
+    font-size: 1.2rem;
+  }
+}
