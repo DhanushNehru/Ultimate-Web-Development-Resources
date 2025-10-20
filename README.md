@@ -402,6 +402,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Next Auth](https://next-auth.js.org)
 - [Appwrite](https://appwrite.io/)
 - [Okta](https://developer.okta.com/docs/reference/api/authn/)
+- [Scalekit](https://www.scalekit.com)
 
 ## Animations and Graphics
 - [Lottie Animations](https://lottiefiles.com/featured)
