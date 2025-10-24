@@ -603,6 +603,18 @@ footer{
     outline: none;
     cursor: pointer;
     color: white;
+    transition: all 0.3s ease;
+}
+
+.footer-d button:hover {
+    transform: scale(1.1) translateY(-2px);
+    color: crimson;
+    box-shadow: 0 4px 15px rgba(220, 20, 60, 0.4);
+}
+
+.footer-d button:active {
+    transform: scale(0.98) translateY(0);
+    box-shadow: 0 1px 5px rgba(220, 20, 60, 0.2);
 }
 
 .footer-d button fa-solid{
