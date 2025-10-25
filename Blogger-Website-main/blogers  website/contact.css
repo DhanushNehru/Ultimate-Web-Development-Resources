@@ -74,6 +74,18 @@
 .btn-btn-primary {
   margin-top: 20vh;
   cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.btn-btn-primary:hover {
+  transform: scale(1.1) translateY(-2px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+  background-color: #0056b3;
+}
+
+.btn-btn-primary:active {
+  transform: scale(0.98) translateY(0);
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.2);
 }
 
 .contact-footer {
