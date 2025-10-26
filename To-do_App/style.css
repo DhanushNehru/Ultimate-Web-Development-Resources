@@ -1,0 +1,163 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+:root{
+    --mainbg: #E040FB;
+    --cardbg: white;
+    --primaryfont:24px;
+    --secondaryfont:14px;
+   
+}
+#container{
+    height: 100vh;
+    width: 100%;
+    background-color: var(--mainbg);
+    margin: 0px;
+    padding-top: 25px; 
+}
+#card{
+    width: 500px;
+    min-height: 180px;
+    background: var(--cardbg);
+    border-radius: 3px;
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+     /* margin-top: 10px;  Margin Collapse */
+}
+#addtask{
+    border: none;
+    outline: 1px black solid;
+    border-radius: 2px;
+    padding-left: 10px;
+    width: 80%;
+    height: 35px;
+    margin-top: 15px;
+}
+.btn0{
+    width: 60px;
+    height: 36px;
+    border-radius: 3px;
+    border: none;
+    outline: none;
+    background-color: var(--mainbg);
+    color: var(--cardbg);
+    font-size: var(--secondaryfont);
+    font-weight: bold;
+    cursor: pointer;
+}
+/* .taskdisplay{
+    border: none;
+    outline: none;
+   border-bottom: 1px black solid;
+    padding-left: 10px;
+    width: 80%;
+    height: 35px;
+    margin-top: 25px;
+} */
+ .taskdisplay{
+ width: 100%;
+ padding-left: 15px;
+ padding-right: 15px;
+ /* display: flex;
+ align-items: center; */
+ }
+
+ .tasklist li{
+    padding-left: 5px;
+     margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    border-radius: 3px;
+    color: black;
+    font-size: 1.2rem;
+    min-height: 45px;
+     border: 1px black solid;   
+    outline: none;
+    padding-right: 10px;
+ }
+ .tasklist li:hover{
+   
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+ }
+ .checkBox{
+    min-width: 20px;
+    height: 20px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    background: transparent;
+     border-radius: 50%;
+     appearance: none;
+     border: 2px solid rgba(0, 0, 0, 0.1);
+ }
+ .checkBox:checked{
+    background: var(--mainbg); 
+    transform: scale(1.1);
+ }
+ .checkBox:checked::before{
+    content: '\2713';
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1rem;
+ }
+ .tasklist li span{
+    word-wrap: break-word;
+    margin-left:10px;
+ }
+ .taskButton{
+   display: flex;
+   gap: 10px;
+   margin-left: auto;
+  
+ }
+ .edit-btn{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    color: white;
+    border: none;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+ }
+ .edit-btn:hover{
+    transform: scale(1.1);
+ }
+ .edit-btn{
+    background: #ffbf00;
+ }
+.del-btn{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    color: white;
+    border: none;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin-right: 30px; */
+     /* adding magrin right just provides space but not pushes directly  */
+ }
+ .del-btn:hover{
+    transform: scale(1.1);
+ }
+ .del-btn{
+    background: #ff6f91;
+ }
+ .tasklist li.completed span{
+   text-decoration:2px line-through #000;
+ }
