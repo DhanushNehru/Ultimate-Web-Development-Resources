@@ -1,0 +1,33 @@
+#set-image{
+    background-image: url(back.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
+#login{
+    opacity: 1.0;
+}
+#set-signup{
+    background-image: url(back1.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+   /* width: 100%;*/
+}
+#set-contact{
+    background-image: url(back3.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+   
+}
+
+#set-font{
+    text-decoration: black;
+    color: black;
+}
+
+#set-service{
+    background-image: url(back5.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
