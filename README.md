@@ -297,6 +297,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [TinyPNG](https://tinypng.com)
 - [JPEG Optimizer](https://jpeg-optimizer.com)
 - [CloudConvert](https://cloudconvert.com)
+- [NexTool](https://nextool.app/free-tools/) - 228+ free browser-based developer tools. JSON formatter, CSS generators, regex tester, image tools, encoding, hashing, and more. 100% client-side, no signup.
 
 ## Interview Preparation
 
