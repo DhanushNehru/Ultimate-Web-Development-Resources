@@ -210,6 +210,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [UIColorPicker](https://uicolorpicker.com/)
 - [Realtime Colors](https://www.realtimecolors.com)
 - [Adobe Colors](https://color.adobe.com)
+- [Sez](https://sez.c-sharptutorial.com/)
 
 ## Chrome Extensions For Web Developers
 
