@@ -297,6 +297,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [TinyPNG](https://tinypng.com)
 - [JPEG Optimizer](https://jpeg-optimizer.com)
 - [CloudConvert](https://cloudconvert.com)
+- [DevTools](https://devtools.fxcalc.site) - 15+ free browser-based developer tools (JSON, JWT, Base64, cron, regex, hash). Runs 100% client-side, no signup, no data sent to servers.
 
 ## Interview Preparation
 
