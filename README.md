@@ -497,6 +497,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 
 ## Code Generators
 - [React Native Shadow Generator](https://launchyourapp.dev/tools/react-native-shadow-generator)
+- [Nutilz](https://nutilz.com) - Free suite of 23+ browser-based developer tools and code generators (regex tester, JSON formatter, Dockerfile generator, SVG tools, and converters)
 
 ## Top React Component Libraries
 - [Material UI](https://mui.com/core/)
