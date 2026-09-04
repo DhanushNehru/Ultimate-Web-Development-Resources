@@ -205,6 +205,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Color Hex](http://color-hex.com)
 - [ColorSpace](https://mycolor.space/)
 - [Color Picker](https://imagecolorpicker.com/en#google_vignette)
+- [Image Color Picker AI](https://imagecolorpickerai.com/) - Free browser-based image color picker for extracting HEX, RGB, and HSL values from uploaded images.
 - [MyColor](http://mycolor.space)
 - [Khroma](https://www.khroma.co/)
 - [UIColorPicker](https://uicolorpicker.com/)
