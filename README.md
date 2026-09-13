@@ -363,6 +363,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Learn JavaScript - (CodeAcademy - Course)](https://join.codecademy.com/learn/introduction-to-javascript/)
 - [Learn JavaScript: Free JS Courses for Beginners (FreeCodeCamp - Documentation)](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 - [Chai aur Javascript / (Chai aur Code)](https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37)
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - A free and open-source TypeScript book for web developers.
 
 
 ## Let's pick a framework/library for you
@@ -593,5 +594,4 @@ Thank You for being here :)
 
 ## GitAds Sponsored
 [![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=dhanushnehru/ultimate-web-development-resources@github)](https://gitads.dev/v1/ad-track?source=dhanushnehru/ultimate-web-development-resources@github)
-
 
