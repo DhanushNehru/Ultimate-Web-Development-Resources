@@ -329,6 +329,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [TinyPNG](https://tinypng.com)
 - [JPEG Optimizer](https://jpeg-optimizer.com)
 - [CloudConvert](https://cloudconvert.com)
+- [CurlShot](https://curlshot.com) - Free online tool and API to screenshot any page as PNG, JPEG, WebP or PDF on desktop, tablet and phone sizes
 
 ## Interview Preparation
 
