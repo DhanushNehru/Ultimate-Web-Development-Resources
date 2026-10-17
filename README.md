@@ -10,6 +10,38 @@ A collection of Web Developement Resources at one place
 
 <a href="https://www.producthunt.com/products/ultimate-web-development-resources?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-ultimate&#0045;web&#0045;development&#0045;resources" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=993303&theme=light&t=1752676573991" alt="Ultimate&#0032;Web&#0032;Development&#0032;Resources - A&#0032;collection&#0032;of&#0032;web&#0032;dev&#0032;resources&#0032;for&#0032;most&#0032;of&#0032;your&#0032;needs | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
+## Support this project
+
+If these resources saved you time, consider supporting my work:
+
+<table>
+<tr>
+<td align="center">
+  <a href="https://ko-fi.com/dhanushnehru" target="_blank">
+    <img
+      src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
+      alt="Support me on Ko-fi"
+      width="220"
+      height="60"
+    />
+  </a>
+</td>
+
+<td align="center">
+  <a href="https://www.buymeacoffee.com/dhanushnehru">
+    <img
+      src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20book&emoji=%F0%9F%93%96&slug=dhanushnehru&button_colour=24292E&font_colour=FFFFFF&font_family=Poppins&outline_colour=6cc644&coffee_colour=ffffff"
+      alt="Buy me a book"
+      width="220"
+      height="60"
+    />
+  </a>
+</td>
+</tr>
+</table>
+
+Or [sponsor me on GitHub](https://github.com/sponsors/DhanushNehru).
+
 ## Contributing
 
 Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/blob/main/CODE-OF-CONDUCT.md) for details before you contribute. 
