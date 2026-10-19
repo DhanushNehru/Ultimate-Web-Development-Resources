@@ -455,6 +455,8 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Keyframes Generators](https://keyframes.app/)
 - [CSS Claymorphism Generator](https://cssnippets.shefali.dev/claymorphismgenerator)
 
+- [ToolKnit Gradient Generator](https://toolknit.com/tools/gradient-generator.html)
+
 ## Free YouTube resources
 - [Dhanush Nehru](https://www.youtube.com/@dhanushnehru)
 - [Codewithharry](https://www.youtube.com/c/CodeWithHarry/featured)
