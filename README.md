@@ -62,6 +62,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
   - [Web Illustrations](#web-illustrations)
   - [Web fonts](#web-fonts)
   - [Website Optimization Tools](#website-optimization-tools)
+  - [Screenshot Tools](#screenshot-tools)
   - [Interview Preparation](#interview-preparation)
   - [Free Website Templates For Inspiration](#free-website-templates-for-inspiration)
   - [Website Copier](#website-copier)
@@ -329,6 +330,10 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [TinyPNG](https://tinypng.com)
 - [JPEG Optimizer](https://jpeg-optimizer.com)
 - [CloudConvert](https://cloudconvert.com)
+
+## Screenshot Tools
+
+- [CurlShot](https://curlshot.com) - API and online tool to capture any web page as a PNG, JPEG, WebP or PDF screenshot at desktop, tablet and phone sizes
 
 ## Interview Preparation
 
