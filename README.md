@@ -80,6 +80,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
   - [Top JavaScript Libraries](#top-javascript-libraries)
   - [Top JavaScript Frameworks](#top-javascript-frameworks)
   - [List Of Projects](#list-of-projects)
+  - [Web Test Automation](#web-test-automation)
 
 ## Web Development Roadmaps
 
@@ -601,6 +602,10 @@ Please note that the links provided are the GitHub repository URLs for each proj
 - [SSL Labs ](https://www.ssllabs.com/)
 - [HackerTarget](https://hackertarget.com/vulnerability-scanner/)
 - [Qualys SSL Labs](https://www.ssllabs.com/ssltest/)
+
+## Web Test Automation
+
+- [agent-qa](https://github.com/vostride/agent-qa) - Natural-language web regression testing with advanced memidex memory and self-improvement.
 
 ## License
 This project is licensed under the CC0 1.0 Universal - see the [LICENSE](./LICENSE) file for details.
