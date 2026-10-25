@@ -440,6 +440,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 ## Animations and Graphics
 - [Lottie Animations](https://lottiefiles.com/featured)
 - [Rive Animations](https://rive.app/)
+- [Oreo Doodle Icons](https://doodle.oreoui.com)
 
 ## Awesome CSS generators
 - [Buttons CSS generator](https://markodenic.com/tools/buttons-generator/)
