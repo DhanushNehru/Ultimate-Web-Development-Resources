@@ -289,3 +289,15 @@ header {
     width: 100%;
     height: 100%;
 }
+
+input[type="submit"] {
+    transition: transform 0.3s ease;
+}
+
+input[type="submit"]:hover {
+    transform: scale(1.05);
+}
+
+input[type="submit"]:active {
+    transform: scale(0.95);
+}

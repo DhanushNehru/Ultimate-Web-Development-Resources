@@ -170,6 +170,18 @@ h2 {
     border-radius: 5px;
     border: none;
     outline: none;
+    transition: all 0.3s ease;
+}
+
+.btn:hover {
+    transform: scale(1.1) translateY(-2px);
+    box-shadow: 0 4px 20px rgba(0, 0, 0, .6);
+    background: linear-gradient(to right, #1976d2, #c2185b);
+}
+
+.btn:active {
+    transform: scale(0.98) translateY(0);
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .4);
 }
 
 .sign-link {

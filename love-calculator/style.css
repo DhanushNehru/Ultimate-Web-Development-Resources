@@ -39,7 +39,18 @@ button{
     background-color: #0d6efd;
     color: white;
     cursor: pointer;
-    transition: 500ms ease-in-out;
+    transition: all 0.3s ease;
+}
+
+button:hover {
+    transform: scale(1.1) translateY(-2px);
+    box-shadow: 0 4px 20px rgba(13, 110, 253, 0.4);
+    background-color: #00327e;
+}
+
+button:active {
+    transform: scale(0.98) translateY(0);
+    box-shadow: 0 1px 5px rgba(13, 110, 253, 0.2);
 }
 button:hover{
     background-color: #00327e;
