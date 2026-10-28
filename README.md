@@ -62,6 +62,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
   - [Web Illustrations](#web-illustrations)
   - [Web fonts](#web-fonts)
   - [Website Optimization Tools](#website-optimization-tools)
+  - [Screenshot Tools](#screenshot-tools)
   - [Interview Preparation](#interview-preparation)
   - [Free Website Templates For Inspiration](#free-website-templates-for-inspiration)
   - [Website Copier](#website-copier)
@@ -84,6 +85,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 ## Web Development Roadmaps
 
 - [Frontend Development](https://roadmap.sh/frontend)
+- [React JS Roadmaps](https://roadmap.sh/react)
 - [Backend Development](https://roadmap.sh/backend)
 - [FullStack Development](https://www.theinsaneapp.com/2020/11/web-developer-roadmap-by-kamran-ahmed.html)
 - [Java Full Stack Development](https://www.scaler.com/blog/java-full-stack-developer-roadmap/)
@@ -224,6 +226,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Unsplash](http://unsplash.com)
 - [Pixabay](http://pixabay.com)
 - [Pexels](http://pexels.com)
+- [StockSnap](https://stocksnap.io/)
 - [Burst.shopify](https://burst.shopify.com/)
 - [Freepik](https://www.freepik.com/)
 - [MorgueFile](https://morguefile.com/)
@@ -316,6 +319,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [1001fonts](http://1001fonts.com/)
 - [fontawesome](https://fontawesome.com/)
 - [Font Bundles](https://fontbundles.net/)
+- [Urban Fonts](https://www.urbanfonts.com/)
 
 ## Website Optimization Tools
 
@@ -328,8 +332,14 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [DebugBear Speed Test](https://www.debugbear.com/test/website-speed)
 - [TinyPNG](https://tinypng.com)
 - [JPEG Optimizer](https://jpeg-optimizer.com)
+- [CompressMyPhotos](https://compressmyphotos.com/) - Free browser-based JPG, PNG and WebP compression with exact target sizes and EXIF removal
 - [CloudConvert](https://cloudconvert.com)
 - [Pic2Vector](https://pic2vector.com/)
+- [BatchSet](https://batchset.com)
+
+## Screenshot Tools
+
+- [CurlShot](https://curlshot.com) - API and online tool to capture any web page as a PNG, JPEG, WebP or PDF screenshot at desktop, tablet and phone sizes
 
 ## Interview Preparation
 
@@ -441,6 +451,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 ## Animations and Graphics
 - [Lottie Animations](https://lottiefiles.com/featured)
 - [Rive Animations](https://rive.app/)
+- [Oreo Doodle Icons](https://doodle.oreoui.com)
 
 ## Awesome CSS generators
 - [Buttons CSS generator](https://markodenic.com/tools/buttons-generator/)
@@ -456,6 +467,9 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Ready-made CSS animations](https://animista.net/)
 - [Keyframes Generators](https://keyframes.app/)
 - [CSS Claymorphism Generator](https://cssnippets.shefali.dev/claymorphismgenerator)
+- [Responsive CSS Grid Generator](https://cssgridgenerator.net)
+
+- [ToolKnit Gradient Generator](https://toolknit.com/tools/gradient-generator.html)
 
 ## Free YouTube resources
 - [Dhanush Nehru](https://www.youtube.com/@dhanushnehru)
@@ -522,7 +536,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [CodePen](https://codepen.io/)
 - [JSFiddle](https://jsfiddle.net/)
 - [JS Bin](http://jsbin.com/)
-- [CSS Deck](http://cssdeck.com/)
+- [Coddy](https://coddy.tech/playground/html)
 - [CodeSandbox](https://codesandbox.io/)
 - [PLAYCODE](https://playcode.io/)
 - [Plunker](https://plnkr.co/)
