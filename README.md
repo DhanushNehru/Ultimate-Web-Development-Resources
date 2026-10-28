@@ -334,6 +334,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [JPEG Optimizer](https://jpeg-optimizer.com)
 - [CompressMyPhotos](https://compressmyphotos.com/) - Free browser-based JPG, PNG and WebP compression with exact target sizes and EXIF removal
 - [CloudConvert](https://cloudconvert.com)
+- [BatchSet](https://batchset.com)
 
 ## Screenshot Tools
 
