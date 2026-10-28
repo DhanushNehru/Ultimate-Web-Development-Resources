@@ -332,6 +332,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [DebugBear Speed Test](https://www.debugbear.com/test/website-speed)
 - [TinyPNG](https://tinypng.com)
 - [JPEG Optimizer](https://jpeg-optimizer.com)
+- [CompressMyPhotos](https://compressmyphotos.com/) - Free browser-based JPG, PNG and WebP compression with exact target sizes and EXIF removal
 - [CloudConvert](https://cloudconvert.com)
 
 ## Screenshot Tools
