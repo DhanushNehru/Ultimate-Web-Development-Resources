@@ -340,6 +340,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 ## Screenshot Tools
 
 - [CurlShot](https://curlshot.com) - API and online tool to capture any web page as a PNG, JPEG, WebP or PDF screenshot at desktop, tablet and phone sizes
+- [AppScreen](https://appscreen.pro) - Free in-browser editor for App Store and Google Play screenshots with device frames, captions and backgrounds, exported at each store's required sizes, nothing to install
 
 ## Interview Preparation
 
