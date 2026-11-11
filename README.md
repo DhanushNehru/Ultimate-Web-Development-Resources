@@ -10,6 +10,38 @@ A collection of Web Developement Resources at one place
 
 <a href="https://www.producthunt.com/products/ultimate-web-development-resources?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-ultimate&#0045;web&#0045;development&#0045;resources" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=993303&theme=light&t=1752676573991" alt="Ultimate&#0032;Web&#0032;Development&#0032;Resources - A&#0032;collection&#0032;of&#0032;web&#0032;dev&#0032;resources&#0032;for&#0032;most&#0032;of&#0032;your&#0032;needs | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
+## Support this project
+
+If these resources saved you time, consider supporting my work:
+
+<table>
+<tr>
+<td align="center">
+  <a href="https://ko-fi.com/dhanushnehru" target="_blank">
+    <img
+      src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3"
+      alt="Support me on Ko-fi"
+      width="220"
+      height="60"
+    />
+  </a>
+</td>
+
+<td align="center">
+  <a href="https://www.buymeacoffee.com/dhanushnehru">
+    <img
+      src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20book&emoji=%F0%9F%93%96&slug=dhanushnehru&button_colour=24292E&font_colour=FFFFFF&font_family=Poppins&outline_colour=6cc644&coffee_colour=ffffff"
+      alt="Buy me a book"
+      width="220"
+      height="60"
+    />
+  </a>
+</td>
+</tr>
+</table>
+
+Or [sponsor me on GitHub](https://github.com/sponsors/DhanushNehru).
+
 ## Contributing
 
 Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/blob/main/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/DhanushNehru/Ultimate-Web-Development-Resources/blob/main/CODE-OF-CONDUCT.md) for details before you contribute. 
@@ -30,6 +62,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
   - [Web Illustrations](#web-illustrations)
   - [Web fonts](#web-fonts)
   - [Website Optimization Tools](#website-optimization-tools)
+  - [Screenshot Tools](#screenshot-tools)
   - [Interview Preparation](#interview-preparation)
   - [Free Website Templates For Inspiration](#free-website-templates-for-inspiration)
   - [Website Copier](#website-copier)
@@ -52,6 +85,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 ## Web Development Roadmaps
 
 - [Frontend Development](https://roadmap.sh/frontend)
+- [React JS Roadmaps](https://roadmap.sh/react)
 - [Backend Development](https://roadmap.sh/backend)
 - [FullStack Development](https://www.theinsaneapp.com/2020/11/web-developer-roadmap-by-kamran-ahmed.html)
 - [Java Full Stack Development](https://www.scaler.com/blog/java-full-stack-developer-roadmap/)
@@ -192,6 +226,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Unsplash](http://unsplash.com)
 - [Pixabay](http://pixabay.com)
 - [Pexels](http://pexels.com)
+- [StockSnap](https://stocksnap.io/)
 - [Burst.shopify](https://burst.shopify.com/)
 - [Freepik](https://www.freepik.com/)
 - [MorgueFile](https://morguefile.com/)
@@ -285,6 +320,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [1001fonts](http://1001fonts.com/)
 - [fontawesome](https://fontawesome.com/)
 - [Font Bundles](https://fontbundles.net/)
+- [Urban Fonts](https://www.urbanfonts.com/)
 
 ## Website Optimization Tools
 
@@ -297,7 +333,14 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [DebugBear Speed Test](https://www.debugbear.com/test/website-speed)
 - [TinyPNG](https://tinypng.com)
 - [JPEG Optimizer](https://jpeg-optimizer.com)
+- [CompressMyPhotos](https://compressmyphotos.com/) - Free browser-based JPG, PNG and WebP compression with exact target sizes and EXIF removal
 - [CloudConvert](https://cloudconvert.com)
+- [Pic2Vector](https://pic2vector.com/)
+- [BatchSet](https://batchset.com)
+
+## Screenshot Tools
+
+- [CurlShot](https://curlshot.com) - API and online tool to capture any web page as a PNG, JPEG, WebP or PDF screenshot at desktop, tablet and phone sizes
 
 ## Interview Preparation
 
@@ -364,6 +407,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Learn JavaScript - (CodeAcademy - Course)](https://join.codecademy.com/learn/introduction-to-javascript/)
 - [Learn JavaScript: Free JS Courses for Beginners (FreeCodeCamp - Documentation)](https://www.freecodecamp.org/news/learn-javascript-free-js-courses-for-beginners/)
 - [Chai aur Javascript / (Chai aur Code)](https://www.youtube.com/playlist?list=PLu71SKxNbfoBuX3f4EOACle2y-tRC5Q37)
+- [The Concise TypeScript Book](https://github.com/gibbok/typescript-book) - A free and open-source TypeScript book for web developers.
 
 
 ## Let's pick a framework/library for you
@@ -408,6 +452,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 ## Animations and Graphics
 - [Lottie Animations](https://lottiefiles.com/featured)
 - [Rive Animations](https://rive.app/)
+- [Oreo Doodle Icons](https://doodle.oreoui.com)
 
 ## Awesome CSS generators
 - [Buttons CSS generator](https://markodenic.com/tools/buttons-generator/)
@@ -423,6 +468,9 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Ready-made CSS animations](https://animista.net/)
 - [Keyframes Generators](https://keyframes.app/)
 - [CSS Claymorphism Generator](https://cssnippets.shefali.dev/claymorphismgenerator)
+- [Responsive CSS Grid Generator](https://cssgridgenerator.net)
+
+- [ToolKnit Gradient Generator](https://toolknit.com/tools/gradient-generator.html)
 
 ## Free YouTube resources
 - [Dhanush Nehru](https://www.youtube.com/@dhanushnehru)
@@ -489,7 +537,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [CodePen](https://codepen.io/)
 - [JSFiddle](https://jsfiddle.net/)
 - [JS Bin](http://jsbin.com/)
-- [CSS Deck](http://cssdeck.com/)
+- [Coddy](https://coddy.tech/playground/html)
 - [CodeSandbox](https://codesandbox.io/)
 - [PLAYCODE](https://playcode.io/)
 - [Plunker](https://plnkr.co/)
@@ -594,5 +642,4 @@ Thank You for being here :)
 
 ## GitAds Sponsored
 [![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=dhanushnehru/ultimate-web-development-resources@github)](https://gitads.dev/v1/ad-track?source=dhanushnehru/ultimate-web-development-resources@github)
-
 
