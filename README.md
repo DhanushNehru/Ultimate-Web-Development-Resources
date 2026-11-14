@@ -192,6 +192,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Tutorialspoint](https://tutorialspoint.com/)
 - [Scaler](https://www.scaler.com/blog/)
 - [LabEx](https://labex.io)
+- [SQLMaxx Learn](https://sqlmaxx.com/learn-sql/)
 
 ## Websites for code challenges
 
