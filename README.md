@@ -336,6 +336,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [CloudConvert](https://cloudconvert.com)
 - [Pic2Vector](https://pic2vector.com/)
 - [BatchSet](https://batchset.com)
+- [Online JSON Formatter](https://online-json-formatter-ten.vercel.app/) - Free browser-based JSON formatter and validator that auto-fixes errors, minifies JSON and converts it to CSV, YAML, TypeScript and more
 
 ## Screenshot Tools
 
