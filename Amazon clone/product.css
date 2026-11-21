@@ -1,0 +1,92 @@
+.product-heading{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+
+.product-heading .product-container{
+    margin: 20px;
+}
+
+.product-heading .product-container h1{
+    font-size: 30px;
+    font-weight: bold;
+    color: #000;
+}
+
+/* section 2 */
+.product-detail{
+    width: 100%;
+    height: 700px;
+}
+
+.product-detail .product-container{
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.product-detail .product-container .product-picture{
+    width:45%;
+}
+
+.product-detail .product-container .product-picture img{
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(50, 50, 50, 0.1);
+    width: 70%;
+}
+
+.product-detail .product-container .product-detail-body{
+    width: 50%;
+}
+
+.product-detail .product-container .product-detail-body .product-title{
+    font-size: 25px;
+    font-weight: 500;
+    color:#121212;
+}
+
+.product-detail .product-container .product-detail-body .product-price{
+    margin-top: 10px;
+    font-size: 28px;
+    font-weight: 500;
+}
+
+.product-detail .product-container .product-detail-body .product-about{
+    margin-top: 10px;
+    color:#121212;
+}
+
+.product-detail .product-container .product-detail-body .product_about h4{
+    font-size: 20px;
+    font-weight: 500;
+    color: #121212;
+}
+
+.product-detail .product-container .product-detail-body .product_about ul{
+    padding-left: 40px;
+}
+.product-detail .product-container .product-detail-body .buttons{
+    margin-top: 20px;
+    display: flex;
+    gap:2px;
+}
+.product-detail .product-container .product-detail-body .buttons .buy-now{
+    width: 50%;
+    border:none;
+    background-color: #ffa41c;
+    color: white;
+    padding: 8px;
+    border-radius: 10px;
+}
+
+.product-detail .product-container .product-detail-body .buttons .Add-to-cart{
+    width: 50%;
+    border:2px solid #ffa41c;
+    background-color:transparent;
+    color: #ffa41c;
+    padding: 8px;
+    border-radius: 10px;
+}
