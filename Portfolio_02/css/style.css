@@ -203,9 +203,20 @@ Reusable css code
     font-weight: 500;
     cursor: pointer;
     transition: all 0.3s ease;
-    -webkit-transition: all 0.3s ease 0s ;
-    -moz-transition: all 0.3s ease 0s ;
-    -o-transition: all 0.3s ease 0s ;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+}
+
+.btn:hover {
+    transform: scale(1.1) translateY(-2px);
+    box-shadow: 0 4px 20px rgba(132, 144, 255, 0.4);
+    background: linear-gradient(0deg, rgb(98, 189, 252) 0%, rgb(132, 144, 255) 100%);
+}
+
+.btn:active {
+    transform: scale(0.98) translateY(0);
+    box-shadow: 0 1px 5px rgba(132, 144, 255, 0.2);
 }
 
 .btn:hover,

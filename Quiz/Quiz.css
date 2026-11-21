@@ -26,6 +26,43 @@ div button{
     color: rgb(233, 226, 226);
     border: none;
     border-radius: 10px;
+    animation: pulse 2s infinite;
+    transition: all 0.3s ease;
+}
+
+div button:hover {
+    background-color: rgb(165, 52, 52);
+    transform: scale(1.1);
+    box-shadow: 0 4px 15px rgba(145, 47, 47, 0.5);
+}
+
+div button:active {
+    transform: scale(0.95);
+    animation: bounce 0.2s ease;
+}
+
+@keyframes pulse {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.05);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+@keyframes bounce {
+    0% {
+        transform: scale(0.95);
+    }
+    50% {
+        transform: scale(1.1);
+    }
+    100% {
+        transform: scale(0.95);
+    }
 }
 div input::-webkit-inner-spin-button,
 div input::-webkit-outer-spin-button {

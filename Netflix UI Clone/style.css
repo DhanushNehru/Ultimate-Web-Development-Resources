@@ -114,7 +114,18 @@ nav button{
     border-radius: 5px;
     cursor: pointer;
     padding: 15px 30px;
+    transition: all 0.3s ease;
+}
 
+.email-sign button:hover {
+    transform: scale(1.1) translateY(-2px);
+    box-shadow: 0 4px 20px rgba(219, 0, 1, 0.4);
+    background: #e50914;
+}
+
+.email-sign button:active {
+    transform: scale(0.98) translateY(0);
+    box-shadow: 0 1px 5px rgba(219, 0, 1, 0.2);
 }
 
 /* features/ */
