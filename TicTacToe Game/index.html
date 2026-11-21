@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html>
-	
 <head>
 	<meta name="viewport" content=
 		"width=device-width, initial-scale=1.0">
 	<!-- CSS file Included -->
 	<link rel="stylesheet" type="text/css" href="tic.css">
 	<!-- JavaScript file included -->
-	<script src="tic.js"></script>
+	<script src="logic.js"></script>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 	<div id="main">
-		<h1>TIC TAC TOE</h1>
+		<h1>TIC TAC TOE</h2>
 		<p id="ins">
 			Game starts by just Tap on
 			box<br><br>First Player starts as
@@ -56,7 +56,10 @@
 			</div>
 		</div>
 		<br><br><br>
-		
+        <div id="score">
+            <p>Player X Score: <span id="playerXScore">0</span></p>
+            <p>Player O Score: <span id="playerOScore">0</span></p>
+        </div>
 		<button id="but" onclick="myfunc_2()">
 			RESET
 		</button>
