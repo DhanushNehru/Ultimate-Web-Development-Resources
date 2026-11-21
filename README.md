@@ -536,7 +536,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [CodePen](https://codepen.io/)
 - [JSFiddle](https://jsfiddle.net/)
 - [JS Bin](http://jsbin.com/)
-- [Coddy](https://coddy.tech/playground/html)
+- [CSS Deck](http://cssdeck.com/)
 - [CodeSandbox](https://codesandbox.io/)
 - [PLAYCODE](https://playcode.io/)
 - [Plunker](https://plnkr.co/)
