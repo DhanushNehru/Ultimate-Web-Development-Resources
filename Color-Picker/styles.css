@@ -1,0 +1,79 @@
+/* Import Google font - Poppins */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+.popup {
+  width: 350px;
+  background: #fff;
+}
+.popup :where(.picker, header, .all-colors) {
+  display: flex;
+  align-items: center;
+}
+.popup .picker {
+  padding: 30px 0;
+  background: #E3F2FD;
+  justify-content: center;
+}
+.picker #color-picker {
+  border: none;
+  outline: none;
+  color: #fff;
+  font-size: 1rem;
+  cursor: pointer;
+  padding: 10px 20px;
+  border-radius: 5px;
+  background: #5372F0;
+  transition: 0.3s ease;
+}
+#color-picker:hover {
+  background: #2c52ed;
+}
+.picked-colors {
+  margin: 10px 15px;
+}
+.picked-colors header {
+  justify-content: space-between;
+}
+header .title {
+  font-size: 1rem;
+}
+header .clear-all {
+  cursor: pointer;
+  font-size: 0.9rem;
+  color: #5372F0;
+}
+header .clear-all:hover {
+  color: #143feb;
+}
+.picked-colors.hide {
+  display: none;
+}
+.picked-colors .all-colors {
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 10px 0 15px;
+}
+.all-colors .color {
+  display: flex;
+  cursor: pointer;
+  margin-bottom: 10px;
+  width: calc(100% / 3);
+}
+.all-colors .rect {
+  height: 21px;
+  width: 21px;
+  display: block;
+  margin-right: 8px;
+  border-radius: 5px;
+}
+.all-colors .color span {
+  font-size: 0.96rem;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-family: "Open sans";
+}
