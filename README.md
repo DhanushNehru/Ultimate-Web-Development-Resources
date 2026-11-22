@@ -472,6 +472,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Responsive CSS Grid Generator](https://cssgridgenerator.net)
 
 - [ToolKnit Gradient Generator](https://toolknit.com/tools/gradient-generator.html)
+- [Zelobiz Flexbox Generator](https://zelobiz.com/css-flexbox-generator/)
 
 ## Free YouTube resources
 - [Dhanush Nehru](https://www.youtube.com/@dhanushnehru)
