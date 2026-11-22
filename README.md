@@ -330,6 +330,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Yslow](http://yslow.org/)
 - [Optimizeimages](https://www.optimizeimages.com)
 - [JSON validator and formatter](https://jsonlint.com)
+- [BestJSON](https://bestjson.com/) - Format, validate, preview repairs and compare JSON structures locally in the browser
 - [DebugBear Speed Test](https://www.debugbear.com/test/website-speed)
 - [TinyPNG](https://tinypng.com)
 - [JPEG Optimizer](https://jpeg-optimizer.com)
@@ -337,6 +338,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [CloudConvert](https://cloudconvert.com)
 - [Pic2Vector](https://pic2vector.com/)
 - [BatchSet](https://batchset.com)
+- [Online JSON Formatter](https://online-json-formatter-ten.vercel.app/) - Free browser-based JSON formatter and validator that auto-fixes errors, minifies JSON and converts it to CSV, YAML, TypeScript and more
 
 ## Screenshot Tools
 
@@ -471,6 +473,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Responsive CSS Grid Generator](https://cssgridgenerator.net)
 
 - [ToolKnit Gradient Generator](https://toolknit.com/tools/gradient-generator.html)
+- [Zelobiz Flexbox Generator](https://zelobiz.com/css-flexbox-generator/)
 
 ## Free YouTube resources
 - [Dhanush Nehru](https://www.youtube.com/@dhanushnehru)
