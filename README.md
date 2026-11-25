@@ -124,6 +124,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Axure RP](https://www.axure.com/)
 - [Origami Studio](https://origami.design/)
 - [strapi](https://strapi.io/)
+- [Kite](https://kite.new/)
 
 ## Free Hosting
 
@@ -192,6 +193,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Tutorialspoint](https://tutorialspoint.com/)
 - [Scaler](https://www.scaler.com/blog/)
 - [LabEx](https://labex.io)
+- [SQLMaxx Learn](https://sqlmaxx.com/learn-sql/)
 
 ## Websites for code challenges
 
@@ -245,6 +247,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [UIColorPicker](https://uicolorpicker.com/)
 - [Realtime Colors](https://www.realtimecolors.com)
 - [Adobe Colors](https://color.adobe.com)
+- [cv.cm Contrast Checker](https://cv.cm/en/contrast/)
 
 ## Chrome Extensions For Web Developers
 
@@ -267,6 +270,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [LT Debug](https://chrome.google.com/webstore/detail/lt-debug/kofahhnmgobkidipanhejacffiigppcd)
 - [React Developer Tools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+- [Fonts Ninja](https://chromewebstore.google.com/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh)
 
 ## Chart Visualizations
 
@@ -329,6 +333,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Yslow](http://yslow.org/)
 - [Optimizeimages](https://www.optimizeimages.com)
 - [JSON validator and formatter](https://jsonlint.com)
+- [BestJSON](https://bestjson.com/) - Format, validate, preview repairs and compare JSON structures locally in the browser
 - [DebugBear Speed Test](https://www.debugbear.com/test/website-speed)
 - [TinyPNG](https://tinypng.com)
 - [JPEG Optimizer](https://jpeg-optimizer.com)
@@ -337,10 +342,12 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Pic2Vector](https://pic2vector.com/)
 - [BatchSet](https://batchset.com)
 - [FrostRank](https://frostrank.com) - Free suite of SEO and developer tools that run in the browser with no signup: JSON formatter, password generator, redirect checker, image compressor and more.
+- [Online JSON Formatter](https://online-json-formatter-ten.vercel.app/) - Free browser-based JSON formatter and validator that auto-fixes errors, minifies JSON and converts it to CSV, YAML, TypeScript and more
 
 ## Screenshot Tools
 
 - [CurlShot](https://curlshot.com) - API and online tool to capture any web page as a PNG, JPEG, WebP or PDF screenshot at desktop, tablet and phone sizes
+- [AppScreen](https://appscreen.pro) - Free in-browser editor for App Store and Google Play screenshots with device frames, captions and backgrounds, exported at each store's required sizes, nothing to install
 
 ## Interview Preparation
 
@@ -471,6 +478,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Responsive CSS Grid Generator](https://cssgridgenerator.net)
 
 - [ToolKnit Gradient Generator](https://toolknit.com/tools/gradient-generator.html)
+- [Zelobiz Flexbox Generator](https://zelobiz.com/css-flexbox-generator/)
 
 ## Free YouTube resources
 - [Dhanush Nehru](https://www.youtube.com/@dhanushnehru)
@@ -537,7 +545,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [CodePen](https://codepen.io/)
 - [JSFiddle](https://jsfiddle.net/)
 - [JS Bin](http://jsbin.com/)
-- [Coddy](https://coddy.tech/playground/html)
+- [CSS Deck](http://cssdeck.com/)
 - [CodeSandbox](https://codesandbox.io/)
 - [PLAYCODE](https://playcode.io/)
 - [Plunker](https://plnkr.co/)
@@ -546,6 +554,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 
 ## Code Generators
 - [React Native Shadow Generator](https://launchyourapp.dev/tools/react-native-shadow-generator)
+- [RYUSLOG cURL to Code](https://www.ryuslog.com/tools/curl) - Converts a cURL command into fetch, TypeScript, Python requests, or Go net/http code, and lists any flags it cannot translate.
 
 ## Top React Component Libraries
 - [Material UI](https://mui.com/core/)
@@ -556,6 +565,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [Redux](https://redux.js.org/)
 - [Chakra UI](https://chakra-ui.com/)
 - [ThemeUI](https://theme-ui.com/)
+- [Markstream React](https://markstream.simonhe.me/frameworks/react)
 
 ## Top JavaScript Libraries
 - [jQuery](https://jquery.com/)
