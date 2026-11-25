@@ -551,6 +551,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 
 ## Code Generators
 - [React Native Shadow Generator](https://launchyourapp.dev/tools/react-native-shadow-generator)
+- [RYUSLOG cURL to Code](https://www.ryuslog.com/tools/curl) - Converts a cURL command into fetch, TypeScript, Python requests, or Go net/http code, and lists any flags it cannot translate.
 
 ## Top React Component Libraries
 - [Material UI](https://mui.com/core/)
