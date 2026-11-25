@@ -343,6 +343,7 @@ Please see [CONTRIBUTING](https://github.com/DhanushNehru/Ultimate-Web-Developme
 - [BatchSet](https://batchset.com)
 - [FrostRank](https://frostrank.com) - Free suite of SEO and developer tools that run in the browser with no signup: JSON formatter, password generator, redirect checker, image compressor and more.
 - [Online JSON Formatter](https://online-json-formatter-ten.vercel.app/) - Free browser-based JSON formatter and validator that auto-fixes errors, minifies JSON and converts it to CSV, YAML, TypeScript and more
+- [Mint GLB Texture Compressor](https://mint.gg/glb-texture-compressor) - Free browser-based tool that downscales the textures in a GLB 3D model and converts them to WebP or AVIF to cut the file size for the web
 
 ## Screenshot Tools
 
